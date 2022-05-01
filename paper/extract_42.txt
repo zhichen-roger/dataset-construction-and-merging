@@ -1,0 +1,329 @@
+The Oligocene–Miocene Kailas Formation is exposed along strike for ~1300 km within the southernmost Lhasa terraneIn this study, we documented the sedimentology, structure, and age of this unit exposed between 87°E and 90°E
+Key words: Oligocene–Miocene Kailas Formation, Lhasa
+Substance: Oligocene–Miocene Kailas Formation
+Time: Oligocene–Miocene Kailas Formation
+Location: Lhasa
+In particular, the geodynamic origin of the thick (>4 km in some localities), continental Kailas Formation, deposited in the center of the largest Cenozoic continent-continent collision zone, is still debated (Aitchison et al., 2002, 2007; DeCelles et al., 2011; SLi et al., 2015; Wang et al., 2015)
+Key words: geodynamic origin, Kailas Formation, Cenozoic, continent-continent collision zone, Aitchison, DeCelles, SLi, Wang
+Substance: geodynamic origin, Kailas Formation
+Time: Cenozoic
+Location: 
+The southernmost of these continental fragments is the Lhasa terrane, which collided with Asia during Early Cretaceous time (Kapp et al., 2007)The appearance of Asian detritus in Tethyan Himalayan (Indian passive margin) strata beginning at ca
+Key words: continental fragments, Lhasa, Asia, Early Cretaceous, Kapp, Asian detritus, Tethyan Himalayan, Indian passive
+Substance: 
+Time: Early Cretaceous
+Location: Lhasa
+Sedimentation in the Xigaze forearc basin began as early as Barremian time and continued until the early Eocene (51 Ma; Einsele et al., 1994; Dürr, 1996; Ziabrev et al., 2003; Orme et al., 2014; An et al., 2014; Hu et al., 2015a; Huang et al., 2015)South of the forearc basin, the India-Asia suture zone (IASZ on Fig
+Key words: Sedimentation, Xigaze, forearc basin, Barremian, Eocene, 51 Ma, Einsele, Dürr, Ziabrev, Orme, Hu, Huang, forearc basin, India-Asia, suture zone, IASZ, Fig
+Substance: Sedimentation
+Time: Barremian, Eocene, 51 Ma
+Location: Xigaze
+The ophiolites, where dated, are Jurassic–Early Cretaceous in age and were accreted onto the southern side of the forearc domain before India-Asia collision (Guilmette et al., 2009, 2012; Cai et al., 2012)Mélange complexes were formed structurally below ophiolites and have been proposed to represent the accretionary complex and subduction channel associated with Tethyan oceanic subduction (Tapponnier et al., 1981; Burg and Chen 1984; Searle et al., 1987; Cai et al., 2012; An et al., 2015)
+Key words: Jurassic–Early Cretaceous, southern side, forearc domain, India-Asia, Guilmette, Cai, Mélange, subduction channel, Tethyan, oceanic subduction, Tapponnier, Burg, Chen, Searle, Cai
+Substance: subduction channel
+Time: Jurassic–Early Cretaceous
+Location: 
+In various localities along strike, the Great Counter Thrust places Tethyan Himalayan rocks over suture zone rocks, Xigaze forearc rocks above the Kailas Formation, or ophiolitic and Tethyan rocks over other Cenozoic conglomerates within the suture zone such as the Liuqu ConglomerateDisplacement estimates for the Great Counter Thrust are >38 km in western Tibet (Murphy and Yin, 2003) and between >12 km and 60 km in eastern Tibet (Yin, 2006).
+Key words: various localities, Counter Thrust, Tethyan Himalayan, suture zone rocks, Xigaze, forearc rocks, Kailas Formation, Tethyan, Cenozoic, suture zone, Liuqu ConglomerateDisplacement, Counter Thrust, Tibet, Murphy, Yin, Tibet, Yin
+Substance: suture zone rocks, forearc rocks, Kailas Formation, Liuqu ConglomerateDisplacement
+Time: Cenozoic
+Location: Xigaze
+At the Dazhuka locality, the southern thrust contact of the Kailas Formation is with the Triassic Renbu mélange (Cai et al., 2011; Li et al., 2010; the Bainang terrane of Aitchison et al., 2000)Bedding within all Kailas sections studied here dips generally to the south.
+Key words: Dazhuka, southern thrust contact, Kailas Formation, Triassic Renbu, Cai, Li, Bainang, Aitchison, Bedding, Kailas
+Substance: Kailas Formation, Bedding
+Time: Triassic Renbu
+Location: Dazhuka
+This section dips 40°S and contains an ~100-m-wide footwall syncline below a south-dipping thrust contact with Triassic mélange rocks (Cai et al., 2011).We documented the depositional environment of the Kailas Formation through facies analysis of ~3200 m of measured stratigraphic section at three localities (Figs
+Key words: section dips, footwall syncline, thrust contact, Triassic, mélange rocks, Cai, depositional environment, Kailas Formation, facies analysis, stratigraphic section, Figs
+Substance: mélange rocks, depositional environment, Kailas Formation, stratigraphic section
+Time: Triassic
+Location: 
+The lower member rests nonconformably on Gangdese granite, although the contact is covered by Quaternary colluvium.The lower member at this location is composed almost entirely of massive, disorganized, and poorly sorted, clast-supported boulder conglomerate (Gcm; Fig
+Key words: member rests, Gangdese, Quaternary, boulder conglomerate, Gcm, Fig
+Substance: member rests, boulder conglomerate
+Time: Quaternary
+Location: 
+(2013), who reported a single 31 Ma grain at the base of this section as well as palynology results suggesting that the Qiuwu Formation (stratigraphically below 1XK) was deposited during late Oligocene time (Li, 2004).In the lower portion of the Dazhuka locality, zircons from a trachyandesite flow yielded a U-Pb age of 22.9 ± 0.3 Ma (n = 64; 1DK-246; Fig
+Key words: 31 Ma, palynology results, Qiuwu Formation, Oligocene, Li, Dazhuka, trachyandesite flow, U-Pb, 22.9 ±, 0.3 Ma, n =, Fig
+Substance: Qiuwu Formation, trachyandesite flow
+Time: 31 Ma, Oligocene, 22.9 ±, 0.3 Ma
+Location: Dazhuka
+(2011) to rollback of the subducted Indian slab based on several lines of evidence: (1) The along-strike continuity of the Kailas Formation suggests that the mechanism driving subsidence must have been regional in scale; (2) spatio-temporal analy sis of magmatic patterns north of the India-Asia suture zone reveals a 600 km southward sweep in magmatism between 32 Ma and 25 Ma (for western Tibet), a pattern similar to slab rollback processes documented elsewhere (e.g., Humphreys, 1995); (3) a pulse of adakitic and high-K magmatism across the Lhasa terrane at 25–20 Ma suggests slab breakoff (e.g., Maheo et al., 2002; Chung et al., 2003; Williams et al., 2004; Gao et al., 2007; Zhang et al., 2014); and (4) tomographic studies infer large, high-velocity zones in the mantle beneath Tibet as representing two separate, foundered slabs, one related to initial collision, and a second potentially linked to Oligocene–Miocene rollback followed by slab breakoff (e.g., Replumaz et al., 2010a, 2014).Slab rollback processes beneath Tibet must be distinguished from oceanic slab rollback processes documented in the Mediterranean region (e.g., Jolivet and Brun, 2010; Jolivet et al., 2013) and continental slab rollback processes proposed to explain anomalous subsidence in the Alpine foreland basin (Schlunegger and Kissling, 2015)
+Key words: Indian slab, along-strike continuity, Kailas Formation, magmatic patterns, India-Asia, suture zone reveals, 32 Ma, 25 Ma, Tibet, slab rollback processes, Humphreys, high-K magmatism, Lhasa, 25–20 Ma, suggests slab breakoff, Maheo, Chung, Williams, Gao, Zhang, tomographic studies infer, high-velocity zones, Tibet, two separate, initial collision, Oligocene–Miocene, slab breakoff, Replumaz, .Slab rollback processes, Tibet, oceanic slab rollback processes, Mediterranean, Jolivet, Brun, Jolivet, continental slab rollback processes, anomalous subsidence, Alpine, foreland basin, Schlunegger, Kissling
+Substance: Kailas Formation, tomographic studies infer, two separate
+Time: 32 Ma, 25 Ma, 25–20 Ma, Oligocene–Miocene
+Location: Lhasa, Mediterranean
+In contrast, the mantle anomalies interpreted as the remnants of Oligocene–Miocene breakoff in southern Tibet are currently located ~800 km south of the India-Asia suture zone (Replumaz et al., 2010a, 2014)This indicates that, unlike subduction zones in the eastern Mediterranean, the India-Asia subduction zone has experienced overall trench advance relative to the mantle
+Key words: mantle anomalies, Oligocene–Miocene, Tibet, India-Asia, suture zone, Replumaz, subduction zones, Mediterranean, India-Asia, subduction zone, overall trench
+Substance: 
+Time: Oligocene–Miocene
+Location: Mediterranean
+Together, the Kailas sedimentary record, magmatic record, east-west extensional record, and tomography data all support the hypothesis that the Oligocene–Miocene tectonic evolution of southern Tibet was driven by Indian slab dynamics.Based on the younging of adakitic magmatism from the eastern syntaxis to the central India-Asia suture zone, Zhang et al
+Key words: Together, Kailas, sedimentary record, magmatic record, east-west extensional record, tomography data, Oligocene–Miocene, tectonic evolution, Tibet, Indian slab, adakitic magmatism, eastern syntaxis, India-Asia, suture zone, Zhang
+Substance: sedimentary record
+Time: Oligocene–Miocene
+Location: 
+The Oligocene–Miocene Kailas Formation exposed along the southern margin of the Lhasa terrane was deposited in alluvial-fan and fluvial environments within an extensional basin settingThis study provides new constraints on the depositional age of the Kailas Formation in this region and shows that its depositional age becomes younger to the east between 81°E and 90°E
+Key words: Oligocene–Miocene Kailas Formation, Lhasa, fluvial environments, extensional basin settingThis study, new constraints, depositional age, Kailas Formation, depositional age
+Substance: Oligocene–Miocene Kailas Formation, depositional age, Kailas Formation
+Time: Oligocene–Miocene Kailas Formation
+Location: Lhasa
+Aitchison, J., Davis, A., Liu, J., Luo, H., and Malpas, J., 2000, Remnants of a Cretaceous intra-oceanic subduction system within the Yarlung–Zangbo suture (southern Tibet): Earth and Planetary Science Letters, v183, p
+Key words: Aitchison, J., Davis, A., Liu, J., Luo, H., Malpas, J., Remnants, Cretaceous, intra-oceanic subduction system, Yarlung–Zangbo, Tibet, Earth, Planetary, Science Letters
+Substance: 
+Time: Cretaceous
+Location: Yarlung
+Aitchison, J., Davis, A., Badengzhu, and Luo, H., 2002, New constraints on the India-Asia collision: The Lower Miocene Gangrinboche conglomerates, Yarlung Tsangpo suture zone, SE Tibet: Journal of Asian Earth Sciences, v21, p
+Key words: Aitchison, J., Davis, A., Badengzhu, Luo, H., New constraints, India-Asia, Lower Miocene Gangrinboche, Yarlung Tsangpo, suture zone, Tibet, Earth, Sciences
+Substance: 
+Time: Lower Miocene Gangrinboche
+Location: India, -, Asia, Yarlung, Tsangpo
+Aitchison, J.C., Ali, J.R., Chan, A., Davis, A.M., and Lo, C., 2009, Tectonic implications of felsic tuffs within the Lower Miocene Gangrinboche conglomerates, southern Tibet: Journal of Asian Earth Sciences, v34, p
+Key words: Aitchison, J.C., Ali, J.R., Chan, A., Davis, Lo, C., Tectonic, felsic tuffs, Lower Miocene Gangrinboche, Tibet, Earth, Sciences
+Substance: felsic tuffs
+Time: Lower Miocene Gangrinboche
+Location: 
+Allen, P., 1981, Sediments and processes on a small stream-flow dominated, Devonian alluvial fan, Shetland Islands: Sedimentary Geology, v29, p
+Key words: Allen, P., Sediments, small stream-flow, Devonian, alluvial fan, Shetland, Islands, Sedimentary Geology
+Substance: Sediments, Sedimentary Geology
+Time: Devonian
+Location: Shetland, Islands
+Cai, F., Ding, L., and Yue, Y., 2011, Provenance analysis of Upper Cretaceous strata in the Tethys Himalaya, southern Tibet: Implications for timing of India-Asia collision: Earth and Planetary Science Letters, v305, p
+Key words: Cai, F., Ding, L., Yue, Y., Provenance, Upper Cretaceous, Tethys Himalaya, Tibet, Implications, India-Asia, Earth, Planetary, Science Letters
+Substance: 
+Time: Upper Cretaceous
+Location: Tethys, Himalaya, India, -, Asia
+Cant, D.J., and Walker, R.G., 1976, Development of a braided-fluvial facies model for the Devonian Battery Point Sandstone, Québec: Canadian Journal of Earth Sciences, v13, p
+Key words: Cant, D.J., Walker, R.G., braided-fluvial facies model, Devonian Battery, Sandstone, Québec, Canadian Journal, Earth, Sciences
+Substance: Sandstone
+Time: Devonian Battery
+Location: 
+Carrapa, B., Orme, D.A., DeCelles, P.G., Kapp, P., Cosca, M.A., and Waldrip, R., 2014, Miocene burial and exhumation of the India-Asia collision zone in southern Tibet: Response to slab dynamics and erosion: Geology, v42, p
+Key words: Carrapa, B., Orme, D.A., DeCelles, P.G., Kapp, P., Cosca, M.A., Waldrip, R., Miocene, India-Asia, collision zone, Tibet, slab dynamics, Geology
+Substance: slab dynamics
+Time: Miocene
+Location: Cosca, India, -, Asia
+DeCelles, P.G., Gray, M.B., Ridgway, K.D., Cole, R.B., Srivastava, P., Pequera, N., and Pivnik, D.A., 1991, Kinematic history of a foreland uplift from Paleocene synorogenic conglomerate, Beartooth Range, Wyoming and Montana: Geological Society of America Bulletin, v103, p
+Key words: DeCelles, P.G., M.B., Ridgway, K.D., Cole, R.B., Srivastava, P., Pequera, N., Pivnik, D.A., Kinematic, foreland uplift, Paleocene, synorogenic conglomerate, Beartooth, Wyoming, Montana, Geological, America Bulletin
+Substance: synorogenic conglomerate
+Time: Paleocene
+Location: M.B., Ridgway, R.B., Pequera, Pivnik
+DeCelles, P.G., Kapp, P., Quade, J., and Gehrels, G.E., 2011, Oligocene–Miocene Kailas basin, southwestern Tibet: Record of postcollisional upper-plate extension in the Indus-Yarlung suture zone: Geological Society of America Bulletin, v123, p
+Key words: DeCelles, P.G., Kapp, P., Quade, J., Gehrels, G.E., Oligocene–Miocene Kailas, Tibet, Record, postcollisional upper-plate, Indus-Yarlung, suture zone, Geological, America Bulletin
+Substance: 
+Time: Oligocene–Miocene Kailas
+Location: 
+DeCelles, P.G., Kapp, P., Gehrels, G., and Ding, L., 2014, Paleocene–Eocene foreland basin evolution in the Himalaya of southern Tibet and Nepal: Implications for the age of initial I ndia-Asia collision: Tectonics, v33, p
+Key words: DeCelles, P.G., Kapp, P., Gehrels, G., Ding, L., Paleocene–Eocene, foreland basin evolution, Himalaya, Tibet, Nepal, Implications, ndia-Asia collision, Tectonics
+Substance: 
+Time: Paleocene–Eocene
+Location: Himalaya
+Ding, L., Kapp, P., Zhong, D., and Deng, W., 2003, Cenozoic volcanism in Tibet: Evidence for a transition from oceanic to continental subduction: Journal of Petrology, v44, p
+Key words: Ding, L., Kapp, P., Zhong, D., Deng, W., Cenozoic, Tibet, Evidence, continental subduction, Petrology
+Substance: 
+Time: Cenozoic
+Location: 
+Ding, L., Kapp, P., and Wan, X., 2005, Paleocene–Eocene record of ophiolite obduction and initial India-Asia collision, south central Tibet: Tectonics, v24, TC3001, doi:1 0.1029 / 2004TC001729 .
+Key words: Ding, L., Kapp, P., Wan, X., Paleocene–Eocene, ophiolite obduction, India-Asia, Tibet, Tectonics, TC3001
+Substance: 
+Time: Paleocene–Eocene, TC3001
+Location: 
+Dürr, S., 1996, Provenance of Xigaze fore-arc basin clastic rocks (Cretaceous, south Tibet): Geological Society of America Bulletin, v108, p
+Key words: Dürr, S., Provenance, Xigaze, fore-arc basin clastic rocks, Cretaceous, Tibet, Geological, America Bulletin
+Substance: fore-arc basin clastic rocks
+Time: Cretaceous
+Location: Xigaze
+Einsele, G., Liu, B., Dürr, S., Frisch, W., and Liu, G., 1994, The Xigaze forearc basin: Evolution and facies architecture (Cretaceous, Tibet): Sedimentary Geology, v90, p
+Key words: Einsele, G., Liu, B., Dürr, S., Frisch, W., Liu, G., Xigaze, forearc basin, Evolution, facies architecture, Cretaceous, Tibet, Sedimentary Geology
+Substance: Sedimentary Geology
+Time: Cretaceous
+Location: Xigaze
+Evans, J.E., 1991, Facies relationships, alluvial architecture, and paleohydrology of a Paleogene, humid-tropical alluvial-fan system: Chumstick Formation, Washington State, U.S.A.: Journal of Sedimentary Petrology, v61, p
+Key words: Evans, J.E., Facies, alluvial architecture, Paleogene, humid-tropical alluvial-fan system, Chumstick Formation, Washington, U.S.A., Sedimentary Petrology
+Substance: Chumstick Formation, Washington, Sedimentary Petrology
+Time: Paleogene
+Location: State
+Gehrels, G., and Pecha, M., 2014, Detrital zircon U-Pb geochronology and Hf isotope geochemistry of Paleozoic and Triassic passive margin strata of western North America: Geosphere, v10, p
+Key words: Gehrels, G., Pecha, M., Detrital, U-Pb, Hf, isotope geochemistry, Paleozoic, Triassic, America, Geosphere
+Substance: isotope geochemistry
+Time: Paleozoic, Triassic
+Location: North
+Green, O.R., Searle, M.P., Corfield, R.I., and Corfield, R.M., 2008, Cretaceous–Tertiary carbonate platform evolution and the age of the India-Asia collision along the Ladakh Himalaya (northwest India): The Journal of Geology, v116, p
+Key words: O.R., Searle, M.P., Corfield, R.I., Corfield, R.M., Cretaceous–Tertiary, carbonate platform evolution, India-Asia, Ladakh Himalaya, India, Geology
+Substance: carbonate platform evolution
+Time: Cretaceous–Tertiary
+Location: India, -, Asia, Ladakh, Himalaya
+Guilmette, C., Hébert, R., Dostal, J., Indares, A., Ullrich, T., Bédard, É., and Wang, C., 2012, Discovery of a dismembered metamorphic sole in the Saga ophiolitic mélange, south Tibet: Assessing an Early Cretaceous disruption of the Neo-Tethyan supra-subduction zone and consequences on basin closing: Gondwana Research, v22, p
+Key words: Guilmette, C., Hébert, R., Dostal, J., Indares, A., Ullrich, T., Bédard, Wang, C., Discovery, metamorphic sole, Saga ophiolitic mélange, Tibet, Assessing, Early Cretaceous, Neo-Tethyan, supra-subduction zone, Gondwana
+Substance: metamorphic sole
+Time: Early Cretaceous
+Location: Bédard
+Guynn, J.H., Kapp, P., Pullen, A., Heizler, M., Gehrels, G., and Ding, L., 2006, Tibetan basement rocks near Amdo reveal “missing” Mesozoic tectonism along the Bangong suture, central Tibet: Geology, v34, p
+Key words: Guynn, J.H., Kapp, P., Pullen, A., Heizler, M., Gehrels, G., Ding, L., Tibetan basement rocks, Amdo, Mesozoic, Bangong, Tibet, Geology
+Substance: Tibetan basement rocks
+Time: Mesozoic
+Location: J.H., Amdo
+He, S., Kapp, P., DeCelles, P., Gehrels, G., and Heizler, M., 2007, Cretaceous–Tertiary geology of the Gangdese arc in the Linzhou area, southern Tibet: Tectonophysics, v433, p
+Key words: S., Kapp, P., DeCelles, P., Gehrels, G., Heizler, M., Cretaceous–Tertiary, Gangdese, Linzhou, Tibet, Tectonophysics
+Substance: 
+Time: Cretaceous–Tertiary
+Location: Linzhou
+Henderson, A., Najman, Y., Parrish, R., BouDagher-Fadel, M., Barford, D., Garzanti, E., and Ando, S., 2010, Geology of the Cenozoic Indus Basin sedimentary rocks: Paleoenvironmental interpretation of sedimentation from the western Himalaya during the early phases of India-Eurasia collision: Tectonics, v29, TC6015, doi:1 0.1029 	/ 2009TC002651 .
+Key words: Henderson, A., Najman, Y., Parrish, R., BouDagher-Fadel, M., Barford, D., Garzanti, E., Ando, S., Geology, Cenozoic Indus, sedimentary rocks, Paleoenvironmental, Himalaya, early phases, India-Eurasia, Tectonics, TC6015
+Substance: sedimentary rocks
+Time: Cenozoic Indus, TC6015
+Location: Barford, Garzanti, Himalaya, India, -, Eurasia
+Hu, X., Wang, J., Boudagher-Fadel, M., Garzanti, E., and An, W., 2015a, New insights into the timing of the India-Asia collision from the Paleogene Quxia and Jialazi formations of the Xigaze forearc basin, south Tibet: Gondwana Research, v32, p
+Key words: Hu, X., Wang, J., Boudagher-Fadel, M., Garzanti, E., W., New insights, India-Asia, Paleogene Quxia, Jialazi, Xigaze, forearc basin, Tibet, Gondwana
+Substance: 
+Time: Paleogene Quxia
+Location: Garzanti, India, -, Asia, Paleogene, Quxia, Jialazi, Xigaze
+Hu, X., Garzanti, E., Moore, T., and Raffi, I., 2015b, Direct stratigraphic dating of India-Asia collision onset at the Selandian (middle Paleocene, 59 ± 1 Ma): Geology, v43, p
+Key words: Hu, X., Garzanti, E., Moore, T., Raffi, I., Direct, India-Asia, collision onset, Selandian, Paleocene, 59 ±, 1 Ma, Geology
+Substance: 
+Time: Selandian, Paleocene, 59 ±, 1 Ma
+Location: India, -, Asia
+Huang, W., Van Hinsbergen, D.J., Maffione, M., Orme, D.A., Dupont-Nivet, G., Guilmette, C., Ding, L., Guo, Z., and Kapp, P., 2015, Lower Cretaceous Xigaze ophiolites formed in the Gangdese forearc: Evidence from paleomagnetism, sediment provenance, and stratigraphy:Earth and Planetary Science Letters, v
+Key words: Huang, W., Van Hinsbergen, D.J., Maffione, M., Orme, D.A., Dupont-Nivet, G., Guilmette, C., Ding, L., Guo, Z., Kapp, P., Lower Cretaceous Xigaze, Gangdese, Evidence, sediment provenance, Earth, Planetary, Science Letters
+Substance: sediment provenance
+Time: Lower Cretaceous Xigaze
+Location: 
+Ji, W., Wu, F., Chung, S., and Liu, C., 2014, The Gangdese magmatic constraints on a latest Cretaceous lithospheric delamination of the Lhasa terrane, southern Tibet: Lithos, v210–211, p
+Key words: Ji, W., Wu, F., Chung, S., Liu, C., Gangdese, magmatic constraints, Cretaceous, lithospheric delamination, Lhasa, Tibet, Lithos
+Substance: 
+Time: Cretaceous
+Location: Lhasa
+Jolivet, L., and Brun, J.P., 2010, Cenozoic geodynamic evolution of the Aegean: International Journal of Earth Sciences, v99, p
+Key words: Jolivet, L., Brun, J.P., Cenozoic, geodynamic evolution, Aegean, International Journal, Earth, Sciences
+Substance: geodynamic evolution
+Time: Cenozoic
+Location: J.P., Aegean
+Leary, R.J., DeCelles, P.G., Quade, J., Gehrels, G., and Waanders, G., 2016, The Liuqu Conglomerate, southern Tibet: Early Miocene basin development related to deformation within the Great Counter Thrust system: Lithosphere, doi:10.1130/L542.1.Leech, M., Singh, S., Jain, A., Klemperer, S., and Manickavasagam, R., 2005, The onset of  India-Asia continental collision: Early, steep subduction required by the timing of UHP metamorphism in the western Himalaya: Earth and Planetary Science Letters, v
+Key words: Leary, R.J., DeCelles, P.G., Quade, J., Gehrels, G., Waanders, G., Liuqu Conglomerate, Tibet, Early Miocene, basin development, Counter Thrust, Lithosphere, M., Singh, S., Jain, A., Klemperer, S., Manickavasagam, R., India-Asia, continental collision, Early, steep subduction, UHP, Himalaya, Earth, Planetary, Science Letters
+Substance: Liuqu Conglomerate
+Time: Early Miocene
+Location: P.G., India, -, Asia, Himalaya
+Li, G., Liu, X., Pullen, A., Lijie, W., Liu, X., Feixin, H., and Xuejun, Z., 2010, In-situ detrital zircon geochronology and Hf isotopic analyses from Upper Triassic Tethys sequence strata: Earth and Planetary Science Letters, v297, p
+Key words: Li, G., Liu, X., Pullen, A., Lijie, W., Liu, X., Feixin, H., Xuejun, Z., In-situ, detrital zircon geochronology, Hf, isotopic analyses, Upper Triassic Tethys, sequence strata, Earth, Planetary, Science Letters
+Substance: detrital zircon geochronology
+Time: Upper Triassic Tethys
+Location: Lijie
+Li, J., 2004, Discovery and preliminary study on palynofossils from the Cenozoic Qiuwu Formation of Xizang (Tibet): Acta Micropalaeontologica Sinica, v21, p
+Key words: Li, J., Discovery, preliminary study, Cenozoic Qiuwu Formation, Xizang, Tibet, Acta Micropalaeontologica Sinica
+Substance: Cenozoic Qiuwu Formation
+Time: Cenozoic Qiuwu Formation
+Location: 
+Maheo, G., Guillot, S., Blichert-Toft, J., Rolland, Y., and Pecher, A., 2002, A slab breakoff model for the Neogene thermal evolution of South Karakorum and South Tibet: Earth and Planetary Science Letters, v195, p
+Key words: Maheo, G., Guillot, S., Blichert-Toft, J., Rolland, Y., Pecher, A., slab breakoff model, Neogene, thermal evolution, Karakorum, Tibet, Earth, Planetary, Science Letters
+Substance: Blichert-Toft
+Time: Neogene
+Location: South, Karakorum
+Meulenkamp, J., Kováč, M., and Cicha, I., 1996, On late Oligocene to Pliocene depocentre migrations and the evolution of the Carpathian-Pannonian system: Tectonophysics, v266, p
+Key words: Meulenkamp, J., Kováč, M., Cicha, I., Oligocene, Pliocene, depocentre migrations, Carpathian-Pannonian, Tectonophysics
+Substance: 
+Time: Oligocene, Pliocene
+Location: 
+Miall, A., and Turner-Peterson, C., 1989, Variations in fluvial style in the Westwater Canyon Member, Morrison Formation (Jurassic), San Juan Basin, Colorado Plateau: Sedimentary Geology, v63, p
+Key words: Miall, A., Turner-Peterson, C., Variations, fluvial style, Westwater Canyon Member, Morrison Formation, Jurassic, San Juan, Colorado Plateau, Sedimentary Geology
+Substance: Westwater Canyon Member, Morrison Formation, Sedimentary Geology
+Time: Jurassic
+Location: Westwater, Member, Basin, Plateau
+Orme, D.A., Carrapa, B., and Kapp, P., 2014, Sedimentology, provenance and geochronology of the Upper Cretaceous–Lower Eocene western Xigaze forearc basin, southern Tibet: Basin Research, v27, p
+Key words: Orme, D.A., Carrapa, B., Kapp, P., Sedimentology, Upper Cretaceous–Lower Eocene, Xigaze, forearc basin, Tibet
+Substance: Sedimentology
+Time: Upper Cretaceous–Lower Eocene
+Location: Xigaze
+Ravikant, V., 2006, Utility of Rb-Sr geochronology in constraining Miocene and Cretaceous events in the eastern Karakoram, Ladakh, India: Journal of Asian Earth Sciences, v27,
+Key words: Ravikant, V., Utility, Rb-Sr, Miocene, Cretaceous, Karakoram, Ladakh, India, Earth, Sciences
+Substance: 
+Time: Miocene, Cretaceous
+Location: Ladakh
+Ridgway, K., and DeCelles, P., 1993, Stream-dominated alluvial fan and lacustrine depositional systems in Cenozoic strike-slip basins, Denali fault system, Yukon Territory, Canada: Sedimentology, v40, p
+Key words: Ridgway, K., DeCelles, P., Stream-dominated, alluvial fan, lacustrine depositional systems, Cenozoic, strike-slip basins, Denali, fault system, Yukon Territory, Canada, Sedimentology
+Substance: lacustrine depositional systems, Sedimentology
+Time: Cenozoic
+Location: 
+Sanchez, V., Murphy, M.A., Dupre, W.R., Ding, L., and Zhang, R., 2010b, Structural evolution of the Neogene Gar Basin, western Tibet: Implications for releasing bend development and drainage patterns: Geological Society of America Bulletin, v122, p
+Key words: Sanchez, V., Murphy, M.A., Dupre, W.R., Ding, L., Zhang, R., Structural, Neogene Gar, Tibet, Implications, bend development, drainage patterns, Geological, America Bulletin
+Substance: 
+Time: Neogene Gar
+Location: W.R., Neogene, Gar, Basin
+Schlische, R.W., and Olsen, P.E., 1990, Quantitative filling model for continental extensional  basins with applications to early Mesozoic rifts of eastern North America: The Journal of Geology, v98, p
+Key words: Schlische, R.W., Olsen, P.E., Quantitative, filling model, continental extensional basins, Mesozoic, America, Geology
+Substance: 
+Time: Mesozoic
+Location: North
+Shultz, A., 1984, Subaerial debris-flow deposition in the Upper Paleozoic Cutler Formation, western Colorado: Journal of Sedimentary Petrology, v54, p
+Key words: Shultz, A., Subaerial, debris-flow deposition, Upper Paleozoic Cutler Formation, Colorado, Sedimentary Petrology
+Substance: debris-flow deposition, Upper Paleozoic Cutler Formation, Sedimentary Petrology
+Time: Upper Paleozoic Cutler Formation
+Location: 
+Singh, K.A., Parkash, B., Mohindra, R., Thomas, J.V., and Singhvi, A.K., 2001, Quaternary alluvial fan sedimentation in the Dehradun valley piggyback basin, NW Himalaya: Tectonic and palaeoclimatic implications: Basin Research, v13, p
+Key words: Singh, K.A., Parkash, B., Mohindra, R., Thomas, J.V., Singhvi, A.K., Quaternary, alluvial fan sedimentation, Dehradun, valley piggyback basin, Himalaya, Tectonic, palaeoclimatic implications
+Substance: Parkash, alluvial fan sedimentation
+Time: Quaternary
+Location: J.V., Dehradun, NW, Himalaya
+Sundell, K.E., Taylor, M.H., Styron, R.H., Stockli, D.F., Kapp, P., Hager, C., Liu, D., and Ding, L., 2013, Evidence for constriction and Pliocene acceleration of east-west extension in the North Lunggar rift region of west central Tibet: Tectonics, v32, p
+Key words: Sundell, K.E., Taylor, M.H., Styron, R.H., Stockli, D.F., Kapp, P., Hager, C., Liu, D., Ding, L., Evidence, Pliocene, Lunggar, rift region, Tibet, Tectonics
+Substance: 
+Time: Pliocene
+Location: K.E., M.H., Stockli, North, Lunggar
+van der Meulen, M.J., Kouwenhoven, T., van der Zwaan, G., Meulenkamp, J., and Wortel, M., 1999, Late Miocene uplift in the Romagnan Apennines and the detachment of subducted lithosphere: Tectonophysics, v315, p
+Key words: van der, Meulen, M.J., Kouwenhoven, T., van der, Zwaan, G., Meulenkamp, J., Wortel, M., Late Miocene, Romagnan Apennines, Tectonophysics
+Substance: 
+Time: Late Miocene
+Location: M.J., Meulenkamp, Romagnan, Apennines
+van Hinsbergen, D.J.J., Kapp, P., Dupont-Nivet, G., Lippert, P.C., DeCelles, P.G., and Torsvik, T.H., 2011, Restoration of Cenozoic deformation in Asia and the size of Greater India: Tectonics, v30, TC5003, doi: 10 .1029 /2011TC002908 .
+Key words: Hinsbergen, D.J.J., Kapp, P., Dupont-Nivet, G., Lippert, P.C., DeCelles, P.G., Torsvik, T.H., Restoration, Cenozoic, Asia, India, Tectonics, TC5003, .1029 /2011TC002908
+Substance: 
+Time: Cenozoic, TC5003, .1029 /2011TC002908
+Location: Torsvik
+Volkmer, J.E., Kapp, P., Guynn, J.H., and Lai, Q., 2007, Cretaceous-Tertiary structural evolution of the north central Lhasa terrane, Tibet: Tectonics, v26, TC6007, doi: 10
+Key words: Volkmer, J.E., Kapp, P., Guynn, J.H., Lai, Q., Cretaceous-Tertiary, structural evolution, Lhasa, Tibet, Tectonics, TC6007
+Substance: 
+Time: Cretaceous-Tertiary, TC6007
+Location: J.H., Lhasa
+Wang, C., Li, X., Liu, Z., Li, Y., Jansa, L., Dai, J., and Wei, Y., 2012, Revision of the Cretaceous– Paleog ene stratigraphic framework, facies architecture and provenance of the Xigaze forearc basin along the Yarlung Zangbo suture zone: Gondwana Research, v22, p
+Key words: Wang, C., Li, X., Liu, Z., Li, Y., Jansa, L., Dai, J., Wei, Y., Revision, Cretaceous– Paleog, ene stratigraphic framework, facies architecture, Xigaze, forearc basin, Yarlung Zangbo, suture zone, Gondwana
+Substance: ene stratigraphic framework
+Time: Cretaceous– Paleog
+Location: Xigaze, Yarlung, Zangbo
+Wang, J., Hu, X., Wu, F., and Jansa, L., 2010, Provenance of the Liuqu conglomerate in southern Tibet: A Paleogene erosional record of the Himalayan-Tibetan orogen: Sedimentary Geology, v231, p
+Key words: Wang, J., Hu, X., Wu, F., Jansa, L., Provenance, Liuqu, Tibet, Paleogene, erosional record, Himalayan-Tibetan, Sedimentary Geology
+Substance: erosional record, Sedimentary Geology
+Time: Paleogene
+Location: 
+Wang, J., Hu, X., Garzanti, E., and Wu, F., 2013, Upper Oligocene–Lower Miocene Gangrin boche conglomerate in the Xigaze area, southern Tibet: Implications for Himalayan uplift and paleo-Yarlung-Zangbo initiation: The Journal of Geology, v121, p
+Key words: Wang, J., Hu, X., Garzanti, E., Wu, F., Upper Oligocene–Lower Miocene Gangrin, boche conglomerate, Xigaze, Tibet, Implications, Himalayan, paleo-Yarlung-Zangbo initiation, Geology
+Substance: boche conglomerate
+Time: Upper Oligocene–Lower Miocene Gangrin
+Location: Xigaze
+Xu, W., Zhang, H., Guo, L., and Yuan, H., 2010, Miocene high Sr/Y magmatism, south Tibet: Product of partial melting of subducted Indian continental crust and its tectonic implication:Lithos, v
+Key words: Xu, W., Zhang, H., Guo, L., Yuan, H., Miocene, Sr/Y, Tibet, Product, Indian continental crust, tectonic implication, Lithos
+Substance: Indian continental crust
+Time: Miocene
+Location: 
+Yin, A., 2006, Cenozoic tectonic evolution of the Himalayan orogen as constrained by alongstrike variation of structural geometry, exhumation history, and foreland sedimentation: Earth-Science Reviews, v76, p
+Key words: Yin, A., Cenozoic, tectonic evolution, Himalayan, alongstrike variation, structural geometry, exhumation history, foreland sedimentation, Earth-Science Reviews
+Substance: foreland sedimentation
+Time: Cenozoic
+Location: 
+Zhang, L., Ducea, M.N., Ding, L., Pullen, A., Kapp, P., and Hoffman, D., 2014, Southern Tibetan Oligocene–Miocene adakites: A record of Indian slab tearing: Lithos, v210–211, p
+Key words: Zhang, L., Ducea, M.N., Ding, L., Pullen, A., Kapp, P., Hoffman, D., Oligocene–Miocene, Indian slab, Lithos
+Substance: 
+Time: Oligocene–Miocene
+Location: Ducea
+Zhu, D., Mo, X., Niu, Y., Zhao, Z., Wang, L., Liu, Y., and Wu, F., 2009, Geochemical investigation of Early Cretaceous igneous rocks along an east-west traverse throughout the central Lhasa terrane, Tibet: Chemical Geology, v268, p
+Key words: Zhu, D., Mo, X., Niu, Y., Zhao, Z., Wang, L., Liu, Y., Wu, F., Geochemical, Early Cretaceous, igneous rocks, east-west traverse, Lhasa, Tibet, Geology
+Substance: Geochemical, igneous rocks
+Time: Early Cretaceous
+Location: Lhasa
+Zhu, D., Mo, X., Zhao, Z., Niu, Y., Wang, L., Chu, Q., Pan, G., Xu, J., and Zhou, C., 2010, Presence of Permian extension- and arc-type magmatism in southern Tibet: Paleogeographic implications: Geological Society of America Bulletin, v122, p
+Key words: Zhu, D., Mo, X., Zhao, Z., Niu, Y., Wang, L., Chu, Q., Pan, G., Xu, J., Zhou, C., Presence, Permian, arc-type magmatism, Tibet, Paleogeographic, Geological, America Bulletin
+Substance: Paleogeographic
+Time: Permian
+Location: 
+Key words: 
+Substance: 
+Time: 
+Location: 

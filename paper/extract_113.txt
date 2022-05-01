@@ -1,0 +1,629 @@
+Abstract: Detrital zircons from pre-orogenic Upper Ordovician to Devonian low-grade metasedimentary rocks have been dated by laser ablation–inductively coupled plasma mass spectrometry (LA–ICP-MS) to: (1) constrain the variations of zircon age populations within the autochthonous sequences of NW Iberia; (2) compare U–Pb detrital zircon ages with previous data; (3) test the hypothesis of the Armorica microplate as a peri-Gondwanan terrane separated from GondwanaThe similarity in the ages of detrital zircons found in the Palaeozoic samples studied here to those published for the Upper Proterozoic, Lower Cambrian and Lower Ordovician sediments of NW Iberia argues against the separation of Armorica, and points to a common source area for all of the Palaeozoic detrital formations of NW Iberia, the West African craton and the surrounding Pan-African belts
+Key words: Abstract, Detrital, Upper Ordovician, Devonian, low-grade metasedimentary rocks, plasma mass spectrometry, LA–ICP-MS, zircon age populations, autochthonous sequences, Iberia, compare U–Pb, detrital zircon ages, previous data, Armorica, peri-Gondwanan terrane, GondwanaThe, detrital zircons, Palaeozoic, Upper Proterozoic, Lower Cambrian, Lower Ordovician, Iberia, Armorica, common source area, Palaeozoic, detrital formations, Iberia, African, Pan-African
+Substance: low-grade metasedimentary rocks, plasma mass spectrometry, zircon age populations, autochthonous sequences, detrital zircon ages, detrital zircons, detrital formations
+Time: Upper Ordovician, Devonian, Upper Proterozoic, Lower Cambrian, Lower Ordovician
+Location: Armorica
+The similarity in the ages of detrital zircons found in the Palaeozoic samples studied here to those published for the Upper Proterozoic, Lower Cambrian and Lower Ordovician sediments of NW Iberia argues against the separation of Armorica, and points to a common source area for all of the Palaeozoic detrital formations of NW Iberia, the West African craton and the surrounding Pan-African beltsLA–ICP-MS U–Pb dating of zircons from a synorogenic flysch preserved in klippen in the core of a syncline establishes a maximum depositional age for this deposit as Early Namurian
+Key words: detrital zircons, Palaeozoic, Upper Proterozoic, Lower Cambrian, Lower Ordovician, Iberia, Armorica, common source area, Palaeozoic, detrital formations, Iberia, African, Pan-African, U–Pb, synorogenic flysch, syncline establishes, maximum depositional age, Early Namurian
+Substance: detrital zircons, detrital formations, maximum depositional age
+Time: Upper Proterozoic, Lower Cambrian, Lower Ordovician
+Location: Armorica
+The existence of Armorica as a separate microplate was proposed by Van der Voo (1982, 1988) to account for the similar apparent polar wander paths for the Armorican Massif and Gondwana until the Cambrian, but a difference in latitude of 30–408 during the Devonian (Van der Voo 1979, 1982, 1988; Perroud et al1984)
+Key words: Armorica, separate microplate, Van, Voo, similar apparent polar wander paths, Armorican Massif, Gondwana, Cambrian, Devonian, Van, Voo, Perroud
+Substance: separate microplate
+Time: Cambrian, Devonian
+Location: Armorica, Gondwana
+1984; Cocks, 2000) the Bohemian Massif and, according to these workers, it would have drifted away from Gondwana during the Ordovician, colliding with Laurentia in the Mid-Devonian, before the large continental masses did so to form Pangaea.The palaeomagnetic data on which this hypothesis relies were questioned by Kent et al
+Key words: Cocks, Bohemian Massif, Gondwana, Ordovician, Laurentia, Mid-Devonian, large continental masses, form Pangaea.The, palaeomagnetic data, hypothesis relies, Kent
+Substance: 
+Time: Ordovician, Mid-Devonian
+Location: Bohemian, Massif, Gondwana, Laurentia
+(1987), who reported a much higher latitude for Gondwana during the DevonianAlthough new data were used to support the existence of an Armorica microplate (Tait et al
+Key words: Gondwana, DevonianAlthough, new data, Armorica, Tait
+Substance: 
+Time: DevonianAlthough
+Location: Gondwana
+Recent reconstructions by Scotese & McKerrow (1990) and Scotese (2002) place Gondwana close to Laurentia and Baltica by the Early Devonian (Fig1a).
+Key words: Recent, Scotese, McKerrow, Scotese, Gondwana, Laurentia, Baltica, Early Devonian, Fig1a
+Substance: 
+Time: Early Devonian
+Location: Gondwana, Laurentia
+during the Silurian and DevonianFurthermore, the suture between the hypothetical Armorica plate and Gondwana has not been found, putting in doubt the existence of a Proto-Tethys Ocean (Fig
+Key words: Silurian, DevonianFurthermore, Armorica, Gondwana, Proto-Tethys, Fig
+Substance: 
+Time: Silurian, DevonianFurthermore
+Location: Armorica, Gondwana
+This approach has been applied by Ferna´ndezSua´rez and coworkers in the Ibero-Armorican arc, to constrain the palaeoposition of Iberia and Brittany in the Neoproterozoic; those workers found that different zones within those Variscan realms occupied different positions at that time (Ferna´ndezSua´rez et al2000b, 2002c; Gutie´rrez-Alonso et al
+Key words: Ferna´ndezSua´rez, Ibero-Armorican, Iberia, Brittany, Neoproterozoic, different zones, Variscan, different positions, Ferna´ndezSua´rez, Gutie´rrez-Alonso
+Substance: 
+Time: Neoproterozoic
+Location: 
+Early Palaeozoic sediments and volcanic rocks have also been investigated in NW Iberia; namely, the Lower Cambrian and Lower Ordovician quartzites, and the volcaniclastic part of the Ollo de Sapo Formation (Ferna´ndez-Sua´rez et al1999, 2000b, 2002b)
+Key words: Early Palaeozoic, volcanic rocks, Iberia, Lower Cambrian, Lower Ordovician, volcaniclastic part, Ollo, Sapo Formation, Ferna´ndez-Sua´rez
+Substance: volcanic rocks, volcaniclastic part, Sapo Formation
+Time: Lower Cambrian, Lower Ordovician
+Location: 
+These data have helped to constrain the time of amalgamation of the Neoproterozoic terranes to Gondwana, and the source areas of the lower part of the Palaeozoic sedimentary pile, and have confirmed the Early Ordovician age of the OlloThis study focuses on the use of U–Pb ages of detrital zircons to test and constrain the existing palaeotectonic models for the Variscan belt
+Key words: Neoproterozoic, Gondwana, source areas, Palaeozoic, sedimentary pile, Early Ordovician, OlloThis, study focuses, U–Pb, detrital zircons, palaeotectonic models, Variscan
+Substance: sedimentary pile, detrital zircons
+Time: Neoproterozoic, Early Ordovician
+Location: Gondwana
+(1999, 2000b, 2002b) have shown that the zircon age populations of Lower Cambrian and Lower Ordovician sedimentary rocks in Iberia are similar to those of Neoproterozoic sedimentary rocks, which suggest the same source area, the West African craton and the surrounding Pan-African belts (Ferna´ndez-Sua´rez et al2002c)
+Key words: zircon age populations, Lower Cambrian, Lower Ordovician, sedimentary rocks, Iberia, Neoproterozoic, sedimentary rocks, source area, African, Pan-African, Ferna´ndez-Sua´rez
+Substance: zircon age populations, sedimentary rocks
+Time: Lower Cambrian, Lower Ordovician, Neoproterozoic
+Location: 
+If the drift of Armorica took place either later in the Ordovician or during the Silurian, the source area could no longer have been the West African craton and surrounding areas, and different age clustering should be expected for detrital zircon agesExtending the investigation of zircon age populations to Upper Ordovician, Silurian and Devonian (pre-orogenic) metasedimentary rocks may shed new light on whether or not of Armorica existed as a microplate at any time in the early to midPalaeozoic.
+Key words: Armorica, Ordovician, Silurian, source area, African, different age, detrital zircon, zircon age populations, Upper Ordovician, Silurian, Devonian, metasedimentary rocks, new light, Armorica
+Substance: detrital zircon, zircon age populations, metasedimentary rocks
+Time: Ordovician, Silurian, Upper Ordovician, Devonian
+Location: Armorica
+Extending the investigation of zircon age populations to Upper Ordovician, Silurian and Devonian (pre-orogenic) metasedimentary rocks may shed new light on whether or not of Armorica existed as a microplate at any time in the early to midPalaeozoic.Continental collision of Laurentia and Baltica with Gondwana started in NW Iberia probably during the Late Devonian (Dallmeyer et al
+Key words: Extending, zircon age populations, Upper Ordovician, Silurian, Devonian, metasedimentary rocks, new light, Armorica, midPalaeozoic.Continental collision, Laurentia, Baltica, Gondwana, Iberia, Late Devonian, Dallmeyer
+Substance: zircon age populations, metasedimentary rocks
+Time: Upper Ordovician, Silurian, Devonian, Late Devonian
+Location: Armorica, Laurentia, Gondwana
+Continental collision of Laurentia and Baltica with Gondwana started in NW Iberia probably during the Late Devonian (Dallmeyer et al1997; Mart´ınez Catala´n et al
+Key words: Continental collision, Laurentia, Baltica, Gondwana, Iberia, Late Devonian, Dallmeyer, Mart´ınez Catala´n
+Substance: 
+Time: Late Devonian
+Location: Laurentia, Gondwana
+Carboniferous sedimentation was essentially synorogenic and the source areas changed drastically from the emerged areas of the foreland to the relief created in the hinterland by the continuing orogenic shortening (Marcos & Pulgar 1982; Pe´rez-Estau´n et al1988; Rodr´ıguez Ferna´ndez 1993)
+Key words: Carboniferous, source areas, Marcos, Pulgar, Pe´rez-Estau´n, Rodr´ıguez Ferna´ndez
+Substance: Carboniferous
+Time: Carboniferous
+Location: 
+They are essentially metasedimentary, and consist of thick and monotonous Upper Proterozoic siliciclastic rocks (cut by a few intrusions), and of Palaeozoic clastic rocks, carbonates, and volcanic and intrusive rocksIt is generally agreed that the autochthonous sedimentary sequences were deposited in the northern margin of Gondwana.
+Key words: Upper Proterozoic, siliciclastic rocks, Palaeozoic, clastic rocks, intrusive rocksIt, autochthonous sedimentary sequences, Gondwana
+Substance: siliciclastic rocks, clastic rocks, intrusive rocksIt, autochthonous sedimentary sequences
+Time: Upper Proterozoic
+Location: Gondwana
+During the Late Proterozoic, this area was an active continental margin (Murphy & Nance 1991; Ochsner 1993) involved in the Cadomian–Avalonian–Pan-African orogenyCadomian arc
+Key words: Late Proterozoic, active continental, Murphy, Nance, Ochsner, Cadomian–Avalonian–Pan-African, orogenyCadomian arc
+Substance: 
+Time: Late Proterozoic
+Location: 
+construction activity was followed by continental rifting in Cambro-Ordovician times, which resulted in the drift of the Avalon microcontinent and other peri-Gondwanan terranes and the opening of the Rheic oceanic domain (Fortey & Cocks 1988; Soper 1988)Some palaeomagnetic data suggest that Iberia, together with the French Armorican Massif, also drifted away from Gondwana during the Ordovician and collided with Laurentia in the Early or Mid-Devonian, prior to the Laurentia– Gondwana collision
+Key words: construction activity, Cambro-Ordovician, Avalon, peri-Gondwanan terranes, Rheic, oceanic domain, Fortey, Cocks, Soper, palaeomagnetic data, Iberia, Armorican Massif, Gondwana, Ordovician, Laurentia, Early, Mid-Devonian, Laurentia– Gondwana
+Substance: 
+Time: Cambro-Ordovician, Ordovician, Mid-Devonian
+Location: Cambro, -, Ordovician, Gondwana, Laurentia
+Some palaeomagnetic data suggest that Iberia, together with the French Armorican Massif, also drifted away from Gondwana during the Ordovician and collided with Laurentia in the Early or Mid-Devonian, prior to the Laurentia– Gondwana collisionNevertheless, stratigraphic and palaeogeographical data suggest a continuity between Iberia and Gondwana throughout the Palaeozoic and deposition of the autochthonous sequences on the Gondwanan continental margin (Paris & Robardet 1990; Ribeiro et al
+Key words: palaeomagnetic data, Iberia, Armorican Massif, Gondwana, Ordovician, Laurentia, Early, Mid-Devonian, Laurentia– Gondwana, palaeogeographical data, Iberia, Gondwana, Palaeozoic, autochthonous sequences, Gondwanan, Paris, Robardet, Ribeiro
+Substance: palaeogeographical data, autochthonous sequences
+Time: Ordovician, Mid-Devonian
+Location: Gondwana, Laurentia, Gondwanan
+This margin seems to have been passive from the Cambrian to the Early Devonian, as suggested by the shallowwater platform character of most stratigraphic units, and also by the continuity in the sedimentation.As regards geochronological constraints, the oldest ages obtained from upper intercepts and inherited zircons from Iberian orthogneisses of the autochthon range between 2.7 and 1.8 Ga (Lancelot et al
+Key words: Cambrian, Early Devonian, shallowwater platform character, stratigraphic units, sedimentation.As regards geochronological constraints, upper intercepts, Iberian, autochthon range, 2.7 and, 1.8 Ga, Lancelot
+Substance: stratigraphic units, sedimentation.As regards geochronological constraints
+Time: Cambrian, Early Devonian, 2.7 and, 1.8 Ga
+Location: 
+1998; Valverde Vaquero & Dunning, 2000), and record the Cadomian orogeny and the Cambro-Ordovician continental riftingU–Pb dating of detrital zircons from Upper Proterozoic sedimentary rocks in NW Iberia (Ferna´ndez-Sua´rez et al
+Key words: Valverde Vaquero, Dunning, Cadomian, Cambro-Ordovician, continental riftingU–Pb, detrital zircons, Upper Proterozoic, sedimentary rocks, Iberia, Ferna´ndez-Sua´rez
+Substance: detrital zircons, sedimentary rocks
+Time: Cambro-Ordovician, Upper Proterozoic
+Location: 
+U–Pb dating of detrital zircons from Upper Proterozoic sedimentary rocks in NW Iberia (Ferna´ndez-Sua´rez et al2000b) yielded four main age clusters: Archaean (2.8–2.5 Ga), Palaeoproterozoic (2– 1.8 Ga), Mesoproterozoic (1.2–0.9 Ga) and Neoproterozoic (800–640 Ma)
+Key words: U–Pb, detrital zircons, Upper Proterozoic, sedimentary rocks, Iberia, Ferna´ndez-Sua´rez, main age clusters, Archaean, 2.8–2.5 Ga, Palaeoproterozoic, 2– 1.8 Ga, Mesoproterozoic, 1.2–0.9 Ga, Neoproterozoic, 800–640 Ma
+Substance: detrital zircons, sedimentary rocks
+Time: Upper Proterozoic, 2.8–2.5 Ga, Palaeoproterozoic, 2– 1.8 Ga, Mesoproterozoic, 1.2–0.9 Ga, Neoproterozoic, 800–640 Ma
+Location: 
+2000b) yielded four main age clusters: Archaean (2.8–2.5 Ga), Palaeoproterozoic (2– 1.8 Ga), Mesoproterozoic (1.2–0.9 Ga) and Neoproterozoic (800–640 Ma)U–Pb dating of detrital zircons from Lower Palaeozoic sequences gave roughly the same populations, plus a younger Neoproterozoic (620–550 Ma) population (Ferna´ndezSua´rez et al
+Key words: main age clusters, Archaean, 2.8–2.5 Ga, Palaeoproterozoic, 2– 1.8 Ga, Mesoproterozoic, 1.2–0.9 Ga, Neoproterozoic, 800–640 Ma, U–Pb, detrital zircons, Lower Palaeozoic, Neoproterozoic, 620–550 Ma, Ferna´ndezSua´rez
+Substance: detrital zircons
+Time: 2.8–2.5 Ga, Palaeoproterozoic, 2– 1.8 Ga, Mesoproterozoic, 1.2–0.9 Ga, Neoproterozoic, 800–640 Ma, 620–550 Ma
+Location: 
+U–Pb dating of detrital zircons from Lower Palaeozoic sequences gave roughly the same populations, plus a younger Neoproterozoic (620–550 Ma) population (Ferna´ndezSua´rez et al1999, 2000b, 2002b).
+Key words: U–Pb, detrital zircons, Lower Palaeozoic, Neoproterozoic, 620–550 Ma, Ferna´ndezSua´rez
+Substance: detrital zircons
+Time: Neoproterozoic, 620–550 Ma
+Location: 
+The units were stacked in Early and Mid-Devonian time, during the first stages of the Variscan orogeny, and subsequently thrust over the autochthonous sequences during the Late Devonian–Carboniferous (Mart´ınez Catala´n et al1996; Dallmeyer et al
+Key words: Early, Mid-Devonian, Variscan, autochthonous sequences, Late Devonian–Carboniferous, Mart´ınez Catala´n, Dallmeyer
+Substance: autochthonous sequences, Late Devonian–Carboniferous
+Time: Mid-Devonian, Late Devonian–Carboniferous
+Location: 
+They record the major events in the African section of northern Gondwana, where no Mesoproterozoic events have been identified, and provide a maximum depositional age for this uppermost sedimentary unit at c480 Ma
+Key words: major events, African, Gondwana, Mesoproterozoic, maximum depositional age, uppermost sedimentary unit, Ma
+Substance: maximum depositional age, uppermost sedimentary unit
+Time: Mesoproterozoic
+Location: Gondwana
+This Early Devonian metamorphic event was followed by a subsequent retrograde amphibolite-facies metamorphism at 390–380 Ma (Dallmeyer et al1991, 1997; Valverde Vaquero & Ferna´ndez 1996).
+Key words: Early Devonian, metamorphic event, subsequent retrograde amphibolite-facies metamorphism, 390–380 Ma, Dallmeyer, Valverde Vaquero, Ferna´ndez
+Substance: metamorphic event, subsequent retrograde amphibolite-facies metamorphism
+Time: Early Devonian, 390–380 Ma
+Location: 
+This magmatism reflects the Ordovician rifting (Ribeiro & Floor 1987; Pin et al1992), and is coeval with that found in the autochthon, suggesting that the basal units formed part of the northern Gondwana platform
+Key words: magmatism reflects, Ordovician, Ribeiro, Floor, Pin, basal units, Gondwana
+Substance: 
+Time: Ordovician
+Location: Gondwana
+1987) represents a relatively distal part of the Gondwanan continental margin, and consists of Ordovician to Devonian sedimentary sequences similar to those of the autochthon, and younger synorogenic flysch deposits (Pereira et al1999; Gonza´lez Clavijo & Mart´ınez Catala´n, 2002)
+Key words: distal part, Gondwanan, Ordovician, Devonian, sedimentary sequences, synorogenic flysch deposits, Pereira, Gonza´lez Clavijo, Mart´ınez Catala´n
+Substance: sedimentary sequences
+Time: Ordovician, Devonian
+Location: 
+In Terena, their age is Early Carboniferous (Schermerhorn 1971) and includes Tournaisian–Vise´an fauna (Giese et al1994), although Early Devonian fauna and flora have been reported in Portugal (Pereira et al
+Key words: Terena, Early Carboniferous, Schermerhorn, Tournaisian–Vise´an, Giese, Early Devonian, Portugal, Pereira
+Substance: Early Carboniferous
+Time: Early Carboniferous, Tournaisian–Vise´an, Early Devonian
+Location: Terena
+1994), although Early Devonian fauna and flora have been reported in Portugal (Pereira et al1998; Pic¸arra et al
+Key words: Early Devonian, Portugal, Pereira, Pic¸arra
+Substance: 
+Time: Early Devonian
+Location: 
+In Los Pedroches, their age ranges from Late Tournaisian to Early Namurian (Mart´ınez Poyatos 2002).To the east of the Braganc¸a complex (Fig
+Key words: Los Pedroches, Late Tournaisian, Early Namurian, Mart´ınez Poyatos, Braganc¸a, Fig
+Substance: 
+Time: Late Tournaisian
+Location: Los, Pedroches
+2), the synorogenic flysch deposits are called the San Vitero Formation in the Alcan˜ices synform, in Spain (Mart´ınez Garcı´a 1972, 1973) and Gimonde Formation in Portugal (Meireles 2000a, b), and have been dated as Late Devonian by plant debris (Teixeira & Pais 1973) and palynomorphs (Pereira et al1999)
+Key words: synorogenic flysch deposits, San Vitero Formation, Alcan˜ices, Spain, Mart´ınez Garcı´a, Gimonde Formation, Portugal, Meireles, Late Devonian, plant debris, Teixeira, Pais, Pereira
+Substance: San Vitero Formation, Gimonde Formation, plant debris
+Time: Late Devonian
+Location: Vitero, Formation
+They disconformably overlie the Silurian succession and are involved in the D2 imbricated thrust system separating the allochthonous complexes from the autochthon (Ribeiro & Ribeiro 1974; Antona &Mart´ınez Catala´n 1990; Gonza´lez Clavijo 1997; Meireles 2000a, b; Gonza´lez Clavijo & Mart´ınez Catala´n, 2002)
+Key words: Silurian, D2, thrust system, allochthonous complexes, Ribeiro, Ribeiro, Antona, Mart´ınez Catala´n, Gonza´lez Clavijo, Meireles, Gonza´lez Clavijo, Mart´ınez Catala´n
+Substance: allochthonous complexes
+Time: Silurian, D2
+Location: 
+The sampling area was chosen based on the presence of a continuous stratigraphic sequence from the Lower Ordovician to the Lower Devonian, the low-grade Variscan metamorphic overprint, the existence of synorogenic deposits and the relative proximity to the allochthonous complexesThe Courel, Truchas and Sil synclines (Fig
+Key words: continuous stratigraphic sequence, Lower Ordovician, Lower Devonian, Variscan, metamorphic overprint, synorogenic deposits, relative proximity, allochthonous complexesThe, Courel, Truchas, Sil, Fig
+Substance: continuous stratigraphic sequence, metamorphic overprint, allochthonous complexesThe
+Time: Lower Ordovician, Lower Devonian
+Location: 
+The first is a D1 isoclinal recumbent fold delineated by the Armorican Quartzite, whose core is occupied by Silurian carbonaceous slates and Lower Devonian detrital sedimentary rocks and limestones (Drot & Matte 1967; Matte 1968)The Truchas syncline, to the SE, is a broad (.20 km) D1 synclinorium formed by many individual recumbent folds
+Key words: D1, isoclinal recumbent fold, Armorican Quartzite, Silurian, carbonaceous slates, Lower Devonian, detrital sedimentary rocks, Drot, Matte, Matte, Truchas, .20 km, D1, individual recumbent folds
+Substance: Armorican Quartzite, carbonaceous slates, detrital sedimentary rocks
+Time: D1, Silurian, Lower Devonian, .20 km
+Location: 
+It is also outlined by the Armorican Quartzite, and cored by Middle–Upper Ordovician and Silurian pre-orogenic depositsThe Courel and Truchas synclines are separated from each other by a D1 anticline, which is recumbent in the west (Piornal anticline) and becomes steep to the east (Teleno anticline)
+Key words: Armorican Quartzite, Middle–Upper Ordovician, Silurian, pre-orogenic depositsThe, Courel, Truchas, D1, Piornal, Teleno
+Substance: Armorican Quartzite
+Time: Middle–Upper Ordovician, Silurian, D1
+Location: 
+The Sil syncline occurs in the NW continuation of the Truchas syncline, but this is a narrower (6 km) D3 structure at whose core a synorogenic Carboniferous flysch, the San Clodio Formation, occursFigure 4 illustrates key stratigraphic columns, showing correlations among the synclines.
+Key words: Sil, syncline occurs, NW continuation, Truchas, D3, Carboniferous, San Clodio Formation, illustrates key stratigraphic columns
+Substance: Carboniferous, San Clodio Formation, illustrates key stratigraphic columns
+Time: D3, Carboniferous
+Location: 
+The succession starts with the Ollo de Sapo Formation, a Lower Ordovician thick volcanic and volcaniclastic sequence (Parga Pondal et al1964), and is followed by an alternation of pelites, sandstones and quartzites known as the Montes Slates (Riemer 1963), culminating in the Armorican Quartzite
+Key words: Ollo, Sapo Formation, Lower Ordovician, thick volcanic, volcaniclastic sequence, Parga Pondal, Montes Slates, Riemer, Armorican Quartzite
+Substance: Sapo Formation, volcaniclastic sequence, Montes Slates, Armorican Quartzite
+Time: Lower Ordovician
+Location: 
+1988), known as the Luarca Slates and, in the Truchas syncline, by the Casaio, Rozada´is and Losadilla Formations (Barros Lorenzo 1989), of Late Ordovician age (Caradoc–Ashgill; Pe´rez-Estau´n et al1990; Sarmiento et al
+Key words: Luarca Slates, Truchas, Casaio, Rozada´is, Losadilla Formations, Barros Lorenzo, Late Ordovician, Caradoc–Ashgill, Pe´rez-Estau´n, Sarmiento
+Substance: Luarca Slates, Losadilla Formations, Caradoc–Ashgill
+Time: Late Ordovician
+Location: 
+The Silurian succession begins locally with a quartzite, and mostly consists of grey and black carbonaceous slates and carbonaceous cherts (lydites)It rest comformably on the Ordovician sequence in the eastern part of the Truchas syncline and slightly unconformably elsewhere (Gutie´rrez Marco et al
+Key words: Silurian, black carbonaceous slates, carbonaceous cherts, Ordovician, eastern part, Truchas, Gutie´rrez Marco
+Substance: black carbonaceous slates, carbonaceous cherts
+Time: Silurian, Ordovician
+Location: 
+It rest comformably on the Ordovician sequence in the eastern part of the Truchas syncline and slightly unconformably elsewhere (Gutie´rrez Marco et al1988)
+Key words: Ordovician, eastern part, Truchas, Gutie´rrez Marco
+Substance: 
+Time: Ordovician
+Location: 
+In the Courel and Pen˜alba synclines, the Silurian sequence is conformably overlain by a Lower Devonian succession, the Seceda Formation, beginning with a thin quartzite layer followed by arenaceous slates containing brachiopods, grey crinoidal limestones and grey slates (Drot & Matte 1967).Synorogenic turbidites consisting of pelites and greywackes, the San Clodio Formation, crop out along a NW–SE synformal structure in the Sil syncline (Fig
+Key words: Courel, Pen˜alba, Silurian, Lower Devonian, Seceda Formation, thin quartzite layer, arenaceous slates, grey crinoidal limestones, grey slates, Drot, Matte, .Synorogenic turbidites, San Clodio Formation, NW–SE, synformal structure, Sil, Fig
+Substance: Seceda Formation, thin quartzite layer, arenaceous slates, grey crinoidal limestones, grey slates, .Synorogenic turbidites, San Clodio Formation, synformal structure
+Time: Silurian, Lower Devonian
+Location: 
+Riemer (1966) decribed carbonaceous cherts at the base of the formation, reported thin coal veins, poorly preserved plant debris, and pebbles of quartzite, slate, gneiss and granite, and suggested a pre-Stephanian Carboniferous age, based on the fact that they were folded, but remarking that deformation is weaker here than in the underlying Ordovician slatesMatte (1968) discussed the deformation, and found no appreciable differences in metamorphism and cleavage development between the San Clodio Formation and older strata
+Key words: Riemer, carbonaceous cherts, thin coal veins, plant debris, Carboniferous, Ordovician, appreciable differences, cleavage development, San Clodio Formation
+Substance: carbonaceous cherts, thin coal veins, plant debris, Carboniferous, San Clodio Formation
+Time: Carboniferous, Ordovician
+Location: 
+According to him, the greywackes are not older than Late Devonian on the basis of the plant debris found.The San Clodio Formation rests usually on Middle to Upper Ordovician slates but often a few metres of Silurian carbonaceous slates and cherts occur between the turbidites and the underlying Ordovician units, and these rocks are commonly sheared and phyllonitized, indicating that they mark a detachment, which may be either a thrust fault or a gravity-driven structure (Barrera Morate et al
+Key words: According, Late Devonian, plant debris found.The, San Clodio Formation, Upper Ordovician, Silurian, carbonaceous slates, Ordovician, thrust fault, gravity-driven structure, Barrera Morate
+Substance: plant debris found.The, San Clodio Formation, carbonaceous slates, gravity-driven structure
+Time: Late Devonian, Upper Ordovician, Silurian, Ordovician
+Location: Clodio, Formation
+The San Clodio Formation rests usually on Middle to Upper Ordovician slates but often a few metres of Silurian carbonaceous slates and cherts occur between the turbidites and the underlying Ordovician units, and these rocks are commonly sheared and phyllonitized, indicating that they mark a detachment, which may be either a thrust fault or a gravity-driven structure (Barrera Morate et al1989)
+Key words: San Clodio Formation, Upper Ordovician, Silurian, carbonaceous slates, Ordovician, thrust fault, gravity-driven structure, Barrera Morate
+Substance: San Clodio Formation, carbonaceous slates, gravity-driven structure
+Time: Upper Ordovician, Silurian, Ordovician
+Location: 
+Furthermore, the lithologies of the San Clodio Formation are very similar to that of the San Vitero Formation in the Alcan˜ices synform, described in the previous section and which crops out on top of Silurian carbonaceous slates and cherts in thrust sheets subsequently folded and preserved in the core of a D3 syncline (Gonza´lez Clavijo & Mart´ınez Catala´n, 2002)It is worth noting that the presence of synorogenic sedimentary rocks in thrust sheets derived from more internal parts of the orogen seems to be a common feature in other parts of the Variscan Belt (Franke & Engel 1986).
+Key words: Furthermore, San Clodio Formation, San Vitero Formation, Alcan˜ices, previous section, Silurian, carbonaceous slates, thrust sheets, D3, Gonza´lez Clavijo, Mart´ınez Catala´n, synorogenic sedimentary rocks, thrust sheets, internal parts, Variscan, Franke, Engel
+Substance: San Clodio Formation, San Vitero Formation, carbonaceous slates, synorogenic sedimentary rocks
+Time: Silurian, D3
+Location: Variscan, Belt
+Three pre-orogenic quartzites (PO-1, 2, 3) and two synorogenic samples (SO-1, 2), a greywacke and a conglomerate, were collected from the Upper Ordovician–Lower Devonian succession and in the San Clodio Formation, respectivelyThe sampling locations and stratigraphic and structural positions are shown in Figures 3 and 4.
+Key words: pre-orogenic quartzites, PO-1, synorogenic samples, SO-1, Upper Ordovician–Lower Devonian, San Clodio Formation, structural positions, Figures, 3 and
+Substance: pre-orogenic quartzites, San Clodio Formation
+Time: PO-1, SO-1, Upper Ordovician–Lower Devonian, 3 and
+Location: Clodio, Formation
+According to its stratigraphic position, its age is Late Ordovician, most probably Ashgill (Sarmiento et al1999).
+Key words: According, stratigraphic position, Late Ordovician, Ashgill, Sarmiento
+Substance: stratigraphic position, Ashgill
+Time: Late Ordovician
+Location: 
+PO-2 is a quartzite at the base of the Silurian succession, also in the Truchas synclineIt is a medium-grained quartzite consisting of quartz, plagioclase, carbonate and subordinate tourmaline, zircon and opaque minerals
+Key words: PO-2, Silurian, Truchas, subordinate tourmaline, opaque minerals
+Substance: subordinate tourmaline, opaque minerals
+Time: PO-2, Silurian
+Location: 
+PO-3 is a quartzite at the base of the Devonian succession sampled to the north of Folgoso, in the Courel synclineIt is the most mature of the three pre-orogenic quartzites sampled, and consists of quartz and very Figure 3.
+Key words: PO-3, Devonian, Folgoso, Courel, pre-orogenic quartzites, Figure
+Substance: pre-orogenic quartzites
+Time: PO-3, Devonian
+Location: Folgoso
+The three pre-orogenic quartzites have yielded the same five age populations: Archaean (2.7–2.5 Ga), Palaeoproterozoic (2.2– 1.8 Ga), Mesoproterozoic (1.1–1 Ga), Neoproterozoic (990– 555 Ma), and three zircons with Palaeozoic ages of 537, 516 and 499 Ma (Fig6).
+Key words: pre-orogenic quartzites, age populations, Archaean, 2.7–2.5 Ga, Palaeoproterozoic, 2.2– 1.8 Ga, Mesoproterozoic, 1.1–1 Ga, Neoproterozoic, 990– 555 Ma, Palaeozoic, 516 and, 499 Ma, Fig6
+Substance: pre-orogenic quartzites
+Time: 2.7–2.5 Ga, Palaeoproterozoic, 2.2– 1.8 Ga, Mesoproterozoic, 1.1–1 Ga, Neoproterozoic, 990– 555 Ma, 516 and, 499 Ma
+Location: 
+The Precambrian age clusters are roughly the same as those found in the Upper Proterozoic, Lower Cambrian and Lower Ordovician sedimentary rocks of NW Iberia (Ferna´ndez-Sua´rezTable 2
+Key words: Precambrian, age clusters, Upper Proterozoic, Lower Cambrian, Lower Ordovician, sedimentary rocks, Iberia, Ferna´ndez-Sua´rezTable
+Substance: sedimentary rocks
+Time: Precambrian, Upper Proterozoic, Lower Cambrian, Lower Ordovician
+Location: 
+The transition from the Cadomian orogeny, recorded by the Neoproterozoic population, to the CambroOrdovician rifting, is mainly marked by the scarce 535–500 Ma population, which had not been previously detected in the Lower Cambrian arkoses, the Ollo de Sapo Formation (Ferna´ndezSua´rez et al2000b) or the Armorican Quartzite (Ferna´ndezSua´rez et al
+Key words: Cadomian, Neoproterozoic, CambroOrdovician, 535–500 Ma, Lower Cambrian, Ollo, Sapo Formation, Ferna´ndezSua´rez, Armorican Quartzite, Ferna´ndezSua´rez
+Substance: Sapo Formation, Armorican Quartzite
+Time: Neoproterozoic, CambroOrdovician, 535–500 Ma, Lower Cambrian
+Location: 
+The greywacke and the conglomerate from the San Clodio Formation have both yielded four zircon age populations: Archaean (2.9–2.5 Ga), Palaeoproterozoic (2.3–1.8 Ga), Neoproterozoic–Ordovician (660–470 Ma), and latest Silurian–Carboniferous (417–324 Ma)The main differences from the preorogenic samples are: (1) the absence of a Mesoproterozoic population; (2) the absence of an older Neoproterozoic population; (3) the continuity between the Neoproterozoic and Early Palaeozoic ages; (4) the younger Early Palaeozoic ages; (5) the presence of a Late Palaeozoic population recording Variscan events.
+Key words: San Clodio Formation, zircon age populations, Archaean, 2.9–2.5 Ga, Palaeoproterozoic, 2.3–1.8 Ga, Neoproterozoic–Ordovician, 660–470 Ma, Silurian–Carboniferous, 417–324 Ma, main differences, preorogenic samples, Mesoproterozoic, Neoproterozoic, Neoproterozoic, Early Palaeozoic, Early Palaeozoic, Late Palaeozoic, Variscan
+Substance: San Clodio Formation, zircon age populations, Silurian–Carboniferous
+Time: 2.9–2.5 Ga, Palaeoproterozoic, 2.3–1.8 Ga, Neoproterozoic–Ordovician, 660–470 Ma, Silurian–Carboniferous, 417–324 Ma, Mesoproterozoic, Neoproterozoic
+Location: 
+The main differences from the preorogenic samples are: (1) the absence of a Mesoproterozoic population; (2) the absence of an older Neoproterozoic population; (3) the continuity between the Neoproterozoic and Early Palaeozoic ages; (4) the younger Early Palaeozoic ages; (5) the presence of a Late Palaeozoic population recording Variscan events.In the conglomerate, which has a larger Late Palaeozoic population, the youngest zircon dated is concordant with a 324  7 Ma age
+Key words: main differences, preorogenic samples, Mesoproterozoic, Neoproterozoic, Neoproterozoic, Early Palaeozoic, Early Palaeozoic, Late Palaeozoic, Variscan, Late Palaeozoic, 324 7 Ma
+Substance: 
+Time: Mesoproterozoic, Neoproterozoic, 324 7 Ma
+Location: 
+All massifs were covered by a fairly continuous Palaeozoic detrital succession, ranging in age from the Cambrian or Early Ordovician to the Devonian, whereas large outcrops of basement older than the Neoproterozoic, which could have acted as supply areas, are absent.A salient feature of the data set is that the Precambrian age clusters of our samples are identical to those reported for the Neoproterozoic sedimentary rocks underlying these Palaeozoic sequences
+Key words: Palaeozoic, detrital succession, Cambrian, Early Ordovician, Devonian, large outcrops, Neoproterozoic, absent.A salient, Precambrian, age clusters, Neoproterozoic, sedimentary rocks, Palaeozoic
+Substance: sedimentary rocks
+Time: Cambrian, Early Ordovician, Devonian, Neoproterozoic, Precambrian
+Location: 
+A salient feature of the data set is that the Precambrian age clusters of our samples are identical to those reported for the Neoproterozoic sedimentary rocks underlying these Palaeozoic sequencesThis implies either the same source area, or a recycling of previous deposits
+Key words: Precambrian, age clusters, Neoproterozoic, sedimentary rocks, Palaeozoic, sequencesThis implies, source area, previous deposits
+Substance: sedimentary rocks
+Time: Precambrian, Neoproterozoic
+Location: 
+Some recycling was probably related to normal faulting and erosion of the elevated blocks, as has been proposed for the Upper Ordovician sequence in the study area (Marcos 1973; Pe´rez-Estau´n & Marcos 1981; Pe´rezEstau´n et al1990; Mart´ınez Catala´n et al
+Key words: Upper Ordovician, study area, Marcos, Pe´rez-Estau´n, Marcos, Pe´rezEstau´n, Mart´ınez Catala´n
+Substance: 
+Time: Upper Ordovician
+Location: 
+The marked scarcity of recycled Cambro-Ordovician zircons (representing granitoids and coeval volcanic rocks) and, in particular, the absence of 490–460 Ma ages that could represent the erosion of the Ollo de Sapo volcanic rocks argues against the reworking of older depositsThe fact that these rocks were not supplying detritus to the sedimentary basin is consistent with the geological observation that they always appear covered by the younger deposits, with little or no discontinuity until the Devonian.
+Key words: Cambro-Ordovician, coeval volcanic rocks, 490–460 Ma, Ollo, Sapo, volcanic rocks argues, depositsThe fact, sedimentary basin, geological observation, Devonian
+Substance: coeval volcanic rocks, volcanic rocks argues, sedimentary basin
+Time: Cambro-Ordovician, 490–460 Ma, Devonian
+Location: 
+The fact that these rocks were not supplying detritus to the sedimentary basin is consistent with the geological observation that they always appear covered by the younger deposits, with little or no discontinuity until the Devonian.Our data suggest a common source area for the Neoproterozoic and the pre-orogenic Palaeozoic sediments, deposited before the start of the Variscan orogeny
+Key words: sedimentary basin, geological observation, Devonian.Our, common source area, Neoproterozoic, Palaeozoic, Variscan
+Substance: sedimentary basin
+Time: Devonian.Our, Neoproterozoic
+Location: 
+Our data suggest a common source area for the Neoproterozoic and the pre-orogenic Palaeozoic sediments, deposited before the start of the Variscan orogenyThis area would have included the West African craton and the surrounding PanAfrican belts, with the addition of a terrane with Mesoproterozoic rocks or its erosion products, possibly an Amazonian or Oaxacan terrane, as suggested by Ferna´ndez-Sua´rez et al
+Key words: common source area, Neoproterozoic, Palaeozoic, Variscan, orogenyThis area, African, PanAfrican, Mesoproterozoic, erosion products, Amazonian, Oaxacan, Ferna´ndez-Sua´rez
+Substance: erosion products
+Time: Neoproterozoic, Mesoproterozoic
+Location: 
+This area would have included the West African craton and the surrounding PanAfrican belts, with the addition of a terrane with Mesoproterozoic rocks or its erosion products, possibly an Amazonian or Oaxacan terrane, as suggested by Ferna´ndez-Sua´rez et al(2002c)
+Key words: African, PanAfrican, Mesoproterozoic, erosion products, Amazonian, Oaxacan, Ferna´ndez-Sua´rez
+Substance: erosion products
+Time: Mesoproterozoic
+Location: 
+The absence of a Mesoproterozoic population in the synorogenic samples indicates that the underlying Palaeozoic and Upper Proterozoic sediments did not supply significant detritus to the San Clodio FormationFurthermore, although the Ordovician population matches that found in the Ollo de Sapo Formation (490–460 Ma; Ferna´ndez-Sua´rez et al
+Key words: Mesoproterozoic, synorogenic samples, Palaeozoic, Upper Proterozoic, significant detritus, San Clodio FormationFurthermore, Ordovician, population matches, Ollo, Sapo Formation, 490–460 Ma, Ferna´ndez-Sua´rez
+Substance: San Clodio FormationFurthermore, Sapo Formation
+Time: Mesoproterozoic, Upper Proterozoic, Ordovician, 490–460 Ma
+Location: Clodio
+Furthermore, although the Ordovician population matches that found in the Ollo de Sapo Formation (490–460 Ma; Ferna´ndez-Sua´rez et al2000b), the lack of 1.1– 0.9 Ga zircons also indicates that this formation did not feed the synorogenic deposits.
+Key words: Furthermore, Ordovician, population matches, Ollo, Sapo Formation, 490–460 Ma, Ferna´ndez-Sua´rez, 1.1– 0.9 Ga, synorogenic deposits
+Substance: Sapo Formation
+Time: Ordovician, 490–460 Ma, 1.1– 0.9 Ga
+Location: 
+The only known potential source whose age spectrum fits the zircon ages of the San Clodio Formation is the allochthonous complexes, where the uppermost low-grade metasedimentary succession of the Ordenes Complex includes 2.5–2.4, 2.1– 1.9 Ga and 610–480 Ma age clusters and lacks the Mesoproterozoic and the Early Neoproterozoic populations (Ferna´ndezSua´rez et al2003)
+Key words: potential source, age spectrum, zircon ages, San Clodio Formation, allochthonous complexes, uppermost low-grade metasedimentary succession, Ordenes Complex, 2.1– 1.9 Ga, 610–480 Ma, age clusters, Mesoproterozoic, Early Neoproterozoic, Ferna´ndezSua´rez
+Substance: zircon ages, San Clodio Formation, allochthonous complexes, uppermost low-grade metasedimentary succession
+Time: 2.1– 1.9 Ga, 610–480 Ma, Mesoproterozoic, Early Neoproterozoic
+Location: 
+1999), whereas younger Ordovician ages fit those of granitic and peralkaline orthogneisses of the basal units (Van Calsteren et al1979; Garc´ıa Garzo´n et al
+Key words: Ordovician, peralkaline orthogneisses, basal units, Van Calsteren, Garc´ıa Garzo´n
+Substance: 
+Time: Ordovician
+Location: 
+Late Silurian and Devonian ages between 417 and 360 Ma may reflect the exhumation of medium- to high-grade rocks of many of the allochthonous units (Van Calsteren et al1979; Dallmeyer et al
+Key words: Late Silurian, Devonian, 417 and, 360 Ma, high-grade rocks, allochthonous units, Van Calsteren, Dallmeyer
+Substance: high-grade rocks, allochthonous units
+Time: Late Silurian, Devonian, 417 and, 360 Ma
+Location: 
+Finally, Early to Mid-Carboniferous zircons (355–324 Ma) may be derived from rocks with high-temperature metamorphism and migmatization of comparable age found in some basal units (346 Ma; Abati & Dunning, 2002) and possibly also fromThe relationship between synorogenic sedimentation and thrusting of the allochthonous complexes was described by Gonza´lez Clavijo & Mart´ınez Catala´n (2002), and is sketched in Figure 7
+Key words: Early, Mid-Carboniferous, 355–324 Ma, high-temperature metamorphism, comparable age, basal units, 346 Ma, Abati, Dunning, fromThe relationship, synorogenic sedimentation, allochthonous complexes, Gonza´lez Clavijo, Mart´ınez Catala´n, Figure
+Substance: Mid-Carboniferous, comparable age, synorogenic sedimentation, allochthonous complexes
+Time: Mid-Carboniferous, 355–324 Ma, 346 Ma
+Location: 
+The complexes were stacked during the Devonian in an accretionary wedge to the west or NW of the Rheic oceanic basin (Mart´ınez Catala´n et al1997)
+Key words: Devonian, accretionary wedge, Rheic, oceanic basin, Mart´ınez Catala´n
+Substance: 
+Time: Devonian
+Location: 
+If the Gimonde Formation has a Late Devonian age (Pereira et al1999), the Late Vise´an–Early Namurian age of the San Clodio Formation would confirm the progradation of the deformation to the east, with the youngest deposits cropping out far from the allochthonous complexes and forming part of the lowermost imbricates.
+Key words: Gimonde Formation, Late Devonian, Pereira, Late Vise´an–Early Namurian, San Clodio Formation, allochthonous complexes, lowermost imbricates
+Substance: Gimonde Formation, San Clodio Formation, allochthonous complexes, lowermost imbricates
+Time: Late Devonian
+Location: 
+Five zircon age populations have been found in Upper Ordovician to Lower Devonian quartzites of the autochthonous pre-orogenic sequences of NW Iberian Massif: Archaean (2.8–2.5 Ga), Palaeoproterozoic (2.3–1.8 Ga), Mesoproterozoic (1.1–1 Ga), Neoproterozoic (990–555 Ma) and Palaeozoic (535–500 Ma)All but the last age cluster had been previously reported in Neoproterozoic, Lower Cambrian and Lower Ordovician sedimentary rocks in the same area of NW Spain
+Key words: zircon age populations, Upper Ordovician, Lower Devonian, autochthonous pre-orogenic sequences, Iberian Massif, Archaean, 2.8–2.5 Ga, Palaeoproterozoic, 2.3–1.8 Ga, Mesoproterozoic, 1.1–1 Ga, Neoproterozoic, 990–555 Ma, Palaeozoic, 535–500 Ma, age cluster, Neoproterozoic, Lower Cambrian, Lower Ordovician, sedimentary rocks, Spain
+Substance: zircon age populations, autochthonous pre-orogenic sequences, sedimentary rocks
+Time: Upper Ordovician, Lower Devonian, 2.8–2.5 Ga, Palaeoproterozoic, 2.3–1.8 Ga, Mesoproterozoic, 1.1–1 Ga, Neoproterozoic, 990–555 Ma, 535–500 Ma, Lower Cambrian, Lower Ordovician
+Location: NW
+All but the last age cluster had been previously reported in Neoproterozoic, Lower Cambrian and Lower Ordovician sedimentary rocks in the same area of NW Spain(Ferna´ndez-Sua´rez et al
+Key words: age cluster, Neoproterozoic, Lower Cambrian, Lower Ordovician, sedimentary rocks, Spain, Ferna´ndez-Sua´rez
+Substance: sedimentary rocks
+Time: Neoproterozoic, Lower Cambrian, Lower Ordovician
+Location: 
+2000b, 2002b), and the similarity of detrital zircon ages throughout the pre-orogenic sequences suggests a common source area from Neoproterozoic to Early Devonian timeOur data do not favour the existence of Armorica as a separate microplate
+Key words: detrital zircon ages, pre-orogenic sequences suggests, common source area, Neoproterozoic, Early Devonian, timeOur data, Armorica, separate microplate
+Substance: detrital zircon ages, separate microplate
+Time: Neoproterozoic, Early Devonian
+Location: Armorica
+Instead, they indicate that the Iberian Massif remained attached to the northern margin of Gondwana until the Early Devonian and support the palaeomagnetic data yielding a relatively low palaeolatitude for Gondwana in the Devonian (Fig1a).
+Key words: Iberian Massif, Gondwana, Early Devonian, palaeomagnetic data, Gondwana, Devonian, Fig1a
+Substance: 
+Time: Early Devonian, Devonian
+Location: Gondwana
+Synorogenic greywackes and conglomerates have yielded four zircon age populations: Archaean (2.9–2.5 Ga), Palaeoproterozoic (2.3–1.8 Ga), Neoproterozoic–Ordovician (660–470 Ma) and latest Silurian–Carboniferous (417–324 Ma)The youngest concordant zircon (324 Ma) establishes a maximum limit for the depositional age of the San Clodio Formation but, taking into account its synorogenic character, this age probably reflects very closely the time of sedimentation
+Key words: Synorogenic, zircon age populations, Archaean, 2.9–2.5 Ga, Palaeoproterozoic, 2.3–1.8 Ga, Neoproterozoic–Ordovician, 660–470 Ma, Silurian–Carboniferous, 417–324 Ma, concordant zircon, 324 Ma, maximum limit, depositional age, San Clodio Formation, synorogenic character
+Substance: zircon age populations, Silurian–Carboniferous, concordant zircon, depositional age, San Clodio Formation
+Time: 2.9–2.5 Ga, Palaeoproterozoic, 2.3–1.8 Ga, Neoproterozoic–Ordovician, 660–470 Ma, Silurian–Carboniferous, 417–324 Ma, 324 Ma
+Location: Clodio, Formation
+Early Ordovician orogenic event in Galicia (NW Spain): evidence from U–Pb ages in the uppermost unit of the Ordenes ComplexEarth and Planetary Science Letters, 165, 213–228.
+Key words: Early Ordovician, orogenic event, Galicia, Spain, U–Pb, uppermost unit, Ordenes ComplexEarth, Planetary, Science Letters
+Substance: 
+Time: Early Ordovician
+Location: Galicia, NW
+U–Pb dating of Sisargas orthogneisses (Galicia, NW-Spain): new evidence of a Precambrian basement in the northwestern part of the Iberian PeninsulaNeues Jahrbuch fu¨r Mineralogie, 8, 355–368.
+Key words: U–Pb, Sisargas, Galicia, NW-Spain, new evidence, Precambrian, northwestern part, Iberian PeninsulaNeues Jahrbuch, Mineralogie
+Substance: Sisargas, Mineralogie
+Time: Precambrian
+Location: Galicia
+Palaeomagnetism of Devonian ring complexes from the Bayuda Desert, Sudan—new constraints on Gondwana’s apparent polar wander pathGeophysical Journal International, 104, 635–646.
+Key words: Palaeomagnetism, Devonian, ring complexes, Bayuda, Sudan—new, Gondwana, ’ s, apparent polar wander pathGeophysical Journal
+Substance: apparent polar wander pathGeophysical Journal
+Time: Devonian
+Location: Bayuda, Desert, Gondwana
+Precambrian terranes of Benin–Nigeria and northeast Brazil and the Late Proterozoic South Atlantic fitIn: Dallmeyer, R.D
+Key words: Precambrian, Benin–Nigeria, Brazil, Late Proterozoic, Atlantic, Dallmeyer, R.D
+Substance: 
+Time: Precambrian, Late Proterozoic
+Location: 
+(ed.) Terranes in the Circum-Atlantic Paleozoic OrogensGeological Society of America, Special Papers, 230, 145–158.
+Key words: Terranes, Circum-Atlantic Paleozoic OrogensGeological, America, Papers
+Substance: 
+Time: Circum-Atlantic Paleozoic OrogensGeological
+Location: 
+Sobre la presencia de capas del Devoniano en el l´ımite de Galicia y Leo´n (NW de Espan˜a)Notas y Comunicaciones del Instituto Geolo´gico y Minero de Espan˜a, 93, 87–92.
+Key words: Sobre, capas del, Devoniano, el l´ımite, Galicia, Leo´n, Espan˜a, Notas, Comunicaciones, Instituto Geolo´gico, Minero, Espan˜a
+Substance: 
+Time: Devoniano
+Location: 
+Crustal sources in Lower Paleozoic rocks from NW Iberia: insights from laser ablation U–Pb ages of detrital zirconsJournal of the Geological Society, London, 156, 1065–1068.
+Key words: Crustal, Lower Paleozoic, Iberia, laser ablation, U–Pb, detrital zirconsJournal, Geological, London
+Substance: Crustal, laser ablation, detrital zirconsJournal
+Time: Lower Paleozoic
+Location: 
+New ideas on the Proterozoic–Early Paleozoic evolution of NW Iberia: insights from U–Pb detrital zircon agesPrecambrian Research, 102, 185–206.
+Key words: New ideas, Proterozoic–Early Paleozoic, Iberia, U–Pb, detrital zircon agesPrecambrian Research
+Substance: detrital zircon agesPrecambrian Research
+Time: Proterozoic–Early Paleozoic, detrital zircon agesPrecambrian Research
+Location: 
+Precambrian Research, 102, 185–206.Ferna´ndez-Sua´rez, J., Corfu, F
+Key words: Precambrian, J., Corfu
+Substance: 
+Time: Precambrian
+Location: Corfu
+The importance of along-margin terrane transport in northern Gondwana: insights from detrital zircon parentage in Neoproterozoic rocks from Iberia and BrittanyEarth and Planetary Science Letters, 204, 75–88.
+Key words: along-margin terrane transport, Gondwana, detrital zircon parentage, Neoproterozoic, Iberia, BrittanyEarth, Planetary, Science Letters
+Substance: detrital zircon parentage
+Time: Neoproterozoic
+Location: Gondwana
+Arenig to Llandovery faunal distributions in the CaledonidesIn: Harris, A.L
+Key words: Arenig, Llandovery, faunal distributions, CaledonidesIn, Harris, A.L
+Substance: 
+Time: Llandovery
+Location: 
+(eds) Variscan–Appalachian Dynamics: the Building of the Late Paleozoic BasementGeological Society of America, Special Papers, 364, 17–35.
+Key words: Variscan–Appalachian Dynamics, Late Paleozoic BasementGeological, America, Papers
+Substance: Variscan–Appalachian Dynamics
+Time: Late Paleozoic BasementGeological
+Location: 
+An Early Paleozoic analogue of a long-lived active marginTectonophysics, 365, 221–232.
+Key words: Early Paleozoic, active marginTectonophysics
+Substance: 
+Time: Early Paleozoic
+Location: 
+Development of the early Paleozoic Pacific margin of Gondwana from detrital-zircon ages across the Delamerian orogenGeology, 26, 243–246.
+Key words: Paleozoic, Gondwana, detrital-zircon ages, Delamerian
+Substance: detrital-zircon ages
+Time: Paleozoic
+Location: Paleozoic, Pacific, Gondwana
+Paleomagnetism of Lower–Middle Devonian and Upper Proterozoic–Cambrian(?) rocks from Mejeria (Mauritania, West Africa)In: Van der Voo, R., Scotese, C.R
+Key words: Paleomagnetism, Lower–Middle Devonian, Upper Proterozoic–Cambrian, Mejeria, Mauritania, Africa, Van, Voo, R., Scotese, C.R
+Substance: 
+Time: Lower–Middle Devonian, Upper Proterozoic–Cambrian
+Location: Mejeria, West, Africa, C.R
+(eds) Plate Reconstruction from Paleozoic PaleomagnetismAmerican Geophysical Union, Geodynamics Series, 12, 99–115.
+Key words: Plate, Paleozoic PaleomagnetismAmerican Geophysical, Geodynamics
+Substance: Paleozoic PaleomagnetismAmerican Geophysical, Geodynamics
+Time: Paleozoic PaleomagnetismAmerican Geophysical
+Location: Geophysical
+Precambrian U–Pb zircon ages from Western Galicia (NW Spain)Earth-Science Reviews, 16, 313–316.
+Key words: Precambrian U–Pb, zircon ages, Galicia, Spain, Earth-Science Reviews
+Substance: zircon ages
+Time: Precambrian U–Pb
+Location: Western, Galicia
+Outline of Upper Precambrian and Lower Paleozoic evolution of the Iberian Peninsula according to U–Pb dating of zirconsEarth and Planetary Science Letters, 74, 325–337.
+Key words: Outline, Upper Precambrian, Lower Paleozoic, Iberian Peninsula, U–Pb, Planetary, Science Letters
+Substance: 
+Time: Upper Precambrian, Lower Paleozoic
+Location: Iberian, Peninsula
+Las Series del Paleozoico Inferior y la estructura herciniana del occidente de Asturias (NW de Espan˜a)Trabajos de Geolog´ıa de la Universidad de Oviedo, 6.
+Key words: Las, Series del, Paleozoico Inferior, estructura herciniana del occidente, Asturias, Espan˜a, Trabajos, Geolog´ıa, Universidad, Oviedo
+Substance: 
+Time: Paleozoico Inferior
+Location: 
+Lower Paleozoic extensional tectonics in the limit between the West Asturian–Leonese and Central Iberian Zones of the Variscan Fold-Belt in NW SpainGeologische Rundschau, 81, 545–560.
+Key words: Lower Paleozoic, extensional tectonics, Asturian–Leonese, Iberian Zones, Variscan Fold-Belt, SpainGeologische Rundschau
+Substance: 
+Time: Lower Paleozoic
+Location: 
+Variscan exhumation of a subducted Paleozoic continental margin: the basal units of the Ordenes Complex, Galicia, NW SpainTectonics, 15, 106–121.
+Key words: Variscan, Paleozoic, basal units, Ordenes Complex, Galicia, SpainTectonics
+Substance: 
+Time: Paleozoic
+Location: Galicia
+Supercontinent model for the contrasting character of Late Proterozoic orogenic beltsGeology, 19, 469–472.
+Key words: Supercontinent, Late Proterozoic, orogenic beltsGeology
+Substance: 
+Time: Late Proterozoic
+Location: 
+Sedimentological evidence for a limited separation between Armorica and Gondwana during the Early OrdovicianGeology, 18, 303–306.
+Key words: Sedimentological, Armorica, Gondwana, Early OrdovicianGeology
+Substance: Sedimentological
+Time: Early OrdovicianGeology
+Location: Armorica, Gondwana
+U–Pb geochronology of the Upper Proterozoic–Lower Paleozoic geodynamic evolution in the Ossa–Morena Zone (SW Iberia): constraints on the timing of the Cadomian orogenyPhD thesis, University of Zurich.
+Key words: U–Pb, Upper Proterozoic–Lower Paleozoic, geodynamic evolution, Ossa–Morena, Iberia, Cadomian, orogenyPhD thesis, Zurich
+Substance: geodynamic evolution
+Time: Upper Proterozoic–Lower Paleozoic
+Location: 
+(eds) PreMesozoic Geology of IberiaSpringer, Berlin, 334–347.
+Key words: PreMesozoic Geology, IberiaSpringer, Berlin
+Substance: 
+Time: PreMesozoic Geology
+Location: 
+A single Devonian subduction event for the HP/HT metamorphism of the Cabo Ortegal complex within the Iberian MassifTectonophysics, 332, 359–385.
+Key words: Devonian, subduction event, HP/HT, Cabo Ortegal, Iberian MassifTectonophysics
+Substance: 
+Time: Devonian
+Location: Cabo, Ortegal
+Early Paleozoic paleobiogeography of the Variscan regionsTectonophysics, 11, 193–213.
+Key words: Early Paleozoic, Variscan
+Substance: 
+Time: Early Paleozoic
+Location: 
+Upper Devonian palynomorphs of the NE sector of Tra´s-os-Montes (Central Iberian Zone)XV Reunio´n de Geologı´a del Oeste Peninsular–International Meeting on Cadomian Orogens, Badajoz, Spain, Extended Abstracts, 201–206.
+Key words: Upper Devonian, NE sector, Tra´s-os-Montes, Iberian, XV Reunio´n, Geologı´a, Oeste Peninsular–International Meeting, Cadomian Orogens, Badajoz, Spain, Extended Abstracts
+Substance: 
+Time: Upper Devonian
+Location: 
+(eds) PreMesozoic Geology of IberiaSpringer, Berlin.
+Key words: PreMesozoic Geology, IberiaSpringer, Berlin
+Substance: 
+Time: PreMesozoic Geology
+Location: 
+Paleozoic evolution of the Armorica plate on the basis of paleomagnetic dataGeology, 12, 579–582.
+Key words: Paleozoic, Armorica, paleomagnetic dataGeology
+Substance: 
+Time: Paleozoic
+Location: Armorica
+Mantle-derived, early Paleozoic A-type metagranitoids from the NW Iberian Massif: Nd isotope and trace-element constraintsBulletin de la Societe´ Ge´ologique de France, 163, 483–494.
+Key words: Mantle-derived, Paleozoic A-type, Iberian Massif, Nd, trace-element constraintsBulletin, Societe´ Ge´ologique, France
+Substance: 
+Time: Paleozoic A-type
+Location: 
+Early Devonian supra-subduction zone ophiolite related to incipient collisional processes in the Western Variscan Belt: the Sierra de Careo´n unit,Ordenes Complex, Galicia
+Key words: Early Devonian, supra-subduction zone ophiolite, incipient collisional processes, Variscan, Sierra, Careo´n, Ordenes Complex, Galicia
+Substance: 
+Time: Early Devonian
+Location: Sierra
+(eds) Variscan–Appalachian Dynamics: the Building of the Late Paleozoic BasementGeological Society of America, Special Papers, 364, 57–72.
+Key words: Variscan–Appalachian Dynamics, Late Paleozoic BasementGeological, America, Papers
+Substance: Variscan–Appalachian Dynamics
+Time: Late Paleozoic BasementGeological
+Location: 
+Upper Silurian trilobites of Bohemian affinities from the West Asturian–Leonese Zone (NW Spain)Geobios, 26, 361–376.
+Key words: Upper Silurian, Bohemian, Asturian–Leonese, Spain, Geobios
+Substance: 
+Time: Upper Silurian
+Location: 
+(eds) PreMesozoic Geology of IberiaSpringer, Berlin, 399–409.
+Key words: PreMesozoic Geology, IberiaSpringer, Berlin
+Substance: 
+Time: PreMesozoic Geology
+Location: 
+(eds) Variscan– Appalachian Dynamics: the Building of the Late Paleozoic BasementGeological Society of America, Special Papers, 364, 1–15.
+Key words: Variscan– Appalachian Dynamics, Late Paleozoic BasementGeological, America, Papers
+Substance: Variscan– Appalachian Dynamics
+Time: Late Paleozoic BasementGeological
+Location: 
+Paleogeographic evolution of southwestern Europe during Early Paleozoic timesIn: McKerrow, W.S
+Key words: Paleogeographic, Europe, Early Paleozoic, McKerrow, W.S
+Substance: Paleogeographic
+Time: Early Paleozoic
+Location: Europe, W.S
+Tectonosedimentary evolution of a Carboniferous foreland basin related with arcuated fold–thrust beltThe example of NW Iberian Variscan Belt
+Key words: Tectonosedimentary, Carboniferous, foreland basin, fold–thrust beltThe example, Iberian Variscan
+Substance: Tectonosedimentary, Carboniferous
+Time: Carboniferous
+Location: 
+Comptes Rendus XII International Congress on Carboniferous–Permian, Buenos Aires, 1, 435–445.Rubio Pascual, F.J., Arenas, R., Dı´az Garcı´a, F., Martı´nez Catala´n, J.R
+Key words: Comptes Rendus XII, Congress, Carboniferous–Permian, Buenos Aires, 435–445.Rubio Pascual, F.J., Arenas, R., Dı´az Garcı´a, F., Martı´nez Catala´n, J.R
+Substance: Carboniferous–Permian
+Time: Carboniferous–Permian, 435–445.Rubio Pascual
+Location: Permian
+(eds) Variscan–Appalachian Dynamics: the Building of the Late Paleozoic BasementGeological Society of America, Special Papers, 364, 105–124.
+Key words: Variscan–Appalachian Dynamics, Late Paleozoic BasementGeological, America, Papers
+Substance: Variscan–Appalachian Dynamics
+Time: Late Paleozoic BasementGeological
+Location: 
+Origin and evolution of the Paleozoic Cabo Ortegal ultramafic–mafic complex (NW Spain): U–Pb, Rb–Sr and Pb–Pb isotope dataChemical Geology, 129, 281–304.
+Key words: Origin, Paleozoic Cabo Ortegal, Spain, U–Pb, Rb–Sr, Pb–Pb, isotope dataChemical, Geology
+Substance: isotope dataChemical
+Time: Paleozoic Cabo Ortegal
+Location: 
+Paleozoic paleomagnetism and the assembly of PangeaIn:
+Key words: Paleozoic, PangeaIn
+Substance: 
+Time: Paleozoic
+Location: 
+(eds) Plate Reconstruction from Paleozoic PaleomagnetismAmerican Geophysical Union, Geodynamic Series, 12, 1–10.
+Key words: Plate, Paleozoic PaleomagnetismAmerican Geophysical, Geodynamic
+Substance: Paleozoic PaleomagnetismAmerican Geophysical, Geodynamic
+Time: Paleozoic PaleomagnetismAmerican Geophysical
+Location: Geophysical
+New Early Devonian paleomagnetic data from NW France: paleogeography and implications for the Armorican microplate hypothesisJournal of Geophysical Research, 104, 2831–2839.
+Key words: Early Devonian, paleomagnetic data, France, Armorican, microplate hypothesisJournal, Geophysical
+Substance: Geophysical
+Time: Early Devonian
+Location: 
+New U–Pb ages for Early Ordovician magmatism in Central SpainJournal of the Geological Society, London, 157, 15–26.
+Key words: U–Pb, Early Ordovician, SpainJournal, Geological, London
+Substance: 
+Time: Early Ordovician
+Location: 
+Isotopic dating of older elements (including the Cabo Ortegal mafic–ultramafic complex) in the Hercynian Orogen of NW Spain: manifestations of a presumed Early Paleozoic mantle-plumeChemical Geology, 24, 35–56.
+Key words: Isotopic, Cabo Ortegal, Hercynian Orogen, Spain, Early Paleozoic, Geology
+Substance: 
+Time: Early Paleozoic
+Location: Hercynian, Orogen, of, NW
+Paleozoic assembly of Pangea: a new plate tectonic model for the Taconic, Caledonian and Hercynian orogenies (abstract)EOS Transactions, American Geophysical Union, 60, 241.
+Key words: Paleozoic, Pangea, new plate tectonic model, Taconic, Caledonian, Hercynian, EOS Transactions, Geophysical
+Substance: Geophysical
+Time: Paleozoic
+Location: Taconic
+Pre-Mesozoic paleomagnetism and plate tectonicsAnnual Review of Earth and Planetary Sciences, 10, 191–220.
+Key words: Pre-Mesozoic, plate tectonicsAnnual, Review, Earth, Planetary, Sciences
+Substance: 
+Time: Pre-Mesozoic
+Location: 
+Paleozoic paleogeography of North America, Gondwana, and intervening displaced terranes: comparisons of paleomagnetism with paleoclimatology and biogeographical patternsGeological Society of America Bulletin, 100, 311–324.
+Key words: Paleozoic, America, Gondwana, biogeographical patternsGeological Society, America Bulletin
+Substance: biogeographical patternsGeological Society
+Time: Paleozoic
+Location: North, Gondwana
+Key words: 
+Substance: 
+Time: 
+Location: 

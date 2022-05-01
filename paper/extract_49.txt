@@ -1,0 +1,629 @@
+Cenozoic collapse of the eastern Uinta Mountains and drainage evolution of the Uinta Mountains regionAndres Aslan1, Marisa Boraas-Connors2, Douglas A
+Key words: Cenozoic, Uinta, Mountains, drainage evolution, Uinta, Mountains, Aslan1, Marisa Boraas-Connors2, Douglas
+Substance: 
+Time: Cenozoic, Aslan1, Marisa Boraas-Connors2
+Location: Uinta, Mountains
+Coupled detrital sanidine and zircon data, combined with sedimentological and stratigraphic observations, provide temporal constraints on the post-Laramide paleogeographic and structural evolution of the eastern Uinta Mountains region from the late Eocene to late Miocene (ca36–8 Ma)
+Key words: Coupled, detrital sanidine, zircon data, stratigraphic observations, temporal constraints, post-Laramide paleogeographic, structural evolution, Uinta, Mountains, Eocene, Miocene, Ma
+Substance: zircon data, stratigraphic observations, post-Laramide paleogeographic
+Time: Eocene, Miocene
+Location: Uinta, Mountains
+Maximum depositional ages (MDAs) calculated from detrital zircon U-Pb and  detrital sanidine 40Ar/39Ar ages indicate that the most significant Paleogene fluvial system in the region, represented by the Bishop Conglomerate, e xisted from 36 to 27 MaThe abundance of red sandstone and gray limestone clasts, paleocurrent directions, and the large number of Grenville-age detrital zircons suggest that the Uinta Mountain Group (UMG) facies of the Bishop Conglomerate are tributaries that flowed radially away from the crest of the Uinta Mountains
+Key words: Maximum, depositional ages, MDAs, detrital zircon, U-Pb, detrital sanidine, Paleogene, fluvial system, Bishop Conglomerate, 27 MaThe, red sandstone, gray limestone clasts, paleocurrent directions, large number, Grenville-age, detrital zircons, Uinta Mountain, UMG, Bishop Conglomerate, Uinta, Mountains
+Substance: depositional ages, detrital zircon, Bishop Conglomerate, red sandstone, gray limestone clasts, detrital zircons
+Time: Paleogene, 27 MaThe
+Location: Uinta, Mountains
+New MDAs of Browns Park Formation sediments that unconformably overlie Neoproterozoic UMG rocks in westernmost Browns Park provide evidence for a younger (12–8 Ma) phase of extensional collapse of the eastern Uinta Mountains that was associated with 10–20 km of northwestward-directed lengthening of the Browns Park grabenThese data are compatible with models for two stages of post-Laramide epeirogenic uplift of the Uinta Mountains region, including post–12 Ma tectonism that set the stage for subsequent integration of the Green and Colorado Rivers after 8 Ma.
+Key words: MDAs, Browns, Formation, Neoproterozoic UMG, Browns, 12–8 Ma, extensional collapse, Uinta, Mountains, Browns, Park grabenThese data, post-Laramide epeirogenic uplift, Uinta, Mountains, Ma, subsequent integration, Colorado Rivers, 8 Ma
+Substance: Formation, extensional collapse
+Time: Neoproterozoic UMG, 12–8 Ma, 8 Ma
+Location: Uinta, Mountains
+The northern boundary of the Colorado Plateau physiographic province (western USA) is the Precambrian-cored east-west–trending Uinta Mountains uplift that formed in the Laramide orogeny, ca70–50 Ma (Hansen, 1984, 1986; Bradley, 1995) (Fig
+Key words: northern boundary, Colorado Plateau, physiographic province, USA, Precambrian-cored, Uinta, Mountains, Laramide, Ma, Hansen, Bradley, Fig
+Substance: northern boundary, physiographic province
+Time: Precambrian-cored
+Location: Plateau, Uinta, Mountains
+Like the Kaibab uplift and Grand Canyon to the south, this uplift is a key physiographic barrier for understanding Cenozoic drainage evolution of the Colorado PlateauPowell (1876) found it enigmatic that the Green River cut a deep gorge (Canyon of Lodore) orthogonal to the Uinta Mountains uplift, and postulated that the river course predated the uplift (antecedence)
+Key words: Kaibab, Canyon, key physiographic barrier, Cenozoic, drainage evolution, Colorado PlateauPowell, Green River, deep gorge, Canyon, Lodore, Uinta, Mountains, river course
+Substance: key physiographic barrier
+Time: Cenozoic
+Location: Grand, Uinta, Mountains
+Since then, studies of the integration of the Green River and Colorado River systems have entertained more complex histories involving landscapes where modern river courses reflect linkage of internally drained basins and modification of paleoriver segments through a combination of piracy and downward integration (Blackwelder, 1934; Lucchitta, 1972; Pederson and Hadder, 2005; Aslan et al., 2014; Karlstrom et al., 2014; Kimbrough et al., 2015) coupled with Cenozoic uplift (Karlstrom et al., 2012).Reconstructing Cenozoic landscapes is commonly hampered by imprecise chronologies that rely on techniques such as paleomagnetostratigraphy, biostratigraphic correlation to land-mammal ages, and where available, radiometric dating of volcanic deposits
+Key words: Green River, Colorado, River systems, complex histories, modern river courses reflect linkage, paleoriver segments, downward integration, Blackwelder, Lucchitta, Pederson, Hadder, Aslan, Karlstrom, Kimbrough, Cenozoic, Karlstrom, Cenozoic, imprecise chronologies, biostratigraphic correlation, land-mammal ages, volcanic deposits
+Substance: biostratigraphic correlation
+Time: Cenozoic
+Location: Lucchitta
+Reconstructing Cenozoic landscapes is commonly hampered by imprecise chronologies that rely on techniques such as paleomagnetostratigraphy, biostratigraphic correlation to land-mammal ages, and where available, radiometric dating of volcanic depositsThe application of detrital zircon U-Pb geochronology has provided another tool to constrain the ages of terrestrial clastic deposits (e.g., Stewart et al., 2001; Hodges et al., 2005; Gehrels et al., 2011; Fan et al., 2015), and newly emerging techniques such as detrital sanidine 40Ar/39Ar geochronology offer potentially even more precise means for establishing temporal frameworks for interpreting the provenance of terrestrial sediments and landscape evolution (Hereford et al., 2016; Karlstrom et al., 2017)
+Key words: Reconstructing Cenozoic, imprecise chronologies, biostratigraphic correlation, land-mammal ages, volcanic depositsThe application, detrital zircon, U-Pb, terrestrial clastic deposits, Stewart, Hodges, Gehrels, Fan, detrital sanidine, temporal frameworks, terrestrial sediments, landscape evolution, Hereford, Karlstrom
+Substance: biostratigraphic correlation, detrital zircon, terrestrial clastic deposits, terrestrial sediments
+Time: Reconstructing Cenozoic
+Location: 
+Within the western United States, Laramide intermontane basins are important archives of Cenozoic landscape evolution (Lilligraven and Ostresh, 1988; Smith et al., 2003, 2008; McMillan et al., 2006), and these detrital dating techniques provide excellent opportunities to improve our understanding of paleogeography.The Cenozoic geologic history of southwestern Wyoming, northeastern Utah, and northwestern Colorado (Fig
+Key words: States, Laramide, intermontane basins, important archives, Cenozoic, landscape evolution, Lilligraven, Ostresh, Smith, McMillan, excellent opportunities, Cenozoic, geologic history, Wyoming, Colorado, Fig
+Substance: 
+Time: Cenozoic
+Location: Ostresh
+The Cenozoic geologic history of southwestern Wyoming, northeastern Utah, and northwestern Colorado (Fig1) provides the framework for studying the evolution of the upper Green River system beginning with Lakes Gosiute and Uinta during the Eocene (Bradley, 1936; Hansen, 1969a, 1969b, 1984, 1986; Smith et al., 2008) (Fig
+Key words: Cenozoic, geologic history, Wyoming, Colorado, Fig1, upper Green River system, Lakes Gosiute, Uinta, Eocene, Bradley, Hansen, Smith, Fig
+Substance: 
+Time: Cenozoic, Eocene
+Location: Uinta
+1) provides the framework for studying the evolution of the upper Green River system beginning with Lakes Gosiute and Uinta during the Eocene (Bradley, 1936; Hansen, 1969a, 1969b, 1984, 1986; Smith et al., 2008) (Fig2A)
+Key words: upper Green River system, Lakes Gosiute, Uinta, Eocene, Bradley, Hansen, Smith, Fig2A
+Substance: 
+Time: Eocene
+Location: Uinta
+As shown in Figure 2B, Hansen (1986) suggested that the Eocene lakes were replaced by an Oligocene eastward-flowing river system (ancestral Platte River) originating in the mountains of southwestern Wyoming and northeastern UtahIn this model, subsequent Miocene collapse
+Key words: Figure, Hansen, Eocene, Oligocene, river system, Platte, Wyoming, UtahIn, Miocene
+Substance: 
+Time: Eocene, Oligocene, Miocene
+Location: Platte
+In this model, subsequent Miocene collapseof the eastern Uinta Mountains and the formation of the Browns Park graben set the stage for drainage reorganization and capture of the ancestral eastward-flowing Platte River (Fig
+Key words: Miocene, Uinta, Mountains, Browns, Park graben, drainage reorganization, Platte, Fig
+Substance: 
+Time: Miocene
+Location: Uinta, Mountains, Platte
+Details of the transition from Eocene lakes to the modern Green River system, however, remain poorly understoodIn particular, the ages of key Cenozoic deposits, the pathways of ancient rivers, and the precise timing of the collapse of the eastern Uinta Mountains remain poorly constrained (Hansen, 1986; Pederson and Hadder, 2005).
+Key words: Details, Eocene, modern Green River system, Cenozoic, ancient rivers, precise timing, Uinta, Mountains, Hansen, Pederson, Hadder
+Substance: 
+Time: Eocene, Cenozoic
+Location: Uinta, Mountains
+In particular, the ages of key Cenozoic deposits, the pathways of ancient rivers, and the precise timing of the collapse of the eastern Uinta Mountains remain poorly constrained (Hansen, 1986; Pederson and Hadder, 2005).The purpose of this paper is to integrate sedimentologic and stratigraphic observations, provenance information, and age constraints provided by new detrital zircon and sanidine data to improve our understanding of Cenozoic landscape evolution in the Uinta Mountains region
+Key words: Cenozoic, ancient rivers, precise timing, Uinta, Mountains, Hansen, Pederson, Hadder, .The purpose, stratigraphic observations, provenance information, age constraints, new detrital zircon, sanidine data, Cenozoic, landscape evolution, Uinta, Mountains
+Substance: stratigraphic observations, provenance information, new detrital zircon
+Time: Cenozoic
+Location: Uinta, Mountains
+The purpose of this paper is to integrate sedimentologic and stratigraphic observations, provenance information, and age constraints provided by new detrital zircon and sanidine data to improve our understanding of Cenozoic landscape evolution in the Uinta Mountains regionSpecifically, this study (1) provides new constraints on the timing of extensional collapse of the eastern Uinta Mountains, which set the stage for final integration of the Green River across the Uinta Mountains, (2) examines the Cenozoic fluvial record of the Uinta Mountains region and questions the interpretation of a late Eocene to Oligocene eastward-flowing ancestral Platte River system, and (3) highlights the prevalence of far-transported Oligocene–Miocene ash-fall grains and sediment reworking in the Bishop Conglomerate and Browns Park Formation, which has important implications for using detrital zircon and sanidine data for interpreting the provenance and depositional ages of clastic sediments that have accumulated during times of extensive volcanic activity.
+Key words: stratigraphic observations, provenance information, age constraints, new detrital zircon, sanidine data, Cenozoic, landscape evolution, Uinta, Mountains, new constraints, extensional collapse, Uinta, Mountains, final integration, Green River, Uinta, Mountains, Cenozoic, fluvial record, Uinta, Mountains, Eocene, Oligocene, Platte, River system, Oligocene–Miocene, ash-fall grains, Bishop Conglomerate, Browns, Formation, important implications, detrital zircon, sanidine data, depositional ages, clastic sediments, extensive volcanic activity
+Substance: stratigraphic observations, provenance information, new detrital zircon, extensional collapse, ash-fall grains, Bishop Conglomerate, Formation, detrital zircon, depositional ages, clastic sediments
+Time: Cenozoic, Eocene, Oligocene, Oligocene–Miocene
+Location: Uinta, Mountains, Platte
+Specifically, this study (1) provides new constraints on the timing of extensional collapse of the eastern Uinta Mountains, which set the stage for final integration of the Green River across the Uinta Mountains, (2) examines the Cenozoic fluvial record of the Uinta Mountains region and questions the interpretation of a late Eocene to Oligocene eastward-flowing ancestral Platte River system, and (3) highlights the prevalence of far-transported Oligocene–Miocene ash-fall grains and sediment reworking in the Bishop Conglomerate and Browns Park Formation, which has important implications for using detrital zircon and sanidine data for interpreting the provenance and depositional ages of clastic sediments that have accumulated during times of extensive volcanic activity.Late Cretaceous to early Cenozoic Laramide tectonism in southwestern Wyoming, northeastern Utah, and northwestern Colorado created uplifts in the study area, including the east-west–trending Uinta Mountains and the northsouth–trending Rock Springs uplift (Fig
+Key words: Specifically, new constraints, extensional collapse, Uinta, Mountains, final integration, Green River, Uinta, Mountains, Cenozoic, fluvial record, Uinta, Mountains, Eocene, Oligocene, Platte, River system, Oligocene–Miocene, ash-fall grains, Bishop Conglomerate, Browns, Formation, important implications, detrital zircon, sanidine data, depositional ages, clastic sediments, extensive volcanic activity.Late, Cretaceous, Cenozoic Laramide, Wyoming, Colorado, study area, Uinta, Mountains, Rock, Springs, Fig
+Substance: extensional collapse, ash-fall grains, Bishop Conglomerate, Formation, detrital zircon, depositional ages, clastic sediments, Rock
+Time: Cenozoic, Eocene, Oligocene, Oligocene–Miocene, Cretaceous, Cenozoic Laramide
+Location: Uinta, Mountains, Platte
+Late Cretaceous to early Cenozoic Laramide tectonism in southwestern Wyoming, northeastern Utah, and northwestern Colorado created uplifts in the study area, including the east-west–trending Uinta Mountains and the northsouth–trending Rock Springs uplift (Fig1)
+Key words: Late Cretaceous, Cenozoic Laramide, Wyoming, Colorado, study area, Uinta, Mountains, Rock, Springs, Fig1
+Substance: Rock
+Time: Late Cretaceous, Cenozoic Laramide
+Location: Uinta, Mountains
+North of the Uinta Mountains and west of the Rock Springs uplift, Eocene basin fill, including the Green River and Bridger Formations, accumulated in the southern Green River Basin (Bridger Basin) until ca47 Ma (Murphey and Evanoff, 2007; Smith et al., 2008) (Fig
+Key words: Uinta, Mountains, Rock, Springs, Eocene, Green River, Bridger Formations, Green River, Bridger, Ma, Murphey, Evanoff, Smith, Fig
+Substance: Rock, Bridger Formations
+Time: Eocene
+Location: Uinta, Mountains, Basin, Bridger
+South of the Uinta Mountains, Eocene sedimentary rocks represented by the Green River, Uinta, and Duchesne River Formations, filled the Uinta Basin until at least ca40 Ma (Mauger, 1977; Bryant et al., 1989; Prothero and Swisher, 1992; Sprinkel, 2015)
+Key words: Uinta, Mountains, Eocene, sedimentary rocks, Green River, Uinta, Duchesne, Formations, Uinta, Ma, Mauger, Bryant, Prothero, Swisher, Sprinkel
+Substance: sedimentary rocks, Formations
+Time: Eocene
+Location: Uinta, Mountains, Basin
+Eocene deposits (Green River and Bridger Formations) filled the Washakie and Sand Wash Basins to the east and southeast of the Rock Springs uplift, respectively, until ca46–45 Ma (Smith et al., 2008).
+Key words: Eocene, Green River, Bridger Formations, Washakie, Sand Wash Basins, Rock, Springs, Ma, Smith
+Substance: Bridger Formations, Washakie, Sand Wash Basins, Rock
+Time: Eocene
+Location: Washakie, Basins
+A regional unconformity separates Eocene and older Laramide basin fill from younger units in Browns Park and the Green River and Uinta Basins (Fig3A)
+Key words: regional unconformity separates, Eocene, Laramide, Browns, Green River, Uinta Basins, Fig3A
+Substance: regional unconformity separates
+Time: Eocene
+Location: Browns, Park
+This surface bevels rocks from the core of the Uinta Mountains (Neoproterozoic Uinta Mountain Group) to lower Paleogene units in the surrounding Laramide basinsIn northeastern Utah, southwestern  Wyoming, and parts of northwestern Colorado, this surface is overlain by the upper Eocene–Oligocene Bishop Conglomerate
+Key words: surface bevels rocks, Uinta, Mountains, Neoproterozoic Uinta Mountain, lower Paleogene, Laramide, basinsIn northeastern, Wyoming, Colorado, Eocene–Oligocene Bishop Conglomerate
+Substance: surface bevels rocks, Eocene–Oligocene Bishop Conglomerate
+Time: Neoproterozoic Uinta Mountain, lower Paleogene, Eocene–Oligocene Bishop Conglomerate
+Location: Uinta, Mountains
+In northeastern Utah, southwestern  Wyoming, and parts of northwestern Colorado, this surface is overlain by the upper Eocene–Oligocene Bishop ConglomerateIn some parts of northwestern Colorado, the erosion surface is overlain by the upper Oligocene–Miocene Browns Park Formation (Hansen, 1986; Buffler, 2003)
+Key words: Wyoming, Colorado, Eocene–Oligocene Bishop ConglomerateIn, Colorado, erosion surface, Oligocene–Miocene Browns, Formation, Hansen, Buffler
+Substance: Eocene–Oligocene Bishop ConglomerateIn, erosion surface, Formation
+Time: Eocene–Oligocene Bishop ConglomerateIn, Oligocene–Miocene Browns
+Location: 
+In some parts of northwestern Colorado, the erosion surface is overlain by the upper Oligocene–Miocene Browns Park Formation (Hansen, 1986; Buffler, 2003)Prior studies show that the Browns Park Formation locally overlies the Bishop Conglomerate along the eastern flank of the Uinta Mountains (Hansen, 1986).
+Key words: Colorado, erosion surface, Oligocene–Miocene Browns, Formation, Hansen, Buffler, Browns, Formation, Bishop Conglomerate, eastern flank, Uinta, Mountains, Hansen
+Substance: erosion surface, Formation, Bishop Conglomerate
+Time: Oligocene–Miocene Browns
+Location: Uinta, Mountains
+The upper Eocene–Oligocene Bishop Conglomerate was first described by Powell (1876) and studied in detail by Bradley (1936) and Hansen (1984, 1986)The unit consists predominantly of fluvial sandy conglomerate, tuffaceous conglomeratic sandstone, and lesser amounts of tuffaceous mudrock that fill paleovalleys in northeastern Utah, southwestern Wyoming, and northwestern Colorado
+Key words: Eocene–Oligocene Bishop Conglomerate, Powell, Bradley, Hansen, fluvial sandy conglomerate, tuffaceous conglomeratic sandstone, lesser amounts, tuffaceous mudrock, Wyoming, Colorado
+Substance: Eocene–Oligocene Bishop Conglomerate, fluvial sandy conglomerate, tuffaceous conglomeratic sandstone, tuffaceous mudrock
+Time: Eocene–Oligocene Bishop Conglomerate
+Location: 
+Strata are typically flat lying, tens of meters to a few hundred meters thick, and unconformably overlie gently dipping Precambrian through early Paleogene rocks in both the Uinta and Green River BasinsThe sediment source of the Bishop Conglomerate is interpreted to be primarily from the Uinta Mountains, because the deposits thin and clast sizes decrease radially away from the range front (Bradley, 1936; Hansen, 1986)
+Key words: Strata, meters thick, Precambrian, Paleogene, Uinta, Green River, BasinsThe, sediment source, Bishop Conglomerate, Uinta, Mountains, clast sizes, range front, Bradley, Hansen
+Substance: sediment source, Bishop Conglomerate, clast sizes
+Time: Precambrian, Paleogene
+Location: Uinta, Mountains
+Compositionally, clasts are dominated by red sandstones of the Neoproterozoic Uinta Mountain Group, and Paleozoic limestones and sandstones (Hansen, 1986)Bradley (1936) and Hansen (1986) interpreted the Bishop Conglomerate to represent a time of alluvial sedimentation associated with tectonic quiescence and climatic change from hot and moist conditions in the Eocene to cooler and drier conditions during the Oligocene
+Key words: Compositionally, red sandstones, Neoproterozoic Uinta Mountain, Paleozoic, Hansen, Bradley, Hansen, Bishop Conglomerate, alluvial sedimentation, tectonic quiescence, moist conditions, Eocene, drier conditions, Oligocene
+Substance: Compositionally, red sandstones, Bishop Conglomerate, alluvial sedimentation
+Time: Neoproterozoic Uinta Mountain, Paleozoic, Eocene, Oligocene
+Location: 
+Bradley (1936) and Hansen (1986) interpreted the Bishop Conglomerate to represent a time of alluvial sedimentation associated with tectonic quiescence and climatic change from hot and moist conditions in the Eocene to cooler and drier conditions during the OligoceneThe age of the Bishop Conglomerate is constrained by 40Ar/39Ar ages (ca
+Key words: Bradley, Hansen, Bishop Conglomerate, alluvial sedimentation, tectonic quiescence, moist conditions, Eocene, drier conditions, OligoceneThe, Bishop Conglomerate
+Substance: Bishop Conglomerate, alluvial sedimentation
+Time: Eocene, OligoceneThe
+Location: 
+The upper Oligocene–Miocene Browns Park Formation was also first described by Powell (1876) and was studied in detail by Buffler (1967, 2003), Izett (1975), Hansen (1984, 1986), and Luft (1985) in northwestern Colorado and northeastern UtahThe Browns Park Formation contains tuffaceous sandstone and mudrock with minor amounts of limestone that represent a mosaic of fluvial, la cus trine, and eolian environments (Izett, 1975; Luft, 1985; Hansen, 1986; Buffler, 2003)
+Key words: Oligocene–Miocene Browns, Formation, Powell, Buffler, Izett, Hansen, Luft, Colorado, UtahThe Browns, Formation, contains tuffaceous sandstone, minor amounts, cus trine, eolian environments, Izett, Luft, Hansen, Buffler
+Substance: Formation, contains tuffaceous sandstone
+Time: Oligocene–Miocene Browns
+Location: 
+Cenozoic collapse of the eastern Uinta Mountains and drainage evoluon of the Uinta Mountain regionAndres Aslan1, Marisa Boraas-Connors2, Doug Sprinkel3, Thomas P
+Key words: Cenozoic, Uinta, Mountains, drainage evoluon, Uinta Mountain, Aslan1, Marisa Boraas-Connors2, Doug Sprinkel3, Thomas P
+Substance: 
+Time: Cenozoic, Aslan1, Marisa Boraas-Connors2, Doug Sprinkel3
+Location: Uinta, Mountains, Mountain
+Cenozoic collapse of the eastern Uinta Mountains and drainage evoluon of the Uinta Mountain regionAndres Aslan1, Marisa Boraas-Connors2, Doug Sprinkel3, Thomas P
+Key words: Cenozoic, Uinta, Mountains, drainage evoluon, Uinta Mountain, Aslan1, Marisa Boraas-Connors2, Doug Sprinkel3, Thomas P
+Substance: 
+Time: Cenozoic, Aslan1, Marisa Boraas-Connors2, Doug Sprinkel3
+Location: Uinta, Mountains, Mountain
+This unit unconformably overlies Eocene and older units in these areasThe majority of the outcrops are represented by poorly consolidated conglomeratic sandstone and sandy conglomerate with boulder- to pebble-sized clasts dominated by red sandstone and light gray limestone and sandstone derived from the Uinta Mountains, similar to the composition of the extensive outcrops of Bishop Conglomerate on the south flanks of the Uinta Mountains (Hansen, 1986; Kowallis et al., 2005)
+Key words: Eocene, areasThe majority, conglomeratic sandstone, sandy conglomerate, red sandstone, gray limestone, Uinta, Mountains, extensive outcrops, Bishop Conglomerate, Uinta, Mountains, Hansen, Kowallis
+Substance: conglomeratic sandstone, sandy conglomerate, red sandstone, gray limestone, Bishop Conglomerate
+Time: Eocene
+Location: Uinta, Mountains
+the Neoproterozoic Uinta Mountain Group (UMG) and light gray limestones and sandstones are derived from Paleozoic carbonates and siliciclastic units.We identified and described three facies that compose the Bishop Conglomerate: (1) UMG facies, (2) Firehole Canyon (FC) facies, and (3) sandy facies
+Key words: Neoproterozoic Uinta Mountain, UMG, gray limestones, Paleozoic, siliciclastic units.We, Bishop Conglomerate, UMG, Firehole Canyon, FC, sandy facies
+Substance: gray limestones, siliciclastic units.We, Bishop Conglomerate, sandy facies
+Time: Neoproterozoic Uinta Mountain, Paleozoic
+Location: 
+Overall, this facies represents a series of lenses of northward-thinning coarse-grained wedges that unconformably overlie Late Cretaceous–Eocene rocks of the Green River Basin and the adjacent Rock Springs uplift (Fig5A)
+Key words: Overall, Late Cretaceous–Eocene, Green River, Rock, Springs, Fig5A
+Substance: Rock
+Time: Late Cretaceous–Eocene
+Location: Basin
+Similar to the UMG facies, FC facies strata unconformably overlie Late Cretaceous–Eocene rocksThe best exposures of the FC facies are at Firehole Canyon, the saddle between Miller and Aspen Mountains, and on the bluffs south of Green River, Wyoming
+Key words: UMG, FC, facies strata, Late Cretaceous–Eocene, FC, Firehole Canyon, Miller, Aspen, Mountains, Green River, Wyoming
+Substance: 
+Time: Late Cretaceous–Eocene
+Location: Firehole, Aspen, Mountains
+These beds overlie Neoproterozoic through Eocene bedrock and although poorly exposed, superficially resemble tuffaceous sedimentary rocks of the Browns Park Formation located ~10 km northeast in Browns ParkThe sandy facies is also associated with classic outcrops of the Bishop Conglomerate on the Diamond Plateau near Vernal, Utah.
+Key words: beds overlie, Neoproterozoic, Eocene, resemble tuffaceous sedimentary rocks, Browns, Formation, Browns ParkThe, sandy facies, classic outcrops, Bishop Conglomerate, Diamond Plateau, Vernal, Utah
+Substance: beds overlie, resemble tuffaceous sedimentary rocks, Formation, sandy facies, Bishop Conglomerate
+Time: Neoproterozoic, Eocene
+Location: Vernal
+Elsewhere, near the western margin of Browns Park, Browns Park strata are relatively flat lying, and onlap gently dipping Neoproterozoic UMG sandstonesZircon fission track ages from tuffaceous material indicate that the Browns Park Formation accumulated from ca
+Key words: Elsewhere, Browns, Browns, Park strata, Neoproterozoic UMG, sandstonesZircon fission track ages, tuffaceous material, Browns, Formation
+Substance: sandstonesZircon fission track ages, tuffaceous material, Formation
+Time: Neoproterozoic UMG
+Location: Browns, Park
+While A rchean (2700–2600 Ma), Paleoproterozoic (1850–1750 Ma), Mesoproterozoic (ca1450 Ma) and Grenville orogeny (1200–1000 Ma) detrital zircon U-Pb ages are well represented in both facies, detrital zircon grains of Grenville orogeny age are more abundant (39 percent of the grains analyzed) in the UMG  facies compared to the FC facies sample
+Key words: 2700–2600 Ma, Paleoproterozoic, 1850–1750 Ma, Mesoproterozoic, Ma, Grenville, 1200–1000 Ma, detrital zircon, U-Pb, detrital zircon grains, Grenville, orogeny age, UMG, FC, facies sample
+Substance: detrital zircon, detrital zircon grains
+Time: 2700–2600 Ma, Paleoproterozoic, 1850–1750 Ma, Mesoproterozoic, 1200–1000 Ma
+Location: 
+Another noteworthy difference is the  Archean grain ages (Figs7A, 7B)
+Key words: noteworthy difference, Archean, grain ages, Figs7A
+Substance: grain ages
+Time: Archean, Figs7A
+Location: 
+The FC facies sample also has Early Cretaceous (107–90 Ma) detrital zircon grains that are absent from the UMG facies sample (Fig6B)
+Key words: FC, facies sample, Early Cretaceous, 107–90 Ma, detrital zircon grains, UMG, facies sample, Fig6B
+Substance: detrital zircon grains
+Time: Early Cretaceous, 107–90 Ma
+Location: 
+(B) Detrital zircon U-Pb data for Cenozoic and Cretaceous (younger than 115 Ma) grainsNumbers in bold represent age ranges of detrital zircon U-Pb age distributions in Ma; n = total number of grains analyzed, and vertical exaggeration of both curves is 3×.
+Key words: Detrital, U-Pb, Cenozoic, Cretaceous, 115 Ma, detrital zircon, U-Pb, age distributions, Ma, n = total number, vertical exaggeration
+Substance: detrital zircon
+Time: Cenozoic, Cretaceous, 115 Ma
+Location: 
+Detrital zircon and sanidine MDAs of the Bishop Conglomerate confirm that this unit is late Eocene–early Oligocene (Fig9; Table 1)
+Key words: Detrital, MDAs, Bishop Conglomerate, Eocene–early Oligocene, Fig9, Table
+Substance: Bishop Conglomerate
+Time: Eocene–early Oligocene
+Location: 
+Detrital zircon and detrital sanidine MDAs of the Browns Park Formation confirm that the unit is late Oligocene to Miocene (ca25–8 Ma) (Izett, 1975; Luft, 1985), and suggest that the youngest sediments of the graben fill are concentrated in westernmost Browns Park along the Colorado-Utah border (Fig
+Key words: Detrital, detrital sanidine, MDAs, Browns, Formation, Oligocene, Miocene, Ma, Izett, Luft, Browns, Colorado-Utah, Fig
+Substance: Formation
+Time: Oligocene, Miocene
+Location: 
+The Taylor Flat sample is from a small remnant of the Browns Park Formation (elevation 1865 m) that is preserved beneath erosionally resistant river gravel of the ancestral Green River (Counts, 2005), and the sample is from a tuffaceous siltstone that overlies the Neoproterozoic Uinta Mountain GroupThis remnant is significantly higher in elevation than any nearby Browns Park Formation outcrop, and probably represents the best estimate for the minimum age (8.4 ± 0.3 Ma) of the Browns Park Formation in the region.
+Key words: Taylor Flat, small remnant, Browns, Formation, resistant river gravel, Green River, Counts, tuffaceous siltstone, Neoproterozoic Uinta Mountain GroupThis, Browns, Formation, minimum age, 8.4 ±, 0.3 Ma, Browns, Formation
+Substance: Formation, resistant river gravel, tuffaceous siltstone, Neoproterozoic Uinta Mountain GroupThis
+Time: Neoproterozoic Uinta Mountain GroupThis, 8.4 ±, 0.3 Ma
+Location: Browns, Park, Formation
+36–27 Ma) represented by the Bishop Conglomerate, there were no nearby late Eocene–Oligocene outcrops to explain the abundant younger than 40 Ma detrital zircon and sanidine grains (Love and Christiansen, 1985)The youngest bedrock unit in the region was probably the Eocene Bridger Formation, which has a minimum age of ca
+Key words: 36–27 Ma, Bishop Conglomerate, Eocene–Oligocene, 40 Ma, detrital zircon, sanidine grains, Love, Christiansen, bedrock unit, Eocene Bridger Formation, minimum age
+Substance: Bishop Conglomerate, detrital zircon, sanidine grains, bedrock unit, Eocene Bridger Formation
+Time: 36–27 Ma, Eocene–Oligocene, 40 Ma, Eocene Bridger Formation
+Location: 
+The youngest bedrock unit in the region was probably the Eocene Bridger Formation, which has a minimum age of ca47 Ma (Murphey and Evanoff, 2007)
+Key words: bedrock unit, Eocene Bridger Formation, minimum age, Ma, Murphey, Evanoff
+Substance: bedrock unit, Eocene Bridger Formation
+Time: Eocene Bridger Formation
+Location: 
+It is also unlikely that grains of this young (younger than 40 Ma) age were transported by rivers draining hinterlands composed of Oligocene and younger rocks, and deposited subsequently in southwestern Wyoming and northwestern ColoradoRocks of this age are abundant in the southern Basin and Range, but barriers such as the Wyoming fold and thrust belt (Fig
+Key words: 40 Ma, Oligocene, Wyoming, ColoradoRocks, Wyoming, thrust belt, Fig
+Substance: ColoradoRocks
+Time: 40 Ma, Oligocene
+Location: 
+Instead, the younger than 40 Ma detrital zircon and sanidine grains in the Bishop Conglomerate and Browns Park Formation probably represent a combination of Oligocene through Miocene volcanism, ash-fall deposition, and subsequent fluvial reworkingThis interpretation is supported by a combination of stratigraphic observations and age estimates of Cenozoic volcanic activity in the western U.S.
+Key words: 40 Ma, detrital zircon, sanidine grains, Bishop Conglomerate, Browns, Formation, Oligocene, Miocene, ash-fall deposition, subsequent fluvial reworkingThis interpretation, stratigraphic observations, age estimates, Cenozoic, volcanic activity, U.S
+Substance: detrital zircon, sanidine grains, Bishop Conglomerate, Formation, ash-fall deposition, stratigraphic observations
+Time: 40 Ma, Oligocene, Miocene, Cenozoic
+Location: 
+This interpretation is supported by a combination of stratigraphic observations and age estimates of Cenozoic volcanic activity in the western U.S.Figure 8 (samples A, B, D, E, G) shows that for a composite stratigraphic succession of the Bishop Conglomerate and Browns Park Formation det rital zircon samples, the age of the youngest U-Pb age distributions decrease systematically at successively younger stratigraphic levels
+Key words: stratigraphic observations, age estimates, Cenozoic, volcanic activity, U.S.Figure, D, E, G, composite stratigraphic succession, Bishop Conglomerate, Browns, Formation, det rital zircon samples, U-Pb, age distributions, stratigraphic levels
+Substance: stratigraphic observations, composite stratigraphic succession, Bishop Conglomerate, Formation, det rital zircon samples, stratigraphic levels
+Time: Cenozoic
+Location: 
+This interpretation is further supported by comparing the timing of Cenozoic ignimbrite events with the general ages of the young detrital grains.Figure 11 compares the timing and volume of Oligocene and Miocene ignimbrites (Perkins et al., 1998; Cather et al., 2009; Best et al., 2013; Lipman and Bachmann, 2015) with detrital zircon data for the Browns Park Formation and the Bishop Conglomerate
+Key words: Cenozoic, ignimbrite events, general ages, young detrital grains.Figure, Oligocene, Miocene, Perkins, Cather, Lipman, Bachmann, detrital zircon data, Browns, Formation, Bishop Conglomerate
+Substance: young detrital grains.Figure, detrital zircon data, Formation, Bishop Conglomerate
+Time: Cenozoic, Oligocene, Miocene
+Location: 
+Figure 11 compares the timing and volume of Oligocene and Miocene ignimbrites (Perkins et al., 1998; Cather et al., 2009; Best et al., 2013; Lipman and Bachmann, 2015) with detrital zircon data for the Browns Park Formation and the Bishop ConglomerateThere is a good correspondence between the timing of the Cenozoic ignimbrite flux for western North America and the ages of the dominant detrital zircon age distributions in the Bishop Conglomerate, and to a lesser extent, in the Browns Park Formation (Fig
+Key words: Figure, Oligocene, Miocene, Perkins, Cather, Lipman, Bachmann, detrital zircon data, Browns, Formation, Bishop ConglomerateThere, good correspondence, Cenozoic, ignimbrite flux, America, dominant detrital zircon age distributions, Bishop Conglomerate, lesser extent, Browns, Formation, Fig
+Substance: detrital zircon data, Formation, Bishop ConglomerateThere, dominant detrital zircon age distributions, Bishop Conglomerate
+Time: Oligocene, Miocene, Cenozoic
+Location: North
+There is a good correspondence between the timing of the Cenozoic ignimbrite flux for western North America and the ages of the dominant detrital zircon age distributions in the Bishop Conglomerate, and to a lesser extent, in the Browns Park Formation (Fig11A)
+Key words: good correspondence, Cenozoic, ignimbrite flux, America, dominant detrital zircon age distributions, Bishop Conglomerate, lesser extent, Browns, Formation, Fig11A
+Substance: dominant detrital zircon age distributions, Bishop Conglomerate, Formation
+Time: Cenozoic
+Location: North
+Prior studies have proposed that Oligocene–Miocene volcanism played a significant role in the accumulation of fine-grained Cenozoic units in the western U.Sbased on a combination of radiometric dating, analysis of volcanic glass chemistry, and detrital zircon studies (Blaylock, 1998; Larson and Evanoff, 1998; Fan et al., 2015; Rowley and Fan, 2016)
+Key words: Oligocene–Miocene, significant role, Cenozoic, U.Sbased, volcanic glass chemistry, detrital zircon studies, Blaylock, Larson, Evanoff, Fan, Rowley, Fan
+Substance: detrital zircon studies
+Time: Oligocene–Miocene, Cenozoic
+Location: 
+Larson and Evanoff (1998) used radiometric ages to broadly correlate Oligocene White River Formation tuffs located in eastern Wyoming and western Nebraska with Basin and Range volcanismBlaylock (1998) refined tephra correlations of Larson and Evanoff (1998) using detailed geochemical analyses of comagmatic minerals, but also concluded that the southern Basin and Range was the source of several White River Formation tephra units
+Key words: Larson, Evanoff, radiometric ages, Oligocene, White River, Formation, Wyoming, Nebraska, Range volcanismBlaylock, tephra correlations, Larson, Evanoff, geochemical analyses, comagmatic minerals, White River, Formation, tephra units
+Substance: Formation, tephra correlations, geochemical analyses, comagmatic minerals, tephra units
+Time: Oligocene
+Location: Oligocene, White, Formation
+(2015) used overall similarities in the timing of Oligocene volcanism and MDAs of detrital zircon samples to explain the abundance of Oligocene detrital zircon grains in tuffaceous fluvial deposits in Wyoming and NebraskaThis study suggested, however, that the Sierra Madre Occidental volcanic field in Mexico may have been
+Key words: overall similarities, Oligocene, MDAs, detrital zircon samples, Oligocene, detrital zircon grains, tuffaceous fluvial deposits, Wyoming, NebraskaThis, Sierra Madre Occidental, volcanic field, Mexico
+Substance: detrital zircon samples, detrital zircon grains, tuffaceous fluvial deposits
+Time: Oligocene
+Location: 
+the source for the Oligocene detrital zircon grainsFigure 13 summarizes our new interpretations of Oligocene–Miocene ash-fall deposition based on the data and discussion presented in this study
+Key words: Oligocene, detrital zircon grainsFigure, new interpretations, Oligocene–Miocene, ash-fall deposition
+Substance: detrital zircon grainsFigure, ash-fall deposition
+Time: Oligocene, Oligocene–Miocene
+Location: 
+Figure 13 summarizes our new interpretations of Oligocene–Miocene ash-fall deposition based on the data and discussion presented in this studyIn summary, far-traveled tephra that mantled the landscapes of southwestern Wyoming, northeastern Utah, and northwestern Colorado during the latest Eocene through Miocene was reworked subsequently into Bishop and Browns Park depositional systems.
+Key words: Figure, new interpretations, Oligocene–Miocene, ash-fall deposition, studyIn summary, Wyoming, Colorado, Eocene, Miocene, Bishop, Browns, Park depositional systems
+Substance: ash-fall deposition, Park depositional systems
+Time: Oligocene–Miocene, Eocene, Miocene
+Location: Miocene
+In summary, far-traveled tephra that mantled the landscapes of southwestern Wyoming, northeastern Utah, and northwestern Colorado during the latest Eocene through Miocene was reworked subsequently into Bishop and Browns Park depositional systems.Repetition of this sequence of events produced deposits with successively younger detrital zircon grains, and further suggests that MDAs for the Bishop Conglomerate and Browns Park Formation are close to true depositional ages, as has been suggested for other Cenozoic units in the western U.S
+Key words: Wyoming, Colorado, Eocene, Miocene, Bishop, Browns, Park depositional systems.Repetition, detrital zircon grains, MDAs, Bishop Conglomerate, Browns, Formation, true depositional ages, Cenozoic, U.S
+Substance: Park depositional systems.Repetition, detrital zircon grains, Bishop Conglomerate, Formation, true depositional ages
+Time: Eocene, Miocene, Cenozoic
+Location: Miocene, U.S
+Repetition of this sequence of events produced deposits with successively younger detrital zircon grains, and further suggests that MDAs for the Bishop Conglomerate and Browns Park Formation are close to true depositional ages, as has been suggested for other Cenozoic units in the western U.Sthat accumulated in regions of semicontinuous ignimbrite volcanism (Fan et al., 2015; Rowley and Fan, 2016).
+Key words: Repetition, detrital zircon grains, MDAs, Bishop Conglomerate, Browns, Formation, true depositional ages, Cenozoic, U.Sthat, semicontinuous ignimbrite volcanism, Fan, Rowley, Fan
+Substance: detrital zircon grains, Bishop Conglomerate, Formation, true depositional ages
+Time: Cenozoic
+Location: 
+Differences in the distribution, paleocurrents, and composition of the Bishop Conglomerate UMG and FC facies suggest that these deposits represent tributaries and a mainstem river, respectively, of a latest Eocene to early Oligocene fluvial systemPrevious investigators have shown that the Bishop Conglomerate (UMG facies) represents a series of rivers that drained radially away from the Uinta Mountains (Bradley, 1936; Hansen, 1986)
+Key words: Differences, Bishop Conglomerate UMG, FC, mainstem river, Eocene, Oligocene, fluvial systemPrevious investigators, Bishop Conglomerate, UMG, Uinta, Mountains, Bradley, Hansen
+Substance: Bishop Conglomerate UMG, Bishop Conglomerate
+Time: Eocene, Oligocene
+Location: Uinta, Mountains
+The abundance of reddish sandstone clasts and Grenville-age grains in the UMG facies confirms that the provenance was the Neoproterozoic UMG in the nearby Uinta MountainsNew numerical age constraints show that this river system flowed along the north flank of the Uinta Mountains ca
+Key words: reddish sandstone clasts, Grenville-age, UMG, facies confirms, Neoproterozoic UMG, Uinta MountainsNew, numerical age constraints, river system, Uinta, Mountains
+Substance: reddish sandstone clasts
+Time: Neoproterozoic UMG
+Location: Uinta, MountainsNew, Mountains
+This observation could indicate that the mainstem river flowed to the west, but this interpretation assumes that there has been no significant post-Oligocene deformation of the FC facies conglomerates.The presence of volcanic clasts and the abundance of rounded quartzite cobbles in the FC facies clearly show that the provenance of this facies differs from the UMG facies
+Key words: mainstem river, interpretation assumes, significant post-Oligocene deformation, FC, facies conglomerates.The presence, volcanic clasts, quartzite cobbles, FC, facies differs, UMG
+Substance: significant post-Oligocene deformation, facies conglomerates.The presence, volcanic clasts, quartzite cobbles
+Time: significant post-Oligocene deformation
+Location: 
+Possible sources of the quartzite clasts in the FC facies include Proterozoic quartzite in the Sierra Madre Mountains (Scott et al., 2011) as well as Cretaceous and Paleocene quartzite conglomerates of the Wyoming fold and thrust belt (DeCelles, 1994) and northwestern Wyoming (Lyndsey, 1972)Intermediate volcanic clasts in the FC facies also have several potential sources
+Key words: Possible sources, quartzite clasts, FC, include Proterozoic, Sierra Madre, Mountains, Scott, Cretaceous, Paleocene, quartzite conglomerates, Wyoming, thrust belt, DeCelles, Wyoming, Lyndsey, Intermediate, volcanic clasts, FC, potential sources
+Substance: quartzite clasts, quartzite conglomerates, volcanic clasts
+Time: include Proterozoic, Cretaceous, Paleocene
+Location: Mountains
+These include upper Cretaceous and Paleocene quartzite conglomerates located near Jackson Hole, Wyoming, that contain a significant proportion (as much as 15 percent) of intermediate volcanic clasts (Lyndsey, 1972), and the Eocene Challis and/or Absaroka volcanic fields of Idaho and Wyoming, respectivelyPrevious studies suggest that a river drained the Challis and/or Absaroka volcanic fields and flowed into southwestern Wyoming in the Eocene (ca
+Key words: Cretaceous, Paleocene, quartzite conglomerates, Jackson Hole, Wyoming, significant proportion, intermediate volcanic clasts, Lyndsey, Eocene Challis, Absaroka, volcanic fields, Idaho, Wyoming, respectivelyPrevious studies, Challis, Absaroka, volcanic fields, Wyoming, Eocene
+Substance: quartzite conglomerates, intermediate volcanic clasts
+Time: Cretaceous, Paleocene, Eocene Challis, Eocene
+Location: Hole, Absaroka, Challis
+Previous studies suggest that a river drained the Challis and/or Absaroka volcanic fields and flowed into southwestern Wyoming in the Eocene (ca50–47 Ma) (Carroll et al., 2008; Davis et al., 2008; Chetel et al., 2011)
+Key words: Previous, Challis, Absaroka, volcanic fields, Wyoming, Eocene, Ma, Carroll, Davis, Chetel
+Substance: 
+Time: Eocene
+Location: Challis, Absaroka
+Alternatively, Roehler (1973, 1992) noted that Eocene Washakie Formation conglomeratic sandstones (Adobe Town Member) that crop out in the Washakie Basin to the east of the FC facies outcrop belt have minor quantities of intermediate volcanic clastsIt is conceivable that a west-flowing Bishop Conglomerate river reworked conglomerate of the Washakie Formation to produce the minor volcanic component observed in the FC facies (Fig
+Key words: Alternatively, Roehler, Eocene Washakie Formation, conglomeratic sandstones, Adobe, Member, Washakie, FC, facies outcrop belt, minor quantities, intermediate volcanic clastsIt, Bishop Conglomerate, Washakie Formation, minor volcanic component, FC, Fig
+Substance: Eocene Washakie Formation, conglomeratic sandstones, Member, Washakie, intermediate volcanic clastsIt, Bishop Conglomerate, Washakie Formation, minor volcanic component
+Time: Eocene Washakie Formation
+Location: Washakie, Basin, Formation
+2650 Ma detrital zircon grains than the UMG facies, and Archean detrital zircon grains are similarly abundant in the modern Green River, which drains the Wind River Mountains (Fig7)
+Key words: 2650 Ma, detrital zircon grains, UMG, Archean, detrital zircon grains, modern Green River, Wind, Mountains, Fig7
+Substance: detrital zircon grains
+Time: 2650 Ma, Archean
+Location: Wind, Mountains
+In summary, the Bishop Conglomerate represents the most significant late Eocene–Oligocene river system of the Uinta Mountains region, but the interpretation of the flow direction of this river is unresolvedAn east- or southeast-flowing late Eocene–early Oligocene river, as envisioned by Hansen (1986) and Fan et al
+Key words: Bishop Conglomerate, Eocene–Oligocene, river system, Uinta, Mountains, flow direction, unresolvedAn east-, Eocene–early Oligocene, Hansen, Fan
+Substance: Bishop Conglomerate
+Time: Eocene–Oligocene, Eocene–early Oligocene
+Location: Uinta, Mountains
+An east- or southeast-flowing late Eocene–early Oligocene river, as envisioned by Hansen (1986) and Fan et al(2015), is a possible interpretation for the Bishop Conglomerate FC facies, but it would require post-Oligocene, down-to-the-west tilting to explain the present-day elevations of the conglomerate, and it conflicts with FC facies paleocurrent data
+Key words: Eocene–early Oligocene, Hansen, Fan, possible interpretation, Bishop Conglomerate FC, present-day elevations, FC, facies paleocurrent data
+Substance: Bishop Conglomerate FC
+Time: Eocene–early Oligocene, present-day elevations
+Location: 
+(2015), is a possible interpretation for the Bishop Conglomerate FC facies, but it would require post-Oligocene, down-to-the-west tilting to explain the present-day elevations of the conglomerate, and it conflicts with FC facies paleocurrent dataA west-flowing river is consistent with FC facies paleocurrents and conglomerate elevations, but the absence of granitic clasts from the Sierra Madre Mountains is problematic
+Key words: possible interpretation, Bishop Conglomerate FC, present-day elevations, FC, facies paleocurrent dataA, FC, facies paleocurrents, conglomerate elevations, granitic clasts, Sierra Madre, Mountains
+Substance: Bishop Conglomerate FC, conglomerate elevations, granitic clasts
+Time: present-day elevations
+Location: Mountains
+However, the suggested ages (late Oligo cene to Pliocene) for these rivers are significantly younger than those proposed for the Bishop river system, and deposits of north-flowing rivers draining Laramide uplifts of the Colorado Rocky Mountains should contain granitic clastsFor these reasons, it is unlikely that the Bishop river system is part of the north-flowing river envisioned by Lucchitta et al
+Key words: Oligo, Pliocene, Bishop, river system, Laramide, Colorado Rocky, Mountains, granitic clastsFor, Bishop, river system, Lucchitta
+Substance: Colorado Rocky, granitic clastsFor
+Time: Pliocene
+Location: Rocky, Mountains
+Based on stratigraphic and structural relationships in the Browns Park region, Hansen (1986) suggested that the main phase of collapse of the eastern Uinta Mountains occurred between deposition of the Oligocene Bishop Conglomerate and the Miocene Browns Park FormationHowever, tilting and faulting of the Browns Park Formation strata show that deformation continued through at least Miocene time
+Key words: Based, structural relationships, Browns, Park region, Hansen, main phase, Uinta, Mountains, Oligocene Bishop Conglomerate, Miocene Browns, FormationHowever, Browns, Formation, strata show, Miocene
+Substance: Oligocene Bishop Conglomerate, FormationHowever, Formation
+Time: Oligocene Bishop Conglomerate, Miocene Browns, Miocene
+Location: Browns, Park, Uinta, Mountains
+However, tilting and faulting of the Browns Park Formation strata show that deformation continued through at least Miocene timeLate Oligocene to early Miocene collapse is based on three key
+Key words: Browns, Formation, strata show, Miocene, Oligocene, Miocene
+Substance: Formation
+Time: Miocene, Oligocene
+Location: 
+Late Oligocene to early Miocene collapse is based on three keyFigure 14
+Key words: Late Oligocene, Miocene
+Substance: 
+Time: Late Oligocene, Miocene
+Location: 
+Map showing possible courses of the late Eocene to early Oligocene (ca36–27 Ma) Bishop river system in the southern Green River Basin of Wyoming and adjacent areas
+Key words: possible courses, Eocene, Oligocene, Ma, Bishop, river system, Green River, Wyoming, adjacent areas
+Substance: 
+Time: Eocene, Oligocene
+Location: Basin
+Hansen (1986) pointed out that this reversal in drainage direction clearly postdated the Bishop Conglomerate, and suggested that collapse of Oligocene topography, on the order of several hundred meters (Bradley, 1936; Hansen, 1986), initiatedthe formation of the Browns Park graben
+Key words: Hansen, drainage direction, Bishop Conglomerate, Oligocene, Bradley, Hansen, initiatedthe formation, Browns, Park graben
+Substance: Bishop Conglomerate, initiatedthe formation
+Time: Oligocene
+Location: 
+In this scenario, late Oligocene to early Miocene Browns Park sediments began to accumulate in Browns Park due to a combination of changes in topography, disruption of the Bishop Conglomerate drainage networks, and the formation of the Browns Park graben, which provided accommodation space for Browns Park sedimentsBrowns Park Formation deposits are similarly concentrated in grabens elsewhere in northwestern Colorado and along the Colorado-Wyoming border (Izett, 1975; Luft, 1985; Buffler, 2003).
+Key words: Oligocene, Miocene Browns, Park sediments, Browns, Bishop Conglomerate, drainage networks, Browns, Park graben, accommodation space, Browns, Park sedimentsBrowns Park, Formation, Colorado, Colorado-Wyoming, Izett, Luft, Buffler
+Substance: Park sediments, Bishop Conglomerate, Park sedimentsBrowns Park, Formation
+Time: Oligocene, Miocene Browns
+Location: Browns, Park
+Browns Park Formation facies and age relationships in the Browns Park graben further support the idea that the transition from coarse-grained Bishop Conglomerate fluvial deposition to fine-grained, tuffaceous Browns Park sedimentation is consistent with extensional collapse in the late OligoceneIn the vicinity of the Little Snake River, excellent exposures of the lower Browns Park Formation show significant numbers of siliceous, micritic, and sometimes  oolitic limestone beds within the lowermost 100 m of the formation
+Key words: Browns, Formation, age relationships, Browns, Park graben, Bishop Conglomerate, fluvial deposition, Browns, Park sedimentation, extensional collapse, OligoceneIn, Snake, excellent exposures, Browns, Formation, significant numbers, oolitic limestone beds
+Substance: Formation, Bishop Conglomerate, fluvial deposition, Park sedimentation, extensional collapse, oolitic limestone beds
+Time: OligoceneIn
+Location: Little, Snake
+New detrital zircon MDAs constrain the timing of the structural and geomorphic changes to after the late OligoceneExposures of the lower Browns Park Formation along the northern flank of the Little Snake River valley (Fig
+Key words: New detrital zircon, MDAs, geomorphic changes, OligoceneExposures, Browns, Formation, northern flank, Snake, River valley, Fig
+Substance: New detrital zircon, Formation
+Time: OligoceneExposures
+Location: Little, Snake
+In this region, late Miocene Browns Park sediments unconformably onlap Neoproterozoic UMG sandstone beds; the Bishop Conglomerate is absentThe absence of older (older than 12 Ma) Browns Park Formation and Bishop Conglomerate in this area raises the possibility that this region of westernmost Browns Park collapsed more recently than areas located southeast of Lodore Canyon and Vermillion Creek where older sediments are present (Fig
+Key words: Miocene Browns, Park sediments, Neoproterozoic UMG, sandstone beds, Bishop Conglomerate, absentThe absence, 12 Ma, Browns, Formation, Bishop Conglomerate, area raises, Browns, Lodore Canyon, Vermillion Creek, Fig
+Substance: Park sediments, sandstone beds, Bishop Conglomerate, Formation
+Time: Miocene Browns, Neoproterozoic UMG, 12 Ma
+Location: Lodore, Creek
+If the Browns Park graben had been completely filled to the level of Bishop Conglomerate paleovalleys that flank the graben, then late Miocene Browns Park Formation rather than ca27 Ma sandy facies of the Bishop Conglomerate would fill the paleovalleys
+Key words: Browns, Park graben, Bishop Conglomerate, Miocene Browns, Formation, Ma, sandy facies, Bishop Conglomerate
+Substance: Bishop Conglomerate, Formation, sandy facies
+Time: Miocene Browns
+Location: 
+The importance of Neogene tectonism in modifying earlier uplifts is also seen in numerous areasTo the north of the Uinta Mountains, in central  Wyoming, the southern margin of the Wind River Mountains is marked by east-southeast–west-northwest normal faults (e.g., Sales, 1983; Sutherland and Hausel, 2006)
+Key words: Neogene, numerous areasTo, Uinta, Mountains, Wyoming, Wind, Mountains, normal faults, Sales, Sutherland, Hausel
+Substance: normal faults
+Time: Neogene
+Location: Uinta, Mountains, Wind
+Precise age control for the timing of fault movement is inferred to be prekinematic to synkinematic to the deposition of the Miocene Split Rock FormationTo the east of this range, the former structural culmination of the Granite Mountains also foundered in north-northeast–south-southwest extension during deposition of the Miocene Moonstone Formation (see Sutherland and Hausel, 2003)
+Key words: age control, fault movement, Miocene, Rock FormationTo, structural culmination, Granite, Mountains, Miocene Moonstone Formation, see Sutherland, Hausel
+Substance: Rock FormationTo, Miocene Moonstone Formation
+Time: Miocene, Miocene Moonstone Formation
+Location: Miocene, Rock, FormationTo, Granite, Mountains
+To the east of this range, the former structural culmination of the Granite Mountains also foundered in north-northeast–south-southwest extension during deposition of the Miocene Moonstone Formation (see Sutherland and Hausel, 2003)The age of the Moonstone Formation is constrained by vertebrate paleontology, U-Pb zircon geochronology, and magnetostratigraphically (Prothero et al., 2008)
+Key words: structural culmination, Granite, Mountains, Miocene Moonstone Formation, see Sutherland, Hausel, Moonstone Formation, vertebrate paleontology, U-Pb, zircon geochronology, Prothero
+Substance: Miocene Moonstone Formation, Moonstone Formation, vertebrate paleontology, zircon geochronology
+Time: Miocene Moonstone Formation
+Location: Granite, Mountains
+In addition, there are east-southeast–west-northwest–striking normal faults on the Rock Springs uplift (Love and Christiansen, 1985) and Piceance Basin (Cashion, 1973) that currently lack age control, but may be associated with Miocene extensionFor all of these locations and syntectonic deposits, regional uplift and drainage evolution may have been driven by post-Oligocene mantle convection in the Rocky Mountain region (Karlstrom et al., 2012; Rosenberg et al., 2014), delamination of lithospheric mantle beneath in western Utah (Levander et al., 2011) and central Colorado (Hansen et al., 2013), and a combination of regional plate-related(?) extension plus  mantle forcings affecting the margins of the Colorado Plateau (Ricketts et al., 2016).
+Key words: normal faults, Rock, Springs, Love, Christiansen, Piceance, Cashion, lack age control, Miocene, syntectonic deposits, regional uplift, drainage evolution, post-Oligocene mantle convection, Rocky Mountain, Karlstrom, Rosenberg, lithospheric mantle, Levander, Colorado, Hansen, mantle forcings, Colorado Plateau, Ricketts
+Substance: normal faults, Rock, Cashion, Rocky Mountain
+Time: Miocene, post-Oligocene mantle convection
+Location: Piceance, Basin, Rocky, Mountain
+For all of these locations and syntectonic deposits, regional uplift and drainage evolution may have been driven by post-Oligocene mantle convection in the Rocky Mountain region (Karlstrom et al., 2012; Rosenberg et al., 2014), delamination of lithospheric mantle beneath in western Utah (Levander et al., 2011) and central Colorado (Hansen et al., 2013), and a combination of regional plate-related(?) extension plus  mantle forcings affecting the margins of the Colorado Plateau (Ricketts et al., 2016).New sedimentological observations and a combination of detrital zircon and sanidine provenance data and age constraints provide insights on the paleo geo graphic and structural evolution of the Uinta Mountains region during the late Eocene to late Miocene (ca
+Key words: syntectonic deposits, regional uplift, drainage evolution, post-Oligocene mantle convection, Rocky Mountain, Karlstrom, Rosenberg, lithospheric mantle, Levander, Colorado, Hansen, mantle forcings, Colorado Plateau, Ricketts, .New sedimentological observations, detrital zircon, sanidine provenance data, age constraints, paleo geo graphic, structural evolution, Uinta, Mountains, Eocene, Miocene
+Substance: Rocky Mountain, .New sedimentological observations, detrital zircon, paleo geo graphic
+Time: post-Oligocene mantle convection, Eocene, Miocene
+Location: Rocky, Mountain, Uinta, Mountains
+New sedimentological observations and a combination of detrital zircon and sanidine provenance data and age constraints provide insights on the paleo geo graphic and structural evolution of the Uinta Mountains region during the late Eocene to late Miocene (ca36–8 Ma)
+Key words: New sedimentological observations, detrital zircon, sanidine provenance data, age constraints, paleo geo graphic, structural evolution, Uinta, Mountains, Eocene, Miocene, Ma
+Substance: New sedimentological observations, detrital zircon, paleo geo graphic
+Time: Eocene, Miocene
+Location: Uinta, Mountains
+Detrital sanidine and zircon data show that the Bishop Conglomerate and Browns Park Formation contain significant quantities of reworked Cenozoic tephra.Comparisons between the ages of young (younger than 40 Ma) detrital sanidine 40Ar/39Ar and zircon U-Pb age distributions and previously published radiom etric age and chemical data for western North America Cenozoic ignimbrites support the interpretation that the southern Basin and Range volcanic field was an important source of Bishop Conglomerate tephra
+Key words: Detrital, zircon data show, Bishop Conglomerate, Browns, Formation, significant quantities, Cenozoic, 40 Ma, detrital sanidine, U-Pb, age distributions, radiom etric age, chemical data, America Cenozoic, ignimbrites support, Range volcanic field, important source, Bishop Conglomerate
+Substance: zircon data show, Bishop Conglomerate, Formation, chemical data
+Time: Cenozoic, 40 Ma, America Cenozoic
+Location: North
+Comparisons between the ages of young (younger than 40 Ma) detrital sanidine 40Ar/39Ar and zircon U-Pb age distributions and previously published radiom etric age and chemical data for western North America Cenozoic ignimbrites support the interpretation that the southern Basin and Range volcanic field was an important source of Bishop Conglomerate tephraBy comparison, the Southern Rocky Mountain, and probably the Snake River Plain, volcanic fields were important sources of Browns Park Formation tephra
+Key words: Comparisons, 40 Ma, detrital sanidine, U-Pb, age distributions, radiom etric age, chemical data, America Cenozoic, ignimbrites support, Range volcanic field, important source, Bishop Conglomerate, tephraBy comparison, Rocky Mountain, Snake, Plain, volcanic fields, important sources, Browns, Formation
+Substance: chemical data, Bishop Conglomerate, tephraBy comparison, Rocky Mountain, Formation
+Time: 40 Ma, America Cenozoic
+Location: North, Southern, Rocky, Mountain, Snake, Plain
+Aslan, A., Hood, W.C., Karlstrom, K.E., Kirby, E., Granger, D.E., Kelley, S., Crow, R., Donahue, M.S., Polyak, V., and Asmerom, Y., 2014, Abandonment of Unaweep Canyon (1.4–0.8 Ma), western Colorado: Effects of stream capture and anomalously rapid Pleistocene river incision: Geosphere, v10, p
+Key words: Aslan, A., W.C., Karlstrom, K.E., Kirby, E., Granger, D.E., Kelley, S., Crow, R., Donahue, M.S., Polyak, V., Asmerom, Y., Abandonment, Unaweep Canyon, 1.4–0.8 Ma, Colorado, Effects, Pleistocene, river incision, Geosphere
+Substance: 
+Time: 1.4–0.8 Ma, Pleistocene
+Location: W.C., Karlstrom, K.E., M.S., Unaweep
+Best, M.G., Christiansen, E.H., Deino, A.L., Gromme, C.S., McKee, E.H., and Noble, D.C., 1989, Eocene through Miocene volcanism in the Great Basin of the western United States, in Chapin, C.E., and Zidek, J., eds., Field Excursions to Volcanic Terranes in the Western United States, Volume II: Cascades and Intermountain West: New Mexico Bureau of Mines and Mineral Resources Memoir 47, p91–133.
+Key words: M.G., Christiansen, E.H., Deino, A.L., Gromme, C.S., McKee, E.H., Noble, D.C., Eocene, Miocene, States, Chapin, C.E., Zidek, J., Excursions, Volcanic Terranes, States, II, Cascades, Intermountain, Mexico, Mines, Resources Memoir
+Substance: 
+Time: Eocene, Miocene
+Location: E.H., Deino, Gromme, C.S., D.C., Great, Basin, Chapin, Western
+Blaylock, G.W., 1998, Probable Correlation of the Oligocene Whitney Ash Beds of Western Nebraska to Ash-Flow Tuffs in Nevada and Utah [M.Sthesis]: Provo, Utah, Brigham Young University, 45 p.
+Key words: Blaylock, G.W., Probable Correlation, Oligocene Whitney Ash Beds, Nebraska, Ash-Flow Tuffs, Nevada, M.Sthesis, Provo, Utah, Brigham, Young University
+Substance: Oligocene Whitney Ash Beds, Ash-Flow Tuffs
+Time: Oligocene Whitney Ash Beds
+Location: Western
+Bryant, B., Naeser, C.W., Marvin, R.F., and Mehnert, H.H., 1989, Ages of late Paleogene and Neogene tuffs and the beginning of rapid regional extension, eastern boundary of the Basin and Range Province near Salt Lake City, in Evolution of Sedimentary Basins: Uinta and Piceance Basins: U.SGeological Survey Bulletin 1787, p
+Key words: Bryant, B., Naeser, C.W., Marvin, R.F., Mehnert, H.H., Ages, Paleogene, Neogene, eastern boundary, Province, Salt Lake City, Evolution, Sedimentary Basins, Uinta, Piceance Basins, U.SGeological Survey Bulletin
+Substance: eastern boundary, Sedimentary Basins
+Time: Paleogene, Neogene
+Location: Basin, and, Range, Province, Uinta
+Buffler, R.T., 2003, The Browns Park Formation in the Elkhead region, northwestern Colorado– south central Wyoming: Implications for late Cenozoic sedimentation, in Raynolds, G., and Flores, R.M., eds., Cenozoic Systems of the Rocky Mountain Region: Denver, Colorado, Rocky Mountain SEPM (Society for Sedimentary Geology), p183–212.
+Key words: Buffler, R.T., Browns, Formation, Elkhead, Colorado–, Wyoming, Implications, Cenozoic, Raynolds, G., Flores, R.M., Cenozoic Systems, Rocky Mountain Region, Denver, Colorado, Rocky Mountain SEPM, Sedimentary Geology
+Substance: Formation, Rocky Mountain Region, Rocky Mountain SEPM, Sedimentary Geology
+Time: Cenozoic, Cenozoic Systems
+Location: Elkhead, Raynolds, Rocky, Mountain, Region
+Carroll, A.R., Doebert, A.C., Booth, A.L., Chamberlain, C.P., Rhodes-Carson, M.K., Smith, M.E., Johnson, C.M., and Beard, B.L., 2008, Capture of high-altitude precipitation by a low-altitude Eocene lake, western U.S.: Geology, v36, p
+Key words: Carroll, A.R., Doebert, A.C., Booth, A.L., Chamberlain, C.P., Rhodes-Carson, M.K., Smith, M.E., Johnson, C.M., Beard, B.L., Capture, high-altitude precipitation, Eocene, U.S., Geology
+Substance: high-altitude precipitation
+Time: Eocene
+Location: Doebert, Chamberlain
+Cather, S.M., Chapin, C.E., and Kelley, S.A., 2012, Diachronous episodes of Cenozoic erosion in the southwestern North America and their relationship to surface uplift, paleoclimate, paleodrainage, and paleoaltimetry: Geosphere, v8, p
+Key words: Cather, S.M., Chapin, C.E., Kelley, S.A., Diachronous, Cenozoic, America, surface uplift, Geosphere
+Substance: 
+Time: Cenozoic
+Location: North
+Chetel, L.M., Janecke, S.U., Carroll, A.R., Beard, B.L., Johnson, C.M., and Singer, B.S., 2011, Paleogeographic reconstruction of the Eocene Idaho River, North America Cordillera: Geological Society of America Bulletin, v123, p
+Key words: Chetel, L.M., Janecke, S.U., Carroll, A.R., Beard, B.L., Johnson, C.M., Singer, B.S., Paleogeographic, Eocene Idaho, America Cordillera, Geological, America Bulletin
+Substance: Paleogeographic
+Time: Eocene Idaho
+Location: L.M., Janecke, S.U., Eocene, North, Cordillera
+Counts, R.C., 2005, The Quaternary Stratigraphic Framework of Henrys Fork and Western Browns Park, Uinta Mountains, Utah and Wyoming [M.Sthesis]: Logan, Utah State University, 145 p.
+Key words: Counts, R.C., Quaternary Stratigraphic Framework, Henrys Fork, Browns, Uinta, Mountains, Utah, Wyoming, M.Sthesis, Logan, Utah, State University
+Substance: Quaternary Stratigraphic Framework
+Time: Quaternary Stratigraphic Framework
+Location: Western, Browns, Park, Uinta, Mountains
+Davis, S.J., Wiegand, B.A., Carroll, A.R., and Chamberlain, C.P., 2008, The effect of drainage reorganization on paleoaltimetry studies: An example from the Paleogene Laramide Foreland: Earth and Planetary Science Letters, v275, p
+Key words: Davis, S.J., Wiegand, B.A., Carroll, A.R., Chamberlain, C.P., drainage reorganization, paleoaltimetry studies, Paleogene Laramide Foreland, Earth, Planetary, Science Letters
+Substance: 
+Time: Paleogene Laramide Foreland
+Location: 
+DeCelles, P.G., 1994, Late Cretaceous–Paleocene synorogenic sedimentation and kinematic history of the Sevier thrust belt, northeast Utah and southwest Wyoming: Geological Society of America Bulletin, v106, p
+Key words: DeCelles, P.G., Late Cretaceous–Paleocene, synorogenic sedimentation, kinematic history, Sevier, thrust belt, Wyoming, Geological, America Bulletin
+Substance: synorogenic sedimentation
+Time: Late Cretaceous–Paleocene
+Location: 
+Dickinson, W.R., and Gehrels, G.E., 2009, Use of U-Pb ages of detrital zircons to infer maximum depositional ages of strata: A test against a Colorado Plateau Mesozoic database: Earth and Planetary Science Letters, v288, p
+Key words: Dickinson, W.R., Gehrels, G.E., U-Pb, detrital zircons, maximum depositional ages, Colorado Plateau Mesozoic, Earth, Planetary, Science Letters
+Substance: detrital zircons, maximum depositional ages
+Time: Colorado Plateau Mesozoic
+Location: W.R.
+Fan, M., Mankin, A., and Chamberlain, K., 2015, Provenance and depositional ages of late Paleogene fluvial sedimentary rocks in the central Rocky Mountains, U.S.: Journal of Sedimentary Research, v85, p
+Key words: Fan, M., Mankin, A., Chamberlain, K., Provenance, depositional ages, Paleogene, fluvial sedimentary rocks, Rocky, Mountains, U.S., Sedimentary
+Substance: depositional ages, fluvial sedimentary rocks, Rocky, Sedimentary
+Time: Paleogene
+Location: Rocky, Mountains
+Ferguson, C.A., 2011, Powder Rim gravel—Deposit of a late Miocene, north-flowing river through the Wyoming-Colorado-Utah borderland, in Beard, L.S., et al., eds., CREvolution 2—Origin and Evolution of the Colorado River System, Workshop Abstracts: U.SGeological Survey Open-File Report 2011-1210, p
+Key words: Ferguson, C.A., Powder Rim, Miocene, Wyoming-Colorado-Utah, Beard, L.S., CREvolution, Evolution, Colorado, River System, Abstracts, U.SGeological Survey Open-File
+Substance: 
+Time: Miocene
+Location: L.S., System
+Gehrels, G.E., Blakey, R., Karlstrom, K.E., Timmons, J.M., Dickinson, W., and Pecha, M., 2011, Detrital zircon U-Pb geochronology of Paleozoic strata in the Grand Canyon, Arizona: Lithosphere, v3, p
+Key words: Gehrels, G.E., Blakey, R., Karlstrom, K.E., Timmons, J.M., Dickinson, W., Pecha, M., Detrital, U-Pb, Paleozoic, Canyon, Arizona, Lithosphere
+Substance: 
+Time: Paleozoic
+Location: Karlstrom, K.E., Pecha, Grand
+Hansen, W.R., 1986, Neogene Tectonics and Geomorphology of the Eastern Uinta Mountains in Utah, Colorado, and Wyoming: U.SGeological Survey Professional Paper 1356, 78 p.
+Key words: Hansen, W.R., Neogene Tectonics, Geomorphology, Uinta, Mountains, Colorado, Wyoming, U.SGeological Survey, Paper
+Substance: 
+Time: Neogene Tectonics
+Location: W.R., Eastern, Uinta, Mountains
+Hereford, R., Beard, L.S., Dickinson, W.R., Karlstrom, K.E., Heizler, M.T., Crossey, L.J., Amarosa, L., House, P.K., and Pecha, M., 2016, Reevaluation of the Crooked Ridge River—Early Pleistocene (ca2 Ma) age and origin of the White Mesa alluvium, northeastern Arizona: Geosphere, v
+Key words: Hereford, R., Beard, L.S., Dickinson, W.R., Karlstrom, K.E., Heizler, M.T., Crossey, L.J., Amarosa, L., P.K., Pecha, M., Reevaluation, Crooked, River—Early Pleistocene, Ma, Mesa, Arizona, Geosphere
+Substance: Crossey
+Time: River—Early Pleistocene
+Location: L.S., W.R., Karlstrom, K.E., Heizler, Crossey, L.J., Pecha, Crooked, White
+Honey, J.G., and Izett, G.A., 1980, Paleontology, taphonomy, and stratigraphy of the Browns Park Formation (Oligocene and Miocene) near Maybell, Moffat County, Colorado: U.SGeological Survey Professional Paper 1358, 52 p.
+Key words: Honey, J.G., Izett, G.A., Paleontology, Browns, Formation, Oligocene, Miocene, Maybell, Moffat, Colorado, U.SGeological Survey, Paper
+Substance: Formation
+Time: Oligocene, Miocene
+Location: Izett, Maybell, County
+Izett, G.A., 1975, Late Cenozoic sedimentation and deformation in northern Colorado and adjoining areas, in Curtis, B.F., ed., Cenozoic History of the Southern Rocky Mountains: Geological Society of America Memoir 144, p179–210, https:// doi .org /10 .1130 /MEM144 -p179 .
+Key words: Izett, G.A., Late Cenozoic, Colorado, Curtis, B.F., Cenozoic History, Rocky, Mountains, Geological, America Memoir, // doi .org /10 .1130 /MEM144 -p179
+Substance: Rocky
+Time: Late Cenozoic, Cenozoic History, // doi .org /10 .1130 /MEM144 -p179
+Location: Curtis
+Karlstrom, K.E., Crossey, L.J., Embid, E., Crow, R., Heizler, M., Hereford, R., Beard, L.S., Ricketts, J.W., Cather, S., and Kelley, S., 2017, Cenozoic incision history of the Little Colorado River: Its role in carving Grand Canyon and onset of rapid incision in the past ca2 Ma in the Colorado River system: Geosphere, v
+Key words: Karlstrom, K.E., Crossey, L.J., Embid, E., Crow, R., Heizler, M., Hereford, R., Beard, L.S., Ricketts, J.W., Cather, S., Kelley, S., Cenozoic, incision history, Colorado, Canyon, rapid incision, past ca2, Ma, Colorado, River system, Geosphere
+Substance: Crossey
+Time: Cenozoic, past ca2
+Location: K.E., Crossey, L.J., Embid, Heizler, L.S., Little, Grand
+Kowallis, B.J., Christiansen, E.H., Balls, E., Heizler, M.T., and Sprinkel, D.A., 2005, The Bishop Conglomerate ash beds, south flank of the Uinta Mountains, Utah: Are they pyroclastic fall beds from the Oligocene ignimbrites of western Utah and eastern Nevada?, in Dehler, C.M., et al., eds., Uinta Mountain Geology: Utah Geological Association Publication 33,Kucera, R.E., 1962, Geology of the Yampa District, Northwest Colorado [Ph.D
+Key words: Kowallis, B.J., Christiansen, E.H., Balls, E., Heizler, M.T., Sprinkel, D.A., Bishop Conglomerate, ash beds, Uinta, Mountains, Utah, pyroclastic fall beds, Oligocene, Nevada, Dehler, C.M., Uinta Mountain Geology, Geological, Publication, Kucera, R.E., Geology, Yampa, Colorado, Ph.D
+Substance: Bishop Conglomerate, ash beds, pyroclastic fall beds
+Time: Oligocene
+Location: Kowallis, Heizler, Sprinkel, Uinta, Mountains, Dehler, Yampa, District
+Larson, E.E., and Evanoff, E., 1998, Tephrostratigraphy and source of the tuffs of the White River sequence, in Terry, D.O., Jr., et al., eds., Depositional Environments, Lithostratigraphy, and Biostratigraphy of the White River and Arikaree Groups (Late Eocene to Early Miocene, North America): Geological Society of America Special Paper 325, p1–14, https:// dx .doi .org
+Key words: Larson, E.E., Evanoff, E., Tephrostratigraphy, White River sequence, Terry, D.O., Jr., Depositional Environments, Lithostratigraphy, Biostratigraphy, White River, Arikaree Groups, Late Eocene, Early Miocene, America, Geological, America, Paper, // dx .doi .org
+Substance: Depositional Environments, Arikaree Groups
+Time: Late Eocene, Early Miocene
+Location: E.E., White, D.O., North
+Lilligraven, J.A., and Ostresh, L.M., Jr., 1988, Evolution of Wyoming’s early Cenozoic topography and drainage patterns: National Geographic Research, v4, p
+Key words: Lilligraven, J.A., Ostresh, L.M., Jr., Evolution, Wyoming, ’ s, Cenozoic, drainage patterns, Geographic
+Substance: Geographic
+Time: Cenozoic
+Location: Lilligraven, Ostresh, L.M.
+Lucchitta, I., Holm, R.F., and Lucchitta, B.K., 2011, A Miocene River in northern Arizona and its implications for the Colorado River and Grand Canyon: GSA Today, v21, p
+Key words: Lucchitta, I., Holm, R.F., Lucchitta, B.K., Miocene, Arizona, Colorado, Canyon, GSA
+Substance: 
+Time: Miocene
+Location: Lucchitta, Miocene
+Mauger, R.L., 1977, K-Ar ages of biotites from tuffs in Eocene rocks of the Green River, Washakie, and Uinta Basins, Utah, Wyoming, and Colorado: University of Wyoming Contributions to Geology, v15, p
+Key words: Mauger, R.L., K-Ar, Eocene, Green River, Washakie, Uinta Basins, Utah, Wyoming, Colorado, Wyoming, Geology
+Substance: Washakie
+Time: Eocene
+Location: Washakie
+Murphey, P.C., and Evanoff, E., 2007, Stratigraphy, Fossil Distribution and Depositional Environments of the Upper Brider Formation (Middle Eocene), Southwestern Wyoming: Wyoming State Geological Survey Report of Investigation 57, 107 p.Naeser, C.W., Izett, G.A., and Obradovich, J.D., 1980, Fission-Track and K-Ar Ages of Natural Glasses: U.S
+Key words: Murphey, P.C., Evanoff, E., Stratigraphy, Fossil Distribution, Depositional Environments, Upper Brider Formation, Eocene, Wyoming, Wyoming, Geological Survey, C.W., Izett, G.A., Obradovich, J.D., Fission-Track, K-Ar Ages, Glasses, U.S
+Substance: Fossil Distribution, Depositional Environments, Upper Brider Formation
+Time: Eocene
+Location: P.C., Southwestern, Izett, U.S
+Perkins, M.E., Brown, F.H., Nash, W.P., Williams, S.K., and McIntosh, W., 1998, Sequence, age, and source of silicic fallout tuffs in middle to late Miocene basins of the northern Basin and Range province: Geological Society of America Bulletin, v110, p
+Key words: Perkins, M.E., Brown, F.H., Nash, W.P., Williams, S.K., McIntosh, W., Sequence, silicic fallout tuffs, Miocene, Range province, Geological, America Bulletin
+Substance: Nash, silicic fallout tuffs
+Time: Miocene
+Location: F.H., W.P., S.K., northern, Basin
+Prothero, D.R., and Swisher, C.C., 1992, Magnetostratigraphy and geochronology of the terrestrial Eocene-Oligocene transition in North America, in Prothero, D.R., and Berggren, W.A., eds., Eocene–Oligocene Climate and Biotic Evolution: Princeton, New Jersey, Princeton University Press, p46–73, https:// doi .org /10 .1515 /9781400862924 .46 .
+Key words: Prothero, D.R., Swisher, C.C., Magnetostratigraphy, Eocene-Oligocene, America, Prothero, D.R., Berggren, W.A., Eocene–Oligocene Climate, Biotic Evolution, Princeton, Jersey, Princeton, University Press, // doi .org /10 .1515 /9781400862924 .46
+Substance: 
+Time: Eocene-Oligocene, Eocene–Oligocene Climate, // doi .org /10 .1515 /9781400862924 .46
+Location: North, Prothero, W.A.
+Prothero, D.R., Anderson, J.S., Chamberlain, K., and Ludtke, J., 2008, Magnetic stratigraphy and geochronology of the Barstovian–Clarendonian (middle to late Miocene) part of the Moonstone Formation, central Wyoming, in Lucas, S.G., et al., eds., Neogene Mammals: New Mexico Museum of Natural History and Science Bulletin 44, p225–232.
+Key words: Prothero, D.R., Anderson, J.S., Chamberlain, K., Ludtke, J., Magnetic, Barstovian–Clarendonian, Miocene, Moonstone Formation, Wyoming, Lucas, S.G., Neogene Mammals, Mexico, History, Bulletin
+Substance: Moonstone Formation
+Time: Miocene, Neogene Mammals
+Location: J.S., Lucas
+Roehler, H.W., 1992, Description and Correlation of Eocene Rocks in Stratigraphic Reference Sections for the Green River and Washakie Basins, Southwest Wyoming: U.SGeological Survey Professional Paper 1506-D, 83 p.
+Key words: Roehler, H.W., Description, Correlation, Eocene Rocks, Stratigraphic Reference Sections, Green River, Washakie Basins, Wyoming, U.SGeological Survey, Paper
+Substance: Eocene Rocks, Stratigraphic Reference Sections, Washakie Basins
+Time: Eocene Rocks
+Location: Washakie, Basins, Southwest
+Rosenberg, R., Kirby, E., Aslan, A., Karlstrom, K.E., Heizler, M., and Ouimet, W., 2014, Late Miocene erosion and evolution of topography along the western slope of the Colorado Rockies: Geosphere, v10, p
+Key words: Rosenberg, R., Kirby, E., Aslan, A., Karlstrom, K.E., Heizler, M., Ouimet, W., Late Miocene, western slope, Colorado Rockies, Geosphere
+Substance: Colorado Rockies
+Time: Late Miocene
+Location: Aslan, Karlstrom, K.E., Ouimet
+Rowley, J., and Fan, M., 2016, Middle Cenozoic diachronous shift to eolian deposition in the central Rocky Mountains: Timing, provenance, and significance for paleoclimate, tectonics, and paleogeography: Geosphere, v12, p
+Key words: Rowley, J., Fan, M., Cenozoic, eolian deposition, Rocky, Mountains, Timing, Geosphere
+Substance: eolian deposition, Rocky
+Time: Cenozoic
+Location: Rocky, Mountains
+Eocene Green River Formation, western United States: Geological Society of America Bulletin, v120, p
+Key words: Eocene, Green River, Formation, States, Geological, America Bulletin
+Substance: Formation
+Time: Eocene
+Location: 
+Stewart, J.H., Gehrels, G.E., Barth, A.P., Link, P.K., Christie-Blick, N., and Wrucke, C.T., 2001, Detrital zircon provenance of Mesoproterozoic to Cambrian arenites in western United States and northwestern Mexico: Geological Society of America Bulletin, v113, p
+Key words: Stewart, J.H., Gehrels, G.E., Barth, A.P., Link, P.K., Christie-Blick, N., Wrucke, C.T., Detrital, zircon provenance, Mesoproterozoic, Cambrian, States, Mexico, Geological, America Bulletin
+Substance: zircon provenance
+Time: Mesoproterozoic, Cambrian
+Location: J.H., Wrucke
+Swisher, C.C., and Prothero, D.R., 1990, Single-crystal 40Ar/39Ar dating of the Eocene-Oligocene transition in North America: Science, v249, p
+Key words: Swisher, C.C., Prothero, D.R., Single-crystal, Eocene-Oligocene, America
+Substance: Single-crystal
+Time: Eocene-Oligocene
+Location: North
+Key words: 
+Substance: 
+Time: 
+Location: 

@@ -1,0 +1,549 @@
+New constraints on orogenic models of the southern Central Andean Plateau: Cenozoic basin evolution and bedrock exhumationRenjie Zhou1,, Lindsay M
+Key words: New constraints, orogenic models, Andean Plateau, Cenozoic, basin evolution, bedrock exhumationRenjie, Zhou1, Lindsay
+Substance: bedrock exhumationRenjie
+Time: Cenozoic, Zhou1
+Location: Central, Andean, Plateau
+In the Antofagasta de la Sierra region of NW Argentina, data from sedimentary geology, sandstone modal composition, detrital zircon U-Pb geochronology, and apatite fission-track and (U-Th-Sm)/He thermochronology indicate that sediments accumulated in the late Eocene to early Oligocene, with a maximum depositional age of ca39–38 Ma provided by the youngest detrital zircon U-Pb dates
+Key words: Antofagasta, Sierra, Argentina, sedimentary geology, sandstone modal composition, detrital zircon, U-Pb, apatite fission-track, U-Th-Sm, /He thermochronology, Eocene, Oligocene, maximum depositional age, Ma, detrital zircon, U-Pb
+Substance: Antofagasta, sedimentary geology, sandstone modal composition, detrital zircon, apatite fission-track, maximum depositional age
+Time: Eocene, Oligocene
+Location: 
+Provenance data, including paleocurrent indicators, sandstone modal composition, and detrital zircon U-Pb ages, point to prevailing western sources, including the Sierra de Quebrada Honda (a proximal source), the Ordovician to Late Cambrian Famatinian magmatic arc in western Argentina and Chile (a distal source), and the Permian–Triassic plutonic and volcanic rocks in coastal Chile (a distal source)Along the western basin margin, these strata were deformed by a basement-involved thrust fault that was active at ca
+Key words: Provenance, paleocurrent indicators, sandstone modal composition, detrital zircon, U-Pb, western sources, Sierra, Quebrada Honda, proximal source, Ordovician, Late Cambrian Famatinian, magmatic arc, Argentina, Chile, distal source, Permian–Triassic, volcanic rocks, Chile, distal source, western basin, thrust fault
+Substance: sandstone modal composition, detrital zircon, volcanic rocks
+Time: Ordovician, Late Cambrian Famatinian, Permian–Triassic
+Location: Permian
+Analysis of new and existing U-Pb geochronol ogic data from both detrital and basement samples across the Puna suggests that the Sierra Laguna Blanca, a major mountain range in the southern Puna, remained b uried during the late Eocene to early OligoceneOur multidisciplinary data indicate that the southern Central Andean Plateau may have hosted a regional basin primarily formed by lithospheric flexure during the late Eocene
+Key words: Analysis, U-Pb, geochronol ogic data, basement samples, Puna, Sierra Laguna Blanca, major mountain range, Puna, Eocene, OligoceneOur, multidisciplinary data, Andean Plateau, regional basin, lithospheric flexure, Eocene
+Substance: 
+Time: Eocene, OligoceneOur
+Location: Sierra, Blanca, Puna, Central, Andean, Plateau
+Our multidisciplinary data indicate that the southern Central Andean Plateau may have hosted a regional basin primarily formed by lithospheric flexure during the late Eoceneto early Oligocene
+Key words: multidisciplinary data, Andean Plateau, regional basin, lithospheric flexure, Eoceneto, Oligocene
+Substance: 
+Time: Eoceneto, Oligocene
+Location: Central, Andean, Plateau
+to early OligoceneFurthermore, this study refines the history of basin compartmentaliza tion and exhumation of the major mountain ranges in the southern Puna, revealing propagation of deformation from the west to east, starting as early as the late Eocene and continuing to the mid-late Miocene.
+Key words: OligoceneFurthermore, study refines, basin compartmentaliza tion, major mountain, Puna, Eocene, Miocene
+Substance: 
+Time: OligoceneFurthermore, Eocene, Miocene
+Location: Puna
+Furthermore, this study refines the history of basin compartmentaliza tion and exhumation of the major mountain ranges in the southern Puna, revealing propagation of deformation from the west to east, starting as early as the late Eocene and continuing to the mid-late Miocene.Orogenic systems are inherently complex, and unravelling the many possible modes of deformation is challenging even when abundant geologic data are available
+Key words: Furthermore, study refines, basin compartmentaliza tion, major mountain, Puna, Eocene, Miocene.Orogenic, possible modes, abundant geologic data
+Substance: 
+Time: Eocene, Miocene.Orogenic
+Location: Puna
+For example, various models have been proposed to explain the Cenozoic evolution of the Central Andean Plateau (Fig1), an important example of an orogenic system on a noncollisional plate boundary, including: distributed deformation along inherited crustal heterogeneities (e.g., Carrera et al., 2006; Grier et al., 1991; Hongn et al., 2007; Iaffa et al., 2013; Kley et al., 1999, 2005; Monaldi et al., 2008); range uplift modulated by deposition and erosion (e.g., Sobel and Strecker, 2003; Sobel et al., 2003; Hilley and Strecker, 2005); surface uplift, subsidence, contraction, or extension caused by lower lithosphere founder ing (e.g., DeCelles et al., 2015a; Garzione et al., 2008; Schoenbohm and Carrapa, 2015; Zhou and Schoenbohm, 2015); and formation of a foreland basin through lithospheric flexure (e.g., Jordan and Alonso, 1987; Horton, 2005; DeCelles et al., 2011)
+Key words: various models, Cenozoic, Andean Plateau, Fig1, important example, orogenic system, noncollisional plate boundary, crustal heterogeneities, Carrera, Grier, Hongn, Iaffa, Kley, Monaldi, range uplift, Sobel, Strecker, Sobel, Hilley, Strecker, surface uplift, lithosphere founder, DeCelles, Garzione, Schoenbohm, Carrapa, Zhou, Schoenbohm, foreland basin, lithospheric flexure, Jordan, Alonso, Horton, DeCelles
+Substance: noncollisional plate boundary, crustal heterogeneities
+Time: Cenozoic
+Location: Carrapa
+The first class of models emphasizes the reactivation of pree xisting crustal heterogeneities, such as inherited deep­seated faults created during Cretaceous riftingIn the model, as the region underwent Cenozoic shortening, the availability of these weaknesses led to range uplift distributed across a broad region (e.g., Hongn et al., 2007; Sobel et al., 2003; Strecker et al., 2012)
+Key words: crustal heterogeneities, Cretaceous, region underwent, Cenozoic, range uplift, broad region, Hongn, Sobel, Strecker
+Substance: crustal heterogeneities
+Time: Cretaceous, Cenozoic
+Location: 
+In the model, as the region underwent Cenozoic shortening, the availability of these weaknesses led to range uplift distributed across a broad region (e.g., Hongn et al., 2007; Sobel et al., 2003; Strecker et al., 2012)This “ broken foreland” style of deformation has been documented in the Neogene Eastern Cordillera of NW Argentina, where former rift structures were reactivated, and deformation has occurred irregularly, rather than progressing sequentially across the region over time (e.g., del Papa et al., 2013; Hain et al., 2011; Hongn et al., 2007; Pingel et al., 2014; Sobel et al., 2003; Strecker et al., 2012)
+Key words: region underwent, Cenozoic, range uplift, broad region, Hongn, Sobel, Strecker, foreland ” style, Neogene, Cordillera, Argentina, rift structures, Papa, Hain, Hongn, Pingel, Sobel, Strecker
+Substance: rift structures
+Time: Cenozoic, Neogene
+Location: Neogene, Eastern, Cordillera, of, NW
+This “ broken foreland” style of deformation has been documented in the Neogene Eastern Cordillera of NW Argentina, where former rift structures were reactivated, and deformation has occurred irregularly, rather than progressing sequentially across the region over time (e.g., del Papa et al., 2013; Hain et al., 2011; Hongn et al., 2007; Pingel et al., 2014; Sobel et al., 2003; Strecker et al., 2012)The alternative class of models argues that the Central Andean Plateau developed as an orogenic wedge, as evidenced by a parallel N­S–trending mountain front and a regional foreland basin that migrated east over time (e.g., Carrapa et al., 2011; DeCelles et al., 2011, 2015b; Horton, 2005)
+Key words: foreland ” style, Neogene, Cordillera, Argentina, rift structures, Papa, Hain, Hongn, Pingel, Sobel, Strecker, alternative class, models argues, Andean Plateau, orogenic wedge, N­S–trending, mountain front, regional foreland basin, Carrapa, DeCelles, Horton
+Substance: rift structures
+Time: Neogene
+Location: Neogene, Eastern, Cordillera, of, NW, Central, Andean, Plateau
+This wedge style of deformation has been proposed in the northern Puna, where sedimentary records reveal a foreland basin in the Paleogene that subsequently propagated to the east, riding over the Eastern Cordillera as early as the Eocene (e.g., DeCelles et al., 2011).The southern Puna (~26°S–27°S; Fig
+Key words: wedge style, Puna, sedimentary records, foreland basin, Paleogene, Cordillera, Eocene, DeCelles, .The southern, Puna, Fig
+Substance: sedimentary records
+Time: Paleogene, Eocene
+Location: Puna, Paleogene, Eastern, Cordillera
+The southern Central Andean Plateau may have hosted a single regional basin during the late Eocene to early Oligocene, implying the existence of a regional flexural basin as early as the late Eocene (Zhou et al., 2016)Yet, the modern southern Central Andean Plateau is characterized by a series of high­relief, ~N­S–trending ranges situated among small­scale salars
+Key words: Andean Plateau, regional basin, Eocene, Oligocene, regional flexural basin, Eocene, Zhou, modern southern, Andean Plateau, small­scale salars
+Substance: 
+Time: Eocene, Oligocene
+Location: Central, Andean, Plateau
+Shaded gray region denotes the extent of synrift deposits related to the Cretaceous Salt rift (Marquillas et al., 2005)(B) Geologic map of the Puna (plateau region only; compiled from Martínez, 1995; Schnurr et al., 2006;
+Key words: Shaded, gray region denotes, synrift deposits, Cretaceous, Salt rift, Marquillas, Geologic, Puna, plateau region, Martínez, Schnurr
+Substance: 
+Time: Cretaceous
+Location: Puna
+Our data show that the region was dominated by a propagating orogenic strain front associated with a flexural basin starting as early as the late Eocene, consistent with the wedge class of modelsWe also find evidence for reactivation of relict landscape or structures on the cratonic side of the orogen starting at the same time
+Key words: data show, orogenic strain front, flexural basin, Eocene, wedge class, relict landscape, cratonic side
+Substance: 
+Time: Eocene
+Location: 
+Basins were compartmentalized by broken foreland–style range uplift from the late Oligocene to the present, but deformation proceeded from west to east in the manner of a propagating wedgeThus, both modes of deformation may have influenced the region, with spatial and temporal overlap
+Key words: Basins, foreland–style range uplift, Oligocene, temporal overlap
+Substance: 
+Time: Oligocene
+Location: 
+Cenozoic volcanic activity varies spatially and temporally (e.g., Trumbull et al., 2006; Kay and Coira, 2009), which may reflect the changing angle of the subducting Nazca plate (e.g., Trumbull et al., 2006; Guzmán et al., 2014; Kay and Coira, 2009) and varying fluxes of magma during the proposed Cordilleran cycle (DeCelles et al., 2009; DeCelles et al., 2015b)An important volcanic hiatus ca
+Key words: Cenozoic, volcanic activity varies, Trumbull, Kay, Coira, Nazca, Trumbull, Guzmán, Kay, Coira, Cordilleran, DeCelles, DeCelles, important volcanic hiatus ca
+Substance: 
+Time: Cenozoic
+Location: Coira
+Volcanic activity resumed in the late Oligocene to early Miocene, reflected by mafic lava flows at the Segerstrom volcanic belt on the Chilean side of the southern Puna (e.g., Baker et al., 1987; González­Ferrán et al., 1985; Kay et al., 1994a).The present­day morphology of the southern Central Andean Plateau, the adjacent Eastern Cordillera, and the Sierra Pampeanas to the south is characterized by sedimentary basins Alonso et al., 1991; Carrapa et al., 2005; Jordan and Alonso, 1987; Kraemer et al., 1999; Vandervoort et al., 1995; Voss, 2002).
+Key words: Volcanic, Oligocene, Miocene, mafic lava, Segerstrom, volcanic belt, Chilean, Puna, Baker, González­Ferrán, Kay, .The present­day morphology, Andean Plateau, Cordillera, Sierra Pampeanas, sedimentary basins, Alonso, Carrapa, Jordan, Alonso, Kraemer, Vandervoort, Voss
+Substance: sedimentary basins
+Time: Oligocene, Miocene, .The present­day morphology
+Location: Central, Andean, Plateau, Eastern, Cordillera, Sierra, Pampeanas
+The Sierra de Calalaste is mostly composed of lowgrade metamorphosed Ordovician sedimentary and volcanic rocks (e.g., Martínez, 1995)Other rock types include metabasites, granitoids, and migmatitic gneisses, with the latter dated to ca
+Key words: Sierra, Calalaste, Ordovician, volcanic rocks, Martínez, rock types, migmatitic gneisses
+Substance: volcanic rocks, rock types
+Time: Ordovician
+Location: Sierra, de, Calalaste
+The Sierra Laguna Blanca is composed of orthogneiss and granitoids with an inferred Ordovician age (e.g., Lucassen et al., 2000), but no zircon geochronologic data were available before this study.Finally, we analyzed published detrital zircon U­Pb geochronologic data from the Pasto Ventura region adjacent to the Sierra Laguna Blanca, which hosts sedimentary strata as old as late Eocene (Zhou et al., 2016).
+Key words: Sierra Laguna Blanca, Ordovician, Lucassen, zircon geochronologic data, detrital zircon, U­Pb, geochronologic data, Pasto Ventura, region adjacent, Sierra Laguna Blanca, hosts sedimentary strata, Eocene, Zhou
+Substance: zircon geochronologic data, detrital zircon, hosts sedimentary strata
+Time: Ordovician, Eocene
+Location: Sierra, Blanca, Ventura
+Finally, we analyzed published detrital zircon U­Pb geochronologic data from the Pasto Ventura region adjacent to the Sierra Laguna Blanca, which hosts sedimentary strata as old as late Eocene (Zhou et al., 2016).We mapped exposed sedimentary units in the field and remotely (Fig
+Key words: detrital zircon, U­Pb, geochronologic data, Pasto Ventura, region adjacent, Sierra Laguna Blanca, hosts sedimentary strata, Eocene, Zhou, sedimentary units, Fig
+Substance: detrital zircon, hosts sedimentary strata, sedimentary units
+Time: Eocene
+Location: Ventura, Sierra, Blanca
+Because of the lack of geochronologic data, previous studies assigned various ages to the Antofagasta strata, including mid­Miocene (Martínez, 1995), Tertiary (Schnurr et al., 2006), and a combination of Permian and Eocene ( Seggiaro et al., 2006)Three sedimentary sections were measured in the field, recording imbricated pebbles as paleocurrent indicators (Figs
+Key words: geochronologic data, previous studies, various ages, Antofagasta, Martínez, Tertiary, Schnurr, Permian, Eocene, Seggiaro, sedimentary sections, paleocurrent indicators, Figs
+Substance: Antofagasta, sedimentary sections
+Time: Permian, Eocene
+Location: Permian
+Insets: Cenozoic single-grain ages from ADR1, ADR6, and ADR7Number of ages plotted is shown in black (15 percent discordance) and in gray (40 percent discordance)
+Key words: Insets, Cenozoic, single-grain ages, ADR1, ADR6, ADR7Number, percent discordance, percent discordance
+Substance: single-grain ages
+Time: Cenozoic, ADR1, ADR6, ADR7Number
+Location: 
+ied sedimentary sections in the Antofagasta de la Sierra region are no younger than late Oligocene based on the lack of volcanic input, and they are time­equivalent with the Upper Eocene to Lower Oligocene Quiñoas Formation in the Salar de Antofalla region to the west (Fig1).
+Key words: sedimentary sections, Antofagasta, Sierra, Oligocene, volcanic input, Upper Eocene, Lower Oligocene Quiñoas Formation, Salar, Antofalla, Fig1
+Substance: sedimentary sections, Antofagasta, Lower Oligocene Quiñoas Formation
+Time: Oligocene, Upper Eocene, Lower Oligocene Quiñoas Formation
+Location: de, Antofalla
+200–300 Ma (Permian–Triassic), ca450–650 Ma (late Neoproterozoic, Cambrian to middle Ordovician) and ca
+Key words: 200–300 Ma, Permian–Triassic, Ma, Neoproterozoic, Cambrian, Ordovician
+Substance: 
+Time: 200–300 Ma, Permian–Triassic, Neoproterozoic, Cambrian, Ordovician
+Location: 
+450–650 Ma (late Neoproterozoic, Cambrian to middle Ordovician) and ca900–1300 Ma (late Proterozoic; Fig
+Key words: 450–650 Ma, Neoproterozoic, Cambrian, Ordovician, Ma, Proterozoic, Fig
+Substance: 
+Time: 450–650 Ma, Neoproterozoic, Cambrian, Ordovician, Proterozoic
+Location: 
+900–1300 Ma (late Proterozoic; Fig6)
+Key words: 900–1300 Ma, Proterozoic, Fig6
+Substance: 
+Time: 900–1300 Ma, Proterozoic
+Location: 
+450– 500 Ma (latest Cambrian to middle Ordovician) and weaker clustering at ca500–550 Ma (Cambrian; Fig
+Key words: 450– 500 Ma, Cambrian, Ordovician, Ma, Cambrian, Fig
+Substance: 
+Time: 450– 500 Ma, Cambrian, Ordovician
+Location: 
+500–550 Ma (Cambrian; Fig6)
+Key words: 500–550 Ma, Cambrian, Fig6
+Substance: 
+Time: 500–550 Ma, Cambrian
+Location: 
+All samples yielded a wide range of late Proterozoic ages at ca900–1300 Ma (late Proterozoic)
+Key words: wide range, Proterozoic, Ma, Proterozoic
+Substance: 
+Time: Proterozoic
+Location: 
+900–1300 Ma (late Proterozoic)Some early Proterozoic ages, ca
+Key words: 900–1300 Ma, Proterozoic, Proterozoic
+Substance: 
+Time: 900–1300 Ma, Proterozoic
+Location: 
+Some early Proterozoic ages, ca1800–1900 Ma, were also present, with peak ages of 1848 Ma and 1900 Ma defined in samples ADR4 and ADR1, respectively (Fig
+Key words: Proterozoic, Ma, peak ages, 1848 Ma, 1900 Ma, ADR4, ADR1, Fig
+Substance: 
+Time: Proterozoic, 1848 Ma, 1900 Ma, ADR4, ADR1
+Location: 
+This is consistent with the material having been sourced in the Precambrian Antofalla terrane, which makes up the basement for most of the western­central Puna (Ramos, 2008, 2010)The Precambrian basement experienced multiphase metamorphism during late Proterozoic to early Ordovician time, resulting in the series of ages found in the zircon overgrowth (rims, Fig
+Key words: Precambrian Antofalla, Puna, Ramos, Precambrian, multiphase metamorphism, Proterozoic, Ordovician, zircon overgrowth, Fig
+Substance: zircon overgrowth
+Time: Precambrian Antofalla, Precambrian, Proterozoic, Ordovician
+Location: 
+The Precambrian basement experienced multiphase metamorphism during late Proterozoic to early Ordovician time, resulting in the series of ages found in the zircon overgrowth (rims, Fig9)
+Key words: Precambrian, multiphase metamorphism, Proterozoic, Ordovician, zircon overgrowth, Fig9
+Substance: zircon overgrowth
+Time: Precambrian, Proterozoic, Ordovician
+Location: 
+9C and 9D), implying a magmatic origin (Corfu et al., 2003), such as the plutonic rocks of the Ordovician to the latest Cambrian Famatinian arc in western Argentina and Chile (since ca495 Ma; e.g., Ducea et al., 2015)
+Key words: magmatic origin, Corfu, plutonic rocks, Ordovician, Cambrian Famatinian, Argentina, Chile, Ma, Ducea
+Substance: plutonic rocks
+Time: Ordovician, Cambrian Famatinian
+Location: Corfu
+9E and 9F), pointing to a source in the Permian–Triassic plutonic and volcanic rocks in coastal Chile on the western margin of the Puna (e.g., López­Gamundí and Breitkreuz, 1997; Breitkreuz and Zeil, 1994).Detrital samples also yielded a limited number of Cenozoic ages; we measured four grains
+Key words: Permian–Triassic, volcanic rocks, Chile, Puna, López­Gamundí, Breitkreuz, Breitkreuz, Zeil, .Detrital samples, Cenozoic
+Substance: volcanic rocks
+Time: Permian–Triassic, Cenozoic
+Location: Permian
+Detrital samples also yielded a limited number of Cenozoic ages; we measured four grainsFigure 8
+Key words: Detrital, Cenozoic
+Substance: 
+Time: Cenozoic
+Location: 
+In sample ADR6, two Cenozoic ages were 38.3 ± 0.5 Ma and 39.4 ± 0.6 Ma, enabling us to calculate a weighted mean age of 38.69 ±0.74 Ma
+Key words: ADR6, two Cenozoic, 38.3 ±, 0.5 Ma, 39.4 ±, 0.6 Ma, 38.69 ±0.74, Ma
+Substance: 
+Time: ADR6, two Cenozoic, 38.3 ±, 0.5 Ma, 39.4 ±, 0.6 Ma, 38.69 ±0.74
+Location: 
+They are consistent with our Upper Eocene to Lower Oligocene age inference for the Antofagasta de la Sierra sections based on structural geology, sandstone modal composition, and detrital apatite thermochronology.We performed low­temperature thermochronology on two bedrock samples from the eastern edge of the Sierra de Calalaste in order to constrain the timing of exhumation, and therefore the timing of deformation, of the eastern range.
+Key words: Upper Eocene, Lower Oligocene, age inference, Antofagasta, Sierra, structural geology, sandstone modal composition, detrital apatite thermochronology.We, low­temperature thermochronology, bedrock samples, eastern edge, Sierra, Calalaste, eastern range
+Substance: Antofagasta, sandstone modal composition, detrital apatite thermochronology.We, bedrock samples
+Time: Upper Eocene, Lower Oligocene
+Location: Sierra, de, Calalaste
+11B), the inverse model with AFT data provides constraints for its thermal history since the CretaceousThe model favors cooling from the initial input temperature (160–180 Ma) to ~60–70 °C, the upper part of the PAZ, by ca
+Key words: inverse model, AFT, thermal history, CretaceousThe, initial input temperature, 160–180 Ma, upper part, PAZ
+Substance: 
+Time: CretaceousThe, 160–180 Ma
+Location: 
+20 Ma, with cooling to surface temperature allowed, but not required, in the early Cenozoic (ca60–50 Ma; Fig
+Key words: 20 Ma, surface temperature, Cenozoic, Ma, Fig
+Substance: 
+Time: 20 Ma, Cenozoic
+Location: 
+11), in line with the timing of proposed late Eocene to early Oligocene (ca38–28 Ma) basin formation in the Antofagasta de la Sierra region.
+Key words: Eocene, Oligocene, Ma, basin formation, Antofagasta, Sierra
+Substance: basin formation, Antofagasta
+Time: Eocene, Oligocene
+Location: de
+Scattered ages as old as 2000 Ma indicate that rocks of the Sierra Laguna Blanca are a result of partial melting of Precambrian basement during the mid­late Cambrian to the earliest Ordovician, predating the Famatinian magmatic arc (ca495 Ma; e.g., Ducea et al., 2015).
+Key words: Scattered, 2000 Ma, Sierra Laguna Blanca, Precambrian, Cambrian, Ordovician, Famatinian, magmatic arc, Ma, Ducea
+Substance: 
+Time: 2000 Ma, Precambrian, Cambrian, Ordovician
+Location: Sierra, Blanca
+Because bedrock in the Puna consists mostly of Precambrian terranes that experienced multiple phases of metamorphism during the Proterozoic and Paleozoic, detrital zircon U­Pb ages obtained in the Puna commonly yield similarlooking age plots with peaks at ca400–600 Ma
+Key words: Puna, Precambrian, multiple phases, Proterozoic, Paleozoic, detrital zircon, U­Pb, Puna, age plots, Ma
+Substance: detrital zircon
+Time: Precambrian, Proterozoic, Paleozoic
+Location: Puna
+Second, the strata yield similar sandstone modal compositions to that of the Quiñoas Formation to the west and the lowest unit in the Pasto Ventura region to the east, both of which are argued to be late Eocene to early Oligocene (Fig5; Adelmann, 2001; Carrapa et al., 2005; K raemer et al., 1999; Zhou et al., 2016)
+Key words: strata yield, similar sandstone modal compositions, Quiñoas Formation, Pasto Ventura, Eocene, Oligocene, Fig5, Adelmann, Carrapa, K, Zhou
+Substance: similar sandstone modal compositions, Quiñoas Formation
+Time: Eocene, Oligocene
+Location: Ventura
+Our data demonstrate the existence of an Eocene–Oligocene regional basin connecting the Quiñoas Formation, Antofagasta de la Sierra strata, and Pasto Ventura strataFirst, thermochronologic data demonstrate the two mountain ranges that compartmentalize the region today, the Sierra de Calalaste and the Sierra Laguna Blanca, had not yet been exhumed, and therefore could not have formed barriers to an integrated regional basin in the Eocene–Oligocene
+Key words: Eocene–Oligocene, regional basin, Quiñoas Formation, Antofagasta, Sierra, Pasto Ventura, thermochronologic data, Sierra, Calalaste, Sierra Laguna Blanca, regional basin, Eocene–Oligocene
+Substance: Quiñoas Formation, Antofagasta
+Time: Eocene–Oligocene
+Location: Sierra, de, Calalaste, Blanca
+First, thermochronologic data demonstrate the two mountain ranges that compartmentalize the region today, the Sierra de Calalaste and the Sierra Laguna Blanca, had not yet been exhumed, and therefore could not have formed barriers to an integrated regional basin in the Eocene–OligoceneFurthermore, paleocurrent indicators in both the Quiñoas Formation and Antofagasta de la Sierra strata indicate eastward paleoflow
+Key words: thermochronologic data, Sierra, Calalaste, Sierra Laguna Blanca, regional basin, Eocene–OligoceneFurthermore, paleocurrent indicators, Quiñoas Formation, Antofagasta, Sierra, eastward paleoflow
+Substance: Quiñoas Formation, Antofagasta
+Time: Eocene–OligoceneFurthermore
+Location: Sierra, de, Calalaste, Blanca
+Therefore, the data support a regional­scale sedimentary basin in the southern Puna (~26°S–27°S) during the late Eocene to early Oligocene that covered the present­day Salar de Antofalla region, the Sierra de Calalaste, the Antofagasta de la Sierra region, the Sierra Laguna Blanca, and the Pasto Ventura region, extending at least ~150 km from west to east (Zhou et al., 2016)The maximum thickness of the Quiñoas Formation to the west is ~1.4 km, consisting of playa mudflat, alluvial fan and sheetflood, and distal braided river deposits (e.g., Adelmann, 2001; Carrapa et al., 2005)
+Key words: data support, regional­scale sedimentary basin, Puna, Eocene, Oligocene, Salar, Antofalla, Sierra, Calalaste, Antofagasta, Sierra, Sierra Laguna Blanca, Pasto Ventura, Zhou, maximum thickness, Quiñoas Formation, playa mudflat, alluvial fan, river deposits, Adelmann, Carrapa
+Substance: regional­scale sedimentary basin, Antofagasta, Quiñoas Formation
+Time: Eocene, Oligocene
+Location: Puna, Sierra, de, Calalaste, Blanca, Ventura
+To the east in the Pasto Ventura region, only an ~400 m section of the lowest unit is exposed, but it contains coarse cross­bedded red sandstone and siltstone, pedogenic carbonate nodules, and paleosol horizons, indicating slow accumulation and prolonged subaerial exposure in the late Eocene to early Oligocene, with pos­Figure 14
+Key words: Pasto Ventura, m section, contains coarse, red sandstone, pedogenic carbonate nodules, paleosol horizons, slow accumulation, subaerial exposure, Eocene, Oligocene
+Substance: contains coarse, red sandstone, pedogenic carbonate nodules
+Time: Eocene, Oligocene
+Location: Ventura
+(A) Map of the Central Andes, indicating the locations for major Cenozoic deformationI—McQuarrie (2002); McQuarrie et al
+Key words: Andes, Cenozoic, McQuarrie
+Substance: 
+Time: Cenozoic
+Location: Central
+(C) Block diagram for the Puna during the late Eocene to early Oligocene, illustrating the east-propagating foreland basin system and pre-existing structures/landscape to the eastN
+Key words: Block, Puna, Eocene, Oligocene, foreland basin system
+Substance: 
+Time: Eocene, Oligocene
+Location: Puna
+Therefore, this early southern Puna basin was asymmetric, with its depo center located in the Antofagasta de la Sierra region where the thickest (>3.4 km) Upper Eocene to Lower Oligocene units are found.After its formation in the late Eocene to early Oligocene, this basin in the southern Puna was compartmentalized by several major basementcored mountain ranges (Figs
+Key words: early southern, Puna, depo center, Antofagasta, Sierra, Upper Eocene, Lower Oligocene, Eocene, Oligocene, Puna, Figs
+Substance: Antofagasta
+Time: Upper Eocene, Lower Oligocene, Eocene, Oligocene
+Location: Puna, de
+After its formation in the late Eocene to early Oligocene, this basin in the southern Puna was compartmentalized by several major basementcored mountain ranges (Figs1 and 14), forming small­scale basins, some of which continued to accumulate sediment, while others experienced sediment starvation (e.g., Adelmann, 2001; Carrapa et al., 2005; Zhou et al., 2016)
+Key words: Eocene, Oligocene, Puna, Figs1, small­scale basins, accumulate sediment, sediment starvation, Adelmann, Carrapa, Zhou
+Substance: accumulate sediment, sediment starvation
+Time: Eocene, Oligocene, Figs1
+Location: Puna
+To the east, AFT and (U­Th­Sm)/He data reveal that the Sierra Laguna Blanca experienced its most recent exhumation in the middle­late Miocene (ca15–10 Ma; Zhou et al., 2014)
+Key words: AFT, U­Th­Sm, /He data, Sierra Laguna Blanca, recent exhumation, Miocene, Ma, Zhou
+Substance: 
+Time: Miocene
+Location: Sierra, Blanca
+In refining the development history of the southern Puna, we find that (1) this region was occupied by a foreland basin, with a western depocenter, during the late Eocene to early Oligo cene; and (2) in the southern Puna, a wave of deformation initiated as early as late Eocene in the west and progressed to the east, as evidenced by documented cooling ages of major bedrock mountain ranges (Fig14).
+Key words: development history, Puna, foreland basin, western depocenter, Eocene, Oligo, Puna, Eocene, major bedrock mountain, Fig14
+Substance: major bedrock mountain
+Time: Eocene
+Location: Puna
+We argue that, during the late Eocene to early Oligocene, lithospheric flexure was the dominant deformation mechanism in the southern Puna, based on the geometry of the basin (this study; Zhou et al., 2016)The proximal source region of this basin, the Sierra Quebrada Honda, marked the location of the orogenic strain front during the late Eocene to early Oligocene (Fig
+Key words: Eocene, Oligocene, lithospheric flexure, dominant deformation mechanism, Puna, Zhou, proximal source region, Sierra Quebrada Honda, orogenic strain front, Eocene, Oligocene, Fig
+Substance: dominant deformation mechanism
+Time: Eocene, Oligocene
+Location: Puna
+The proximal source region of this basin, the Sierra Quebrada Honda, marked the location of the orogenic strain front during the late Eocene to early Oligocene (Fig14B)
+Key words: proximal source region, Sierra Quebrada Honda, orogenic strain front, Eocene, Oligocene, Fig14B
+Substance: 
+Time: Eocene, Oligocene
+Location: 
+First, studies in the northern Puna and the Altiplano place the orogenic strain front in the western plateau during the late Eocene (e.g., Carrapa et al., 2011; DeCelles and Horton, 2003; McQuarrie et al., 2005; Uba et al., 2006), requiring a map­view deflection of orogenic strain front from the northern to the southern Puna (Figs14A and 14C)
+Key words: Puna, Altiplano, orogenic strain front, western plateau, Eocene, Carrapa, DeCelles, Horton, McQuarrie, Uba, map­view deflection, orogenic strain front, Puna, Figs14A
+Substance: 
+Time: Eocene, Figs14A
+Location: Puna
+Second, the Sierra Chango Real, the proposed eastern boundary of the early basin (Zhou et al., 2016), yields late Eocene AFT ages (Coutand et al., 2001), suggesting exhumation during the formation of this basinThis location was active, yet it was ~180 km east of the proposed orogenic strain front.
+Key words: Sierra Chango Real, eastern boundary, early basin, Zhou, Eocene AFT, Coutand, basinThis location, orogenic strain front
+Substance: eastern boundary
+Time: Eocene AFT
+Location: 
+We suggest that these two apparent conflicts may be resolved by invoking a role for inherited cratonic structures in modulating the propagation of the Cenozoic strain frontThe Cretaceous rift developed mostly in the northern Puna Plateau and its Eastern Cordi llera, covering both regions with thick Cretaceous rift deposits (Marquillas et al., 2005)
+Key words: two apparent conflicts, cratonic structures, Cenozoic, strain frontThe, Cretaceous, Puna Plateau, Cordi, Cretaceous, rift deposits, Marquillas
+Substance: cratonic structures
+Time: Cenozoic, Cretaceous
+Location: Puna, Plateau
+The Cretaceous rift developed mostly in the northern Puna Plateau and its Eastern Cordi llera, covering both regions with thick Cretaceous rift deposits (Marquillas et al., 2005)Rift structures are prone to reactivation during shortening (e.g., Carrera et al., 2006; Hongn et al., 2007)
+Key words: Cretaceous, Puna Plateau, Cordi, Cretaceous, rift deposits, Marquillas, Rift, Carrera, Hongn
+Substance: 
+Time: Cretaceous
+Location: Puna, Plateau
+In the Eastern Cordillera of the northern Puna, shortening may have preferentially activated the inherited Cretaceous riftrelated faults (e.g., Hongn et al., 2007; Carrera et al., 2006); syndepositional deformation in the Quebrada de los Colorados Formation is in line with this inference (del Papa et al., 2013)Although Cretaceous rift deposits are not present in the southern Puna (e.g., M arquillas et al., 2005), thermochronologic data document Cretaceous cooling of several ranges on the eastern margin (e.g., La Quebrada; Carrapa et al., 2014), suggesting that the rift shoulders may have extended onto the plateau
+Key words: Cordillera, Puna, Cretaceous, Hongn, Carrera, syndepositional deformation, Quebrada, Colorados Formation, Papa, Cretaceous, rift deposits, Puna, M arquillas, thermochronologic data document, Cretaceous, Quebrada, Carrapa, rift shoulders
+Substance: syndepositional deformation, Colorados Formation
+Time: Cretaceous
+Location: Puna
+Although Cretaceous rift deposits are not present in the southern Puna (e.g., M arquillas et al., 2005), thermochronologic data document Cretaceous cooling of several ranges on the eastern margin (e.g., La Quebrada; Carrapa et al., 2014), suggesting that the rift shoulders may have extended onto the plateauRapid exhumation of the Sierra Chango Real, as suggested by 38–29 Ma AFT ages and relatively long ~13–14 µm mean track lengths (Coutand et al., 2001), may be a result of reactivation of rift­related faults
+Key words: Cretaceous, rift deposits, Puna, M arquillas, thermochronologic data document, Cretaceous, Quebrada, Carrapa, rift shoulders, plateauRapid exhumation, Sierra Chango Real, 38–29 Ma AFT, track lengths, Coutand
+Substance: 
+Time: Cretaceous, 38–29 Ma AFT
+Location: 
+Alternatively, the southern Puna may indeed lack significant rift structures, but may instead dominantly host relict Paleozoic topography, supported by the observed Paleozoic zircon (U­Th­Sm)/He ages from the bedrock ranges in the southern Puna (Carrapa and DeCelles, 2015; Reiners et al., 2015; Zhou et al., 2014)The lack of rift­related faults may position the southern Puna less favorably for accommodating large amounts of Cenozoic shortening, impeding the ~W­E propagation of Cenozoic deformation through the southern Central Andean Plateau (Fig
+Key words: Alternatively, Puna, significant rift structures, host relict, Paleozoic, Paleozoic, U­Th­Sm, /He ages, Puna, Carrapa, DeCelles, Reiners, Zhou, Puna, large amounts, Cenozoic, ~W­E propagation, Cenozoic, Andean Plateau, Fig
+Substance: significant rift structures
+Time: Paleozoic, Cenozoic
+Location: Puna, Central, Andean, Plateau
+The lack of rift­related faults may position the southern Puna less favorably for accommodating large amounts of Cenozoic shortening, impeding the ~W­E propagation of Cenozoic deformation through the southern Central Andean Plateau (Fig14).
+Key words: Puna, large amounts, Cenozoic, ~W­E propagation, Cenozoic, Andean Plateau, Fig14
+Substance: 
+Time: Cenozoic
+Location: Puna, Central, Andean, Plateau
+Sandstone modal composition, detrital zircon U­Pb ages, and modeled bedrock AFT data are consistent with the onset of sedimentary accumulation in multiple locations in the Southern Central Andean Plateau in the late Eocene to early OligoceneThese new data support the inference that the entire southern Puna was occupied by a regional, asymmetric sedimentary basin during the late Eocene to early Oligocene, bounded by topographic highs to the west in the Sierra Quebrada Honda, and to the east in the Sierra Chango Real (Zhou et al., 2016)
+Key words: Sandstone, modal composition, detrital zircon, U­Pb, AFT, sedimentary accumulation, multiple locations, Andean Plateau, Eocene, OligoceneThese, new data support, entire southern, Puna, asymmetric sedimentary basin, Eocene, Oligocene, topographic highs, Sierra Quebrada Honda, Sierra Chango Real, Zhou
+Substance: Sandstone, modal composition, detrital zircon, sedimentary accumulation, asymmetric sedimentary basin, topographic highs
+Time: Eocene, OligoceneThese, Oligocene
+Location: Southern, Central, Andean, Plateau, Puna, Sierra, Quebrada
+These new data support the inference that the entire southern Puna was occupied by a regional, asymmetric sedimentary basin during the late Eocene to early Oligocene, bounded by topographic highs to the west in the Sierra Quebrada Honda, and to the east in the Sierra Chango Real (Zhou et al., 2016)This basin was compartmentalized by basement­cored range uplift starting in the late Oligocene, propagating from west to east during the late Eocene to mid­late Miocene, with the exhumation of the eastern Sierra de Calalaste being refined to ca
+Key words: new data support, entire southern, Puna, asymmetric sedimentary basin, Eocene, Oligocene, topographic highs, Sierra Quebrada Honda, Sierra Chango Real, Zhou, range uplift, Oligocene, Eocene, Miocene, Sierra, Calalaste
+Substance: asymmetric sedimentary basin, topographic highs
+Time: Eocene, Oligocene, Miocene
+Location: Puna, Sierra, Quebrada, de, Calalaste
+This basin was compartmentalized by basement­cored range uplift starting in the late Oligocene, propagating from west to east during the late Eocene to mid­late Miocene, with the exhumation of the eastern Sierra de Calalaste being refined to ca25–20 Ma in this study
+Key words: range uplift, Oligocene, Eocene, Miocene, Sierra, Calalaste, Ma
+Substance: 
+Time: Oligocene, Eocene, Miocene
+Location: Sierra, de, Calalaste
+We also document magmatic intrusion in the mid­late Miocene that, although it does not outcrop extensively at the surface, may nonetheless have reset the detrital AFT record in the Antofagasta de la Sierra strata; we suggest caution in interpreting similar data in other arc basinsOur results imply that the southern Puna could have been dynamically connected to the regional central Andean foreland basin that initiated as early as late Eocene, highlighting the potential for the flexural behavior of the lithosphere despite inherited crustal heterogeneities, such as preexisting deep­seated faults
+Key words: document magmatic intrusion, Miocene, AFT, Antofagasta, Sierra, similar data, arc basinsOur results, Puna, Andean, foreland basin, Eocene, flexural behavior, crustal heterogeneities
+Substance: Antofagasta, crustal heterogeneities
+Time: Miocene, Eocene
+Location: de
+Our results imply that the southern Puna could have been dynamically connected to the regional central Andean foreland basin that initiated as early as late Eocene, highlighting the potential for the flexural behavior of the lithosphere despite inherited crustal heterogeneities, such as preexisting deep­seated faultsAlongstrike comparison leads us to hypothesize that the different types of inherited structures in the northern and southern Puna may explain the observed map­view deflection of the orogenic strain front for the late Eocene to early Oligocene Puna (Fig
+Key words: Puna, Andean, foreland basin, Eocene, flexural behavior, crustal heterogeneities, faultsAlongstrike comparison, different types, Puna, map­view deflection, orogenic strain front, Eocene, Oligocene Puna, Fig
+Substance: crustal heterogeneities
+Time: Eocene, Oligocene Puna
+Location: Puna
+Alongstrike comparison leads us to hypothesize that the different types of inherited structures in the northern and southern Puna may explain the observed map­view deflection of the orogenic strain front for the late Eocene to early Oligocene Puna (Fig14).
+Key words: Alongstrike, different types, Puna, map­view deflection, orogenic strain front, Eocene, Oligocene Puna, Fig14
+Substance: 
+Time: Eocene, Oligocene Puna
+Location: Puna
+Alonso, R.N., Jordan, T.E., Tabbutt, K.T., and Vandervoort, D.S., 1991, Giant evaporite belts of the Neogene Central Andes: Geology, v19, p
+Key words: Alonso, R.N., Jordan, T.E., Tabbutt, K.T., Vandervoort, D.S., Giant, evaporite belts, Neogene, Andes, Geology
+Substance: evaporite belts
+Time: Neogene
+Location: Tabbutt, Vandervoort, Neogene, Central
+Arriagada, C., Cobbold, P.R., and Roperch, P., 2006, Salar de Atacama Basin: A record of compressional tec tonics in the Central Andes since the mid­Cretaceous: Tectonics, v25, p
+Key words: Arriagada, C., Cobbold, P.R., Roperch, P., Salar, Atacama, compressional tec tonics, Andes, Tectonics
+Substance: 
+Time: 
+Location: Salar, de, Atacama, Basin, Central
+Berry, R.F., Jenner, G.A., Meffre, S., and Tubrett, M.N., 2001, A North American provenance for Neoproterozoic to Cambrian sandstones in Tasmania?: Earth and Planetary Science Letters, v192, p
+Key words: Berry, R.F., Jenner, G.A., Meffre, S., Tubrett, M.N., North American provenance, Neoproterozoic, Cambrian, Tasmania, Earth, Planetary, Science Letters
+Substance: 
+Time: Neoproterozoic, Cambrian
+Location: Tubrett, Tasmania
+Breitkreuz, C., and Zeil, W., 1994, The Late Carboniferous to Triassic volcanic belt in northern Chile, in Reutter, K.­J., Scheuber, E., and Wigger, P., eds., Tectonics of the Southern Central Andes: Structure and Evolution of an Active Continental Margin: Springer­Verlag, Heidelberg, Germany, p277–292, doi: 10 .1007 /978­ 3­ 642 ­77353 ­2_20 .
+Key words: Breitkreuz, C., Zeil, W., Late Carboniferous, Triassic, volcanic belt, Chile, Reutter, K.­J., Scheuber, E., Wigger, P., Tectonics, Andes, Structure, Evolution, Active, Margin, Springer­Verlag, Heidelberg, Germany, .1007 /978­, ­77353 ­2_20
+Substance: Late Carboniferous, Structure
+Time: Late Carboniferous, Triassic, .1007 /978­, ­77353 ­2_20
+Location: Reutter, K.­J., Southern, Central, Heidelberg
+Canavan, R.R., Carrapa, B., Clementz, M.T., Quade, J., DeCelles, P.G., and Schoenbohm, L.M., 2014, Early Cenozoic uplift of the Puna Plateau, Central Andes, based on stable isotope paleoaltimetry of hydrated volcanic glass: Geology, v42, p
+Key words: Canavan, R.R., Carrapa, B., Clementz, M.T., Quade, J., DeCelles, P.G., Schoenbohm, L.M., Early Cenozoic, Puna Plateau, Andes, stable isotope paleoaltimetry, volcanic glass, Geology
+Substance: stable isotope paleoaltimetry
+Time: Early Cenozoic
+Location: Clementz, L.M., Puna, Plateau, Central
+Carrapa, B., and DeCelles, P.G., 2008, Eocene exhumation and basin development in the Puna of northwestern Argentina: Tectonics, v27, p
+Key words: Carrapa, B., DeCelles, P.G., Eocene, basin development, Puna, Argentina, Tectonics
+Substance: 
+Time: Eocene
+Location: 
+Carrapa, B., Adelmann, D., Hilley, G.E., Mortimer, E.,  Sobel, E.R., and Strecker, M.R., 2005, Oligocene range uplift and development of plateau morphology in the southern Central Andes: Tectonics, v24, p
+Key words: Carrapa, B., Adelmann, D., Hilley, G.E., Mortimer, E., Sobel, E.R., Strecker, M.R., Oligocene, range uplift, plateau morphology, Andes, Tectonics
+Substance: 
+Time: Oligocene
+Location: M.R., Central
+Carrapa, B., Strecker, M., and Sobel, E., 2006, Cenozoic orogenic growth in the Central Andes: Evidence from sedimentary rock provenance and apatite fission track thermochronology in the Fiambalá Basin, southernmost Puna Plateau margin (NW Argentina): Earth and Planetary Science Letters, v247, p
+Key words: Carrapa, B., Strecker, M., Sobel, E., Cenozoic, orogenic growth, Andes, Evidence, sedimentary rock provenance, apatite fission track thermochronology, Fiambalá, Puna Plateau, Argentina, Earth, Planetary, Science Letters
+Substance: sedimentary rock provenance, apatite fission track thermochronology
+Time: Cenozoic
+Location: Central, Fiambalá, Basin, Puna, Plateau
+DeCelles, P.G., Carrapa, B., and Gehrels, G.E., 2007,  Detrital zircon U­Pb ages provide provenance and chrono stratigraphic information from Eocene synorogenic deposits in northwestern Argentina: Geology, v35, p
+Key words: DeCelles, P.G., Carrapa, B., Gehrels, G.E., Detrital, U­Pb, chrono stratigraphic information, Eocene, synorogenic deposits, Argentina, Geology
+Substance: chrono stratigraphic information
+Time: Eocene
+Location: 
+DeCelles, P.G., Carrapa, B., Horton, B.K., and Gehrels, G.E., 2011, Cenozoic foreland basin system in the Ventral Andes of northwestern Argentina: Implications for Andean geodynamics and modes of deformation: Tectonics, v30, TC6013, doi: 10 .1029 /2011TC002948 .
+Key words: DeCelles, P.G., Carrapa, B., Horton, B.K., Gehrels, G.E., Cenozoic, foreland basin system, Ventral Andes, Argentina, Implications, Andean, Tectonics, TC6013, .1029 /2011TC002948
+Substance: 
+Time: Cenozoic, TC6013, .1029 /2011TC002948
+Location: Horton, Ventral
+DeCelles, P.G., Carrapa, B., Horton, B., McNabb, J.,  Gehrels, G., and Boyd, J., 2015a, The Miocene Arizaro Basin, central Andean hinterland: Response to partial lithosphere removal?, in DeCelles, P.G., Ducea, M.N., Carrapa, B., and Kapp, P.A., eds., Geodynamics of a Cordilleran Orogenic System: The Central Andes of Argentina and Northern Chile: Geological Society of America Memoir 212, p359–386, doi:1 0 .1130
+Key words: DeCelles, P.G., Carrapa, B., Horton, B., McNabb, J., Gehrels, G., Boyd, J., Miocene Arizaro, Andean, partial lithosphere removal, DeCelles, P.G., Ducea, M.N., Carrapa, B., Kapp, P.A., Geodynamics, Cordilleran Orogenic, Andes, Argentina, Chile, Geological, America Memoir
+Substance: Geodynamics
+Time: Miocene Arizaro
+Location: Arizaro, Basin, DeCelles, P.G., Ducea, Carrapa, Central, Northern
+M.N., Kapp, P., Gehrels, G.E., Carrapa, B., Quade, J., and Schoenbohm, L.M., 2015b, Cyclical orogenic processes in the Cenozoic Central Andes, in DeCelles, P.G., Ducea, M.N., Carrapa, B., and Kapp, P.A., eds.,Geodynamics of a Cordilleran Orogenic System: The Central Andes of Argentina and Northern Chile: Geological Society of America Memoir 212, p
+Key words: M.N., Kapp, P., Gehrels, G.E., Carrapa, B., Quade, J., Schoenbohm, L.M., Cyclical, orogenic processes, Cenozoic, Andes, DeCelles, P.G., Ducea, M.N., Carrapa, B., Kapp, P.A., Geodynamics, Cordilleran Orogenic, Andes, Argentina, Chile, Geological, America Memoir
+Substance: Geodynamics
+Time: Cenozoic
+Location: Carrapa, Cenozoic, Central, DeCelles, P.G., Ducea, Northern
+DeGraaff­Surpless, K., Mahoney, J.B., Wooden, J.L., and McWilliams, M.O., 2003, Lithofacies control in detrital zircon provenance studies: Insights from the Cretaceous Methow basin, southern Canadian Cordillera: Geological Society of America Bulletin, v115, p
+Key words: DeGraaff­Surpless, K., Mahoney, J.B., Wooden, J.L., McWilliams, M.O., Lithofacies, detrital zircon provenance studies, Insights, Cretaceous Methow, Cordillera, Geological, America Bulletin
+Substance: detrital zircon provenance studies
+Time: Cretaceous Methow
+Location: J.B.
+del Papa, C., Hongn, F., Powell, J., Payrola, P., Do Campo, M., Strecker, M.R., Petrinovic, I., Schmitt, K., and Pereyra, R., 2013, Middle Eocene–Oligocene brokenforeland evolution in the Andean Calchaqui Valley, NW Argentina: Insights from stratigraphic, structural and provenance studies: Basin Research, v25, p
+Key words: Papa, C., Hongn, F., Powell, J., Payrola, P., Campo, M., Strecker, M.R., Petrinovic, I., Schmitt, K., Pereyra, R., Eocene–Oligocene, brokenforeland evolution, Andean Calchaqui, Argentina, Insights, provenance studies
+Substance: 
+Time: Eocene–Oligocene
+Location: Hongn, Payrola, M.R., Andean, Calchaqui, NW
+Dickinson, W.R., and Gehrels, G.E., 2009, Use of U­Pb ages of detrital zircons to infer maximum depositional ages of strata: A test against a Colorado Plateau Mesozoic database: Earth and Planetary Science Letters, v288, no
+Key words: Dickinson, W.R., Gehrels, G.E., U­Pb, detrital zircons, maximum depositional ages, Colorado Plateau Mesozoic, Earth, Planetary, Science Letters
+Substance: detrital zircons, maximum depositional ages
+Time: Colorado Plateau Mesozoic
+Location: W.R.
+Dickinson, W.R., Beard, L.S., Brackenridge, G.R., Erjavec, J., Ferguson, R., Inman, K., Knepp, R., Lindberg, F.A., and Ryberge, P., 1983, Provenance of North American Phanerozoic sandstones in relation to tectonic setting: Geological Society of America Bulletin, v94, p
+Key words: Dickinson, W.R., Beard, L.S., Brackenridge, G.R., Erjavec, J., Ferguson, R., Inman, K., Knepp, R., Lindberg, F.A., Ryberge, P., Provenance, Phanerozoic, tectonic setting, Geological, America Bulletin
+Substance: 
+Time: Phanerozoic
+Location: W.R., L.S., Brackenridge, G.R., Erjavec, Lindberg
+Ducea, M.N., Otamendi, J.E., Bergantz, G.W., Jianu, D., and Petrescu, L., 2015, The origin and petrologic evolution of the Ordovician Famatinian­Puna arc, in DeCelles, P.G., Ducea, M.N., Carrapa, B., and Kapp, P.A., eds., Geodynamics of a Cordilleran Orogenic System: The Central Andes of Argentina and Northern Chile: Geological Society of America Memoir 212, p125–138, doi: 10 .1130 /2015 .1212 (07) .
+Key words: Ducea, M.N., Otamendi, J.E., Bergantz, G.W., Jianu, D., Petrescu, L., petrologic evolution, Ordovician Famatinian­Puna, DeCelles, P.G., Ducea, M.N., Carrapa, B., Kapp, P.A., Geodynamics, Cordilleran Orogenic, Andes, Argentina, Chile, Geological, America Memoir, .1130 /2015 .1212
+Substance: Geodynamics
+Time: Ordovician Famatinian­Puna, .1130 /2015 .1212
+Location: Ducea, Otamendi, Bergantz, Jianu, DeCelles, P.G., Carrapa, Central, Northern
+Grier, M.E., Salfity, J.A., and Allmendinger, R.W., 1991, Andean reactivation of the Cretaceous Salta rift, northwestern Argentina: Journal of South American Earth Sciences, v4, no
+Key words: Grier, M.E., Salfity, J.A., Allmendinger, R.W., Andean, Cretaceous Salta, Argentina, Earth, Sciences
+Substance: 
+Time: Cretaceous Salta
+Location: Salfity
+Hain, M.P., Strecker, M.R., Bookhagen, B., Alonso, R.N., Pingel, H., and Schmitt, K., 2011, Neogene to Quaternary broken foreland formation and sedimentation dynamics in the Andes of NW Argentina (25°S): Tectonics, v30, p
+Key words: Hain, M.P., Strecker, M.R., Bookhagen, B., Alonso, R.N., Pingel, H., Schmitt, K., Neogene, Quaternary, foreland formation, sedimentation dynamics, Andes, Argentina, Tectonics
+Substance: foreland formation, sedimentation dynamics
+Time: Neogene, Quaternary
+Location: M.R., Bookhagen, Neogene
+Hongn, F., Del Papa, C., Powell, J., Petrinovic, I., Mon, R., and Deraco, V., 2007, Middle Eocene deformation and sedimentation in the Puna–Eastern Cordillera transition (23°–26°S): Control by preexisting heterogeneities on the pattern of initial Andean shortening: Geology, v35, p
+Key words: Hongn, F., Del Papa, C., Powell, J., Petrinovic, I., Mon, R., Deraco, V., Eocene, Puna–Eastern Cordillera, Andean, Geology
+Substance: 
+Time: Eocene
+Location: Deraco
+Horton, B.K., 2005, Revised deformation history of the Central Andes: Inferences from Cenozoic foredeep and intermontane basins of the Eastern Cordillera, Bolivia: Tectonics, v24, p
+Key words: Horton, B.K., Revised, deformation history, Andes, Inferences, Cenozoic, intermontane basins, Cordillera, Bolivia, Tectonics
+Substance: deformation history
+Time: Cenozoic
+Location: Central, Eastern, Cordillera
+Jordan, T.E., and Alonso, R.N., 1987, Cenozoic stratigraphy and basin tectonics of the Andes Mountains: American Association of Petroleum Geologists Bulletin, v71, p
+Key words: Jordan, T.E., Alonso, R.N., Cenozoic, basin tectonics, Andes, Mountains, American Association, Petroleum Geologists Bulletin
+Substance: 
+Time: Cenozoic
+Location: Mountains
+Kley, J., Rossello, E.A., Monaldi, C.R., and Habighorst, B., 2005, Seismic and field evidence for selective inversion of Cretaceous normal faults, Salta rift, northwest Argentina: Tectonophysics, v399, p
+Key words: Kley, J., Rossello, E.A., Monaldi, C.R., Habighorst, B., Seismic, field evidence, selective inversion, Cretaceous, normal faults, Salta, Argentina, Tectonophysics
+Substance: normal faults
+Time: Cretaceous
+Location: E.A., Monaldi, Habighorst
+Kraemer, B., Adelmann, D., Alten, M., Schnurr, W., Erpenstein, K., Kiefer, E., Van Den Bogaard, P., and Go, K., 1999, Incorporation of the Paleogene foreland into the Neogene Puna Plateau: The Salar de Antofalla area, NW Argentina: Journal of South American Earth Sciences, v12, p
+Key words: Kraemer, B., Adelmann, D., Alten, M., Schnurr, W., Erpenstein, K., Kiefer, E., Van Den Bogaard, P., K., Incorporation, Paleogene, Neogene Puna Plateau, Salar, Antofalla, Argentina, Earth, Sciences
+Substance: 
+Time: Paleogene, Neogene Puna Plateau
+Location: Erpenstein, Neogene, Puna, Plateau, de, Antofalla, NW
+Lucassen, F., Becchio, R., Wilke, H.G., Franz, G., Thirlwall, M.F., Viramonte, J., and Wemmer, K., 2000, Proterozoic–Paleozoic development of the basement of the Central Andes (18–26 S)—A mobile belt of the South American craton: Journal of South American Earth Sciences, v13, no
+Key words: Lucassen, F., Becchio, R., Wilke, H.G., Franz, G., Thirlwall, M.F., Viramonte, J., Wemmer, K., Proterozoic–Paleozoic, Andes, mobile belt, South American craton, Earth, Sciences
+Substance: 
+Time: Proterozoic–Paleozoic
+Location: Thirlwall, Central
+López­Gamundí, O., and Breitkreuz, C., 1997, Carboniferous­to­Triassic evolution of the Panthalassan margin in southern South America, in Dickins, J.M., ed., Late Palaeozoic and Early Mesozoic Circum­Pacific Events and Their Correlation: New York, Cambridge University Press, p8–19, doi: 10 .1017 /CBO9780511564413 .003 .
+Key words: López­Gamundí, O., Breitkreuz, C., Carboniferous­to­Triassic, Panthalassan, America, Dickins, J.M., Late Palaeozoic, Early Mesozoic Circum­Pacific Events, Correlation, York, Cambridge, University Press, .1017 /CBO9780511564413 .003
+Substance: Carboniferous­to­Triassic
+Time: Carboniferous­to­Triassic, Early Mesozoic Circum­Pacific Events, .1017 /CBO9780511564413 .003
+Location: South, Dickins
+Marquillas, R., del Papa, C., and Sabino, I.F., 2005, Sedimentary aspects and paleoenvironmental evolution of a rift basin: Salta Group (Cretaceous–Paleogene), northwestern Argentina: International Journal of Earth Sciences, v94, p
+Key words: Marquillas, R., Papa, C., Sabino, I.F., Sedimentary, paleoenvironmental evolution, rift basin, Salta, Cretaceous–Paleogene, Argentina, International Journal, Earth, Sciences
+Substance: Sedimentary
+Time: Cretaceous–Paleogene
+Location: 
+Monaldi, C.R., Salfity, J.A., and Kley, J., 2008, Preserved extensional structures in an inverted Cretaceous rift basin, northwestern Argentina: Outcrop examples and implications for fault reactivation: Tectonics, v27, no
+Key words: Monaldi, C.R., Salfity, J.A., Kley, J., Preserved, extensional structures, Cretaceous, rift basin, Argentina, Outcrop, fault reactivation, Tectonics
+Substance: extensional structures
+Time: Cretaceous
+Location: Salfity
+Mpodozis, C., Arriagada, C., Basso, M., Roperch, P., Cobbold, P., and Reich, M., 2005, Late Mesozoic to Paleogene stratigraphy of the Salar de Atacama Basin, Antofagasta, northern Chile: Implications for the tectonic evolution of the Central Andes: Tectonophysics, v399, p
+Key words: Mpodozis, C., Arriagada, C., Basso, M., Roperch, P., Cobbold, P., Reich, M., Late Mesozoic, Paleogene, Salar, Atacama, Antofagasta, Chile, Implications, tectonic evolution, Andes, Tectonophysics
+Substance: Antofagasta
+Time: Late Mesozoic, Paleogene
+Location: Roperch, de, Atacama, Basin, Central
+Pingel, H., Alonso, R.N., Mulch, A., Rohrmann, A., Sudo, M., and Strecker, M.R., 2014, Pliocene orographic barrier uplift in the southern Central Andes: Geology, v42, p
+Key words: Pingel, H., Alonso, R.N., Mulch, A., Rohrmann, A., Sudo, M., Strecker, M.R., Pliocene, orographic barrier uplift, Andes, Geology
+Substance: orographic barrier uplift
+Time: Pliocene
+Location: M.R., Central
+Salfity, J., and Marquillas, R., 1994, Tectonic and sedimentary evolution of the Cretaceous­Eocene Salta Group Basin, Argentina, in Salfity, J., ed., Cretaceous Tectonics of the Andes: Springer­Verlag, p266–315, doi: 10 .1007 /978 ­3 ­322 ­85472 ­8_6 .
+Key words: Salfity, J., Marquillas, R., Tectonic, sedimentary evolution, Cretaceous­Eocene Salta, Argentina, Salfity, J., Cretaceous Tectonics, Andes, Springer­Verlag, .1007 /978 ­3 ­322 ­85472 ­8_6
+Substance: sedimentary evolution
+Time: Cretaceous­Eocene Salta, Cretaceous Tectonics, .1007 /978 ­3 ­322 ­85472 ­8_6
+Location: Salfity
+Schoenbohm, L.M., and Carrapa, B., 2015, Miocene–Pliocene shortening, extension, and mafic magmatism support small­scale lithospheric foundering in the Central Andes, NW Argentina, in DeCelles, P.G., Ducea, M.N., Carrapa, B., and Kapp, P.A., eds., Geodynamics of a Cordilleran Orogenic System: The Central Andes of Argentina and Northern Chile: Geological Society of America Memoir 212, p167–180, doi:1 0 .1130 /2015 .1212 (09) .
+Key words: Schoenbohm, L.M., Carrapa, B., Miocene–Pliocene, mafic magmatism support small­scale lithospheric, Andes, Argentina, DeCelles, P.G., Ducea, M.N., Carrapa, B., Kapp, P.A., Geodynamics, Cordilleran Orogenic, Andes, Argentina, Chile, Geological, America Memoir, .1130 /2015 .1212
+Substance: Geodynamics
+Time: Miocene–Pliocene, .1130 /2015 .1212
+Location: L.M., Central, NW, DeCelles, P.G., Ducea, Carrapa, Northern
+Sobel, E.R., and Strecker, M.R., 2003, Uplift, exhumation and precipitation: Tectonic and climatic control of late Cenozoic landscape evolution in the northern SierrasPampeanas, Argentina: Basin Research, v
+Key words: Sobel, E.R., Strecker, M.R., Uplift, Tectonic, climatic control, Cenozoic, landscape evolution, SierrasPampeanas, Argentina
+Substance: 
+Time: Cenozoic
+Location: 
+Starck, D., and Vergani, G., 1996, Desarrollo tecto­sedimentario del Cenozoico en el sur de la Provincia de Salta, Argentina, in XIII Congreso Geológico Argentino y III Congreso de Exploración de Hidrocarburos, Actas I: Buenos Aires, p433–452.
+Key words: Starck, D., Vergani, G., Desarrollo, tecto­sedimentario del, Cenozoico, el sur, Provincia, Salta, Argentina, XIII Congreso Geológico Argentino, III Congreso, Exploración, Hidrocarburos, Actas, Buenos Aires
+Substance: tecto­sedimentario del
+Time: Cenozoico
+Location: Salta
+Trumbull, R.B., Riller, U., Oncken, O., Scheuber, E.,  Munier, K., Hongn, F., and F., 2006, The time­space distribution of Cenozoic volcanism in the southcentral Andes: A new data compilation and some tectonic implications, in Oncken, O., Chong, G., Franz, G., Giese, P., Götze, J., Ramos, V., Strecker, M., and  Wigger, P., eds., The Andes: Frontiers in Earth Sciences: Berlin, Springer, p29–43, doi: 10 .1007 /978­ 3 ­540 ­48684 ­8_2 .
+Key words: Trumbull, R.B., Riller, U., Oncken, O., Scheuber, E., Munier, K., Hongn, F., F., time­space distribution, Cenozoic, Andes, new data compilation, tectonic implications, Oncken, O., Chong, G., Franz, G., Giese, P., Götze, J., Ramos, V., Strecker, M., Wigger, P., Andes, Frontiers, Earth, Sciences, Berlin, Springer, .1007 /978­, ­540 ­48684 ­8_2
+Substance: 
+Time: Cenozoic, .1007 /978­, ­540 ­48684 ­8_2
+Location: R.B., Hongn, Oncken, Götze
+Uba, C.E., Heubeck, C., and Hulka, C., 2006, Evolution of the late Cenozoic Chaco foreland basin, southern Bolivia: Basin Research, v18, p
+Key words: Uba, C.E., Heubeck, C., Hulka, C., Evolution, Cenozoic Chaco, foreland basin, Bolivia
+Substance: 
+Time: Cenozoic Chaco
+Location: C.E., Heubeck
+Voss, R., 2002, Cenozoic stratigraphy of the southern Salar de Antofalla region, northwestern Argentina: Revista Geológica de Chile, v29, no
+Key words: Voss, R., Cenozoic, Salar, Antofalla, Argentina, Revista Geológica, Chile
+Substance: 
+Time: Cenozoic
+Location: de, Antofalla
+Zhou, R., and Schoenbohm, L.M., 2015, Late Miocene upper­crustal deformation within the interior of the southern Puna Plateau, Central Andes: Lithosphere, v7, p
+Key words: Zhou, R., Schoenbohm, L.M., Late Miocene, upper­crustal deformation, Puna Plateau, Andes, Lithosphere
+Substance: upper­crustal deformation
+Time: Late Miocene
+Location: L.M., Puna, Plateau, Central
+Key words: 
+Substance: 
+Time: 
+Location: 

@@ -1,0 +1,89 @@
+Provenance of Lower Cretaceous Wölong Volcaniclastics in the Tibetan Tethyan Himalaya: Implications for the final breakup of Eastern Gondwana
+south, was part of the northern margin of Greater India continental plate during Cretaceous time (Hodges, 2000, Fig
+One key piece of evidence used in the reconstruction of the geotectonic evolution of Greater India is a major lithological change in the strata deposited around the Jurassic–Cretaceous boundary, and the related appearance of Lower Cretaceous volcanic arenites
+We discuss the implications of the new data for the sources of Early Cretaceous volcanism and the geologic processes affecting the northeastern margin of Greater India, and present a new geodynamic model to explain their occurrence.
+Mesozoic strata exposed in the Tibetan Tethyan Himalaya (Gansser, 1964; Jadoul et al., 1998) (Fig
+The southern zone is characterized by the presence of shallow-water (shelf) calcareous and terrigenous sedimentary rocks of Paleozoic to Eocene age (Liu and Einsele, 1994; Willems et al., 1996), whereas the northern zone is mainly dominated by Mesozoic to Paleogene deep-water sedimentary deposits of the outer shelf, continental slope and rise (Liu and Einsele, 1994; Hu et al., 2008)
+Here we present results of a detailed study of Lower Cretaceous volcaniclastic rocks from the Gucuo locality situated northwest of Old Tingri town (Fig
+Mesozoic strata in the Gucuo area are exposed in several thrust sheets (Hu et al., 2008)
+They contain Upper Jurassic dark gray shales (Menkadun Formation) with abundant ammonites deposited in a shelf environment (Jadoul et al., 1998; Yin and Enay, 2004).About 45 m-thick Gucuo Quartzarenite (Fig
+Ammonites, foraminifers and detrital zircon U–Pb ages (see below) suggest Aptian–Early Albian age for the Wölong Volcaniclastics (Hu et al., 2008)
+The Upper Albian Dongshan Formation of the Gamba Group conformably overlies the Wölong Volcaniclastics (Fig
+Data for spinels in the Tianba Flysch and Carboniferous–Lower Permian strata in Tethyan Himalaya are from Zhu et al
+The compositional ranges of the detrital spinels from the underlying Gucuo Quartzarenite have low TiO2 value, very similar to those from Carboniferous–Lower Permian strata in Tethyan Himalaya (Fig
+As this area represents a relatively stable marine environment, and no igneous activities are known from Early Permian to Late Jurassic, we suggest that detrital spinels from the Gucuo Quartzarenite most probably are derived from the same or similar ones to source rocks as those in the Carboniferous–Lower Permian strata in the Tethyan Himalaya.
+The Th/U ratios of all 32 zircon grains with an Early Cretaceous age are N0.4 (0.5 to 4.4), indicating a probable magmatic origin
+The most striking feature of the U–Pb analyses of zircons from the Wölong Volcaniclastics is the presence of Early Cretaceous age peaks (Figs
+The youngest U–Pb age constrains the maximum depositional age to ∼119±2 Ma (1σ) for the Wölong Volcaniclastics, which corresponds to the Aptian on the time scale of Gradstein et al
+It is interesting to note that the relative abundance of the Early Cretaceous U–Pb ages increases significantly from 3 percent in the lowermost part of the section (GC-H7), 13–14 percent in the lower part (samples GC09 and GC10) to 28 percent (sample GCL11) in the upper part of the Wölong Volcaniclastics
+This increase in the abundance of Early Cretaceous zircons correlates with an increased proportion of volcanic detritus in the sandstones higher in the section.
+The second zircon population in the Wölong Volcaniclastics is Early Paleozoic in age (479 Ma to 544 Ma; Fig
+This Cambro– Ordovician zircon population has previously been documented in the Lower Paleozoic Tethyan Himalaya sequences by Gehrels et al
+Precambrian zircons (77 percent of grains) from the Wölong Volcaniclastics are dominated by a broad cluster between 730–1000 Ma (peaks at 824 Ma and 978 Ma), with small clusters at 1060–1210 Ma and 2430–2730 Ma (Fig
+Nine Archean zircons with ages ∼3.0–3.3 Ga were also found (Fig
+Histogram and cumulative probability curve (left) and Pb/U Concordia diagram (right) of detrital zircon grains of Early Cretaceous age from Wölong Volcaniclastics.
+Sample GCQ of 83 zircon grains from the underlying Gucuo Quartzarenite shows similar pattern of zircon ages to those from the Wölong Volcaniclastics, except that the Early Cretaceous zircon population is absent (Fig
+The most prominent zircon age population from sample GCQ is Cambro–Ordovician (482–558 Ma).
+The εHf(t) of the Early Cretaceous zircons (n=12, 15 percent of total analyzed grains) ranges from −1.5 to −7.2 with an average of −4.6
+Theage distributionof detritalzirconsfromthe Gucuo Quartzarenite supports this interpretation showing age populations very similar to those obtained from older Cambrian–Devonian sequences in the Tethyan Himalaya (Gehrels et al., 2003) (Fig
+The Wölong Volcaniclastics have a detrital zircon age distribution very similar to that of the underlying Gucuo Quartzarenite, but with the addition of an Early Cretaceous zircon population (Fig
+Combined with compositional data together, we interpreted that the Wölong Volcaniclastics have a mixed sediment source, with material derived both from the Indian cratonic interior and from a new source of Lower Cretaceous volcanic rocks, which was situated south of the Gucuo locality along the northern Greater Indian margin.
+Moreover, the Hf-isotope data indicate that the parent magmas of the Early Cretaceous zircons contain a significant crustal component and reflect mixing between magma ascending from the mantle and partial melts of the old continental crust (Fig
+The presence of Lower Cretaceous volcaniclastic sediments in the Tethyan Himalaya was previously thought to reflect obduction of ophiolites to the north of the area during the Himalayan collision (Gansser, 1964)
+1a), where they are interbedded with Upper Jurassic– Lower Cretaceous deep-water sedimentary strata (Fig
+Their occurrence suggests that other Lower Cretaceous volcanic centers may have been present in the Northern Zone and similar volcanic centers may have existed further to the south, but, intra-plate volcanic rocks with 140– 120 Ma age are unknown from the Lesser Himalayan tectonic zone
+Geotectonic model for the early Cretaceous volcanic event
+These more than 400 m-thick succession deposited in delta-shelf environments are mainly composed of volcanic arenites and mudrocks, and have been biostratigraphically assigned to the lowermost Tithonian to uppermost Aptian (Jadoul et al., 1998)
+1a), the 73 m thick Rilang Formation of Early Cretaceous deposited in deep-water environment is composed of gray shales intercalated with subarkosic and sublitharenitic sandstones that contain volcanic grains near the top of the formation (Hu et al., 2008)
+The early- to mid-Cretaceous Tianba Flysch near Kangmar (Zhu et al., 2004) (Fig
+The presence of Lower Cretaceous volcaniclastic rocks similar to the Wölong Volcaniclastics has been documented at several localities in western Himalaya (Fig
+It may have started as early as Tithonian in the eastern Himalaya (Gibling et al., 1994; Nagy et al., 1995; Jadoul et al., 1998) and progressed westward along the northern edge of Greater India, and terminated during Albian time in the Zanskar Himalaya (Garzanti, 1993)
+However, the Lower Cretaceous volcaniclastic sedimentation ended synchronously in the Late Albian (the planktonic foraminifera of the Rotalipora subticinensis Subzone, 101.7–102.4 Ma of Leckie et al
+A deep-water hemipelagic or pelagic environment was established soon after the Lower Cretaceous volcaniclastic deposition in latest Albian time (R
+Any tectonic model attempting to explain the origin of the Early Cretaceous volcanism along the northern margin of Greater India should consider: 1) the intra-plate tectonic setting; 2) its nearly linear distribution along the northern margin of Greater India; 3) the diachronous onset of volcanicity with westward migration, but synchronous termination; and 4) mantle-derived magmas mixed with melts of older, probably mid-Proterozoic crust as suggested by detrital zircon Hf isotopes.
+Two different geodynamic hypotheses have been previously proposed to explain the origin of the Early Cretaceous volcanic event along the northern margin of Greater India: 1) it is a rift-related volcanism, triggered when Greater India begins to separate from the East Gondwana (Antarctica and Australia) supercontinent (Gaetani et .al., 1986; Gradstein et al., 1991; Garzanti, 1993, Dürr and Gibling, 1994); and 2) it is the product of a propagating hot spot and mantle plume (Zhu et al., 2004, 2007).
+Early Cretaceous volcanic centers occur in a long belt (over 1500 km) paralleling the paleo-margin of Greater India, with mafic volcanism restricted to a few volcanic centers
+Such processes are well documented from the Mesozoic rifting of the African and North American plates, involving cratonic breakup and rift basin evolution on both sides of the North Atlantic Ocean
+However, the paleogeographic reconstruction of Gondwana in Jurassic time (e.g
+Ali and Aitchison, 2008) shows that to the northeast of the Greater Indian margin, where the Early Cretaceous volcanic centers are located, was a deep ocean, most probably floored by oceanic crust
+Studies of the Lower Cretaceous sedimentary strata in southern Tibet (Willems et al., 1996; Jadoul et al., 1998) and northern Nepal (Gradstein et al., 1991; Gibling et al., 1994) provide strong evidence that the Aptian volcaniclastic sequence is overlain by deeper-shelf shaly beds, with the Late Albian hemipelagic sediments being already deposited on the upper continental slope
+The evolution of the western Australian margin documents extensive volcanic activity from about 155 Ma at Argo Abyssal Plain to about 131 Ma (Valanginian, Müller et al., 1998) in the Perth abyssal plain to the Naturalistic Plateau in the south (Symonds et al., 1998)
+We consider the Bunbury basalt to be possibly correlative and to represent the most south- eastern termination of the Early Cretaceous igneous volcanic belt of the Indian margin (Fig
+We propose that the geotectonic setting of the Early Cretaceous volcanic activity on the northern India continental margin can be explained by a leaky deep-seated fault model (Fig
+This model with northwest propagating, extension-related deepseated fractures can account for all of the features of the Early Cretaceous evolution of the Tethyan Himalaya that we have listed above
+We suggest that the opening of these fractures initially began in the eastern Himalaya in about Tithonian time, progressed slowly westward and reached the Zanskar Himalaya in the Late Albian
+When Greater India finally separated from the Australia–Antarctica supercontinent and started to drift away, probably in Late Albian time (∼102 Ma), the igneous activity ceased as the continental extension ceased and the Greater India continental plate became free.
+Sedimentological, stratigraphic, petrological, and provenance data from the Lower Cretaceous Wölong Volcaniclastics in southern Tibet provide evidence for a volcanic event which occurred inland on the northeastern margin of Greater India
+The alkaline character of basaltic volcanic grains and their trace and REE elements, chemical composition of detrital Cr-spinels from the Wölong Volcaniclastics all suggest a “within-plate” tectonic setting for the Early Cretaceous volcanism
+Hf-isotope data show that the parent magmas of Early Cretaceous zircons were produced by the mixing of magma ascending from the mantle with partial melts derived from an older continental crust.
+The Early Cretaceous magmatic event was not related to a mantle plume orlarge-scale continentalrifting, butto theopeningof deep, crust cross-cutting fractures along the northern margin of Greater India, as the regional stress-field changed as a consequence of minor anticlockwise extension when the Greater India plate began to separate from the Australia–Antarctic supercontinent
+Results described in this paper exclude analyses with ≥20 percent discordance, but greater discordance was accepted for the Early Cretaceous zircon grains because of the imprecision of the 207Pb/206Pb ages in these young grains
+Gondwana to Asia: plate tectonics, paleogeography and the biological connectivity of the Indian sub-continent from the Middle Jurassic through latest Eocene (166–35 Ma)
+New biostratigraphic data for the Chikkim Formation (Cretaceous, Tethyan Himalaya, India)
+Cretaceous Research 26 (6), 882–894.
+Constrains from Early Cretaceous volcaniclastic sandstones in southern Tibet on a volcanic event in the northern margin of the Indian Continent
+Early Cretaceous volcaniclastic and quartzose sandstones from north central Nepal: composition, sedimentology and geotectonic significance
+Stratigraphy of the Early Cretaceous Giumal Group (Zanskar Range, northern India)
+Sedimentary evidence of a Cambro–Ordovician orogenic event in the northwestern Himalaya
+Initiation of the Himalayan Orogen as an early Paleozoic thinskinned thrust belt
+Geologic and U–Th–Pb geochronologic evidence for early Paleozoic tectonism in the Kathmandu thrust sheet, central Nepal Himalaya
+Early Cretaceous strata of the Nepal Himalayas: conjugate margins and rift volcanism during Gondwanan breakup
+Mesozoic Tethyan strata of Thakkhola, Nepal: evidence for the drift and breakup of Gondwana
+Upper Cretaceous oceanic red beds in southern Tibet: Lithofacies, environments and colour origin
+Upper Jurassic–Lower Cretaceous stratigraphy in south-eastern Tibet: a comparison with the western Himalayas
+Cretaceous Research 29 (2), 301–315.
+Jadoul,F.,Berra,F.,Garzanti,E.,1998.TheTethysHimalayanpassivemarginfromlateTriassic to early Cretaceous (South Tibet)
+Oceanic anoxic events and plankton evolution; biotic response to tectonic forcing during the Mid-Cretaceous
+Triassic–Jurassic rifting and opening of the Atlantic: An Overview
+(Ed.), Triassic–Jurassic Rifting, Continental Breakup and the Origin of the Atlantic Ocean and Passive margins
+Volcanic margin formation and Mesozoic rift propagators in the Cuvier Abyssal Plain off Western Australia
+Stratigraphic correlation of Cambrian–Ordovician deposits along the Himalaya: implications for the age and nature of rocks in the Mount Everest region
+Foraminiferal stratigraphy and paleoenvironments of Late Jurassic to Early Cretaceous deposits in Thakkhola, Nepal
+The Paleogene record of Himalayan erosion: Bengal Basin, Bangladesh
+Stratigraphy of the Chikkim and Fatu La formations in the Zangla and Zumlung units (Zanskar Range, India) with comparisons to the Thakkhola region (central Nepal): Mid-Cretaceous evolution of the Indian passive margin
+Detrital chromian spinels record tectono-magmatic evolution from Carboniferous rifting to Permian spreading in Neotethys
+The 176Lu decay constant determined by Lu–Hf and U–Pb isotope systematics of Precambrian mafic intrusions
+Stratigraphy of the Upper Cretaceous and Lower Tertiary Strata in the Tethyan Himalayas of Tibet (Tingri area, China)
+Tithonian ammonoid biostratigraphy in eastern Himalayan Tibet
+Magmatic compositions and source terranes estimated from melt inclusions in detrital Cr-rich spinels: an example from midCretaceous sandstones in the eastern Tethys Himalaya
+Petrogenesis of the earliest Early Cretaceous mafic rocks from the Cona area of the eastern Tethyan Himalaya in south Tibet: interaction between the incubating Kerguelen plume and the eastern Greater India lithosphere? Lithos 100 (1–4), 147–173.

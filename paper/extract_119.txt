@@ -1,0 +1,194 @@
+To this end, we consider detrital zircon ages from the Paleozoic (Gehrels et al., 2011) and Mesozoic (Dickinson and Gehrels, 2009, 2008) succession across the Colorado Plateau, the subject of MDS mapping later in the paper (Table DR1)These data are represented by 6173 zircon ages determined by laser ablation–multicollector–inductively coupled plasma–mass spectrometry among 65 samples (average grains per sample n = 95) extending from the Cambrian Tapeats Sandstone at the base section through the Jurassic Morrison Formation at the top
+Key words: detrital zircon ages, Paleozoic, Gehrels, Mesozoic, Dickinson, Gehrels, Colorado Plateau, MDS, Table DR1, zircon ages, plasma–mass spectrometry, average grains, sample n =, Cambrian Tapeats Sandstone, base section, Jurassic Morrison Formation
+Substance: detrital zircon ages, zircon ages, plasma–mass spectrometry, average grains, Cambrian Tapeats Sandstone, Jurassic Morrison Formation
+Time: Paleozoic, Mesozoic, Table DR1, Cambrian Tapeats Sandstone, Jurassic Morrison Formation
+Location: Plateau
+These data are represented by 6173 zircon ages determined by laser ablation–multicollector–inductively coupled plasma–mass spectrometry among 65 samples (average grains per sample n = 95) extending from the Cambrian Tapeats Sandstone at the base section through the Jurassic Morrison Formation at the topFor each sample, we first calculated their PDP and fixed bandwidth KDE (e.g., Botev, 2007)
+Key words: zircon ages, plasma–mass spectrometry, average grains, sample n =, Cambrian Tapeats Sandstone, base section, Jurassic Morrison Formation, PDP, KDE, Botev
+Substance: zircon ages, plasma–mass spectrometry, average grains, Cambrian Tapeats Sandstone, Jurassic Morrison Formation
+Time: Cambrian Tapeats Sandstone, Jurassic Morrison Formation
+Location: Botev
+Points are measures of difference between each of 2080 possible pairs of 65 samples from the Paleozoic (Gehrels et al., 2011) and Mesozoic (Dickinson and Gehrels, 2009, 2008) succession extending across the Colorado PlateauNote that for each of these three metrics, similarity/dissimilarity values are virtually identical for PDP and KDE representations of sample ages
+Key words: Points, 2080 possible pairs, Paleozoic, Gehrels, Mesozoic, Dickinson, Gehrels, Colorado PlateauNote, similarity/dissimilarity values, PDP, KDE, sample ages
+Substance: 
+Time: 2080 possible pairs, Paleozoic, Mesozoic
+Location: 
+Remarkable exposures of Paleozoic and Mesozoic strata across the Colorado Plateau offer a nearly unparalleled opportunity to examine changes in detrital zircon provenance of Cambrian through Jurassic sandstones across of the southwestern United StatesRecent LA-ICP-MS determinations of 2529 zircon U-Pb grain ages from 26 Paleozoic samples (Gehrels et al., 2011) and 3444-grain ages from 36 Triassic and Jurassic samples (Dickinson and Gehrels, 2008, 2009) afford an excellent opportunity to compare more traditional representations of grain ages (Fig
+Key words: Remarkable, Paleozoic, Mesozoic, Colorado Plateau, detrital zircon provenance, Cambrian, Jurassic, StatesRecent LA-ICP-MS, U-Pb, grain ages, 26 Paleozoic, Gehrels, 36 Triassic, Jurassic, Dickinson, Gehrels, excellent opportunity, traditional representations, grain ages, Fig
+Substance: detrital zircon provenance, grain ages
+Time: Paleozoic, Mesozoic, Cambrian, Jurassic, 26 Paleozoic, 36 Triassic, traditional representations
+Location: Plateau
+Recent LA-ICP-MS determinations of 2529 zircon U-Pb grain ages from 26 Paleozoic samples (Gehrels et al., 2011) and 3444-grain ages from 36 Triassic and Jurassic samples (Dickinson and Gehrels, 2008, 2009) afford an excellent opportunity to compare more traditional representations of grain ages (Fig8A) with MDS plots (Fig
+Key words: Recent LA-ICP-MS, U-Pb, grain ages, 26 Paleozoic, Gehrels, 36 Triassic, Jurassic, Dickinson, Gehrels, excellent opportunity, traditional representations, grain ages, Fig8A, MDS, Fig
+Substance: grain ages
+Time: 26 Paleozoic, 36 Triassic, Jurassic, traditional representations
+Location: 
+Detrital zircons from Cambrian through Devonian strata yield mainly 1.7 and 1.4 Ga ages derived from basement rocks ofFigure 8
+Key words: Detrital, Cambrian, Devonian, strata yield, 1.7 and, 1.4 Ga, basement rocks ofFigure
+Substance: basement rocks ofFigure
+Time: Cambrian, Devonian, 1.7 and, 1.4 Ga
+Location: 
+Detrital zircon ages from the Paleozoic (Gehrels et al., 2011) and Mesozoic (Dickinson and Gehrels, 2009, 2008) succession across the Colorado Plateau(A) Age probability densities (PDP) of 65 samples (gray horizontal lines) ranging from the Cambrian Tapeats Sandstone at the base through the Jurassic Morrison Formation at the top
+Key words: Detrital, zircon ages, Paleozoic, Gehrels, Mesozoic, Dickinson, Gehrels, Colorado Plateau, Age, probability densities, PDP, gray horizontal lines, Cambrian Tapeats Sandstone, Jurassic Morrison Formation
+Substance: zircon ages, Cambrian Tapeats Sandstone, Jurassic Morrison Formation
+Time: Paleozoic, Mesozoic, Cambrian Tapeats Sandstone, Jurassic Morrison Formation
+Location: Plateau
+(A) Age probability densities (PDP) of 65 samples (gray horizontal lines) ranging from the Cambrian Tapeats Sandstone at the base through the Jurassic Morrison Formation at the topPredominant modal age components as vertical tan lines
+Key words: Age, probability densities, PDP, gray horizontal lines, Cambrian Tapeats Sandstone, Jurassic Morrison Formation, topPredominant modal age components, vertical tan lines
+Substance: Cambrian Tapeats Sandstone, Jurassic Morrison Formation, topPredominant modal age components
+Time: Cambrian Tapeats Sandstone, Jurassic Morrison Formation
+Location: 
+These are an early Jurassic Moenave sample that contains numerous late Paleozoic grains (“1” and blue arrow in A and B), and two Late Cretaceous samples that are dominated by ca1.7 Ga Yavapai-Mazatzal ages (“2” and red arrows in A and B)
+Key words: Jurassic Moenave, Paleozoic, blue arrow, two Late Cretaceous, Ga Yavapai-Mazatzal, red arrows
+Substance: 
+Time: Jurassic Moenave, Paleozoic, two Late Cretaceous
+Location: 
+Mississippian through Permian rocks contain predominantly 1.1 Ga and younger Paleozoic grains derived from the Grenville and Appalachian orogen, respectivelyMesozoic sands record a greater number of age components but exhibit little directional upsection stratigraphic/secular variation (Dickinson and Gehrels, 2008, 2009).
+Key words: Mississippian, Permian, 1.1 Ga, Paleozoic, Grenville, Appalachian, respectivelyMesozoic sands record, age components, directional upsection stratigraphic/secular variation, Dickinson, Gehrels
+Substance: respectivelyMesozoic sands record, age components, directional upsection stratigraphic/secular variation
+Time: Mississippian, Permian, 1.1 Ga, Paleozoic, respectivelyMesozoic sands record
+Location: 
+Mesozoic sands record a greater number of age components but exhibit little directional upsection stratigraphic/secular variation (Dickinson and Gehrels, 2008, 2009).With multiple age components throughout the data set that vary in their presence and proportions upsection, as well as the relatively large number of samples, a 3-D MDS plot affords an opportunity to view clear changes in provenance within the stratigraphic sequence in a single plot
+Key words: Mesozoic, sands record, age components, directional upsection stratigraphic/secular variation, Dickinson, Gehrels, multiple age components, proportions upsection, large number, 3-D MDS, plot affords, clear changes, stratigraphic sequence
+Substance: sands record, age components, directional upsection stratigraphic/secular variation, multiple age components, stratigraphic sequence
+Time: Mesozoic, 3-D MDS
+Location: 
+8B) are almost exactly the same as the groupings of Cambrian through Devonian, Mississippian through Permian, and Mesozoic that are apparent in the PDP heat map (Fig8A; Gehrels et al
+Key words: Cambrian, Devonian, Mississippian, Permian, Mesozoic, PDP, heat map, Fig8A, Gehrels
+Substance: 
+Time: Cambrian, Devonian, Mississippian, Permian, Mesozoic
+Location: Permian
+Among these are an early Jurassic (Moenave Formation, Utah) sample which contains an anomalously high concentration (40 of 93 grains, 43 percent) spanning only 40 Ma of the late Paleozoic (202–242 Ma; labeled 1 in Fig8B), and two Late Cretaceous samples (northeastern New Mexico and southwestern Utah) that are dominated by ca
+Key words: Jurassic, Moenave Formation, Utah, high concentration, 40 Ma, Paleozoic, 202–242 Ma, Fig8B, two Late Cretaceous, Mexico
+Substance: Moenave Formation
+Time: Jurassic, 40 Ma, Paleozoic, 202–242 Ma, two Late Cretaceous
+Location: 
+8B), and two Late Cretaceous samples (northeastern New Mexico and southwestern Utah) that are dominated by ca1.7 Ga Yavapai-Mazatzal ages and are the only two Mesozoic samples in this compilation containing significant pre-Grenville age grains (labeled 2 in Fig
+Key words: two Late Cretaceous, Mexico, Ga Yavapai-Mazatzal, two Mesozoic, significant pre-Grenville age grains, Fig
+Substance: significant pre-Grenville age grains
+Time: two Late Cretaceous, two Mesozoic
+Location: 
+1.7 Ga Yavapai-Mazatzal ages and are the only two Mesozoic samples in this compilation containing significant pre-Grenville age grains (labeled 2 in Fig8B)
+Key words: 1.7 Ga Yavapai-Mazatzal, two Mesozoic, significant pre-Grenville age grains, Fig8B
+Substance: significant pre-Grenville age grains
+Time: 1.7 Ga Yavapai-Mazatzal, two Mesozoic
+Location: 
+(2013) compiled and qualitatively interpreted zircon age data from Phanerozoic units exposed in the Bighorn Basin of Wyoming to better understand the tectonostratigraphic evolution of that regionBased on 4104 U-Pb detrital zircon ages from 44 samples, May et al
+Key words: zircon age data, Phanerozoic, Bighorn, Wyoming, tectonostratigraphic evolution, 4104 U-Pb, detrital zircon ages, May
+Substance: zircon age data, tectonostratigraphic evolution, detrital zircon ages
+Time: Phanerozoic, 4104 U-Pb
+Location: Bighorn, Basin, of
+subdivided Upper Mississippian through Paleocene units into four “tectonostratigraphic assemblages” based on perceived patterns in sample zircon age frequency distributions: (1) a Paleozoic–Triassic proximal continental margin assemblage; (2) a Jurassic–early Cretaceous (early Albian) assemblage associated with organization of Cordilleran orogeny; (3) a late Cretaceous (late Albian through Maastrichtian) interior seaway foreland basin assemblage; and (4) a Paleogene assemblage accumulated during structural segmentation during the Laramide orogeny (Fig9A)
+Key words: Upper Mississippian, Paleocene, “ tectonostratigraphic assemblages ”, sample zircon age frequency distributions, Paleozoic–Triassic, proximal continental, Jurassic–early Cretaceous, Albian, Cordilleran, Cretaceous, Albian, Maastrichtian, interior seaway foreland basin assemblage, Paleogene, structural segmentation, Laramide, Fig9A
+Substance: “ tectonostratigraphic assemblages ”, sample zircon age frequency distributions
+Time: Upper Mississippian, Paleocene, Paleozoic–Triassic, Jurassic–early Cretaceous, Albian, Cretaceous, Maastrichtian, Paleogene
+Location: 
+However, the posited fourth assemblage, comprising three Paleogene samples, does not separate as a distinct group or clusterEach of the resolved assemblages contains either a unique component or component with anomalously high proportions
+Key words: three Paleogene, distinct group, assemblages contains, unique component, high proportions
+Substance: distinct group, unique component
+Time: three Paleogene
+Location: 
+In addition, MDS mapping reveals that the population differences differentiating the first (Paleozoic) and second (lower Mesozoic) assemblages are smaller than those distinguishing the second from the third assemblage (upper Cretaceous)Qualitative differences among sample PDPs support this conclusion; abundant Grenvillian (ca
+Key words: MDS, population differences, Paleozoic, Mesozoic, Cretaceous, Qualitative, PDPs, Grenvillian
+Substance: 
+Time: Paleozoic, Mesozoic, Cretaceous
+Location: 
+1.1 Ga) grains persist upsection through Paleozoic and lower Mesozoic units but are largely absent above the early Albian Greybull Sandstone at the top of association (sample 22, Fig9A).
+Key words: 1.1 Ga, grains persist upsection, Paleozoic, Mesozoic, Albian Greybull Sandstone, Fig9A
+Substance: grains persist upsection, Albian Greybull Sandstone
+Time: 1.1 Ga, Paleozoic, Mesozoic, Albian Greybull Sandstone
+Location: Albian, Greybull, Sandstone
+(2017) with respect to early Miocene sediment supply to the Gulf of Mexico BasinHere, we conclude by examining age data from samples of the Paleocene Wilcox Formation collected along ~2000 km of outcrop belt, extending northwest from western Alabama to the head of the Mississippi embayment south of St
+Key words: Miocene, Mexico BasinHere, age data, Paleocene Wilcox Formation, outcrop belt, Alabama, Mississippi, St
+Substance: Paleocene Wilcox Formation
+Time: Miocene, Paleocene Wilcox Formation
+Location: Gulf, of
+Here, we conclude by examining age data from samples of the Paleocene Wilcox Formation collected along ~2000 km of outcrop belt, extending northwest from western Alabama to the head of the Mississippi embayment south of StLouis, Missouri, and then southwest toward San Antonio, Texas (Blum and Pecha, 2014).
+Key words: age data, Paleocene Wilcox Formation, outcrop belt, Alabama, Mississippi, StLouis, Missouri, San Antonio, Texas, Blum, Pecha
+Substance: Paleocene Wilcox Formation
+Time: Paleocene Wilcox Formation
+Location: 
+Cenozoic-scale persistence of several major fluvial axes supplying sediment to the northwestern Gulf of Mexico coastal plain (e.g., Galloway et al., 2011) served to impart prominent along-strike variation in the dominance of the same major age components observed comprising grains in the Colorado Plateau and Bighorn Basin (Fig10A)
+Key words: Cenozoic-scale, major fluvial axes, northwestern Gulf, Mexico, Galloway, prominent along-strike variation, major age components, Colorado Plateau, Bighorn, Fig10A
+Substance: major age components
+Time: Cenozoic-scale
+Location: Gulf, of, Plateau, Bighorn, Basin
+Upper Mississippian to Paleocene detrital zircon ages from the Bighorn Basin, Wyoming (May et al., 2013)(A) Probability densities (PDP) of 44 samples (black horizontal lines)
+Key words: Upper Mississippian, Paleocene, detrital zircon ages, Bighorn, Wyoming, May, Probability, PDP, black horizontal lines
+Substance: detrital zircon ages
+Time: Upper Mississippian, Paleocene
+Location: Bighorn, Basin
+Three of the four assemblages are well-resolved by MDS: (1) Upper Mississippian–Triassic samples (blue bar in A and points in B), (2) Jurassic–lower Albian samples (green bar in A and points in B), and (3) upper Albian–Cretaceous samples (yellow bar in A and points in B)A posited fourth assemblage comprising three Paleogene samples (red bar in A and points in B) does not well segregate as a distinct population
+Key words: MDS, Upper Mississippian–Triassic, Jurassic–lower Albian, Albian–Cretaceous, three Paleogene, distinct population
+Substance: 
+Time: Upper Mississippian–Triassic, Jurassic–lower Albian, Albian–Cretaceous, three Paleogene
+Location: 
+A posited fourth assemblage comprising three Paleogene samples (red bar in A and points in B) does not well segregate as a distinct populationThe persistence of ca
+Key words: three Paleogene, distinct populationThe persistence
+Substance: 
+Time: three Paleogene
+Location: 
+1.1 Ga Grenvillian grains visible in A creates a closer association between the upper Mississippian to Triassic (blue) and Jurassic to lower Albian (green) in MDS than the upper Albian to end Cretaceous(C) Shepard plot for the three-dimensional MDS.
+Key words: 1.1 Ga Grenvillian, Mississippian, Triassic, Jurassic, lower Albian, MDS, Albian, end Cretaceous, Shepard, MDS
+Substance: 
+Time: 1.1 Ga Grenvillian, Mississippian, Triassic, Jurassic, lower Albian, Albian, end Cretaceous
+Location: 
+Lateral variation in zircon ages along ~18,000 km of outcrop of the Paleocene Wilcox Formation from near Meridian, Mississippi (MS), to StLouis, Missouri (MO), to Texarkana, Arkansas (AR), to San Antonio, Texas (TX) (Blum and Pecha, 2014)
+Key words: Lateral, zircon ages, Paleocene Wilcox Formation, Meridian, Mississippi, MS, StLouis, Missouri, MO, Texarkana, Arkansas, AR, San Antonio, Texas, TX, Blum, Pecha
+Substance: zircon ages, Paleocene Wilcox Formation
+Time: Paleocene Wilcox Formation
+Location: 
+Blum, M., and Pecha, M., 2014, Mid-Cretaceous to Paleocene North American drainage reorganization from detrital zircons: Geology, v42, p
+Key words: Blum, M., Pecha, M., Mid-Cretaceous, Paleocene, North American drainage reorganization, detrital zircons, Geology
+Substance: detrital zircons
+Time: Mid-Cretaceous, Paleocene
+Location: Pecha
+Dickinson, W.R., and Gehrels, G.E., 2008, Sediment delivery to the Cordilleran foreland basin: Insights from U-Pb ages of detrital zircons in Upper Jurassic and Cretaceous strata of the Colorado Plateau: American Journal of Science, v308, p
+Key words: Dickinson, W.R., Gehrels, G.E., Sediment, Cordilleran, foreland basin, Insights, U-Pb, detrital zircons, Upper Jurassic, Cretaceous, Colorado Plateau, American Journal
+Substance: Sediment, detrital zircons
+Time: Upper Jurassic, Cretaceous
+Location: W.R., Upper, Jurassic, Plateau
+Dickinson, W.R., and Gehrels, G.E., 2009, Use of U-Pb ages of detrital zircons to infer maximum depositional ages of strata: A test against a Colorado Plateau Mesozoic database: Earth and Planetary Science Letters, v288, p
+Key words: Dickinson, W.R., Gehrels, G.E., U-Pb, detrital zircons, maximum depositional ages, Colorado Plateau Mesozoic, Earth, Planetary, Science Letters
+Substance: detrital zircons, maximum depositional ages
+Time: Colorado Plateau Mesozoic
+Location: W.R.
+Galloway, W.E., Whiteaker, T.L., and Ganey-Curry, P., 2011, History of Cenozoic North American drainage basin evolution, sediment yield, and accumulation in the Gulf of Mexico basin: Geosphere, v7, p
+Key words: Galloway, W.E., Whiteaker, T.L., Ganey-Curry, P., History, Cenozoic, North American drainage basin evolution, sediment yield, Mexico, Geosphere
+Substance: sediment yield
+Time: Cenozoic
+Location: W.E., Gulf, of
+Gehrels, G.E., 2000, Introduction to detrital zircon studies of Paleozoic and Triassic strata in western Nevada and northern California, in Soregham, M.Jand Gehrels, G.E
+Key words: Gehrels, G.E., Introduction, detrital zircon studies, Paleozoic, Triassic, Nevada, California, Soregham, M.Jand Gehrels, G.E
+Substance: detrital zircon studies
+Time: Paleozoic, Triassic
+Location: Soregham
+eds., Paleozoic and Triassic Paleogeography and Tectonics of Western Nevada and Northern California: Geological Society of America Special Paper 347, p1–17, https://d oi .org /10 .1130 /0 -8137 -2347 -7 .1.
+Key words: Paleozoic, Triassic Paleogeography, Tectonics, Nevada, California, Geological, America, Paper, //d oi .org /10 .1130 /0
+Substance: 
+Time: Paleozoic, Triassic Paleogeography, //d oi .org /10 .1130 /0
+Location: Western, Northern
+Gehrels, G.E., Blakey, R., Karlstrom, K.E., Timmons, J.M., Dickinson, B., and Pecha, M., 2011, Detrital zircon U-Pb geochronology of Paleozoic strata in the Grand Canyon, Arizona: Lithosphere, v3, p
+Key words: Gehrels, G.E., Blakey, R., Karlstrom, K.E., Timmons, J.M., Dickinson, B., Pecha, M., Detrital, U-Pb, Paleozoic, Canyon, Arizona, Lithosphere
+Substance: 
+Time: Paleozoic
+Location: Karlstrom, K.E., Grand
+Hayward, B.W., and Smale, D., 1992, Heavy minerals and the provenance history of Waitemata Basin sediments (early Miocene, Northland, New Zealand): New Zealand Journal of Geology and Geophysics, v35, p
+Key words: Hayward, B.W., Smale, D., provenance history, Waitemata, Miocene, Northland, Zealand, Zealand, Geology, Geophysics
+Substance: 
+Time: Miocene
+Location: Waitemata, Basin, Northland
+Machado, N., Schrank, A., Noce, C.M., and Gauthier, G., 1996, Ages of detrital zircon from Archean-Paleoproterozoic sequences: Implications for Greenstone Belt setting and evolution of a Transamazonian foreland basin in Quadrilátero Ferrífero, southeast Brazil: Earth and Planetary Science Letters, v141, p
+Key words: Machado, N., Schrank, A., Noce, C.M., Gauthier, G., Ages, detrital zircon, Archean-Paleoproterozoic, Implications, Greenstone, Belt setting, Transamazonian, foreland basin, Quadrilátero Ferrífero, Brazil, Earth, Planetary, Science Letters
+Substance: detrital zircon
+Time: Archean-Paleoproterozoic
+Location: Noce, Quadrilátero, Ferrífero
+Xu, J., Snedden, J.W., Stockli, D.F., Fulthorpe, C.S., and Galloway, W.E., 2017, Early Miocene continental-scale sediment supply to the Gulf of Mexico Basin based on detrital zircon analysis: Geological Society of America Bulletin, v129, p
+Key words: Xu, J., Snedden, J.W., Stockli, D.F., Fulthorpe, C.S., Galloway, W.E., Early Miocene, continental-scale sediment, Mexico, detrital zircon analysis, Geological, America Bulletin
+Substance: continental-scale sediment, detrital zircon analysis
+Time: Early Miocene
+Location: Stockli, Fulthorpe, C.S., W.E., Gulf, of, Basin
+Key words: 
+Substance: 
+Time: 
+Location: 

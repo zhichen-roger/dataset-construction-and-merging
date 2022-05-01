@@ -1,0 +1,314 @@
+Timing of deep-water slope evolution constrained by large-n detrital and volcanic ash zircon geochronology, Cretaceous Magallanes Basin, ChileBenjamin G
+Key words: Timing, deep-water slope evolution, large-n detrital, volcanic ash zircon geochronology, Cretaceous Magallanes, ChileBenjamin G
+Substance: volcanic ash zircon geochronology
+Time: Cretaceous Magallanes
+Location: Cretaceous, Basin
+Here, we present >6600 new U-Pb zircon ages with stratigraphic information from an ~100-kmlong by ~2.5-km-thick outcrop belt to elucidate evolutionary timing for a Campanian– Maastrichtian slope succession in the Magallanes Basin, ChileResults show that the succession consists of four stratigraphic intervals, which characterize four evolutionary phases of the slope system
+Key words: present >, 6600 new, U-Pb, zircon ages, stratigraphic information, outcrop belt, evolutionary timing, Campanian– Maastrichtian, slope succession, Magallanes, ChileResults, stratigraphic intervals, four evolutionary phases, slope system
+Substance: zircon ages, stratigraphic information, stratigraphic intervals
+Time: present >, 6600 new, Campanian– Maastrichtian
+Location: Basin
+The strata investigated is a 2500-m-thick Campanian– Maastrichtian siliciclastic succession composed of shelf through deep-water slope deposits associated with a high-relief (>1000 m) slope system (cfHubbard et al., 2010; Romans et al., 2011)
+Key words: 2500-m-thick Campanian– Maastrichtian, siliciclastic succession, deep-water slope deposits, slope system
+Substance: siliciclastic succession
+Time: 2500-m-thick Campanian– Maastrichtian
+Location: 
+The basin is associated with Early Cretaceous–Neogene orogenesis of the southern Patagonian Andes (Dalziel et al., 1974; Natland et al., 1974; Wilson, 1991; Fildani and Hessler, 2005; Fosdick et al., 2011)The development of the basin was linked to a dynamic Mesozoic tectonic history in southernmost South America, including: (1) a Jurassic–Early Cretaceous extensional phase associated with the initial breakup of Gondwana, which resulted in the formation of the Rocas Verdes backarc basin (Pankhurst et al., 2000; Fildani and Hessler, 2005); and (2) a Late Cretaceous–Neogene compressional phase, which led to the development of a pronounced foredeep eastward of the Andean front (Fildani et al., 2003; Fildani and Hessler, 2005; Fosdick et al., 2011; Malkowski et al., 2017).
+Key words: Early Cretaceous–Neogene, Patagonian Andes, Dalziel, Natland, Wilson, Fildani, Hessler, Fosdick, Mesozoic, tectonic history, America, Jurassic–Early Cretaceous, extensional phase, initial breakup, Gondwana, Rocas Verdes, backarc basin, Pankhurst, Fildani, Hessler, Late Cretaceous–Neogene, compressional phase, foredeep eastward, Andean, Fildani, Fildani, Hessler, Fosdick, Malkowski
+Substance: 
+Time: Early Cretaceous–Neogene, Mesozoic, Jurassic–Early Cretaceous, Late Cretaceous–Neogene
+Location: Patagonian, South, Gondwana
+The development of the basin was linked to a dynamic Mesozoic tectonic history in southernmost South America, including: (1) a Jurassic–Early Cretaceous extensional phase associated with the initial breakup of Gondwana, which resulted in the formation of the Rocas Verdes backarc basin (Pankhurst et al., 2000; Fildani and Hessler, 2005); and (2) a Late Cretaceous–Neogene compressional phase, which led to the development of a pronounced foredeep eastward of the Andean front (Fildani et al., 2003; Fildani and Hessler, 2005; Fosdick et al., 2011; Malkowski et al., 2017).The extensional phase of tectonic evolution in southern Patagonia resulted in crustal attenuation in the Rocas Verdes Basin axis, which was most pronounced in the southern half of the basin (de Wit and Stern, 1981; Stern et al., 1992; Mukasa and Dalziel, 1996; Stern and de Wit, 2003; Romans et al., 2010; Malkowski et al., 2016)
+Key words: Mesozoic, tectonic history, America, Jurassic–Early Cretaceous, extensional phase, initial breakup, Gondwana, Rocas Verdes, backarc basin, Pankhurst, Fildani, Hessler, Late Cretaceous–Neogene, compressional phase, foredeep eastward, Andean, Fildani, Fildani, Hessler, Fosdick, Malkowski, .The extensional phase, tectonic evolution, Patagonia, crustal attenuation, Rocas Verdes, Wit, Stern, Stern, Mukasa, Dalziel, Stern, Wit, Malkowski
+Substance: crustal attenuation
+Time: Mesozoic, Jurassic–Early Cretaceous, Late Cretaceous–Neogene
+Location: South, Gondwana, Patagonia, Rocas, Verdes, Basin
+1); the strata record the progressive infilling of the basin by orogen-parallel depositional systems that drained to the south during the Cretaceous (Winn and Dott, 1979; Shultz et al., 2005; Hubbard et al., 2008; Romans et al., 2011).The Tres Pasos Formation is a Campanian– Maastrichtian siliciclastic unit primarily composed of deep-water slope deposits (Fig
+Key words: strata record, orogen-parallel depositional systems, Cretaceous, Winn, Dott, Shultz, Hubbard, Tres Pasos Formation, Campanian– Maastrichtian, siliciclastic unit, deep-water slope deposits, Fig
+Substance: orogen-parallel depositional systems, Tres Pasos Formation, siliciclastic unit
+Time: Cretaceous, Campanian– Maastrichtian
+Location: 
+The Tres Pasos Formation is a Campanian– Maastrichtian siliciclastic unit primarily composed of deep-water slope deposits (Fig1; Smith, 1977; Shultz et al., 2005; Armitage et al., 2009; Romans et al., 2009; Hubbard et al., 2010)
+Key words: Tres Pasos Formation, Campanian– Maastrichtian, siliciclastic unit, deep-water slope deposits, Fig1, Smith, Shultz, Armitage, Hubbard
+Substance: Tres Pasos Formation, siliciclastic unit
+Time: Campanian– Maastrichtian
+Location: 
+Slope clinoform surfaces in the Tres Pasos Formation can, in some places, be correlated updip into deposits of the genetically linked Dorotea Formation, a Campanian–Danian siliciclastic unit of shallow-marine to continental origin (Fig1; Hubbard et al., 2010; Bauer, 2012; Gutiérrez et al., 2017)
+Key words: Slope, clinoform surfaces, Tres Pasos Formation, Dorotea Formation, Campanian–Danian, siliciclastic unit, continental origin, Fig1, Hubbard, Bauer, Gutiérrez
+Substance: Tres Pasos Formation, Dorotea Formation, siliciclastic unit
+Time: Campanian–Danian
+Location: 
+Abbreviations in the figure refer to the following: Pz—Paleozoic; L—Lower; P—Paleocene; E—Eocene; O—OligoceneCharacteristic lithology (yellow— sandstone/conglomerate; brown—mass-transport deposit; gray— siltstone; light/dark purple—volcanogenic units) and architecture (channel form, tabular) for each formation are displayed (modified from Wilson, 1991; Fildani and Hessler, 2005; Fosdick et al., 2011; Schwartz et al., 2016)
+Key words: Abbreviations, Pz—Paleozoic, L—Lower, P—Paleocene, E—Eocene, O—OligoceneCharacteristic, yellow— sandstone/conglomerate, brown—mass-transport deposit, gray— siltstone, light/dark purple—volcanogenic units, channel form, Wilson, Fildani, Hessler, Fosdick, Schwartz
+Substance: yellow— sandstone/conglomerate, gray— siltstone, channel form
+Time: Pz—Paleozoic, P—Paleocene, E—Eocene, O—OligoceneCharacteristic
+Location: 
+Abbreviations in the map legend refer to the following: J—Jurassic; K—Cretaceous; Pg—Paleogene; N—Neogene.mineral separation and LA-ICP-MS procedures are presented in Appendix 1.
+Key words: Abbreviations, map legend, J—Jurassic, K—Cretaceous, Pg—Paleogene, N—Neogene.mineral, LA-ICP-MS, Appendix
+Substance: N—Neogene.mineral
+Time: J—Jurassic, K—Cretaceous, Pg—Paleogene, N—Neogene.mineral
+Location: 
+In B, the age domains “Jr” and “K1–K3” correspond with Jurassic and Cretaceous age domains defined and discussed by Pankhurst et al(2000) and Hervé et al
+Key words: age domains “, Jr, K1–K3, ” correspond, Jurassic, Cretaceous, age domains, Pankhurst, Hervé
+Substance: 
+Time: K1–K3, Jurassic, Cretaceous
+Location: 
+A record of magmatism and orogenesis in the Andes of Chilean Patagonia can be gleaned from U-Pb zircon ages from Cretaceous-aged plutonic rocks of the South Patagonian Batholith (cfHervé et al., 2007) and from Cretaceous- to Neogene-aged deposits of the Magallanes Basin (Fig
+Key words: Andes, Chilean Patagonia, U-Pb, zircon ages, Cretaceous-aged, plutonic rocks, Patagonian Batholith, Cretaceous-, Neogene-aged, Magallanes, Fig
+Substance: zircon ages, plutonic rocks
+Time: Cretaceous-aged, Cretaceous-, Neogene-aged
+Location: Patagonia
+Hervé et al., 2007) and from Cretaceous- to Neogene-aged deposits of the Magallanes Basin (Fig3; e.g., Fosdick et al., 2015; Schwartz et al., 2016; Gutiérrez et al., 2017)
+Key words: Hervé, Cretaceous-, Neogene-aged, Magallanes, Fig3, Fosdick, Schwartz, Gutiérrez
+Substance: 
+Time: Cretaceous-, Neogene-aged
+Location: 
+Campanian–Maastrichtian ages from the South Patagonian Batholith span 81–67 Ma (n = 4; Hervé et al., 2007); this indicates that arc magmatism coupled with convergence and orogenesis created young, zircon-prone material episodically over the life span of the depositional system we investigated hereAge spectra from Cretaceous–Neogene deposits in our study area and in parts of the basin to the north show largely indistinguishable populations of ages older than 84 Ma (Fig
+Key words: Campanian–Maastrichtian, Patagonian Batholith, 81–67 Ma, n =, Hervé, arc magmatism, zircon-prone material, life span, depositional system, hereAge spectra, Cretaceous–Neogene, study area, indistinguishable populations, 84 Ma, Fig
+Substance: zircon-prone material, depositional system
+Time: Campanian–Maastrichtian, 81–67 Ma, Cretaceous–Neogene, 84 Ma
+Location: South, Patagonian, Batholith
+Age spectra from Cretaceous–Neogene deposits in our study area and in parts of the basin to the north show largely indistinguishable populations of ages older than 84 Ma (Fig3; cf
+Key words: Age, Cretaceous–Neogene, study area, indistinguishable populations, 84 Ma, Fig3
+Substance: 
+Time: Cretaceous–Neogene, 84 Ma
+Location: 
+ Campanian– Maastrichtian age spectra from the detrital record contain notable population modes at 82 Ma and 70 Ma (Fig9)
+Key words: Campanian– Maastrichtian, age spectra, detrital record, notable population modes, 82 Ma, 70 Ma, Fig9
+Substance: 
+Time: Campanian– Maastrichtian, 82 Ma, 70 Ma
+Location: 
+Probability density plot of Jurassic- and Cretaceous-aged zircons from the Magallanes Basin from localities in the vicinity of the study area (within 300 km along depositional dip) in Chilean and Argentine PatagoniaThis plot integrates detrital zircon dates from this study (Fig
+Key words: Probability, density plot, Jurassic-, Cretaceous-aged, Magallanes, study area, depositional dip, Chilean, Argentine PatagoniaThis, plot integrates detrital zircon dates, Fig
+Substance: density plot, depositional dip, plot integrates detrital zircon dates
+Time: Jurassic-, Cretaceous-aged
+Location: Basin
+Prominent age population modes from the Cenomanian– Maastrichtian are indicated with gray dashed lines.Hoorn et al., 2010)
+Key words: Prominent, age population modes, Cenomanian– Maastrichtian
+Substance: 
+Time: Cenomanian– Maastrichtian
+Location: 
+Lag times associated with orogenesis and retroarc shortening in the Campanian–Maastrichtian Andes in Chilean Patagonia are poorly constrainedAs such, the direct influence of orogenesis on slope evolution is difficult to decipher.
+Key words: Lag, Campanian–Maastrichtian Andes, Chilean Patagonia, direct influence, slope evolution
+Substance: 
+Time: Campanian–Maastrichtian Andes
+Location: Maastrichtian, Patagonia
+The detrital zircon age populations from the Tres Pasos and Dorotea Formations suggest that material from similar source terranes was continuously denuded in the fold-and-thrust belt through the Campanian– Maastrichtian (Figs3 and 9; Romans et al., 2010; Gutiérrez et al., 2017)
+Key words: detrital zircon age populations, Tres Pasos, Dorotea Formations, similar source terranes, fold-and-thrust belt, Campanian– Maastrichtian, Figs3, Gutiérrez
+Substance: detrital zircon age populations, Dorotea Formations
+Time: Campanian– Maastrichtian, Figs3
+Location: 
+Thrust fault propagation in the Campanian–Maastrichtian Andes has been evaluated via examination of faults and shear zones in the Magallanes Basin (Fosdick et al., 2011), which provided a record of thrust sheet activity, as well as the apparent migration patterns of the basin foredeep over timeThese examinations, coupled with observations from the stratigraphic record, led previous workers to deduce that the position of the foredeep at the end of Cerro Toro Formation depositional time was largely similar during Tres Pasos Formation depositional time and did not begin to markedly shift eastward until ca
+Key words: Thrust, fault propagation, Campanian–Maastrichtian Andes, shear zones, Magallanes, Fosdick, thrust sheet activity, apparent migration patterns, basin foredeep, timeThese examinations, stratigraphic record, previous workers, Cerro Toro Formation, depositional time, Tres Pasos Formation, depositional time
+Substance: stratigraphic record, Cerro Toro Formation, depositional time, Tres Pasos Formation
+Time: Campanian–Maastrichtian Andes
+Location: Maastrichtian, Basin
+Records of Late Cretaceous sea-level change from areas near the paleolatitude of the Magallanes Basin are not well constrained; we used the Phanerozoic global sea-level curve of Kominz et al(2008) to investigate a potential sea-level control on slope evolution
+Key words: Records, Late Cretaceous, Magallanes, Phanerozoic, global sea-level curve, Kominz, potential sea-level control, slope evolution
+Substance: global sea-level curve
+Time: Late Cretaceous, Phanerozoic
+Location: Basin
+The C ampanian– Maastrichtian region of the curve shows periods of prominent sea-level rise over 82.5–81.5, 78.5–77.5, 76.0–75.5, and 70.5–69.0 Ma, and prominent sea-level fall at 81.5–78.5, 77.5– 76.0, and 75.5–70.5 Ma (Fig10; Kominz et al., 2008)
+Key words: C ampanian–, Maastrichtian, curve shows periods, prominent sea-level rise, 70.5–69.0 Ma, prominent sea-level fall, 75.5–70.5 Ma, Fig10, Kominz
+Substance: curve shows periods
+Time: Maastrichtian, curve shows periods, 70.5–69.0 Ma, 75.5–70.5 Ma
+Location: 
+Paleoclimate reconstructions based on the global d18O compilation (Friedrich et al., 2012) suggest a cooling trend from the Turonian through to the mid-Campanian (i.e., >2‰ increase over 15 m.y.) followed by comparably minor and highly variable fluctuations from mid-Campanian through the Maastrichtian (Fig10)
+Key words: Paleoclimate, global d18O compilation, Friedrich, Turonian, variable fluctuations, Maastrichtian, Fig10
+Substance: variable fluctuations
+Time: global d18O compilation, Turonian, Maastrichtian
+Location: 
+Consider a scenario where MDAs of similar precision were computed for a sedimentary system that was active during the Early Ordovician (485.4–470.0 Ma; duration: 15.4 m.y.)In this case, the MDAs that define the lower and upper bounds of the interval would have absolute 2σ uncertainties that would span ±6.6–11.6 m.y., and computed duration and rate estimates may have large ranges
+Key words: Consider, MDAs, similar precision, sedimentary system, Early Ordovician, 485.4–470.0 Ma, MDAs, upper bounds, ±6.6–11.6 m.y., rate estimates
+Substance: sedimentary system
+Time: Early Ordovician, 485.4–470.0 Ma, ±6.6–11.6 m.y.
+Location: 
+Evaluation of stratigraphic and zircon- derived U-Pb age data reveals new insight into the evolution of a Campanian–Maastrichtian shelf-slope system in the Magallanes Basin in southern ChileIntegration of new stratigraphic information and >6600 new U-Pb zircon (detrital and volcanic ash) ages reveals a fourphase evolutionary framework associated with a largely progradational shelf-margin system
+Key words: Evaluation, U-Pb, age data reveals, new insight, Campanian–Maastrichtian, shelf-slope system, Magallanes, ChileIntegration, new stratigraphic information, 6600 new, U-Pb, volcanic ash, ages reveals, evolutionary framework, progradational shelf-margin system
+Substance: new stratigraphic information, volcanic ash
+Time: Campanian–Maastrichtian, 6600 new
+Location: Basin
+In general, the absolute uncertainty associated with U-Pb ages from sources that are Paleozoic and older is larger compared to the uncertainty related to ages that are Mesozoic and younger (i.e., 2.0 percent uncertainty on 300 Ma age = ±6 m.y.)Therefore, robust depositional duration and rate constraints for systems active during these time periods may only be possible over 10–100 m.y
+Key words: absolute uncertainty, U-Pb, Paleozoic, Mesozoic, percent uncertainty, 300 Ma, age =, ±6 m.y, robust depositional duration, rate constraints, time periods
+Substance: robust depositional duration
+Time: Paleozoic, Mesozoic, 300 Ma, ±6 m.y, time periods
+Location: 
+Armitage, D.A., Romans, B.W., Covault, J.A., and Graham, S.A., 2009, The influence of mass-transport deposit surface topography on the evolution of turbidite architecture: The Sierra Contreras, Tres Pasos Formation (Cretaceous), southern Chile: Journal of Sedimentary Research, v79, p
+Key words: Armitage, D.A., B.W., Covault, J.A., Graham, S.A., mass-transport deposit surface topography, turbidite architecture, Sierra Contreras, Tres Pasos Formation, Cretaceous, Chile, Sedimentary
+Substance: turbidite architecture, Tres Pasos Formation, Sedimentary
+Time: Sierra Contreras, Cretaceous
+Location: 
+Bain, H.A., and Hubbard, S.M., 2016, Stratigraphic evolution of a long-lived submarine channel system in the Late Cretaceous Nanaimo Group, British Columbia, Canada: Sedimentary Geology, v337, p
+Key words: Bain, H.A., Hubbard, S.M., Stratigraphic, submarine channel system, Late Cretaceous Nanaimo, Columbia, Canada, Sedimentary Geology
+Substance: Stratigraphic, submarine channel system, Sedimentary Geology
+Time: Late Cretaceous Nanaimo
+Location: Bain
+Bernhardt, A., Jobe, Z.R., Grove, M., and Lowe, D.R., 2012, Palaeogeography and diachronous infill of an ancient deep-marine foreland basin, Upper Cretaceous Cerro Toro Formation, Magallanes Basin: Basin Research, v24, p
+Key words: Bernhardt, A., Jobe, Z.R., M., Lowe, D.R., Palaeogeography, diachronous infill, ancient deep-marine foreland basin, Upper Cretaceous Cerro Toro Formation, Magallanes
+Substance: ancient deep-marine foreland basin, Upper Cretaceous Cerro Toro Formation
+Time: Upper Cretaceous Cerro Toro Formation
+Location: Palaeogeography
+Boulila, S., Galbrun, B., Miller, K.G., Pekar, S.F., Browning, J.V., Laskar, J., and Wright, J.D., 2011, On the origin of Cenozoic and Mesozoic “third-order” eustatic sequences: Earth-Science Reviews, v109, p
+Key words: Boulila, S., Galbrun, B., Miller, K.G., Pekar, S.F., Browning, J.V., Laskar, J., Wright, J.D., Cenozoic, Mesozoic, “ third-order ” eustatic sequences, Earth-Science Reviews
+Substance: 
+Time: Cenozoic, Mesozoic
+Location: Galbrun, K.G., J.V.
+Bruhn, R.L., and Dalziel, I.W.D., 1977, Destruction of the Early Cretaceous marginal basin in the Andes of Tierra del Fuego, in Talwani, M., and Pitman, W.C., eds., Island Arcs, Deep Sea Trenches and Back-Arc Basins: Washington, D.C., American Geophysical Union,Maurice Ewing Series 1, p
+Key words: Bruhn, R.L., Dalziel, I.W.D., Destruction, Early Cretaceous, marginal basin, Andes, Tierra, Fuego, Talwani, M., Pitman, W.C., Arcs, Deep, Trenches, Back-Arc Basins, Washington, D.C., Geophysical, Maurice Ewing
+Substance: Washington, Geophysical
+Time: Early Cretaceous
+Location: Tierra, del, Fuego, W.C., D.C.
+Calderón, M., Fosdick, J.C., Warren, C., et al., 2012, The low-grade Canal de las Montañas shear zone and its role on the tectonic emplacement of the Sarmiento ophiolitic complex and Late Cretaceous Patagonian Andes orogeny, Chile: Tectonophysics, v524–525, p
+Key words: Calderón, M., Fosdick, J.C., Warren, C., low-grade Canal, Montañas, shear zone, tectonic emplacement, Sarmiento, Late Cretaceous Patagonian Andes, Chile, Tectonophysics
+Substance: tectonic emplacement
+Time: Late Cretaceous Patagonian Andes
+Location: 
+Clift, P.D., and Gaedicke, C., 2002, Accelerated mass flux to the Arabian Sea during the  middle- late Miocene: Geology, v30, p
+Key words: Clift, P.D., Gaedicke, C., Accelerated, mass flux, Arabian, Miocene, Geology
+Substance: 
+Time: Miocene
+Location: Arabian, Sea
+Covault, J.A., Romans, B.W., and Graham, S.A., 2009, Outcrop expression of a continental-margin-scale shelf-edge delta from the Cretaceous Magallanes Basin, Chile: Journal of Sedimentary Research, v79, p
+Key words: Covault, J.A., B.W., Graham, S.A., Outcrop, continental-margin-scale shelf-edge delta, Cretaceous Magallanes, Chile, Sedimentary
+Substance: Sedimentary
+Time: Cretaceous Magallanes
+Location: Cretaceous, Basin
+Dickinson, W.R., and Gehrels, G.E., 2008, U-Pb ages of detrital zircons in relation to paleogeography: Triassic paleodrainage networks and sediment dispersal across southwest Laurentia: Journal of Sedimentary Research, v78, p
+Key words: Dickinson, W.R., Gehrels, G.E., U-Pb, detrital zircons, Triassic, paleodrainage networks, sediment dispersal, Laurentia, Sedimentary
+Substance: detrital zircons, sediment dispersal, Sedimentary
+Time: Triassic
+Location: W.R.
+Dickinson, W.R., and Gehrels, G.E., 2009, Use of U-Pb ages of detrital zircons to infer maximum depositional ages of strata: A test against a Colorado Plateau Mesozoic database: Earth and Planetary Science Letters, v288, p
+Key words: Dickinson, W.R., Gehrels, G.E., U-Pb, detrital zircons, maximum depositional ages, Colorado Plateau Mesozoic, Earth, Planetary, Science Letters
+Substance: detrital zircons, maximum depositional ages
+Time: Colorado Plateau Mesozoic
+Location: W.R.
+Dott, R.H., Winn, R.D., Jr., and Smith, C.H.L., 1982, Relationship of late Mesozoic and early Cenozoic sedimentation to the tectonic evolution of the southernmost Andes and the Scotia arc, in Craddock, C., ed., Antarctic Geoscience: Madison, Wisconsin, University of Wisconsin Press, p193–202.
+Key words: Dott, R.H., Winn, R.D., Jr., Smith, C.H.L., Relationship, Mesozoic, Cenozoic, tectonic evolution, Andes, Scotia, Craddock, C., Antarctic Geoscience, Madison, Wisconsin, Wisconsin
+Substance: 
+Time: Mesozoic, Cenozoic
+Location: R.H., Craddock
+Embry, A.F., 1988, Triassic sea-level changes: Evidence from the Canadian Arctic archipelago, in Wilgus, C.K., Hastings, B.S., Posamentier, H.W., Van Wagoner, J.C., Ross, C.A., and Kendall, C.G.St.C., eds., Sea-Level Changes: An Integrated Approach: Society of Economic Paleontologists and Mineralogists (SEPM) Special Publication 42, p249–259.
+Key words: Embry, A.F., Triassic, sea-level changes, Evidence, Arctic, Wilgus, C.K., Hastings, B.S., Posamentier, H.W., Van Wagoner, J.C., Ross, C.A., Kendall, C.G.St.C., Sea-Level, Integrated Approach, Paleontologists, Mineralogists, SEPM, Publication
+Substance: Mineralogists
+Time: Triassic
+Location: Wilgus, C.K.
+Cretaceous Slope Channel Complex in the Tres Pasos Formation, Arroyo Picana–Laguna Figueroa Outcrop Belt, Chilean Patagonia [M.Sthesis]: Calgary, Canada, University of Calgary, 119 p.
+Key words: Cretaceous Slope, Complex, Tres Pasos Formation, Arroyo Picana–Laguna Figueroa Outcrop, Chilean Patagonia, M.Sthesis, Calgary, Canada, Calgary
+Substance: Tres Pasos Formation
+Time: Cretaceous Slope
+Location: Figueroa, Outcrop, Belt, Patagonia
+Friedrich, O., Norris, R.D., and Erbacher, J., 2012, Evolution of middle to Late Cretaceous oceans—A 55 m.yrecord of Earth’s temperature and carbon cycle: Geology, v
+Key words: Friedrich, O., Norris, R.D., Erbacher, J., Evolution, Late Cretaceous, Earth, ’ s temperature, carbon cycle, Geology
+Substance: carbon cycle
+Time: Late Cretaceous
+Location: 
+Haq, B.U., Hardenbol, J., and Vail, P.R., 1987, Chronology of fluctuating sea levels since the Triassic: Science, v235, p
+Key words: Haq, B.U., Hardenbol, J., Vail, P.R., Chronology, sea levels, Triassic
+Substance: 
+Time: Triassic
+Location: B.U., Vail
+Houseknecht, D.W., Bird, K.J., and Schenk, C.J., 2009, Seismic analysis of clinoform depositional sequences and shelf-margin trajectories in Lower Cretaceous (Albian) strata, Alaska North Slope: Basin Research, v21, p
+Key words: Houseknecht, D.W., Bird, K.J., Schenk, C.J., Seismic, clinoform depositional sequences, shelf-margin trajectories, Lower Cretaceous, Albian, Alaska, Slope
+Substance: clinoform depositional sequences
+Time: Lower Cretaceous, Albian
+Location: North, Slope
+Kominz, M.A., Browning, J.V., Miller, K.G., Sugarman, P.J., Mizintseva, S., and Scotese, C.R., 2008, Late Cretaceous to Miocene sea-level estimates from the New Jersey and Delaware coastal plain coreholes: An error analysis: Basin Research, v20, p
+Key words: Kominz, M.A., Browning, J.V., Miller, K.G., Sugarman, P.J., Mizintseva, S., Scotese, C.R., Late Cretaceous, Miocene, sea-level estimates, Jersey, Delaware, plain coreholes, error analysis
+Substance: 
+Time: Late Cretaceous, Miocene
+Location: J.V., K.G., Mizintseva
+Kortyna, C., Donaghy, E., Trop, J.M., and Idleman, B., 2014, Integrated provenance record of a forearc basin modified by slab-window magmatism: Detritalzircon geochronology and sandstone compositions of the Paleogene Arkose Ridge Formation, southcentral Alaska: Basin Research, v26, p
+Key words: Kortyna, C., Donaghy, E., Trop, J.M., Idleman, B., Integrated, provenance record, forearc basin, slab-window magmatism, Detritalzircon, sandstone compositions, Paleogene Arkose, Formation, Alaska
+Substance: Detritalzircon, sandstone compositions, Paleogene Arkose, Formation
+Time: Paleogene Arkose
+Location: 
+Macauley, R.V., and Hubbard, S.M., 2013, Slope channel sedimentary processes and stratigraphic stacking, Cretaceous Tres Pasos Formation slope system, Chilean Patagonia: Marine and Petroleum Geology, v41, p
+Key words: Macauley, R.V., Hubbard, S.M., Slope, channel sedimentary processes, Cretaceous Tres Pasos Formation, slope system, Chilean Patagonia, Petroleum Geology
+Substance: channel sedimentary processes, Cretaceous Tres Pasos Formation
+Time: Cretaceous Tres Pasos Formation
+Location: 
+Macellari, C.E., 1988, Late Cretaceous Kossmaticeratidae (Ammonoidea) from the Magallanes Basin, Chile: Journal of Paleontology, v62, p
+Key words: Macellari, C.E., Late Cretaceous Kossmaticeratidae, Ammonoidea, Magallanes, Chile, Paleontology
+Substance: 
+Time: Late Cretaceous Kossmaticeratidae
+Location: Basin
+Macellari, C.E., Barrio, C.A., and Manassero, M.J., 1989, Upper Cretaceous to Paleocene depositional sequences and sandstone petrography of southwestern Patagonia (Argentina and Chile): Journal of South American Earth Sciences, v2, p
+Key words: Macellari, C.E., Barrio, C.A., Manassero, M.J., Upper Cretaceous, Paleocene, depositional sequences, sandstone petrography, Patagonia, Argentina, Chile, Earth, Sciences
+Substance: depositional sequences, sandstone petrography
+Time: Upper Cretaceous, Paleocene
+Location: C.E., Barrio, Manassero, Patagonia
+Martinsen, O.J., Bøen, F., Charnock, M.A., Mangerud, G., and Nøttvedt, A., 1999, Cenozoic development of the Norwegian margin 60–64°N: Sequences and sedimentary response to variable basin physiography and tectonic setting, in Fleet, A.J., and Boldy, S.A.R., Petroleum Geology: North-West Europe and Global Perspectives—Proceedings of the 5th Conference: London, Geological Society, p293–304, doi:10.1144/0050293.
+Key words: Martinsen, O.J., Bøen, F., Charnock, M.A., Mangerud, G., Nøttvedt, A., Cenozoic, Norwegian, Sequences, sedimentary response, variable basin physiography, tectonic setting, Fleet, A.J., Boldy, S.A.R., Petroleum Geology, North-West Europe, Global Perspectives—Proceedings, London, Geological
+Substance: sedimentary response, variable basin physiography
+Time: Cenozoic
+Location: Mangerud, Nøttvedt, North, -, West, Europe
+McHugh, C.M.G., Damuth, J.E., Gartner, S., Katz, M.E., and Mountain, G.S., 1996, Oligocene to Holocene masstransport deposits of the New Jersey continental margin and their correlation to sequence boundaries, in Mountain, G.S., Miller, K.G., Blum, P., Poag, C.W., and Twichell, D.C., eds., Proceedings of the Ocean Drilling Program, Scientific Results, Volume 150: College Station, Texas, Ocean Drilling Program, p189–228.
+Key words: McHugh, C.M.G., Damuth, J.E., Gartner, S., Katz, M.E., Mountain, G.S., Oligocene, Holocene, masstransport deposits, Jersey, sequence boundaries, Mountain, G.S., Miller, K.G., Blum, P., Poag, C.W., Twichell, D.C., Proceedings, Drilling Program, Scientific, College Station, Texas, Drilling Program
+Substance: 
+Time: Oligocene, Holocene, sequence boundaries
+Location: Damuth, Mountain, G.S., K.G., Twichell, D.C.
+Anatomy of shelf deltas at the edge of a prograding Eocene shelf margin, Spitsbergen: Sedimentology, v49, p
+Key words: Anatomy, shelf deltas, Eocene, Spitsbergen, Sedimentology
+Substance: Sedimentology
+Time: Eocene
+Location: Spitsbergen
+Piper, D.J.W., 1975, Late Quaternary deep-water sedimentation off Nova Scotia and western Grand Banks: Calgary, Alberta, in Yorath, C.J., Parker, E.R., and Glass, D.J., eds., Canada’s Continental Margins and Offshore Petroleum Exploration: Canadian Society of Petroleum Geologists Memoir 4, p195–204.
+Key words: Piper, D.J.W., Late Quaternary, deep-water sedimentation, Nova Scotia, Banks, Calgary, Alberta, Yorath, C.J., Parker, E.R., D.J., Canada, ’ s, Margins, Offshore Petroleum Exploration, Canadian Society, Petroleum Geologists Memoir
+Substance: deep-water sedimentation
+Time: Late Quaternary
+Location: 
+Piper, D.J.W., and Normark, W.R., 1989, Late Cenozoic sea-level changes and the onset of glaciation: Impact on continental slope progradation off eastern Canada: Marine and Petroleum Geology, v6, p
+Key words: Piper, D.J.W., Normark, W.R., Late Cenozoic, sea-level changes, Impact, continental slope progradation, Canada, Petroleum Geology
+Substance: 
+Time: Late Cenozoic
+Location: 
+Plink-Björklund, P., Steel, R., and Mellere, D., 2001, Turbidite variability and architecture of sand-prone, deepwater slopes: Eocene clinoforms in the Central Basin, Spitsbergen: Journal of Sedimentary Research, v71, p
+Key words: Plink-Björklund, P., R., Mellere, D., Turbidite, deepwater slopes, Eocene, Spitsbergen, Sedimentary
+Substance: Turbidite, Sedimentary
+Time: Eocene
+Location: Mellere, Central, Basin, Spitsbergen
+Rabinowitz, P.D., and La Brecque, J., 1979, The Mesozoic South Atlantic Ocean and evolution of its continental margin: Journal of Geophysical Research, v84, p
+Key words: Rabinowitz, P.D., Brecque, J., Mesozoic, Atlantic, Geophysical
+Substance: Geophysical
+Time: Mesozoic
+Location: South, Atlantic, Ocean
+Romans, B.W., Fildani, A., Graham, S.A., Hubbard, S.M., and Covault, J.A., 2010, Importance of predecessor basin history on the sedimentary fill of a retroarc foreland basin: Provenance analysis of the Cretaceous Magallanes Basin, Chile (50–52°S): Basin Research, v22, p
+Key words: B.W., Fildani, A., Graham, S.A., Hubbard, S.M., Covault, J.A., Importance, predecessor basin history, retroarc foreland basin, Provenance, Cretaceous Magallanes, Chile
+Substance: 
+Time: Cretaceous Magallanes
+Location: Basin
+Rubio-Cisneros, I.I., and Lawton, T.F., 2011, Detrital zircon U-Pb ages of sandstones in continental red beds at Valle de Huizachal, Tamaulipas, NE Mexico: Record of Early–Middle Jurassic arc volcanism and transition to crustal extension: Geosphere, v7, p
+Key words: Rubio-Cisneros, I.I., Lawton, T.F., Detrital, U-Pb, red beds, Valle, Huizachal, Tamaulipas, Mexico, Record, Early–Middle Jurassic, arc volcanism, Geosphere
+Substance: red beds
+Time: Early–Middle Jurassic
+Location: Valle, de, Huizachal, Tamaulipas
+Schwartz, T.M., and Graham, S.A., 2015, Stratigraphic architecture of a tide-influenced delta, Upper Cretaceous Dorotea Formation, Magallanes-Austral Basin, Patagonia: Sedimentology, v62, p
+Key words: Schwartz, T.M., Graham, S.A., Stratigraphic, Upper Cretaceous Dorotea Formation, Magallanes-Austral, Patagonia, Sedimentology
+Substance: Stratigraphic, Upper Cretaceous Dorotea Formation, Sedimentology
+Time: Upper Cretaceous Dorotea Formation
+Location: Magallanes, -, Austral, Basin, Patagonia
+Cretaceous sedimentation rates in the MagallanesAustral basin, Patagonia: Basin Research (in press), doi:10.1111/bre.12198.Shultz, M.R., Fildani, A., Cope, T.D., and Graham, S.A., 2005, Deposition and stratigraphic architecture of an outcropping ancient slope system: Tres Pasos Formation, Magallanes Basin, southern Chile, in Hodgson, D.M., and Flint, S.S., eds., Submarine Slope Systems: Processes and Products: Geological Society, London, Special Publication 244, p
+Key words: Cretaceous, sedimentation rates, MagallanesAustral, Patagonia, M.R., Fildani, A., Cope, T.D., Graham, S.A., Deposition, stratigraphic architecture, ancient slope system, Tres Pasos Formation, Magallanes, Chile, Hodgson, D.M., Flint, S.S., Submarine Slope Systems, Processes, Products, Geological, London, Publication
+Substance: sedimentation rates, Deposition, stratigraphic architecture, Tres Pasos Formation, Flint, Submarine Slope Systems
+Time: Cretaceous
+Location: Patagonia, M.R., Basin, Hodgson, S.S.
+Smith, C.H.L., 1977, Sedimentology of the Late Cretaceous (Santonian-Maastrichtian) Tres Pasos Formation, Ultima Esperanza District, Southern Chile [M.Sthesis]: Madison, Wisconsin, University of Wisconsin, 129 p.
+Key words: Smith, C.H.L., Sedimentology, Late Cretaceous, Santonian-Maastrichtian, Tres Pasos Formation, Ultima Esperanza, Chile, M.Sthesis, Madison, Wisconsin, Wisconsin
+Substance: Sedimentology, Tres Pasos Formation
+Time: Late Cretaceous, Santonian-Maastrichtian
+Location: Southern
+Stouthamer, E., and Berendsen, H.J.A., 2001, Avulsion frequency, avulsion duration, and interavulsion period of Holocene channel belts in the Rhine-Meuse delta, the Netherlands: Journal of Sedimentary Research, v71, p
+Key words: Stouthamer, E., Berendsen, H.J.A., Avulsion, avulsion duration, interavulsion period, Holocene, channel belts, Rhine-Meuse, Netherlands, Sedimentary
+Substance: channel belts, Sedimentary
+Time: Holocene
+Location: 
+Winn, R.D., and Dott, R.H.J., 1979, Deep-water fan- channel conglomerates of Late Cretaceous age, southern Chile: Sedimentology, v26, p
+Key words: Winn, R.D., Dott, R.H.J., Deep-water, fan- channel conglomerates, Late Cretaceous, Chile, Sedimentology
+Substance: fan- channel conglomerates, Sedimentology
+Time: Late Cretaceous
+Location: 
+Key words: 
+Substance: 
+Time: 
+Location: 

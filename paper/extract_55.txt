@@ -1,0 +1,89 @@
+ABSTRACT: The shallow marine Lower Jurassic quartz arenites of the Stø Formation in the southern Barents Sea comprise (1) intervals where dispersed detrital clay is absent, and where the spacing between clay-rich laminae that evolved into stylolites upon burial is exceptionally large, up to several meters, and (2) intervals where minor detrital clay matrix occurs, clay laminae are very common, and stylolite spacing is typically less than a centimeterPoint counting of thin sections and cathodoluminescence micrographs shows that quartz cement contents are far lower in the intervals where stylolite spacing is exceptionally large, 4–11 percent, versus 10–20 percent outside these intervals
+Key words: ABSTRACT, shallow marine, Lower Jurassic, quartz arenites, Stø Formation, Barents, detrital clay, clay-rich laminae, minor detrital clay matrix occurs, clay laminae, thin sections, cathodoluminescence micrographs shows, quartz cement contents
+Substance: shallow marine, quartz arenites, Stø Formation, detrital clay, clay-rich laminae, minor detrital clay matrix occurs, clay laminae, quartz cement contents
+Time: Lower Jurassic
+Location: Barents, Sea
+The Lower Jurassic Stø Formation is 84 m thick in well 7120/6-1 and comprises very fine-, fine-, and medium-grained sandstones plus a few thin intervals of shale, and conglomeratic sandstone and phosphate nodule lag deposits (Fig2)
+Key words: Lower Jurassic Stø Formation, m thick, thin intervals, conglomeratic sandstone, phosphate nodule, Fig2
+Substance: Lower Jurassic Stø Formation, conglomeratic sandstone, phosphate nodule
+Time: Lower Jurassic Stø Formation
+Location: 
+However, as is typically the case in the Hammerfest Basin, Paleocene sediments are overlain by Pleistocene deposits in well 7120/6-1, probably reflecting largescale Tertiary erosion and uplift (Berglund et al1986; Nyland et al
+Key words: Hammerfest, Paleocene, Pleistocene, Tertiary, Berglund, Nyland
+Substance: 
+Time: Paleocene, Pleistocene
+Location: Basin
+The incomplete Upper Cretaceous stratigraphy suggests that erosional events may also have occurred during this periodThe Stø Formation is presently overlain by Oxfordian shales deposited in an offshore setting, and conformably overlies the interbedded lower-delta-plain sandstones, siltstones, and shales of the Lower Jurassic Nordmela Formation.
+Key words: Upper Cretaceous, stratigraphy suggests, erosional events, Stø Formation, Oxfordian, offshore setting, lower-delta-plain sandstones, Lower Jurassic Nordmela Formation
+Substance: erosional events, Stø Formation, lower-delta-plain sandstones, Lower Jurassic Nordmela Formation
+Time: Upper Cretaceous, Oxfordian, Lower Jurassic Nordmela Formation
+Location: 
+The Stø Formation is presently overlain by Oxfordian shales deposited in an offshore setting, and conformably overlies the interbedded lower-delta-plain sandstones, siltstones, and shales of the Lower Jurassic Nordmela Formation.Samples were taken from the depth range 2397.70–2468.02 mRKB or 2060.70–2131.02 m below the sea floor
+Key words: Stø Formation, Oxfordian, offshore setting, lower-delta-plain sandstones, Lower Jurassic Nordmela Formation.Samples, depth range, sea floor
+Substance: Stø Formation, lower-delta-plain sandstones, Lower Jurassic Nordmela Formation.Samples
+Time: Oxfordian, Lower Jurassic Nordmela Formation.Samples
+Location: 
+Present temperature at 2398 mRKB is approximately 848CThe Stø Formation in well 7120/6-1 is gasfilled from the top down to 2425.8 mRKB and oil-filled from this level down to 2440.3 mRKB
+Key words: Present, 848CThe Stø Formation
+Substance: 848CThe Stø Formation
+Time: Present, 848CThe Stø Formation
+Location: 
+Owing to major uplift and erosion, constructing a reliable temperature history from the present stratigraphy is possible only from the time of deposition to the CenomanianPreserved sediments younger than Cenomanian are of Campanian, Paleocene, and Pleistocene age
+Key words: Owing, major uplift, reliable temperature history, present stratigraphy, CenomanianPreserved, Cenomanian, Campanian, Paleocene, Pleistocene
+Substance: 
+Time: present stratigraphy, CenomanianPreserved, Cenomanian, Campanian, Paleocene, Pleistocene
+Location: Campanian
+Preserved sediments younger than Cenomanian are of Campanian, Paleocene, and Pleistocene ageJudging by data from other wells and previous studies of uplift indicators in the area (Berglund et al
+Key words: Preserved, Cenomanian, Campanian, Paleocene, Pleistocene, previous studies, uplift indicators, Berglund
+Substance: 
+Time: Cenomanian, Campanian, Paleocene, Pleistocene
+Location: Campanian
+1992), it is most likely that little sediment was deposited in the Turonian to Santonian whereas considerable deposition and uplift may have taken place in the Campanian to MaastrichtianHowever, the main episode of deep burial and uplift took place in the Tertiary
+Key words: Turonian, Santonian, considerable deposition, Campanian, MaastrichtianHowever, main episode, deep burial, Tertiary
+Substance: considerable deposition, deep burial
+Time: Turonian, Santonian, Campanian, MaastrichtianHowever
+Location: 
+BJøRGEN, T., 1985, A sedimentological study of the cored Lower/Middle Jurassic successions in wells: 7120/6-1, 7120/9-1 and 7120/12-2 [Unpublished Cand scient thesis]: University of Bergen.BJøRKUM, P.A., 1996, How important is pressure in causing dissolution of quartz in sandstones?: Journal of Sedimentary Research, v
+Key words: BJøRGEN, T., sedimentological study, Lower/Middle Jurassic, Unpublished Cand, scient thesis ], Bergen.BJøRKUM, P.A., Sedimentary
+Substance: sedimentological study, Sedimentary
+Time: Lower/Middle Jurassic
+Location: 
+BJøRLYKKE, K., AAGAARD, P., DYPVIK, H., HASTINGS, D.S., AND HARPER, A.S., 1986, Diagenesis and reservoir properties of Jurassic sandstones from the Haltenbanken area, offshore midNorway, in Spencer, A.T., Holter, E., Campell, C.J., Hanslien, S.H., Nelson, P.H.H., Nysæther, E., and Ormaasen, E., eds., Habitat of Hydrocarbons on the Norwegian Continental Shelf: London, Graham & Trotman, p275–286.
+Key words: BJøRLYKKE, K., AAGAARD, P., DYPVIK, H., HASTINGS, D.S., AND HARPER, A.S., Diagenesis, reservoir properties, Jurassic, Haltenbanken, offshore midNorway, Spencer, A.T., Holter, E., Campell, C.J., Hanslien, S.H., Nelson, P.H.H., Nysæther, E., Ormaasen, E., Habitat, Hydrocarbons, Norwegian, Shelf, London, Graham, Trotman
+Substance: Hydrocarbons
+Time: Jurassic
+Location: DYPVIK, HARPER, Holter, Campell, Hanslien, S.H.
+BJøRLYKKE, K., NEDKVITNE, T., RAMM, M., AND SAIGAL, G.C., 1992, Diagenetic processes in the Brent Group (Middle Jurassic) reservoirs of the North Sea: an overview, in Morton, A.C., Haszeldine, R.S., Giles, M.R., and Brown, S., eds., Geology of the Brent Group: Geological Society of London, Special Publication 61, p263–287.
+Key words: BJøRLYKKE, K., NEDKVITNE, T., RAMM, M., AND SAIGAL, G.C., Diagenetic, Brent, Jurassic, North Sea, Morton, A.C., Haszeldine, R.S., Giles, M.R., Brown, S., Geology, Brent, Geological, London, Publication
+Substance: Diagenetic
+Time: Jurassic
+Location: NEDKVITNE, SAIGAL, Middle, Jurassic, North, Sea, A.C., Haszeldine, R.S.
+BLOCH, S., MCGOWEN, J.H., DUNCAN, J.R., AND BRIZZOLARA, D.W., 1990, Porosity prediction, prior to drilling, in sandstones of the Kekiktuk Formation (Mississippian), North Slope of Alaska: Association of American Petroleum Geologists, Bulletin, v74, p
+Key words: BLOCH, S., MCGOWEN, J.H., DUNCAN, J.R., AND BRIZZOLARA, D.W., Porosity, Kekiktuk Formation, Mississippian, Slope, Alaska, Petroleum Geologists, Bulletin
+Substance: Porosity, Kekiktuk Formation
+Time: Mississippian
+Location: BLOCH, MCGOWEN, J.H., DUNCAN, J.R., BRIZZOLARA, North, Slope, of
+OLAUSSEN, S., DALLAND, A., GLOPPEN, T.G., AND JOHANNESSEN, E., 1984, Depositional environment and diagenesis of Jurassic reservoir sandstones in the eastern part of Troms I area, in Spencer, A.M., Holter, E., Johnsen, S.O., Mørk, A., Nysæther, E., Sognstad, P., and Spinnangr, A˚ ., eds., Petroleum Geology of the North European Margin: London, Graham & Trotman, p61–79.
+Key words: OLAUSSEN, S., DALLAND, A., GLOPPEN, T.G., AND JOHANNESSEN, E., Depositional, Jurassic, reservoir sandstones, eastern part, Troms, Spencer, Holter, E., Johnsen, S.O., Mørk, A., Nysæther, E., Sognstad, P., Spinnangr, A˚, Petroleum Geology, Margin, London, Graham, Trotman
+Substance: Depositional, reservoir sandstones
+Time: Jurassic
+Location: OLAUSSEN, DALLAND, GLOPPEN, Holter, Sognstad, Spinnangr
+RICHES, P., TRAUBB-SOBOTT, I., ZIMMERLE, W., AND ZINKERNAGEL, U., 1986, Diagenetic peculiarities of potential Lower Jurassic reservoir sandstones, Troms I area, off northern Norway, and their tectonic significance: Clay Minerals, v21, p
+Key words: RICHES, P., TRAUBB-SOBOTT, I., ZIMMERLE, W., AND ZINKERNAGEL, U., Diagenetic, Lower Jurassic, reservoir sandstones, Troms, Norway, tectonic significance, Clay Minerals
+Substance: Diagenetic, reservoir sandstones, Clay Minerals
+Time: Lower Jurassic
+Location: ZIMMERLE
+WALDERHAUG, O., 1994, Temperatures of quartz cementation in Jurassic sandstones from the Norwegian continental shelf—evidence from fluid inclusions: Journal of Sedimentary Petrology, vA64, p
+Key words: WALDERHAUG, O., Temperatures, quartz cementation, Jurassic, Norwegian, continental shelf—evidence, fluid inclusions, Sedimentary Petrology
+Substance: quartz cementation, Sedimentary Petrology
+Time: Jurassic
+Location: 
+WALDERHAUG, O., 2000, Modelling quartz cementation and porosity in Middle Jurassic Brent Group sandstones of the Kvitebjørn Field, northern North Sea: American Association of Petroleum Geologists, Bulletin, v84, p
+Key words: WALDERHAUG, O., Modelling, quartz cementation, Jurassic Brent, Group sandstones, Kvitebjørn, northern North Sea, American Association, Petroleum Geologists, Bulletin
+Substance: quartz cementation, Group sandstones
+Time: Jurassic Brent
+Location: WALDERHAUG, Kvitebjørn, Field, North, Sea
+Key words: 
+Substance: 
+Time: 
+Location: 

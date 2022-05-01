@@ -1,0 +1,124 @@
+Trace element abundances in zircons from Triassic intrusive (n = 109) and Jurassic intrusive and extrusive rocks (n = 74); stars are zircons from extrusive rocksBoth suites are U-enriched and Yb-depleted compared to zircons from mid-oceanic-ridge gabbros (MORG; Grimes et al., 2007), and show signifi cant fractionation-induced elemental covariation.
+Key words: Trace, element abundances, Triassic, n =, Jurassic, extrusive rocks, n =, extrusive rocksBoth suites, U-enriched, Yb-depleted, mid-oceanic-ridge gabbros, MORG, Grimes, show signifi cant, elemental covariation
+Substance: extrusive rocks, extrusive rocksBoth suites, mid-oceanic-ridge gabbros
+Time: Triassic, Jurassic
+Location: 
+zircons from Triassic intrusive rocks have characteristically lower Th/U and higher Yb/Gd than zircons from intrusive and extrusive rocks of Jurassic age (Fig2)
+Key words: Triassic, intrusive rocks, Th/U, Yb/Gd, extrusive rocks, Jurassic, Fig2
+Substance: intrusive rocks, extrusive rocks
+Time: Triassic, Jurassic
+Location: 
+This, in turn, implies that contrasting ratios between Triassic and Jurassic zircons refl ect a change in trace element composition of intermediate to silicic melts over this time period.GEOLOGY, February 2013; v
+Key words: Triassic, Jurassic, zircons refl ect, trace element composition, silicic melts, time period.GEOLOGY, February
+Substance: zircons refl ect, trace element composition
+Time: Triassic, Jurassic
+Location: 
+Comparison of key zircon trace element ratios, illustrating higher Th/U and lower Yb/Gd characteristic of Jurassic zircons.In order to gauge whether these differences in melt compositions over time are persistent and regionally signifi cant, we turn to the longerterm average arc record in detrital zircons
+Key words: Comparison, key zircon trace element ratios, Th/U, Yb/Gd, Jurassic, zircons.In order, signifi cant, longerterm average arc record, detrital zircons
+Substance: key zircon trace element ratios, zircons.In order, detrital zircons
+Time: Jurassic
+Location: 
+The California arc formed as a consequence of prolonged Mesozoic subduction beneath the former passive margin of western North America (Saleeby et al., 1992)The arc is composed of a northern, continent-fringing arc segment primarily exposed in the Sierra Nevada, and a southern, continental arc segment exposed in the Salinian Block, Mojave Desert, and Transverse Ranges
+Key words: California, Mesozoic, America, Saleeby, arc segment, Sierra Nevada, continental arc segment, Salinian Block, Mojave, Transverse Ranges
+Substance: 
+Time: Mesozoic
+Location: North, Sierra, Mojave, Desert
+The Cretaceous intrusive history of this arc has been intensely studied, but questions remain for the arc as a whole, which can be addressed from the detrital recordSignifi cant ambiguities include the interplay between prolonged subduction and the apparent pulsed nature of magmatism, and the petrogenetic relationships between exposed plutons and volcanic rocks now largely removed by erosion.
+Key words: Cretaceous, intrusive history, detrital recordSignifi cant ambiguities, petrogenetic relationships, volcanic rocks
+Substance: volcanic rocks
+Time: Cretaceous
+Location: 
+Pluton ages defi ne three magmatic pulses: p1 in Triassic, p2 in Middle and Late Jurassic, and p3 in mid-Early to Late Cretaceous timeBetween these pulses, the arc apparently transitioned to magmatic lulls, episodes of less voluminous yet continued activity, l1 beginning in Late Triassic and l2 in latest Jurassic time
+Key words: Pluton, ages defi ne, magmatic pulses, Triassic, Late Jurassic, Late Cretaceous, magmatic lulls, Late Triassic, Jurassic
+Substance: 
+Time: Triassic, Late Jurassic, Late Cretaceous, Late Triassic, Jurassic
+Location: 
+Between these pulses, the arc apparently transitioned to magmatic lulls, episodes of less voluminous yet continued activity, l1 beginning in Late Triassic and l2 in latest Jurassic timeDifferences between the Sierra Nevada and Salinia-Mojave age distributions refl ect the migratory nature of arc magmatism and the relatively outboard position of the Sierra Nevada, where the full Cretaceous arc but only the outboard fringes of the older arcs are exposed.
+Key words: magmatic lulls, Late Triassic, Jurassic, Sierra Nevada, Salinia-Mojave, age distributions refl ect, migratory nature, arc magmatism, outboard position, Sierra Nevada, Cretaceous, outboard fringes
+Substance: 
+Time: Late Triassic, Jurassic, Cretaceous
+Location: Sierra
+Differences between the Sierra Nevada and Salinia-Mojave age distributions refl ect the migratory nature of arc magmatism and the relatively outboard position of the Sierra Nevada, where the full Cretaceous arc but only the outboard fringes of the older arcs are exposed.Such chronologic records are incomplete, because the plutonic arc is not fully exhumed, and associated volcanic and epizonal plutonic rocks have been eroded
+Key words: Differences, Sierra Nevada, Salinia-Mojave, age distributions refl ect, migratory nature, arc magmatism, outboard position, Sierra Nevada, Cretaceous, outboard fringes, exposed.Such chronologic records, plutonic arc, epizonal plutonic rocks
+Substance: plutonic arc, epizonal plutonic rocks
+Time: Cretaceous
+Location: Sierra
+Upper panel: Probability plots of zircon U-Pb ages of plutonic rocks from the fringing arc (Irwin and Wooden, 2001; Saleeby et al., 2008; Barth et al., 2011) and from the continental arc (Barth and Wooden, 2006; Barth et al., 2008; Needy et al., 2009), compared to detrital zircons from uppermost Jurassic to middle Eocene sedimentary sequences on the outboard side of the arc, including the Great Valley Group (DeGraaff-Surpless et al., 2002; Wright and Wyld, 2007), analogous forearcbasin deposits of southern California (Jacobson et al., 2011), underplated trench sediments (Pelona-Orocopia-Rand schists; Grove et al., 2003), and Upper Jurassic to Upper Cretaceous retro-arc sediments (McCoy Mountains Formation; Barth et al., 2004)Lower panel: Zircon geochemistry over the same time frame as in upper panel
+Key words: Upper, Probability, U-Pb, plutonic rocks, Irwin, Wooden, Saleeby, Barth, continental arc, Barth, Wooden, Barth, Needy, detrital zircons, Jurassic, Eocene, sedimentary sequences, outboard side, Great Valley Group, DeGraaff-Surpless, Wright, Wyld, analogous forearcbasin deposits, California, Jacobson, trench sediments, Pelona-Orocopia-Rand, Upper Jurassic, Upper Cretaceous, retro-arc sediments, McCoy, Mountains, Formation, Barth, Lower, Zircon, time frame, upper panel
+Substance: plutonic rocks, detrital zircons, sedimentary sequences, Great Valley Group, trench sediments, retro-arc sediments, Formation, Zircon
+Time: Jurassic, Eocene, Upper Jurassic, Upper Cretaceous
+Location: Upper, Jurassic
+About a third of the detrital zircons yield Archean to Mesoproterozoic ages, indicating that sediment was derived from the continental segment of the arc.In order to systematically compare melt compositions through time in detrital zircons derived from variably fractionated zircon suites, we grouped arc-derived detrital zircons within 10 m.y
+Key words: detrital zircons yield, Archean, Mesoproterozoic, continental segment, arc.In order, detrital zircons, zircon suites, detrital zircons
+Substance: detrital zircons yield, detrital zircons, zircon suites
+Time: Archean, Mesoproterozoic
+Location: 
+Long-term high Th/U is a characteristic of the Proterozoic crustal framework of the continental segment of the California arc (Wooden and Miller, 1990), so the relatively high Th/U that characterizes magmatic pulses suggests enhanced involvement of fertile crustal rocks during times of high magma production (Ducea and Barton, 2007)Hughes and Mahood (2008) showed that caldera-forming eruptions indicative of voluminous magmatism in modern arc crust are associated with moderately high normal convergence rates and are favored in compressional upper plate settings, consistent with our suggestion that pulse magmas record crustal involvement above that of the background magma fl ux
+Key words: Long-term high, Th/U, Proterozoic, crustal framework, continental segment, California, Wooden, Miller, Th/U, characterizes magmatic pulses suggests, fertile crustal rocks, high magma production, Ducea, Barton, Hughes, Mahood, eruptions indicative, voluminous magmatism, modern arc crust, high normal convergence rates, upper plate settings, pulse magmas record crustal involvement, background magma fl ux
+Substance: crustal framework, fertile crustal rocks, modern arc crust, high normal convergence rates, pulse magmas record crustal involvement
+Time: Proterozoic
+Location: 
+Low U/Yb in Jurassic time may record reduced ingress of slab-derived fl uid, which when coupled with low Th/U and high Yb/Gd indicates that minimal crustal involvement may be related to phases of large-scale extension or transtension during l1 compared to l2 (Saleeby et al., 1992)Additional detrital records of this type, particularly longitudinal transects that compare forearc to retro-arc records, are likely to provide higher-resolution records of melt variations and greater insights into the evolution of this long-lived, asymmetrical continental and continent-fringing arc system.
+Key words: Low U/Yb, Jurassic, fl uid, Th/U, Yb/Gd, minimal crustal involvement, Saleeby, Additional, detrital records, longitudinal transects, retro-arc records, higher-resolution records, asymmetrical continental, arc system
+Substance: minimal crustal involvement, asymmetrical continental
+Time: Jurassic
+Location: 
+of the McCoy Mountains Formation, southeastern California: A Cretaceous retroarc foreland basin: Geological Society of America Bulletin,Barth, A.P., Wooden, J.L., Howard, K.A., and Richards, J.L., 2008, Late Jurassic plutonism in the southwest U.S
+Key words: McCoy, Mountains, Formation, California, Cretaceous, retroarc foreland basin, Geological, America Bulletin, Barth, A.P., Wooden, J.L., Howard, K.A., Richards, J.L., Late Jurassic, U.S
+Substance: Formation
+Time: Cretaceous, Late Jurassic
+Location: McCoy, Mountains, Formation, Wooden, U.S
+Barth, A.P., Wooden, J.L., Howard, K.A., and Richards, J.L., 2008, Late Jurassic plutonism in the southwest U.SCordillera, in Wright, J.E., and Shervais, J.W., eds., Ophiolites, arcs, and batholiths: Geological Society of America Special Paper 438, p
+Key words: Barth, A.P., Wooden, J.L., Howard, K.A., Richards, J.L., Late Jurassic, U.SCordillera, Wright, J.E., Shervais, J.W., Ophiolites, Geological, America, Paper
+Substance: 
+Time: Late Jurassic
+Location: Wooden, Shervais
+Barth, A.P., Walker, J.D., Wooden, J.L., Riggs, N.R., and Schweickert, R.A., 2011, Birth of the Sierra Nevada magmatic arc: Early Mesozoic plutonism and volcanism in the east-central Sierra Nevada of California: Geosphere, v7, p
+Key words: Barth, A.P., Walker, J.D., Wooden, J.L., Riggs, N.R., Schweickert, R.A., Birth, Sierra Nevada, magmatic arc, Early Mesozoic, Sierra Nevada, California, Geosphere
+Substance: 
+Time: Early Mesozoic
+Location: Sierra
+Fohey-Breting, N.K., Barth, A.P., Wooden, J.L., Mazdab, F.K., Carter, C.A., and Schermer, E.R., 2010, Relationship of voluminous ignimbrites to continental arc plutons: Petrology of Jurassic ignimbrites and contemporaneous plutons in southern California: Journal of Volcanology and Geothermal Research, v189, p
+Key words: Fohey-Breting, N.K., Barth, A.P., Wooden, J.L., Mazdab, F.K., Carter, C.A., Schermer, E.R., Relationship, voluminous ignimbrites, continental arc plutons, Petrology, Jurassic, contemporaneous plutons, California, Volcanology, Geothermal
+Substance: 
+Time: Jurassic
+Location: N.K., Wooden, Mazdab, F.K.
+Grove, M., Jacobson, C.E., Barth, A.P., and Vucic, A., 2003, Temporal and spatial trends of Late Cretaceous–early Tertiary underplating of Pelona and related schist beneath southern California and southwestern Arizona, in Johnson, S.E., et al., eds., Tectonic evolution of northwestern Mexico and the southwestern USA: Geological Society of America Special Paper 374, p381–406.
+Key words: M., Jacobson, C.E., Barth, A.P., Vucic, A., Temporal, spatial trends, Late Cretaceous–early Tertiary, Pelona, California, Arizona, Johnson, S.E., Tectonic, Mexico, USA, Geological, America, Paper
+Substance: 
+Time: Late Cretaceous–early Tertiary
+Location: C.E., Johnson
+Jacobson, C.E., Grove, M., Pedrick, J.N., Barth, A.P., Marsaglia, K.M., Gehrels, G.E., and Nourse, J.A., 2011, Late Cretaceous–early Cenozoic tectonic evolution of the southern California margin inferred from provenance of trench and forearc sediments: Geological Society of America Bulletin, v123, p
+Key words: Jacobson, C.E., M., Pedrick, J.N., Barth, A.P., Marsaglia, K.M., Gehrels, G.E., Nourse, J.A., Late Cretaceous–early Cenozoic, tectonic evolution, California, forearc sediments, Geological, America Bulletin
+Substance: forearc sediments
+Time: Late Cretaceous–early Cenozoic
+Location: Pedrick, Marsaglia, K.M.
+A.P., Paterson, S.R., Memeti, V., and Pignotta, G.S., 2009, Mesozoic magmatism in an upper- to middle-crustal section through the Cordilleran continental margin arc, eastern Transverse Ranges, California, in Miller, R.B., and Snoke, A.W., eds., Crustal cross sections from the western North America Cordillera and elsewhere: Implications for tectonic and petrologic processes: Geological Society of America Special Paper 456, p187–218.
+Key words: A.P., Paterson, S.R., Memeti, V., Pignotta, G.S., Mesozoic, middle-crustal section, Cordilleran, Transverse Ranges, California, Miller, R.B., Snoke, A.W., Crustal, cross sections, America Cordillera, Implications, petrologic processes, Geological, America, Paper
+Substance: middle-crustal section, Crustal, cross sections
+Time: Mesozoic
+Location: Memeti, Pignotta, G.S., R.B., Snoke, North, Cordillera
+Saleeby, J.B., Busby-Spera, C., Oldow, J.S., Dunne, G.C., Wright, J.E., Cowan, D.S., Walker, N.W., and Allmendinger, R.W., 1992, Early Mesozoic tectonic evolution of the western U.SCordillera, in Burchfi el, B.C., et al., eds., The Cordilleran orogen: Conterminous U.S.: Geological Society of America, Geology of North America, v
+Key words: Saleeby, J.B., Busby-Spera, C., Oldow, J.S., Dunne, G.C., Wright, J.E., Cowan, D.S., Walker, N.W., Allmendinger, R.W., Early Mesozoic, tectonic evolution, U.SCordillera, Burchfi, B.C., Cordilleran, Conterminous U.S., Geological, America, Geology, America
+Substance: 
+Time: Early Mesozoic
+Location: Oldow, J.S., Burchfi
+Stone, P., Page, V.M., Hamilton, W., and Howard, K.A., 1987, Cretaceous age of the upper part of the McCoy Mountains Formation, southeastern California and southwestern Arizona, and its tectonic signifi cance: Reconciliation of paleobotanical and paleomagnetic evidence: Geology, v15, p
+Key words: Stone, P., Page, V.M., Hamilton, W., Howard, K.A., Cretaceous, upper part, McCoy, Mountains, Formation, California, Arizona, tectonic signifi cance, Reconciliation, paleomagnetic evidence, Geology
+Substance: Formation
+Time: Cretaceous
+Location: McCoy, Mountains, Formation
+Wooden, J.L., and Miller, D.M., 1990, Chronologic and isotopic framework for Early Proterozoic crustal evolution in the eastern Mojave Desert region, SE California: Journal of Geophysical Research, v95, p
+Key words: Wooden, J.L., Miller, D.M., Chronologic, isotopic framework, Early Proterozoic, crustal evolution, Mojave, Desert region, California, Geophysical
+Substance: crustal evolution, Geophysical
+Time: Early Proterozoic
+Location: Mojave, Desert, SE
+Wright, J.E., and Wyld, S.J., 2007, Alternative tectonic model for Late Jurassic through Early Cretaceous evolution of the Great Valley Group, California, in Cloos, M., et al., eds., Convergent margin tectonics and associated regions: Geological Society of America Special Paper 419, p81–95.
+Key words: Wright, J.E., Wyld, S.J., Alternative, tectonic model, Late Jurassic, Early Cretaceous, Great Valley Group, California, Cloos, M., Convergent, Geological, America, Paper
+Substance: Great Valley Group
+Time: Late Jurassic, Early Cretaceous
+Location: 
+Key words: 
+Substance: 
+Time: 
+Location: 

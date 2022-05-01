@@ -1,0 +1,54 @@
+ABSTRACT: In the Fontainebleau Sand (Oligocene), superposed lenses of sandstone result from a silicification process controlled by the watertable during the recent geomorphologic evolution of the landscapeThe most outstanding feature of these silicified bodies is the contrast they show between the very hard, tightly cemented sandstone and the loose and permeable embedding sand
+Key words: ABSTRACT, Fontainebleau Sand, Oligocene, sandstone result, silicification process, recent geomorphologic evolution
+Substance: Fontainebleau Sand, sandstone result, silicification process
+Time: Oligocene
+Location: 
+The Fontainebleau Sand is of Stampian (Oligocene) age and forms an unit 50 to 80 m thickIt overlies the Argiles Vertes and the Marnes a` Huitres and is overlain by the Calcaire d’Etampes and the Calcaire de Beauce (s.l.)
+Key words: Fontainebleau Sand, Stampian, Oligocene, m thickIt overlies, Argiles Vertes, Marnes, Huitres, Calcaire, d ’, Etampes, Calcaire, Beauce
+Substance: Fontainebleau Sand
+Time: Oligocene
+Location: 
+The strong correlation between the localization of the silicified sandstone and the current geomorphology suggests a relatively recent (Plio–Quaternary) silicification, near the outcrop zonesThe general arrangement of the sandstone in subhorizontal layers also suggests a control on their genesis by groundwater levels (Thiry et al
+Key words: strong correlation, current geomorphology suggests, Plio–Quaternary, outcrop zonesThe general arrangement, subhorizontal layers, groundwater levels, Thiry
+Substance: 
+Time: Plio–Quaternary
+Location: 
+The simulation durations are relatively long but acceptable for the assumption of formation of silicified lenses associated with the downcutting of the valleys during the Plio–QuaternaryWater flow rate is the most critical parameter to fulfil mass balance and duration constraints, as has been shown previously by Canals and Meunier (1995).
+Key words: simulation durations, Plio–QuaternaryWater, flow rate, critical parameter, fulfil mass balance, duration constraints, Canals, Meunier
+Substance: critical parameter
+Time: Plio–QuaternaryWater
+Location: 
+GO¨TZE, J., AND WALTHER, H., 1995, An integrated mineralogical and geochemical study on a silicified Miocene quartz sand: Zentralblatt fur Geologie und Pala¨ontologie, Teil 1, 1/2, p119–129.
+Key words: GO¨TZE, J., AND WALTHER, H., geochemical study, Miocene, quartz sand, Zentralblatt, Geologie, Pala¨ontologie, Teil
+Substance: geochemical study, quartz sand
+Time: Miocene
+Location: 
+JACOB, A.F., 1973, Elongate concretions as paleochannel indicators, Tongue River Formation (Paleocene), North Dakota: Geological Society of America, Bulletin, v84, p
+Key words: JACOB, A.F., Elongate, paleochannel indicators, Tongue, Formation, Paleocene, Dakota, Geological, America, Bulletin
+Substance: paleochannel indicators, Formation
+Time: Paleocene
+Location: 
+JOHNSON, M.R., 1989, Paleogeographic significance of oriented calcareous concretions in the Triassic Katberg Formation, South Africa: Journal of Sedimentary Petrology, v59, p
+Key words: JOHNSON, M.R., Paleogeographic, calcareous concretions, Triassic Katberg Formation, Africa, Sedimentary Petrology
+Substance: Paleogeographic, calcareous concretions, Triassic Katberg Formation, Sedimentary Petrology
+Time: Triassic Katberg Formation
+Location: JOHNSON, Triassic, Katberg, Formation
+KRAISHAN, G.M., REZAEE, M.R., AND WORDEN, R.H., 2000, Significance of trace elements composition of quartz cement as a key to reveal the origin of silica in sandstones: an example from the Cretaceous of the Barrow sub-basin, Western Australia, in Worden, R.H., and Morad, S., eds., Quartz Cemenation in Sandstones, International Association of Sedimentologists, Special Publication 29, p317–331.
+Key words: KRAISHAN, G.M., REZAEE, M.R., AND WORDEN, R.H., Significance, trace elements composition, quartz cement, Cretaceous, Barrow, Australia, Worden, R.H., Morad, S., Quartz Cemenation, Sandstones, International Association, Sedimentologists, Publication
+Substance: trace elements composition, quartz cement, Quartz Cemenation, Sandstones, Sedimentologists
+Time: Cretaceous
+Location: KRAISHAN, WORDEN, Western, Worden
+MCBRIDE, E.F., PICARD, M.D., AND FOLK, R.L., 1994, Oriented concretions, Ionian Coast, Italy: evidence of groundwater flow direction: Journal of Sedimentary Research, vA64, p
+Key words: MCBRIDE, E.F., PICARD, M.D., AND FOLK, R.L., Oriented, Ionian, Italy, groundwater flow direction, Sedimentary
+Substance: Sedimentary
+Time: Ionian
+Location: MCBRIDE, PICARD, Ionian, Coast
+THIRY, M., BERTRAND AYRAULT, M., AND GRISONI, J.C., 1988a, Ground-water silicification and leaching in sands: Example of the Fontainebleau Sand (Oligocene) in the Paris Bbasin: Geological Society of America, Bulletin, v100, p
+Key words: THIRY, M., BERTRAND AYRAULT, M., AND GRISONI, J.C., Ground-water, Example, Fontainebleau Sand, Oligocene, Paris Bbasin, Geological, America, Bulletin
+Substance: Fontainebleau Sand
+Time: Oligocene
+Location: THIRY
+Key words: 
+Substance: 
+Time: 
+Location: 

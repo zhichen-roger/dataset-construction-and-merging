@@ -1,0 +1,574 @@
+Crustal affinities in the Arctic Uralides, northern Russia: significance of detrital zircon ages from Neoproterozoic and Palaeozoic sediments in Novaya Zemlya and Taimyr1Department of Geology and Geochemistry, Stockholm University, 104 05 Stockholm, Sweden 2CASP, University of Cambridge, West Building, 181a Huntingdon Road, Cambridge CB3 0DH, UK
+Key words: Crustal, Arctic Uralides, Russia, detrital zircon ages, Neoproterozoic, Palaeozoic, Novaya Zemlya, Taimyr1Department, Geology, Geochemistry, Stockholm, 104 05 Stockholm, Sweden, Cambridge, West Building, 181a Huntingdon, Cambridge CB3, UK
+Substance: Crustal, detrital zircon ages, Geochemistry
+Time: Neoproterozoic, Taimyr1Department, 104 05 Stockholm, 181a Huntingdon, Cambridge CB3
+Location: Arctic, Uralides, West, Building, Road
+Abstract: U–Pb ion microprobe detrital zircon provenance investigations of pre-Mesozoic sediment samples from southern Novaya Zemlya and northern Taimyr, Arctic Russia, provide new constraints on the tectonic evolution of northern EurasiaSediments from both areas previously assigned a Neoproterozoic age are shown to be Palaeozoic (<500 Ma), changing our understanding of the timing of tectonic events and their regional correlation
+Key words: Abstract, U–Pb, ion microprobe detrital zircon provenance investigations, pre-Mesozoic sediment samples, Novaya Zemlya, Taimyr, Arctic Russia, new constraints, tectonic evolution, EurasiaSediments, Neoproterozoic, Palaeozoic, 500 Ma, tectonic events, regional correlation
+Substance: ion microprobe detrital zircon provenance investigations, pre-Mesozoic sediment samples, EurasiaSediments
+Time: pre-Mesozoic sediment samples, Neoproterozoic, 500 Ma
+Location: Arctic
+Sediments from both areas previously assigned a Neoproterozoic age are shown to be Palaeozoic (<500 Ma), changing our understanding of the timing of tectonic events and their regional correlationSamples from Novaya Zemlya provide an a priori Baltica signature, and dominant cumulative probability age peaks between 610 and 530 Ma are consistent with derivation from Timanide sources
+Key words: Sediments, Neoproterozoic, Palaeozoic, 500 Ma, tectonic events, regional correlationSamples, Novaya Zemlya, Baltica, cumulative probability age peaks, 610 and, 530 Ma, Timanide
+Substance: Sediments, cumulative probability age peaks
+Time: Neoproterozoic, 500 Ma, 610 and, 530 Ma
+Location: 
+These data constrain the timing of deformation, metamorphism and development of an unconformity in southern Novaya Zemlya to a restricted period no earlier than late Cambrian–early Ordovician and at least 50 Ma after the peak Timanian eventThe unconformity on Novaya Zemlya can be correlated in style and timing with an unconformity on Severnaya Zemlya and may record post-Timanian extensional collapse and onset of spreading in the Uralian Ocean.
+Key words: data constrain, Novaya Zemlya, Cambrian–early Ordovician, 50 Ma, Timanian, eventThe unconformity, Novaya Zemlya, Severnaya Zemlya, record post-Timanian extensional collapse, Uralian
+Substance: record post-Timanian extensional collapse
+Time: Cambrian–early Ordovician, 50 Ma
+Location: Uralian, Ocean
+Furthermore, in both Novaya Zemlya and the Taimyr Peninsula, significant deformation events continued into the early Mesozoic, after the typical late Palaeozoic Uralian age (e.gKorago et al
+Key words: Furthermore, Novaya Zemlya, Taimyr Peninsula, significant deformation events, Mesozoic, Palaeozoic Uralian
+Substance: significant deformation events
+Time: Mesozoic
+Location: Taimyr, Peninsula
+As the geodynamic relationship between (and relative significance of) the late Palaeozoic and early Mesozoic deformation in different parts of the Russian Arctic is not yet fully understood, we use the term Uralides in its broadest sense encompassing both late Palaeozoic and early Mesozoic deformationOne approach to help clarify these uncertainties is the study of crustal affinities, which is the main focus of this study.
+Key words: geodynamic relationship, relative significance, Palaeozoic, Mesozoic, different parts, Arctic, Uralides, broadest sense, Palaeozoic, Mesozoic, deformationOne approach, crustal affinities, main focus
+Substance: geodynamic relationship, deformationOne approach, crustal affinities
+Time: Mesozoic
+Location: 
+Most of this accretionary crust now forms the basement to the Mesozoic West Siberian Basin (Fig1) and rocks deformed during Uralian collision with a demonstrable Siberian affinity are not exposed.
+Key words: accretionary crust, Mesozoic, Siberian, Fig1, Uralian, Siberian
+Substance: accretionary crust
+Time: Mesozoic
+Location: 
+In contrast, rocks deformed during Uralian collision of both Baltican and Siberian affinities are exposed north of the Arctic Circle: the margin of Ediacaran to Palaeozoic Baltica is present in the Polar Urals (Puchkov 1997), which are a direct continuation of the Urals further south, whereas the late Neoproterozoic to Palaeozoic margin of Siberia is exposed in southern and central Taimyr (e.gInger et al
+Key words: Uralian, Baltican, Siberian, Arctic, Ediacaran, Palaeozoic Baltica, Polar Urals, Puchkov, direct continuation, Urals, Neoproterozoic, Palaeozoic, Siberia, Taimyr
+Substance: 
+Time: Ediacaran, Neoproterozoic
+Location: Baltican, Palaeozoic, Baltica, Siberia
+Palaeozoic time; in Novaya Zemlya the main deformation is Early Mesozoic; in Taimyr both late Palaeozoic and early Mesozoic deformation is presentThe study areas are indicated by boxes.
+Key words: Palaeozoic, Novaya Zemlya, main deformation, Early Mesozoic, Taimyr, Palaeozoic, Mesozoic, presentThe study areas
+Substance: main deformation
+Time: Early Mesozoic, Mesozoic, presentThe study areas
+Location: 
+Thus, investigations of detrital zircon populations from Neoproterozoic and early Palaeozoic sediments involved in the Uralian orogen can help determine basement affinity, especially when a unique age distribution (‘fingerprint’) can be identifiedDetrital zircon data are presented from samples collected during expeditions to southern Novaya Zemlya and Taimyr, which provide important new constraints on crustal affinities in the Eurasian Arctic
+Key words: detrital zircon populations, Neoproterozoic, Palaeozoic, Uralian, basement affinity, unique age distribution, ‘ fingerprint ’, identifiedDetrital zircon data, Novaya Zemlya, Taimyr, important new constraints, crustal affinities, Eurasian Arctic
+Substance: detrital zircon populations, identifiedDetrital zircon data, crustal affinities
+Time: Neoproterozoic
+Location: 
+Of particular significance in this study are zircons derived from the Timanides, an accretionary orogen along the eastern and northern margin of Baltica of late Neoproterozoic age (Gee & Pease 2004, and references therein)Timanide basement is known to underlie the Timan–Pechora Basin, southern Novaya Zemlya and parts of the southeastern Barents Shelf (Fig
+Key words: particular significance, Timanides, accretionary orogen, Baltica, Neoproterozoic, Gee, Pease, references therein, Timanide, Timan–Pechora, Novaya Zemlya, Barents Shelf, Fig
+Substance: 
+Time: Neoproterozoic
+Location: Basin
+The Novaya Zemlya archipelago contains a predominantly westvergent fold-and-thrust belt that exposes a Precambrian to Early Triassic successionThe fold-and-thrust belt is part of the Uralian orogen but is significantly offset from its general trend (Fig
+Key words: Novaya Zemlya, archipelago contains, westvergent fold-and-thrust belt, Precambrian, Early Triassic, successionThe fold-and-thrust belt, Uralian, general trend, Fig
+Substance: 
+Time: Precambrian, Early Triassic
+Location: 
+The depositional setting and fauna of the Ordovician to Permian stratigraphic record imply that the archipelago was located along the eastern margin of Baltica (present-day orientation) prior to deformation in Triassic time, with platform sediments predominant on the western side of the archipelago and slope deposits on the eastern side (e.gBondarev 1982)
+Key words: depositional setting, Ordovician, Permian, stratigraphic record, Baltica, present-day orientation, Triassic, platform sediments predominant, western side, slope deposits, eastern side
+Substance: depositional setting, stratigraphic record, platform sediments predominant
+Time: Ordovician, Permian, present-day orientation, Triassic
+Location: Permian
+Precambrian to early Palaeozoic basement is exposed at a number of localities along the length of the Novaya Zemlya archipelago (Fig2a)
+Key words: Precambrian, Palaeozoic, Novaya Zemlya, Fig2a
+Substance: 
+Time: Precambrian
+Location: 
+In the southernmost part of the archipelago, folded, cleaved and weakly metamorphosed turbidites containing intrusive bodies of gabbro–dolerite and lamprophyre have been mapped at the base of the succession in the core of a NW–SE-trending early Mesozoic antiformal structure (Fig2b) named the Yuzhnonovozemel’sky, or Southern Novaya Zemlya, Anticlinorium in Russian literature (e.g
+Key words: southernmost part, intrusive bodies, NW–SE-trending, Mesozoic, antiformal structure, Fig2b, Yuzhnonovozemel, ’ sky, Novaya Zemlya, Anticlinorium, Russian
+Substance: antiformal structure
+Time: Mesozoic
+Location: 
+These strata, assigned a Neoproterozoic age on the basis of a varied assemblage of acritarchs and filamentous algae, have been described by Povysheva (1982), Smirnova et al(1982) and Kovaleva et al
+Key words: Neoproterozoic, filamentous algae, Povysheva, Smirnova, Kovaleva
+Substance: filamentous algae
+Time: Neoproterozoic
+Location: 
+(1992) recognized two deformation phases in these basement rocks, and described interference patterns in which approximately east–west-trending folds concentrated along dislocation zones are overprinted by NW–SE-trending early Mesozoic folding that affected all rocks exposed in southern Novaya Zemlya.A prominent angular unconformity terminates the basement turbidite succession and is well exposed at a number of localities in southern Novaya Zemlya (Fig
+Key words: deformation phases, basement rocks, interference patterns, dislocation zones, NW–SE-trending, Mesozoic, Novaya Zemlya.A, prominent angular unconformity terminates, basement turbidite succession, Novaya Zemlya, Fig
+Substance: deformation phases, basement rocks, prominent angular unconformity terminates, basement turbidite succession
+Time: Mesozoic
+Location: 
+Variegated clastic sediments of Early Ordovician age (conglomerates, sandstones, siltstones), with minor fossiliferous calcareous units, overlie the unconformityThese Ordovician units are involved in the NW– SE-trending folds, but are unmetamorphosed and do not contain the east–west structural trends recognized in strata beneath the unconformity
+Key words: Variegated, clastic sediments, Early Ordovician, minor fossiliferous calcareous units, Ordovician, NW– SE-trending, east–west structural trends
+Substance: clastic sediments, minor fossiliferous calcareous units
+Time: Early Ordovician, Ordovician
+Location: 
+These Ordovician units are involved in the NW– SE-trending folds, but are unmetamorphosed and do not contain the east–west structural trends recognized in strata beneath the unconformityThe base of the Ordovician succession is diachronous
+Key words: Ordovician, NW– SE-trending, east–west structural trends, unconformityThe base, Ordovician
+Substance: 
+Time: Ordovician
+Location: 
+The base of the Ordovician succession is diachronousEarly Ordovician sediments have been interpreted to be continental, lagoonal and coastal marine deposits reflecting a diachronous transgression onto a pre-existing fold belt (e.g
+Key words: Ordovician, Ordovician, coastal marine deposits, diachronous transgression, fold belt
+Substance: coastal marine deposits
+Time: Ordovician
+Location: 
+Early Ordovician sediments have been interpreted to be continental, lagoonal and coastal marine deposits reflecting a diachronous transgression onto a pre-existing fold belt (e.gBondarev 1982).
+Key words: Early Ordovician, coastal marine deposits, diachronous transgression, fold belt
+Substance: coastal marine deposits
+Time: Early Ordovician
+Location: 
+The age constraints from existing studies suggest that the time gap represented by the angular unconformity spans at least the Cambrian PeriodOn this basis, it has been assumed that the unconformity is of Timanide age (Korago et al
+Key words: age constraints, time gap, angular unconformity spans, Cambrian PeriodOn, Timanide, Korago
+Substance: angular unconformity spans
+Time: Cambrian PeriodOn
+Location: 
+1992, 2004), generated in response to the orogeny that peaked during Ediacaran time (600–550 Ma) and is well documented to the SWFig
+Key words: Ediacaran, 600–550 Ma, SWFig
+Substance: 
+Time: Ediacaran, 600–550 Ma
+Location: 
+The unconformity (indicated by dotted line) is defined by NE-dipping, greenschist-facies metagreywackes of inferred Precambrian age below (in the background), in contact with vertically dipping oxidized Ordovician sandstone above, which give way to younger shelf carbonates in the foreground (person in foreground circled for scale)Location of sample VP04-020 is shown
+Key words: NE-dipping, greenschist-facies metagreywackes, Precambrian, Ordovician, shelf carbonates, Location, VP04-020
+Substance: greenschist-facies metagreywackes, shelf carbonates
+Time: Precambrian, Ordovician, VP04-020
+Location: 
+Southern Taimyr contains a weakly to unmetamorphosed Ordovician to mid-Carboniferous shallow-marine, carbonate-dominated shelf succession that was deposited on the passive margin of Siberia (Bezzubtsev et al1983; Inger et al
+Key words: Taimyr, Ordovician, mid-Carboniferous shallow-marine, shelf succession, Siberia, Bezzubtsev, Inger
+Substance: mid-Carboniferous shallow-marine
+Time: Ordovician, mid-Carboniferous shallow-marine
+Location: Siberia
+Previously claimed Baltican affinities for Ordovician fossils from this succession (Cocks & Modzalevskaya 1997) have been reassessed and a Siberian affinity is now inferred (Fortey & Cocks 2003), consistent with stratigraphic and structural evidenceThe passive margin succession is overlain by a package of late Carboniferous to early Triassic shallow-marine and continental siliciclastic rocks interleaved with the Permian–Triassic extrusive and intrusive rocks of the Taimyr igneous suite (Inger et al
+Key words: Previously, Baltican, Ordovician, Cocks, Modzalevskaya, Siberian, Fortey, Cocks, structural evidenceThe passive, Carboniferous, Triassic, continental siliciclastic rocks, Permian–Triassic, intrusive rocks, Taimyr, igneous suite, Inger
+Substance: Carboniferous, continental siliciclastic rocks, intrusive rocks
+Time: Ordovician, Carboniferous, Triassic, Permian–Triassic
+Location: Permian
+The passive margin succession is overlain by a package of late Carboniferous to early Triassic shallow-marine and continental siliciclastic rocks interleaved with the Permian–Triassic extrusive and intrusive rocks of the Taimyr igneous suite (Inger et al1999; Walderhaug et al
+Key words: Carboniferous, Triassic, continental siliciclastic rocks, Permian–Triassic, intrusive rocks, Taimyr, igneous suite, Inger, Walderhaug
+Substance: Carboniferous, continental siliciclastic rocks, intrusive rocks
+Time: Carboniferous, Triassic, Permian–Triassic
+Location: Permian
+All of the Triassic and older rocks in southern Taimyr were then folded and faulted during a phase of endTriassic to earliest Jurassic dextral transpression (Inger et al1999; Torsvik & Andersen 2002; Walderhaug et al
+Key words: Triassic, Taimyr, Jurassic, dextral transpression, Inger, Torsvik, Andersen, Walderhaug
+Substance: 
+Time: Triassic, Jurassic
+Location: 
+It contains a weakly to unmetamorphosed latest Neoproterozoic (Vendian) to early Palaeozoic continental margin successionCompared with units of equivalent age in southern Taimyr, central Taimyr strata document more distal, deeperwater depositional environments
+Key words: Neoproterozoic, Vendian, Palaeozoic, equivalent age, Taimyr, Taimyr, strata document, deeperwater depositional environments
+Substance: deeperwater depositional environments
+Time: Neoproterozoic
+Location: 
+1999), and indicates that central–southern Taimyr has been a coherent part of Siberia since at least latest Neoproterozoic time.Unconformably below the continental slope succession is a varied assemblage of Precambrian crystalline units
+Key words: Taimyr, coherent part, Siberia, Neoproterozoic, continental slope succession, Precambrian, crystalline units
+Substance: crystalline units
+Time: Neoproterozoic, Precambrian
+Location: Siberia
+Unconformably below the continental slope succession is a varied assemblage of Precambrian crystalline unitsGreenschistfacies Neoproterozoic volcano-sedimentary successions predominate, including fragmented ophiolites, island-arc volcanic rocks and continental crust (Zonenshain & Natapov 1987; Zonenshain et al
+Key words: Unconformably, continental slope succession, Precambrian, crystalline unitsGreenschistfacies, Neoproterozoic, volcano-sedimentary successions predominate, island-arc volcanic rocks, continental crust, Zonenshain, Natapov, Zonenshain
+Substance: crystalline unitsGreenschistfacies, volcano-sedimentary successions predominate, island-arc volcanic rocks, continental crust
+Time: Precambrian, Neoproterozoic
+Location: 
+Greenschistfacies Neoproterozoic volcano-sedimentary successions predominate, including fragmented ophiolites, island-arc volcanic rocks and continental crust (Zonenshain & Natapov 1987; Zonenshain et al1990; Uflyand et al
+Key words: Greenschistfacies Neoproterozoic, volcano-sedimentary successions predominate, island-arc volcanic rocks, continental crust, Zonenshain, Natapov, Zonenshain, Uflyand
+Substance: Greenschistfacies Neoproterozoic, volcano-sedimentary successions predominate, island-arc volcanic rocks, continental crust
+Time: Greenschistfacies Neoproterozoic
+Location: Zonenshain
+Associated with them are Mesoproterozoic to early Neoproterozoic amphibolite-facies metasedimentary units intruded by c900 Ma granites (Pease et al
+Key words: Mesoproterozoic, Neoproterozoic, amphibolite-facies metasedimentary units, Ma, Pease
+Substance: amphibolite-facies metasedimentary units
+Time: Mesoproterozoic, Neoproterozoic
+Location: 
+It has been demonstrated that the Neoproterozoic volcano-sedimentary successions locally lie unconformably on these higher-grade complexes (Pease et al2001)
+Key words: Neoproterozoic, volcano-sedimentary successions, higher-grade complexes, Pease
+Substance: volcano-sedimentary successions
+Time: Neoproterozoic
+Location: 
+However, metamorphism and granite genesis of early Neoproterozoic (Tonian) age imply that these continental fragments within central Taimyr are unrelated to the Siberian craton (Pease et al2001).
+Key words: granite genesis, Neoproterozoic, Tonian, continental fragments, Taimyr, Siberian, Pease
+Substance: 
+Time: Neoproterozoic, Tonian
+Location: 
+As these metamorphic rocks are overlain by unmetamorphosed latest Neoproterozoic continental slope deposits of Siberian affinity, it can reasonably be assumed that the regional metamorphism records the endPrecambrian accretion of the allochthonous basement of central Taimyr to the Siberian margin.There is no recorded evidence of tectonic activity in central Taimyr between the late Neoproterozoic and mid-Carboniferous, suggesting that, like southern Taimyr, it was part of the stable passive margin of Siberia during this time
+Key words: metamorphic rocks, Neoproterozoic, continental slope deposits, Siberian, regional metamorphism records, endPrecambrian accretion, allochthonous basement, Taimyr, Siberian, tectonic activity, Taimyr, Neoproterozoic, Taimyr, stable passive, Siberia
+Substance: metamorphic rocks, allochthonous basement
+Time: Neoproterozoic, endPrecambrian accretion
+Location: Siberia
+There is no recorded evidence of tectonic activity in central Taimyr between the late Neoproterozoic and mid-Carboniferous, suggesting that, like southern Taimyr, it was part of the stable passive margin of Siberia during this timeCentral Taimyr, however, was involved in the Carboniferous–Permian Uralian orogeny during which compressional tectonism was accompanied by the intrusion of syn- and post-tectonic granitoids (Vernikovsky et al
+Key words: tectonic activity, Taimyr, Neoproterozoic, Taimyr, stable passive, Siberia, Taimyr, Carboniferous–Permian Uralian, compressional tectonism, post-tectonic granitoids, Vernikovsky
+Substance: Carboniferous–Permian Uralian
+Time: Neoproterozoic, Carboniferous–Permian Uralian
+Location: Siberia
+Central Taimyr, however, was involved in the Carboniferous–Permian Uralian orogeny during which compressional tectonism was accompanied by the intrusion of syn- and post-tectonic granitoids (Vernikovsky et al1995; Pease 2001)
+Key words: Taimyr, Carboniferous–Permian Uralian, compressional tectonism, post-tectonic granitoids, Vernikovsky, Pease
+Substance: Carboniferous–Permian Uralian
+Time: Carboniferous–Permian Uralian
+Location: 
+Central Taimyr was also subjected to Early Mesozoic transpression, but the absence of Mesozoic strata in this part of Taimyr makes this deformation phase difficult to isolate from earlier deformation events.Northern Taimyr (Fig
+Key words: Taimyr, Early Mesozoic, Mesozoic, Taimyr, deformation phase, deformation events.Northern, Taimyr, Fig
+Substance: deformation phase, deformation events.Northern
+Time: Early Mesozoic, Mesozoic
+Location: 
+Despite deformation and regional greenschist- to amphibolite-facies metamorphism associated with the late Palaeozoic Uralian orogeny, acritarchs and anabarites have been interpreted to suggest a late Neoproterozoic (Vendian)–Cambrian age (Bezzubtsev et al1986)
+Key words: regional greenschist-, amphibolite-facies metamorphism, Palaeozoic Uralian, Neoproterozoic, Vendian, –Cambrian age, Bezzubtsev
+Substance: regional greenschist-, amphibolite-facies metamorphism
+Time: Neoproterozoic, –Cambrian age
+Location: 
+Local migmatization as a result of later Uralian synto post-tectonic Carboniferous–Permian granitoid plutonism complicates the structure of northern Taimyr sedimentary deposits (Vernikovsky et al1995; Pease 2001)
+Key words: Local migmatization, Uralian, synto post-tectonic, Carboniferous–Permian, granitoid plutonism complicates, Taimyr, sedimentary deposits, Vernikovsky, Pease
+Substance: Carboniferous–Permian, sedimentary deposits
+Time: Carboniferous–Permian
+Location: 
+Hence, the Carboniferous–Permian granitic magmatism is interpreted as ‘stitching’ plutonism that reflects the collision of northern Taimyr with southern–central Taimyr (Zonenshain & Natapov 1987; Zonenshain et al1990; Uflyand et al
+Key words: Hence, Carboniferous–Permian, granitic magmatism, ’ plutonism, Taimyr, Taimyr, Zonenshain, Natapov, Zonenshain, Uflyand
+Substance: Carboniferous–Permian, granitic magmatism
+Time: Carboniferous–Permian
+Location: Zonenshain
+Deformed and weakly metamorphosed strata below the unconformity are mapped as Neoproterozoic (e.gKorago et al
+Key words: Deformed, Neoproterozoic
+Substance: 
+Time: Neoproterozoic
+Location: 
+2004), but the detrital zircon ages show that at least some of the succession is Cambrian or younger (<530 Ma)The existence of exposed Neoproterozoic sediments in southern Novaya Zemlya must now be open to doubt.
+Key words: detrital zircon ages, Cambrian, 530 Ma, Neoproterozoic, Novaya Zemlya
+Substance: detrital zircon ages
+Time: Cambrian, 530 Ma, Neoproterozoic
+Location: 
+The existence of exposed Neoproterozoic sediments in southern Novaya Zemlya must now be open to doubt.The maximum age of strata overlying the unconformity is late Cambrian–early Ordovician (<490 Ma), in good agreement with palaeontological data that indicate a Tremadoc age (Bondarev 1982).
+Key words: Neoproterozoic, Novaya Zemlya, maximum age, Cambrian–early Ordovician, 490 Ma, good agreement, palaeontological data, Tremadoc, Bondarev
+Substance: 
+Time: Neoproterozoic, Cambrian–early Ordovician, 490 Ma
+Location: 
+The maximum age of strata overlying the unconformity is late Cambrian–early Ordovician (<490 Ma), in good agreement with palaeontological data that indicate a Tremadoc age (Bondarev 1982).The angular unconformity between early Ordovician and older rocks in southern Novaya Zemlya has previously been attributed to the Timanide orogeny (Korago et al
+Key words: maximum age, Cambrian–early Ordovician, 490 Ma, good agreement, palaeontological data, Tremadoc, Bondarev, .The angular unconformity, Ordovician, Novaya Zemlya, Timanide, Korago
+Substance: .The angular unconformity
+Time: Cambrian–early Ordovician, 490 Ma, Ordovician
+Location: 
+The angular unconformity between early Ordovician and older rocks in southern Novaya Zemlya has previously been attributed to the Timanide orogeny (Korago et al1992, 2004), which peaked during Ediacaran (mid–late Vendian) time (610– 530 Ma) (Gee & Pease 2004, and references therein)
+Key words: angular unconformity, Ordovician, Novaya Zemlya, Timanide, Korago, Ediacaran, Vendian, 610– 530 Ma, Gee, Pease, references therein
+Substance: angular unconformity
+Time: Ordovician, Ediacaran, 610– 530 Ma
+Location: 
+1992, 2004), which peaked during Ediacaran (mid–late Vendian) time (610– 530 Ma) (Gee & Pease 2004, and references therein)However, the detrital zircon data indicate that the unconformity is of midto late Cambrian age
+Key words: Ediacaran, Vendian, 610– 530 Ma, Gee, Pease, references therein, detrital zircon data, Cambrian
+Substance: detrital zircon data
+Time: Ediacaran, 610– 530 Ma, Cambrian
+Location: 
+However, the detrital zircon data indicate that the unconformity is of midto late Cambrian ageThe potential cause of this unconformity is discussed below.
+Key words: detrital zircon data, Cambrian, ageThe potential
+Substance: detrital zircon data
+Time: Cambrian
+Location: 
+All three samples are supposed to be Neoproterozoic in age (Bezzubtsev et al1983, 1986)
+Key words: Neoproterozoic, Bezzubtsev
+Substance: 
+Time: Neoproterozoic
+Location: 
+Detrital zircon ages, however, consistently indicate a maximum age of less than 450–500 Ma, suggesting that this unit is actually Cambrian–Ordovician, or younger.Given the pre-Caledonian age of the southern Novaya Zemlya samples and their proximity to the Timan–Pechora region and the Baltic Shield, it was assumed that they would provide unequivocal reference data for Baltica and the Timanide orogen
+Key words: Detrital, zircon ages, maximum age, 450–500 Ma, Cambrian–Ordovician, pre-Caledonian age, Novaya Zemlya, Timan–Pechora, Baltic Shield, unequivocal reference data, Baltica, Timanide
+Substance: zircon ages
+Time: 450–500 Ma, Cambrian–Ordovician
+Location: Baltic, Shield
+The detrital zircon results corroborate this assumption, with Timanide ‘fingerprints’ present in all samples and evidence for partial input to early Ordovician sediment from the Baltic ShieldHowever, the detrital zircon data have significantly changed our understanding of the angular unconformity that separates early Ordovician clastic strata from older rocks in southern Novaya Zemlya.
+Key words: detrital zircon results corroborate, Timanide, ‘ fingerprints ’, partial input, Ordovician, Baltic ShieldHowever, detrital zircon data, angular unconformity, Ordovician, clastic strata, Novaya Zemlya
+Substance: detrital zircon results corroborate, detrital zircon data, angular unconformity, clastic strata
+Time: Ordovician
+Location: 
+However, the detrital zircon data have significantly changed our understanding of the angular unconformity that separates early Ordovician clastic strata from older rocks in southern Novaya Zemlya.The lithological associations, petrography and heavy mineral assemblages (Scott, unpubl
+Key words: detrital zircon data, angular unconformity, Ordovician, clastic strata, Novaya Zemlya.The, lithological associations, heavy mineral assemblages, Scott
+Substance: detrital zircon data, angular unconformity, clastic strata, heavy mineral assemblages
+Time: Ordovician
+Location: 
+The previous dating of these strata as Neoproterozoic led to the conclusion that the deformation and weak metamorphism that they exhibit, and the unconformity that terminates the succession, were the consequence of Ediacaran Timanide orogeny (Korago et al1992, 2004; Bogolepova & Gee 2004; Roberts & Olovyanishnikov 2004)
+Key words: Neoproterozoic, weak metamorphism, Ediacaran Timanide, Korago, Bogolepova, Gee, Roberts, Olovyanishnikov
+Substance: 
+Time: Neoproterozoic, Ediacaran Timanide
+Location: 
+It is now clear, however, that the deformation, metamorphism and development of the unconformity are no older than mid-Cambrian (i.eat least 50 Ma after the peak Timanide event), requiring a reassessment of their significance.
+Key words: 50 Ma, Timanide
+Substance: 
+Time: 50 Ma
+Location: 
+The late Neoproterozoic Timanide orogeny was the product of accretionary collision with the eastern and northern margin of Baltica, with the onset of convergence linked to a subduction polarity reversal in the adjacent ocean (e.gScarrow et al
+Key words: Neoproterozoic Timanide, accretionary collision, Baltica, subduction polarity reversal, adjacent ocean
+Substance: 
+Time: Neoproterozoic Timanide
+Location: 
+The logical conclusion of this argument is that ‘Timanide’ accretion to the margin of Baltica continued until mid- to late Cambrian timeIn support of this argument, a significant proportion of the detrital zircons found in the post-unconformity early Ordovician strata of southern Novaya Zemlya yield the same age as the time span represented by the unconformity, suggesting that it represents a significant tectonomagmatic event
+Key words: logical conclusion, Timanide, ’ accretion, Baltica, Cambrian, timeIn support, significant proportion, detrital zircons, Ordovician, Novaya Zemlya, time span, significant tectonomagmatic event
+Substance: detrital zircons
+Time: Cambrian, Ordovician
+Location: 
+In support of this argument, a significant proportion of the detrital zircons found in the post-unconformity early Ordovician strata of southern Novaya Zemlya yield the same age as the time span represented by the unconformity, suggesting that it represents a significant tectonomagmatic eventOur unequivocal evidence of Cambrian compressional deformation below the unconformity in southern Novaya Zemlya suggests that late Cambrian magmatism in the easternmost Timanides could still be the product of a convergent setting
+Key words: significant proportion, detrital zircons, Ordovician, Novaya Zemlya, time span, significant tectonomagmatic eventOur unequivocal evidence, Cambrian, compressional deformation, Novaya Zemlya, Cambrian, Timanides, convergent setting
+Substance: detrital zircons, compressional deformation
+Time: Ordovician, Cambrian
+Location: 
+Our unequivocal evidence of Cambrian compressional deformation below the unconformity in southern Novaya Zemlya suggests that late Cambrian magmatism in the easternmost Timanides could still be the product of a convergent settingFor example, zircon ages of c
+Key words: unequivocal evidence, Cambrian, compressional deformation, Novaya Zemlya, Cambrian, Timanides, convergent settingFor example, zircon ages
+Substance: compressional deformation, zircon ages
+Time: Cambrian
+Location: 
+In offshore areas of the Eurasian Arctic such as the eastern Barents Shelf and the northern Kara Sea Shelf, the nature and affinities of late Precambrian and early Palaeozoic basement are unknownConsequently, there is still much to understand about late Precambrian and early Palaeozoic tectonic evolution and regional palaeogeographical relationships in the Eurasian Arctic
+Key words: offshore areas, Eurasian Arctic, Barents Shelf, Kara, Shelf, Precambrian, Palaeozoic, Precambrian, Palaeozoic, tectonic evolution, regional palaeogeographical relationships, Eurasian Arctic
+Substance: regional palaeogeographical relationships
+Time: Precambrian
+Location: Sea, Shelf
+Consequently, there is still much to understand about late Precambrian and early Palaeozoic tectonic evolution and regional palaeogeographical relationships in the Eurasian ArcticThis investigation provides a robust link between northern Taimyr, Severnaya Zemlya and Novaya Zemlya that can be tied to the Timanian margin of Baltica.
+Key words: Precambrian, Palaeozoic, tectonic evolution, regional palaeogeographical relationships, Eurasian ArcticThis, robust link, Taimyr, Severnaya Zemlya, Novaya Zemlya, Timanian, Baltica
+Substance: regional palaeogeographical relationships
+Time: Precambrian
+Location: 
+Comparison of detrital zircon spectra from Taimyr and southern Novaya Zemlya reveals a striking similarity between the late Neoproterozoic–Cambrian continental slope deposits of northern Taimyr and the turbidites below the unconformity in southern Novaya ZemlyaThe cumulative frequency peaks of 550– 565 Ma that dominate the northern Taimyr samples are consistent with Timanide ages: Granitoids with crystallization ages of 560– 565 Ma (Gee et al
+Key words: Comparison, detrital zircon spectra, Taimyr, Novaya Zemlya, Neoproterozoic–Cambrian, continental slope deposits, Taimyr, Novaya ZemlyaThe, cumulative frequency peaks, 550– 565 Ma, Taimyr, Timanide, Granitoids, crystallization ages, 560– 565 Ma, Gee
+Substance: detrital zircon spectra, cumulative frequency peaks, crystallization ages
+Time: Neoproterozoic–Cambrian, 550– 565 Ma, 560– 565 Ma
+Location: 
+(2007) described a pronounced angular unconformity from October Revolution Island, for which isotopic ages obtained from igneous rocks below and above the unconformity surface tightly constrain its age to the vicinity of the Cambrian–Ordovician boundary, in good agreement with Tremadoc fauna obtained from associated sedimentsRocks beneath the unconformity are strongly folded, implying that a short-lived phase of deformation was responsible for generating the hiatus
+Key words: angular unconformity, October Revolution, isotopic ages, igneous rocks, unconformity surface, Cambrian–Ordovician, good agreement, Tremadoc
+Substance: angular unconformity, igneous rocks
+Time: Cambrian–Ordovician
+Location: 
+These similarities imply that the North Kara block (of which northern Taimyr and Severnaya Zemlya are a part) was a continuation of Baltica in the Cambrian–Ordovician, rather than an independent microplate (see Metelkin et al2005).
+Key words: Kara, Taimyr, Severnaya Zemlya, Baltica, Cambrian–Ordovician, independent microplate, see Metelkin
+Substance: 
+Time: Cambrian–Ordovician
+Location: North
+Changing tectonic regimes around the Cambrian– Ordovician boundaryThe presence of a late Cambrian unconformity in southern Novaya Zemlya truncating older metasediments that have been demonstrably deformed in the Cambrian provides new insights into the Timanide orogen, suggesting that accretion to the margin of Baltica may have continued throughout the Cambrian Period
+Key words: Changing, tectonic regimes, Cambrian– Ordovician, boundaryThe presence, Cambrian, Novaya Zemlya, Cambrian, new insights, Timanide, Baltica, Cambrian Period
+Substance: boundaryThe presence
+Time: Cambrian– Ordovician, Cambrian, Cambrian Period
+Location: 
+The presence of a late Cambrian unconformity in southern Novaya Zemlya truncating older metasediments that have been demonstrably deformed in the Cambrian provides new insights into the Timanide orogen, suggesting that accretion to the margin of Baltica may have continued throughout the Cambrian PeriodIt also provides a potential explanation for the coeval Cambrian– Ordovician boundary unconformity on Severnaya Zemlya
+Key words: Cambrian, Novaya Zemlya, Cambrian, new insights, Timanide, Baltica, Cambrian PeriodIt, potential explanation, Cambrian– Ordovician, boundary unconformity, Severnaya Zemlya
+Substance: boundary unconformity
+Time: Cambrian, Cambrian PeriodIt, Cambrian– Ordovician
+Location: 
+It also provides a potential explanation for the coeval Cambrian– Ordovician boundary unconformity on Severnaya ZemlyaLorenz et al
+Key words: potential explanation, Cambrian– Ordovician, boundary unconformity, Severnaya ZemlyaLorenz
+Substance: boundary unconformity
+Time: Cambrian– Ordovician
+Location: 
+(2007, 2008) referred to the Severnaya Zemlya unconformity as an ‘early Caledonian’ feature and suggested that it reflects far-field stresses coincident with the late Cambrian to early Ordovician (c500–480 Ma) Finnmarkian deformation previously described in the northern Scandinavian Caledonides (Sturt et al
+Key words: Severnaya Zemlya, Caledonian, reflects far-field stresses coincident, Cambrian, Ordovician, Ma, Finnmarkian, Scandinavian Caledonides, Sturt
+Substance: 
+Time: Cambrian, Ordovician
+Location: 
+Observations in southern Novaya Zemlya provide an alternative explanation for the unconformity in Severnaya Zemlya: Cambrian deformation and magmatism are related to a late Timanian accretionary event on the opposing margin of Baltica to the CaledonidesGiven the lack of knowledge regarding basement beneath the Barents Shelf, it is possible that the effects of late Timanian deformation could be widespread throughout this region
+Key words: Observations, Novaya Zemlya, alternative explanation, Severnaya Zemlya, Cambrian, Timanian, accretionary event, Baltica, CaledonidesGiven, Barents Shelf, Timanian
+Substance: 
+Time: Cambrian
+Location: Barents, Shelf
+The late Cambrian to early Ordovician event is also linked with the continental break-up that generated the Uralian OceanIt is well established that the Uralian passive margin of Baltica to the south of Novaya Zemlya developed as a consequence of late Cambrian to early Ordovician rifting (e.g
+Key words: Cambrian, Ordovician, continental break-up, Uralian OceanIt, Uralian, Baltica, Novaya Zemlya, Cambrian, Ordovician
+Substance: 
+Time: Cambrian, Ordovician
+Location: 
+It is well established that the Uralian passive margin of Baltica to the south of Novaya Zemlya developed as a consequence of late Cambrian to early Ordovician rifting (e.gPuchkov 2002, and references therein), which progressed to sea-floor spreading and development of the Uralian Ocean
+Key words: Uralian, Baltica, Novaya Zemlya, Cambrian, Ordovician, references therein, Uralian
+Substance: 
+Time: Cambrian, Ordovician
+Location: Uralian, Ocean
+This late Cambrian to early Ordovician rift– drift transition is penecontemporaneous with the age of the unconformity in southern Novaya Zemlya and Severnaya ZemlyaConsequently, it can be argued that the final Cambrian accretionary event on the Baltica margin recorded in southern Novaya Zemlya was intimately related to the end of the ‘Timanide’ compressional regime, and the subsequent onset of orogenic collapse and continental break-up around the Cambrian–Ordovician boundary was regionally significant
+Key words: Cambrian, Ordovician, rift– drift transition, Novaya Zemlya, Severnaya ZemlyaConsequently, Cambrian, accretionary event, Baltica, Novaya Zemlya, Timanide, ’ compressional regime, subsequent onset, orogenic collapse, continental break-up, Cambrian–Ordovician
+Substance: orogenic collapse
+Time: Cambrian, Ordovician, Cambrian–Ordovician
+Location: 
+Consequently, it can be argued that the final Cambrian accretionary event on the Baltica margin recorded in southern Novaya Zemlya was intimately related to the end of the ‘Timanide’ compressional regime, and the subsequent onset of orogenic collapse and continental break-up around the Cambrian–Ordovician boundary was regionally significantAspects of the post-unconformity geology of southern Novaya Zemlya are consistent with this hypothesis, as follows.
+Key words: Cambrian, accretionary event, Baltica, Novaya Zemlya, Timanide, ’ compressional regime, subsequent onset, orogenic collapse, continental break-up, Cambrian–Ordovician, post-unconformity geology, Novaya Zemlya
+Substance: orogenic collapse
+Time: Cambrian, Cambrian–Ordovician
+Location: 
+Early Ordovician strata above the unconformity in southern Novaya Zemlya accumulated in coastal environments and show significant thickness variationsA late Cambrian to early Ordovician extensional event is the most likely explanation of the differential subsidence, creating the accommodation space for the early Ordovician and subsequent Palaeozoic successions to be deposited and preserved
+Key words: Early Ordovician, Novaya Zemlya, coastal environments, significant thickness variationsA, Cambrian, Ordovician, extensional event, likely explanation, differential subsidence, accommodation space, Ordovician, Palaeozoic
+Substance: 
+Time: Early Ordovician, Cambrian, Ordovician
+Location: 
+A late Cambrian to early Ordovician extensional event is the most likely explanation of the differential subsidence, creating the accommodation space for the early Ordovician and subsequent Palaeozoic successions to be deposited and preservedThis is also consistent with late Cambrian to early Ordovician continental break-up.
+Key words: Cambrian, Ordovician, extensional event, likely explanation, differential subsidence, accommodation space, Ordovician, Palaeozoic, Cambrian, Ordovician, continental break-up
+Substance: 
+Time: Cambrian, Ordovician
+Location: 
+This is also consistent with late Cambrian to early Ordovician continental break-up.The older zircons in the post-unconformity early Ordovician sediments indicate derivation from the Baltic Shield, suggesting that clastic detritus crossed Timan–Pechora and adjacent shelf areas to reach the coastal environments preserved in southern Novaya Zemlya
+Key words: Cambrian, Ordovician, continental break-up.The, Ordovician, Baltic Shield, clastic detritus, Timan–Pechora, adjacent shelf areas, coastal environments, Novaya Zemlya
+Substance: clastic detritus
+Time: Cambrian, Ordovician
+Location: Baltic, Shield
+The older zircons in the post-unconformity early Ordovician sediments indicate derivation from the Baltic Shield, suggesting that clastic detritus crossed Timan–Pechora and adjacent shelf areas to reach the coastal environments preserved in southern Novaya ZemlyaThis is taken as circumstantial evidence that the late Cambrian to early Ordovician extensional event, and associated onset of early Ordovician sedimentation, may have been linked with collapse of the Timanide orogen and is consistent with the later deposition of Ordovician shallowmarine deposits across the Timan–Pechora region (e.g
+Key words: Ordovician, Baltic Shield, clastic detritus, Timan–Pechora, adjacent shelf areas, coastal environments, Novaya ZemlyaThis, circumstantial evidence, Cambrian, Ordovician, extensional event, Ordovician, Timanide, Ordovician, shallowmarine deposits, Timan–Pechora
+Substance: clastic detritus, shallowmarine deposits
+Time: Ordovician, Cambrian
+Location: Baltic, Shield, Timan
+This is taken as circumstantial evidence that the late Cambrian to early Ordovician extensional event, and associated onset of early Ordovician sedimentation, may have been linked with collapse of the Timanide orogen and is consistent with the later deposition of Ordovician shallowmarine deposits across the Timan–Pechora region (e.gLarionova et al
+Key words: circumstantial evidence, Cambrian, Ordovician, extensional event, Ordovician, Timanide, Ordovician, shallowmarine deposits, Timan–Pechora
+Substance: shallowmarine deposits
+Time: Cambrian, Ordovician
+Location: Timan
+It is interesting to speculate on the tectonic implications resulting from correlation of the Cambrian–Ordovician unconformities on Severnaya and Novaya ZemlyaIt not only extends the duration of Timanian orogeny by c
+Key words: tectonic implications, Cambrian–Ordovician, Severnaya, Novaya ZemlyaIt, Timanian
+Substance: 
+Time: Cambrian–Ordovician
+Location: 
+Taimyr is characterized by Late Triassic dextral transpression (Inger et al1999), implying that Severnaya Zemlya and eastern parts of Taimyr may have been translated to some degree
+Key words: Taimyr, Late Triassic, dextral transpression, Inger, Severnaya Zemlya, eastern parts, Taimyr
+Substance: 
+Time: Late Triassic
+Location: 
+Although further study of these early Palaeozoic relationships is required, a picture of complex Neoproterozoic to early Palaeozoic accretionary and rifting events around the margins of Baltica is emerging that raises important questions regarding the nature, extent and timing of amalgamation of basement elements beneath the RussianDeformed and weakly metamorphosed turbidites derived from a juvenile arc-related source are unconformably overlain by an unmetamorphosed Ordovician clastic–carbonate succession in southern Novaya Zemlya
+Key words: Palaeozoic, Neoproterozoic, Palaeozoic, Baltica, important questions, basement elements, RussianDeformed, Ordovician, clastic–carbonate succession, Novaya Zemlya
+Substance: clastic–carbonate succession
+Time: Neoproterozoic, Ordovician
+Location: Novaya, Zemlya
+Deformed and weakly metamorphosed turbidites derived from a juvenile arc-related source are unconformably overlain by an unmetamorphosed Ordovician clastic–carbonate succession in southern Novaya ZemlyaDetrital zircon ages demonstrate that the turbidites beneath the unconformity are Cambrian, not Neoproterozoic as has previously been suggested, and that the age of the unconformity is Late Cambrian to Early Ordovician
+Key words: Deformed, Ordovician, clastic–carbonate succession, Novaya ZemlyaDetrital, zircon ages, Cambrian, Neoproterozoic, Late Cambrian, Early Ordovician
+Substance: clastic–carbonate succession, zircon ages
+Time: Ordovician, Cambrian, Neoproterozoic, Late Cambrian, Early Ordovician
+Location: 
+Detrital zircon ages demonstrate that the turbidites beneath the unconformity are Cambrian, not Neoproterozoic as has previously been suggested, and that the age of the unconformity is Late Cambrian to Early OrdovicianStrata above and below the unconformity preserve a unique Timanide ‘fingerprint’ and thus confirm a Baltica provenance.
+Key words: Detrital, zircon ages, Cambrian, Neoproterozoic, Late Cambrian, Early OrdovicianStrata, Timanide, ‘ fingerprint ’, Baltica
+Substance: zircon ages
+Time: Cambrian, Neoproterozoic, Late Cambrian, Early OrdovicianStrata
+Location: 
+The deposition of early Ordovician strata unconformably upon folded and metamorphosed Cambrian strata in southern Novaya Zemlya brackets a relatively short interval for deformation and exhumationA comparable unconformity has been reported from the Severnaya Zemlya archipelago NE of Taimyr
+Key words: Ordovician, Cambrian, Novaya Zemlya, short interval, comparable unconformity, Severnaya Zemlya, archipelago NE, Taimyr
+Substance: comparable unconformity
+Time: Ordovician, Cambrian
+Location: 
+Severnaya Zemlya is also part of the Kara block and the similarity of the late Cambrian to early Ordovician unconformity further strengthens the argument that the Kara block was part of Baltica.The late Cambrian to early Ordovician unconformity appears to have regional significance
+Key words: Severnaya Zemlya, Kara, Cambrian, Ordovician, Kara, Baltica.The, Cambrian, Ordovician, regional significance
+Substance: 
+Time: Cambrian, Ordovician
+Location: 
+The late Cambrian to early Ordovician unconformity appears to have regional significanceIt is interpreted to reflect the cessation of Timanian convergence and ultimate collapse of the orogen, which affected a greater area than previously recognized
+Key words: Cambrian, Ordovician, regional significanceIt, Timanian, ultimate collapse
+Substance: ultimate collapse
+Time: Cambrian, Ordovician
+Location: 
+Deformation related to Timanian convergence probably continued into late Cambrian time, extending duration of orogeny by about 50 Ma, and was followed by a transition to an extensional regime as the Uralian Ocean began to open in the Ordovician.Without the logistical and financial assistance of the Swedish Polar Research Secretariat, fieldwork in Taimyr would not have been possible
+Key words: Deformation, Timanian, Cambrian, 50 Ma, extensional regime, Uralian, Ordovician.Without, financial assistance, Swedish Polar, Research Secretariat, Taimyr
+Substance: Deformation
+Time: Cambrian, 50 Ma, Ordovician.Without
+Location: Uralian, Ocean
+(eds) The Neoproterozoic Timanide Orogen of Eastern BalticaGeological Society, London, Memoirs, 30, 145–157.
+Key words: Neoproterozoic Timanide Orogen, BalticaGeological, London, Memoirs
+Substance: 
+Time: Neoproterozoic Timanide Orogen
+Location: 
+Mountain Building in the Uralides, Pangea to the PresentAmerican Geophysical Union, Geophysical Monographs, 132.
+Key words: Mountain, Uralides, Pangea, PresentAmerican Geophysical, Geophysical Monographs
+Substance: PresentAmerican Geophysical, Geophysical Monographs
+Time: PresentAmerican Geophysical
+Location: Uralides
+Late Ordovician brachiopods from Taimyr, Arctic Russia, and their paleogeographical significancePaleontology, 40, 1061–1093.
+Key words: Late Ordovician, Taimyr, Arctic Russia, paleogeographical significancePaleontology
+Substance: paleogeographical significancePaleontology
+Time: Late Ordovician
+Location: 
+Paleontological evidence bearing on global Ordovician–Silurian continental reconstructionsEarth-Science Reviews, 61, 245–307.
+Key words: Paleontological, Ordovician–Silurian, continental reconstructionsEarth-Science, Reviews
+Substance: 
+Time: Ordovician–Silurian
+Location: 
+The Neoproterozoic Timanide Orogen of Eastern BalticaGeological Society, London, Memoirs, 30.
+Key words: Neoproterozoic Timanide Orogen, BalticaGeological, London, Memoirs
+Substance: 
+Time: Neoproterozoic Timanide Orogen
+Location: 
+(eds) The Neoproterozoic Timanide Orogen of Eastern BalticaGeological Society, London, Memoirs, 30, 87–105.
+Key words: Neoproterozoic Timanide Orogen, BalticaGeological, London, Memoirs
+Substance: 
+Time: Neoproterozoic Timanide Orogen
+Location: 
+Granitic magmatism of Grenvillian and late Neoproterozoic age in Finnmark, Arctic Norway— constraining pre-Scandian deformation in the Kalak Nappe ComplexPrecambrian Research, 145, 24–52.
+Key words: Granitic, Grenvillian, Neoproterozoic, Finnmark, Arctic Norway—, pre-Scandian deformation, Kalak Nappe ComplexPrecambrian
+Substance: Granitic, pre-Scandian deformation
+Time: Neoproterozoic, Kalak Nappe ComplexPrecambrian
+Location: Finnmark
+Precambrian Research, 145, 24–52.Korago, E.A., Kovaleva, G.N., Il’in, V.F
+Key words: Precambrian, E.A., Kovaleva, G.N., Il, V.F
+Substance: 
+Time: Precambrian
+Location: E.A.
+The Precambrian rocks of Novaya ZemlyaIn: Gee, D.G
+Key words: Precambrian, Novaya ZemlyaIn, Gee, D.G
+Substance: 
+Time: Precambrian
+Location: 
+(eds) The Neoproterozoic Timanide Orogen of Eastern BalticaGeological Society, London, Memoirs, 30, 135–143.
+Key words: Neoproterozoic Timanide Orogen, BalticaGeological, London, Memoirs
+Substance: 
+Time: Neoproterozoic Timanide Orogen
+Location: 
+Paleozoic history of the Kara microcontinent and its relation to Siberia and Baltica: paleomagnetism, paleogeography and tectonicsTectonophysics, 398, 225–243.
+Key words: Paleozoic, Kara, Siberia, Baltica
+Substance: 
+Time: Paleozoic
+Location: Siberia
+Neoproterozoic island arc magmatism of northern TaimyrIn: Scott, R
+Key words: Neoproterozoic, island arc magmatism, TaimyrIn, Scott, R
+Substance: 
+Time: Neoproterozoic
+Location: 
+Baltica in the Cryogenian, 850– 630 MaPrecambrian Research, 160, 48–65.
+Key words: Baltica, Cryogenian, 850– 630 MaPrecambrian
+Substance: 
+Time: Cryogenian, 850– 630 MaPrecambrian
+Location: 
+Precambrian Research, 160, 48–65.Povysheva, L.G
+Key words: Precambrian, L.G
+Substance: 
+Time: Precambrian
+Location: 
+Paleozoic evolution of the east European continental margin involved in the Uralide OrogenyIn: Brown, D., Juhlin, C
+Key words: Paleozoic, European continental, Uralide OrogenyIn, Brown, D., Juhlin
+Substance: 
+Time: Paleozoic
+Location: 
+(eds) Mountain Building in the Uralides: Pangea to PresentAmerican Geophysical Union, Geophysical Monographs, 132, 9–31.
+Key words: Mountain, Uralides, Pangea, PresentAmerican Geophysical, Geophysical Monographs
+Substance: PresentAmerican Geophysical, Geophysical Monographs
+Time: PresentAmerican Geophysical
+Location: Mountain, Building
+(eds) The Neoproterozoic Timanide Orogen of Eastern BalticaGeological Society, London, Memoirs, 30, 47–57.
+Key words: Neoproterozoic Timanide Orogen, BalticaGeological, London, Memoirs
+Substance: 
+Time: Neoproterozoic Timanide Orogen
+Location: 
+The late Neoproterozoic Enganepe ophiolite, Polar Urals, Russia: an extension of the Cadomian arc? Precambrian Research, 110, 255–275.Sengo¨r, A., Natal’in, B
+Key words: Neoproterozoic Enganepe, Polar Urals, Russia, Cadomian, Precambrian, A., Natal
+Substance: 
+Time: Neoproterozoic Enganepe, Precambrian
+Location: 
+Evolution of the Altaid tectonic collage and Paleozoic crustal growth in EurasiaNature, 364, 299–307.
+Key words: Evolution, Altaid, tectonic collage, Paleozoic, crustal growth, EurasiaNature
+Substance: crustal growth
+Time: Paleozoic
+Location: 
+Classification of Precambrian deposits of Yuzhnyi island on the Novaya ZemlyaIn: Microfossils of the polar areas and their stratigraphic importance
+Key words: Classification, Precambrian, Yuzhnyi, Novaya ZemlyaIn, Microfossils, polar areas, stratigraphic importance
+Substance: Microfossils, stratigraphic importance
+Time: Precambrian
+Location: Yuzhnyi
+Riphean and Paleozoic metamorphic complexes of the Taimyr foldbelt: Condition of formationPetrol, 3, 55–72.
+Key words: Riphean, Paleozoic, metamorphic complexes, Taimyr, Condition
+Substance: metamorphic complexes
+Time: Paleozoic
+Location: 
+Central Taimyr accretionary belt (Arctic Asia): Meso-Neoproterozoic tectonic evolution and Rodinia breakupPrecambrian Research, 110, 127–141.
+Key words: Taimyr, accretionary belt, Arctic Asia, Meso-Neoproterozoic, tectonic evolution, Rodinia, breakupPrecambrian Research
+Substance: 
+Time: Meso-Neoproterozoic, breakupPrecambrian Research
+Location: Arctic
+Precambrian Research, 110, 127–141.Vernikovsky, V., Neimark, L., Ponomarchuk, V., Vernikovskaya, A., Kireev, A
+Key words: Precambrian, V., Neimark, L., Ponomarchuk, V., Vernikovskaya, A., Kireev
+Substance: 
+Time: Precambrian
+Location: Ponomarchuk, Vernikovskaya
+Neoproterozoic orogeny along the margins of SiberiaIn: Gee, D.G
+Key words: Neoproterozoic, SiberiaIn, Gee, D.G
+Substance: 
+Time: Neoproterozoic
+Location: 
+(eds) The Neoproterozoic Timanide Orogen of Eastern BalticaGeological Society, London, Memoirs, 30, 233–248.
+Key words: Neoproterozoic Timanide Orogen, BalticaGeological, London, Memoirs
+Substance: 
+Time: Neoproterozoic Timanide Orogen
+Location: 
+Palaeomagnetism and 40Ar/39Ar geochronology from the South Taimyr igneous complex, Arctic Russia: a Middle–Late Triassic magnetic pulse after Siberian flood-basalt volcanismGeophysical Journal International, 163, 501–517.
+Key words: Palaeomagnetism, Taimyr, Arctic Russia, Middle–Late Triassic, magnetic pulse, Siberian, flood-basalt volcanismGeophysical Journal
+Substance: flood-basalt volcanismGeophysical Journal
+Time: Middle–Late Triassic
+Location: 
+Hercynian, Pan-African, Proterozoic and Archean ion-microprobe zircon ages for a Betic–Rif core complex, Alpinebelt W Mediterranean—consequences for its P–T–t path
+Key words: Hercynian, Pan-African, Proterozoic, Archean, ion-microprobe zircon ages, Betic–Rif, Alpinebelt, Mediterranean—consequences, P–T–t
+Substance: ion-microprobe zircon ages
+Time: Proterozoic, Archean
+Location: 
+Key words: 
+Substance: 
+Time: 
+Location: 

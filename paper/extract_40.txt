@@ -1,0 +1,504 @@
+Detrital zircon geochronology and geochemistry of Jurassic sandstones in the Xiongcun district, southern Lhasa subterrane, Tibet, China: implications for provenance and tectonic settingX I N G H A I L A N G ∗‡, D O N G L I U § †, Y U L I N D E N G ∗, J U X I N G TA N G ¶ , X U H U I WA N G ∗, Z O N G YAO YA N G | | , Z H I W E I C U I ∗, YO N G X I N F E N G ∗, Q I N G Y I N ∗, F U W E I X I E ¶ , YO N G H UA N G # & J I N S H U Z H A N G ∗∗
+Key words: Detrital, zircon geochronology, Jurassic, Xiongcun, Lhasa, Tibet, China, tectonic settingX, N G H, N G, D, N G, U, § †, Y U, N D E N G, J U X, N G TA N G, X U H U, WA N G, Z, N G YAO YA N G, | |, Z H, E, U, YO N G X, N, E N G, Q, N G Y, N, U, E, X, E, YO N G H UA N G, J, N, H U Z H, N G
+Substance: zircon geochronology
+Time: Jurassic
+Location: Xiongcun, Lhasa
+Abstract – Jurassic sandstones in the Xiongcun porphyry copper–gold district, southern Lhasa subterrane, Tibet, China were analysed for petrography, major oxides and trace elements, as well as detrital zircon U–Pb and Hf isotopes, to infer their depositional age, provenance, intensity of source-rock palaeo-weathering and depositional tectonic settingThis new information provides important evidence to constrain the tectonic evolution of the southern Lhasa subterrane during the Late Triassic – Jurassic period
+Key words: Abstract, Jurassic, Xiongcun, porphyry copper–gold district, Lhasa, Tibet, China, major oxides, trace elements, detrital zircon, U–Pb, Hf, depositional age, depositional tectonic settingThis, new information, important evidence, tectonic evolution, Lhasa, Late Triassic, Jurassic
+Substance: major oxides, trace elements, detrital zircon, depositional age, depositional tectonic settingThis, new information
+Time: Jurassic, Late Triassic
+Location: Lhasa
+This new information provides important evidence to constrain the tectonic evolution of the southern Lhasa subterrane during the Late Triassic – Jurassic periodThe sandstones are exposed in the lower and upper sections of the Xiongcun Formation
+Key words: new information, important evidence, tectonic evolution, Lhasa, Late Triassic, Jurassic, periodThe sandstones, upper sections, Xiongcun Formation
+Substance: new information, periodThe sandstones, Xiongcun Formation
+Time: Late Triassic, Jurassic
+Location: Lhasa
+The detrital zircon ages (161–243 Ma) and εHf(t) values (+10.5 to +16.2) further constrain the sandstone provenance as subduction-related Triassic–Jurassic felsic and intermediate igneous rocks from the southern Lhasa subterraneA tectonic discrimination method based on geochemical data of the sandstones, as well as detrital zircon ages from sandstones, reveals that the sandstones were most likely deposited in an oceanic island-arc setting
+Key words: detrital zircon ages, 161–243 Ma, sandstone provenance, Triassic–Jurassic, intermediate igneous rocks, Lhasa, subterraneA tectonic discrimination method, geochemical data, detrital zircon ages, oceanic island-arc setting
+Substance: detrital zircon ages, sandstone provenance, intermediate igneous rocks, geochemical data
+Time: 161–243 Ma, Triassic–Jurassic
+Location: Lhasa
+These results support the hypothesis that the tectonic background of the southern Lhasa subterrane was an oceanic island-arc setting, rather than a continental island-arc setting, during the Late Triassic – Jurassic period.Keywords: Jurassic, sandstone, detrital zircons, geochemistry, Lhasa terrane
+Key words: results support, tectonic background, Lhasa, oceanic island-arc setting, continental island-arc setting, Late Triassic, Jurassic, Jurassic, detrital zircons, Lhasa
+Substance: detrital zircons
+Time: Late Triassic, Jurassic
+Location: Lhasa
+Keywords: Jurassic, sandstone, detrital zircons, geochemistry, Lhasa terraneSandstones have been effectively used to constrain provenance and identify ancient tectonic settings (e.g
+Key words: Keywords, Jurassic, detrital zircons, Lhasa, constrain provenance, ancient tectonic settings
+Substance: detrital zircons
+Time: Jurassic
+Location: Lhasa
+1b) has formed as a result of the tectonic evolution from the subduction of the Neo-Tethys oceanic slab that was initiated during Late Triassic time or even earlier (Mo et al2005b; Chu et al
+Key words: tectonic evolution, Neo-Tethys, oceanic slab, Late Triassic, Mo, Chu
+Substance: 
+Time: Late Triassic
+Location: 
+2016b), to the Indian–Asian continental collision which began during Paleocene time (c65–50 Ma) (Yin & Harrison, 2000; Mo et al
+Key words: Indian–Asian, continental collision, Paleocene, Ma, Yin, Harrison, Mo
+Substance: 
+Time: Paleocene
+Location: 
+Previous investigations of the southern Lhasa subterrane have focused on the initial timing of the India–Asia collision and the Cretaceous–Cenozoic magmatism and sedimentation (e.gYin & Harrison, 2000; Mo et al
+Key words: Previous, Lhasa, initial timing, India–Asia, Cretaceous–Cenozoic, Harrison, Mo
+Substance: 
+Time: Cretaceous–Cenozoic
+Location: Lhasa
+By contrast, the Late Triassic – Jurassic tectonic evolution of the southern Lhasa subterrane is relatively poorly understood and even a controversial subjectOver the past few years, some studies have reported that the geological setting of the southern Lhasa subterrane was a continental island-arc setting during the Late Triassic– Jurassic period (e.g
+Key words: Late Triassic, Jurassic, tectonic evolution, Lhasa, controversial subjectOver, geological setting, Lhasa, continental island-arc setting, Late Triassic– Jurassic
+Substance: 
+Time: Late Triassic, Jurassic, Late Triassic– Jurassic
+Location: Lhasa
+Over the past few years, some studies have reported that the geological setting of the southern Lhasa subterrane was a continental island-arc setting during the Late Triassic– Jurassic period (e.gYang et al
+Key words: geological setting, Lhasa, continental island-arc setting, Late Triassic– Jurassic
+Substance: 
+Time: Late Triassic– Jurassic
+Location: Lhasa
+To determine the early Mesozoic tectonic evolution of the southern Lhasa subterrane, most researchers have focused on the geochemistry and geochronology of the Upper Triassic – Jurassic igneous rocks distributed in the southern Lhasa subterrane; however, contemporaneous sedimentary rocks were not consideredSedimentary rocks can provide effective information with which to constrain the ancient tectonic setting, and it is also a far more reliable guide to tectonic setting than the compositions of the volcanic rocks themselves (Li et al
+Key words: Mesozoic, tectonic evolution, Lhasa, Upper Triassic, Jurassic, igneous rocks, Lhasa, contemporaneous sedimentary rocks, consideredSedimentary rocks, effective information, ancient tectonic setting, tectonic setting, volcanic rocks, Li
+Substance: igneous rocks, contemporaneous sedimentary rocks, consideredSedimentary rocks, effective information, volcanic rocks
+Time: Mesozoic, Upper Triassic, Jurassic
+Location: Lhasa
+We therefore present in this paper the petrology, geochemical composition, detrital zircon U–Pb age and Lu–Hf isotopes of sandstones from the Lower–Middle Jurassic Xiongcun Formation within the southern Lhasa subterrane to constrain their depositional age and to deduce provenance and tectonic settingThe results provide additional information for reconstructing the tectonic evolution of the southern Lhasa subterrane during the Late Triassic – Jurassic period.
+Key words: geochemical composition, detrital zircon, U–Pb, Lu–Hf, Lower–Middle Jurassic Xiongcun Formation, Lhasa, depositional age, deduce provenance, tectonic settingThe results, additional information, tectonic evolution, Lhasa, Late Triassic, Jurassic
+Substance: geochemical composition, detrital zircon, Lower–Middle Jurassic Xiongcun Formation, depositional age, additional information
+Time: Lower–Middle Jurassic Xiongcun Formation, Late Triassic, Jurassic
+Location: Lhasa
+The results provide additional information for reconstructing the tectonic evolution of the southern Lhasa subterrane during the Late Triassic – Jurassic period.The Lhasa terrane is bound to the north by the Banggong–Nujiang Suture Zone (BNSZ) and to the south by the Yarlung–Zangbo Suture Zone (YZSZ; Fig
+Key words: additional information, tectonic evolution, Lhasa, Late Triassic, Jurassic, Lhasa, Banggong–Nujiang Suture, BNSZ, Yarlung–Zangbo Suture, YZSZ, Fig
+Substance: additional information
+Time: Late Triassic, Jurassic
+Location: Lhasa, Banggong, Yarlung
+In the southern Lhasa subterrane, the sedimentary cover is limited and is mainly of the Lower Jurassic – Tertiary volcanic-sedimentary sequences (Mo et al2005b; Pan et al
+Key words: Lhasa, Lower Jurassic, Tertiary, volcanic-sedimentary sequences, Mo, Pan
+Substance: volcanic-sedimentary sequences
+Time: Lower Jurassic
+Location: Lhasa
+The Jurassic–Cretaceous volcanic-sedimentary sequences primarily includes the Lower–Middle Jurassic Yeba and Xiongcun formations as well as the Lower Jurassic – Lower Cretaceous Sangri Group (Fig1c; Pan et al
+Key words: Jurassic–Cretaceous, volcanic-sedimentary sequences, Lower–Middle Jurassic Yeba, Xiongcun, Lower Jurassic, Lower Cretaceous Sangri, Fig1c, Pan
+Substance: volcanic-sedimentary sequences
+Time: Jurassic–Cretaceous, Lower–Middle Jurassic Yeba, Lower Jurassic, Lower Cretaceous Sangri
+Location: 
+The Tertiary volcanic-sedimentary sequence is predominantly the Paleocene–Eocene Linzizong volcanic succession, which consists of the andesitic lower Dianzhong Formation, dacitic middle Nianbo Formation and rhyolitic upper Pana Formation (Mo et al2003; Lee et al
+Key words: Tertiary, volcanic-sedimentary sequence, Paleocene–Eocene Linzizong, volcanic succession, Dianzhong Formation, dacitic middle, Nianbo Formation, Pana Formation, Mo, Lee
+Substance: volcanic-sedimentary sequence, Dianzhong Formation, Nianbo Formation, Pana Formation
+Time: Paleocene–Eocene Linzizong
+Location: 
+The Late Triassic–Jurassic and Cretaceous arc volcanic rocks, granitoid intrusions, and porphyries in the southern Lhasa subterrane were formed in a subduction geologic setting (Fig1c; Chu et al
+Key words: Late Triassic–Jurassic, Cretaceous, arc volcanic rocks, granitoid intrusions, Lhasa, subduction geologic setting, Fig1c, Chu
+Substance: arc volcanic rocks
+Time: Late Triassic–Jurassic, Cretaceous
+Location: Lhasa
+The Paleocene–Eocene Linzizong volcanism, voluminous granitoid batholiths and porphyries formed in a continental collisional geological setting (Mo et al2005b, 2008; Chu et al
+Key words: Paleocene–Eocene Linzizong, voluminous granitoid batholiths, continental collisional geological setting, Mo, Chu
+Substance: 
+Time: Paleocene–Eocene Linzizong
+Location: 
+The Miocene intrusions, which formed in a post-collisional geological setting and have an adakitelike affinity, were commonly emplaced as small stocks and/or dykes in the southern Lhasa subterrane (Hou et al2004; Chung et al
+Key words: Miocene, post-collisional geological setting, adakitelike affinity, small stocks and/or dykes, Lhasa, Hou, Chung
+Substance: 
+Time: Miocene
+Location: Lhasa
+The strata exposed in the Xiongcun district belong to the Lower–Middle Jurassic Xiongcun Formation, which are mainly exposed near the Xiongcun village, Xietongmen County, southern Lhasa subterrane (Fig1)
+Key words: Xiongcun, Lower–Middle Jurassic Xiongcun Formation, Xiongcun, Xietongmen, Lhasa, Fig1
+Substance: Lower–Middle Jurassic Xiongcun Formation
+Time: Lower–Middle Jurassic Xiongcun Formation
+Location: Xiongcun, village, Xietongmen, County, Lhasa
+The intrusive rocks in the Xiongcun district are of Jurassic and Eocene age (Fig2a; Lang et al
+Key words: intrusive rocks, Xiongcun, Jurassic, Eocene, Fig2a, Lang
+Substance: intrusive rocks
+Time: Jurassic, Eocene
+Location: Xiongcun
+The Jurassic intrusions include Early Jurassic quartz diorite porphyry, Early–Middle Jurassic quartz diorite porphyry, Middle Jurassic quartz diorite porphyry and diabase dykes, and Late Jurassic gabbroThe Eocene intrusions include biotite granodiorite, quartz diorite, granitic aplite dykes and lamprophyre dykes
+Key words: Jurassic, include Early Jurassic, quartz diorite porphyry, Early–Middle Jurassic, quartz diorite porphyry, Jurassic, quartz diorite porphyry, diabase dykes, Late Jurassic, Eocene, biotite granodiorite, quartz diorite, granitic aplite dykes, lamprophyre dykes
+Substance: quartz diorite porphyry, quartz diorite, granitic aplite dykes
+Time: Jurassic, include Early Jurassic, Early–Middle Jurassic, Late Jurassic, Eocene
+Location: 
+The Eocene intrusions include biotite granodiorite, quartz diorite, granitic aplite dykes and lamprophyre dykesThree porphyry copper–gold deposits (No
+Key words: Eocene, biotite granodiorite, quartz diorite, granitic aplite dykes, lamprophyre dykesThree porphyry copper–gold deposits
+Substance: quartz diorite, granitic aplite dykes
+Time: Eocene
+Location: 
+The mineralization was hosted in the Jurassic porphyries and the surrounding contemporary volcanic rocks (Tafti et al2009, 2014; Lang et al
+Key words: Jurassic, contemporary volcanic rocks, Tafti, Lang
+Substance: contemporary volcanic rocks
+Time: Jurassic
+Location: 
+1 deposit is associated with the Middle Jurassic quartz diorite porphyry and formed at c161.5 ± 2.7 Ma (Lang et al
+Key words: Jurassic, quartz diorite porphyry, ± 2.7, Ma, Lang
+Substance: quartz diorite porphyry
+Time: Jurassic, ± 2.7
+Location: 
+2 deposit is associated with the Early Jurassic quartz diorite porphyry and formed at 174.4 ± 1.6 Ma (Lang et al2014); and the No
+Key words: Early Jurassic, quartz diorite porphyry, 174.4 ±, 1.6 Ma, Lang
+Substance: quartz diorite porphyry
+Time: Early Jurassic, 174.4 ±, 1.6 Ma
+Location: 
+The whole-rock major- and trace-element concentrations of Jurassic sandstones in the Xiongcun district are listed in Table 2.As shown in Table 2, it is apparent that the sandstone samples show moderate SiO2 contents (53.27–
+Key words: whole-rock major-, trace-element concentrations, Jurassic, Xiongcun, Table, Table, sandstone samples, SiO2
+Substance: whole-rock major-, sandstone samples
+Time: Jurassic, SiO2
+Location: Xiongcun
+The Jurassic sandstones in the Xiongcun district exhibit similar REE compositions, with total REE contents ranging over 59.02–102.10 ppm (Table 2)The chondrite-normalized REE patterns (Fig
+Key words: Jurassic, Xiongcun, district exhibit, REE, REE, Table, REE, Fig
+Substance: 
+Time: Jurassic
+Location: Xiongcun
+The post-Archean average Australian shale (PAAS) -normalized REE patterns are widely used in the study of sedimentary rocks (Bhatia, 1985; Khan, Dar & Khan, 2012; Kurian et al2013)
+Key words: post-Archean average, Australian, PAAS, REE, sedimentary rocks, Bhatia, Khan, Dar, Khan, Kurian
+Substance: sedimentary rocks
+Time: post-Archean average
+Location: 
+(Colour online) (a) Chondrite (after Sun & McDonough, 1989) and (b) post-Archean average Australian shale (PAAS) (after Taylor & McLennan, 1985) -normalized REE discriminatory plots for the sandstones in the Xiongcun FormationSandstone data of oceanic island arc, continental island arc, andean type and passive margin are from Bhatia (1985).
+Key words: Colour, Chondrite, Sun, McDonough, post-Archean average, Australian, PAAS, Taylor, McLennan, REE, discriminatory plots, Xiongcun FormationSandstone, oceanic island arc, continental island arc, andean type, Bhatia
+Substance: Xiongcun FormationSandstone
+Time: post-Archean average
+Location: 
+3); the lower section of Xiongcun Formation therefore probably formed during the Early Jurassic periodFor the upper section of Xiongcun Formation, Tang et al
+Key words: Xiongcun Formation, Early Jurassic, upper section, Xiongcun Formation, Tang
+Substance: Xiongcun Formation
+Time: Early Jurassic
+Location: Xiongcun, Formation
+According to the age of the diabase dykes, we propose that the upper section of Xiongcun Formation probably formed during Middle Jurassic timeIn summary, we interpret that the Xiongcun Formation formed during the Early–Middle Jurassic period (195–165 Ma).
+Key words: According, diabase dykes, upper section, Xiongcun Formation, Jurassic, timeIn summary, Xiongcun Formation, Early–Middle Jurassic, 195–165 Ma
+Substance: Xiongcun Formation
+Time: Jurassic, Early–Middle Jurassic, 195–165 Ma
+Location: Xiongcun, Formation
+In summary, we interpret that the Xiongcun Formation formed during the Early–Middle Jurassic period (195–165 Ma).The alteration of rocks during weathering results in the depletion of alkali and alkaline Earth elements and preferential enrichment of Al2O3 in sediments (Sun, Gui & Chen, 2012)
+Key words: Xiongcun Formation, Early–Middle Jurassic, 195–165 Ma, .The alteration, Earth, preferential enrichment, Al2O3, Sun, Gui, Chen
+Substance: Xiongcun Formation
+Time: Early–Middle Jurassic, 195–165 Ma, Al2O3
+Location: 
+The high CIA and CIW values (Table 2) of the sandstones from the Xiongcun Formation indicate moderate to high weathering and tropical conditions in the source area during the Late Triassic – Jurassic period (Nesbitt & Young, 1982)In the A (Al2O3) – CN (CaO ∗ + Na2O) – K (K2O) diagram (Fig
+Key words: CIA, CIW, Table, Xiongcun Formation, tropical conditions, source area, Late Triassic, Jurassic, Nesbitt, Al2O3, CN, CaO, ∗ +, Na2O, K, K2O, Fig
+Substance: Xiongcun Formation
+Time: Late Triassic, Jurassic, Al2O3, Na2O, K2O
+Location: Xiongcun, Formation
+This is supported by the palaeogeography of the Lhasa terrane that suggests a location near the equator during the Late Triassic – Jurassic period (Metcalfe, 2006).Modal abundance, whole-rock chemistry, and zircon U–Pb and Lu–Hf isotopes can provide useful constraints for the provenance of sandstones (Dickinson
+Key words: Lhasa, Late Triassic, Jurassic, Metcalfe, .Modal abundance, whole-rock chemistry, U–Pb, Lu–Hf, useful constraints, Dickinson
+Substance: whole-rock chemistry
+Time: Late Triassic, Jurassic
+Location: Lhasa
+Detrital zircon age data indicate that the Jurassic sandstones from the Xiongcun Formation received detritus from sources of age 161–243 MaAges in this range have been reported for igneous rocks in the central and southern Lhasa subterranes (Chu et al
+Key words: Detrital, zircon age data, Jurassic, Xiongcun Formation, 161–243 MaAges, igneous rocks, Lhasa, Chu
+Substance: zircon age data, Xiongcun Formation, igneous rocks
+Time: Jurassic, 161–243 MaAges
+Location: Lhasa
+However, detrital zircons from the Jurassic sandstones in the Xiongcun district show high and positive εHf(t) values (10.45–16.21), indicating that they are probably derived from igneous rocks in the southern Lhasa subterrane rather than the central LhasaFigure 10
+Key words: detrital zircons, Jurassic, Xiongcun, district show high, positive εHf, igneous rocks, Lhasa, LhasaFigure
+Substance: detrital zircons, igneous rocks
+Time: Jurassic
+Location: Xiongcun, Lhasa
+The Triassic and Jurassic igneous rocks in the southern Lhasa subterrane have been attributed to the northwards subduction of the NeoTethys oceanic slab (Chu et al2006; Zhang et al
+Key words: Triassic, Jurassic, igneous rocks, Lhasa, northwards subduction, NeoTethys, oceanic slab, Chu, Zhang
+Substance: igneous rocks
+Time: Triassic, Jurassic
+Location: Lhasa
+2015a) further supports the interpretation that the local provenance of the Jurassic sandstones in the Xiongcun Formation lacks old basement componentsIn summary, the sandstones from the Xiongcun Formation were likely derived from Triassic and Jurassic subduction-related felsic and intermediate igneous rock in the southern Lhasa subterrane.
+Key words: local provenance, Jurassic, Xiongcun Formation, old basement componentsIn summary, Xiongcun Formation, Triassic, Jurassic, intermediate igneous rock, Lhasa
+Substance: Xiongcun Formation, old basement componentsIn summary, intermediate igneous rock
+Time: Jurassic, Triassic
+Location: Lhasa
+In summary, the sandstones from the Xiongcun Formation were likely derived from Triassic and Jurassic subduction-related felsic and intermediate igneous rock in the southern Lhasa subterrane.Sandstones can be formed in tectonic settings such as oceanic island arcs, continental island arcs, active continental margins and passive margins (Bhatia, 1983, 1985; Bhatia & Crook, 1986)
+Key words: Xiongcun Formation, Triassic, Jurassic, intermediate igneous rock, Lhasa, tectonic settings, oceanic island arcs, continental island arcs, active continental margins, passive margins, Bhatia, Bhatia, Crook
+Substance: Xiongcun Formation, intermediate igneous rock
+Time: Triassic, Jurassic
+Location: Lhasa
+The Jurassic sandstones in the Xiongcun district show: low abundances of La, Th, Zr and Nb; low ratios of Th/U and La/Sc; and high ratios of La/Th and Zr/Th (Table 2)These trace-element characteristics are very similar to those of sandstones from an oceanic islandarc setting (Bhatia & Crook, 1986)
+Key words: Jurassic, Xiongcun, district show, low abundances, Th, Zr, Nb, low ratios, Th/U, La/Sc, high ratios, La/Th, Zr/Th, Table, trace-element characteristics, oceanic islandarc setting, Bhatia, Crook
+Substance: 
+Time: Jurassic
+Location: Xiongcun
+Similarly, the Jurassic igneous rocks in the Xiongcun porphyry copper– gold district were also interpreted to have been generated within an oceanic island-arc system (Tang et al2015; Lang et al
+Key words: Similarly, Jurassic, igneous rocks, Xiongcun, porphyry copper–, gold district, oceanic island-arc system, Tang, Lang
+Substance: igneous rocks
+Time: Jurassic
+Location: Xiongcun
+Our data support the opinion that the southern Lhasa subterrane was likely an oceanic island-arc setting rather than a continental island-arc setting during the Late Triassic– Jurassic period.Based on petrology, geochemistry, zircon U–Pb dating and Lu–Hf results from Jurassic sandstones of the Xiongcun Formation in the Xiongcun district, we can draw the following conclusions.
+Key words: data support, Lhasa, oceanic island-arc setting, continental island-arc setting, Late Triassic– Jurassic, U–Pb, Lu–Hf, Jurassic, Xiongcun Formation, Xiongcun
+Substance: Xiongcun Formation
+Time: Late Triassic– Jurassic, Jurassic
+Location: Lhasa, Xiongcun
+Based on petrology, geochemistry, zircon U–Pb dating and Lu–Hf results from Jurassic sandstones of the Xiongcun Formation in the Xiongcun district, we can draw the following conclusions.The sandstones of Xiongcun Formation formed during Early–Middle Jurassic time (195–165 Ma)
+Key words: Based, U–Pb, Lu–Hf, Jurassic, Xiongcun Formation, Xiongcun, conclusions.The sandstones, Xiongcun Formation, Early–Middle Jurassic, 195–165 Ma
+Substance: Xiongcun Formation, conclusions.The sandstones
+Time: Jurassic, Early–Middle Jurassic, 195–165 Ma
+Location: Xiongcun
+The sandstones of Xiongcun Formation formed during Early–Middle Jurassic time (195–165 Ma)The sandstones are exposed in the lower and upper sections of the Xiongcun Formation
+Key words: Xiongcun Formation, Early–Middle Jurassic, 195–165 Ma, upper sections, Xiongcun Formation
+Substance: Xiongcun Formation
+Time: Early–Middle Jurassic, 195–165 Ma
+Location: 
+Detrital zircon ages and εHf(t) values further constrain the sandstones provenance as Triassic and Jurassic subduction-related felsic and intermediate igneous rocks in the southern Lhasa subterraneThe tectonic setting discrimination diagrams, as well as the chemical compositions and detrital zircon ages, support an oceanic island-arc setting for the sandstones from the Xiongcun Formation.
+Key words: Detrital, zircon ages, sandstones provenance, Triassic, Jurassic, intermediate igneous rocks, Lhasa, subterraneThe tectonic setting discrimination diagrams, chemical compositions, detrital zircon ages, oceanic island-arc setting, Xiongcun Formation
+Substance: zircon ages, sandstones provenance, intermediate igneous rocks, chemical compositions, detrital zircon ages, Xiongcun Formation
+Time: Triassic, Jurassic
+Location: Lhasa
+The geologic setting of the southern Lhasa subterrane during the Late Triassic – Jurassic period was probably an oceanic island-arc setting rather than a continental island-arc setting.Acknowledgements
+Key words: geologic setting, Lhasa, Late Triassic, Jurassic, oceanic island-arc setting, continental island-arc setting.Acknowledgements
+Substance: 
+Time: Late Triassic, Jurassic
+Location: Lhasa
+Rare earth element geochemistry of Australian Paleozoic graywackes and mudrocks: provenance and tectonic controlSedimentary Geology 45(1), 97–113.
+Key words: Rare, earth element geochemistry, Australian Paleozoic, tectonic controlSedimentary, Geology
+Substance: earth element geochemistry, tectonic controlSedimentary
+Time: Australian Paleozoic
+Location: 
+TEMORA 1: a new zircon standard for Phanerozoic U–Bouvier, A., Vervoort, J
+Key words: TEMORA, new zircon, Phanerozoic U–Bouvier, A., Vervoort, J
+Substance: new zircon
+Time: Phanerozoic U–Bouvier
+Location: 
+Detrital zircon U–Pb ages and Hf isotopes of Permo-Carboniferous sandstones in central InnerMongolia, China: implications for provenance and tectonic evolution of the southeastern Central Asian Orogenic BeltTectonophysics 671, 183–201.
+Key words: Detrital, U–Pb, Hf, Permo-Carboniferous, InnerMongolia, China, tectonic evolution, Orogenic BeltTectonophysics
+Substance: Permo-Carboniferous
+Time: Permo-Carboniferous
+Location: 
+Zircon U–Pb and Hf isotope constraints on the Mesozoic tectonics and crustal evolution of southern TibetGeology 34(9), 745–8.
+Key words: Zircon U–Pb, Hf, isotope constraints, Mesozoic, crustal evolution, TibetGeology
+Substance: Zircon U–Pb, isotope constraints, crustal evolution
+Time: Mesozoic
+Location: 
+The geochemistry of shales, siltstones and sandstones of Pennsylvanian–Permian age, Colorado, USA: implications for provenance and metamorphic studiesLithos 51(3), 181–203.
+Key words: Pennsylvanian–Permian, Colorado, USA, metamorphic studiesLithos
+Substance: metamorphic studiesLithos
+Time: Pennsylvanian–Permian
+Location: 
+Provenance of North American Phanerozoic sandstones in relation to tectonic settingGeological Society of America Bulletin 94(2), 222–35.
+Key words: Provenance, Phanerozoic, tectonic settingGeological Society, America Bulletin
+Substance: 
+Time: Phanerozoic
+Location: 
+Use of U–Pb ages of detrital zircons to infer maximum depositional ages of strata: a test against a Colorado plateau Mesozoic databaseEarth and Planetary Science Letters 288(1– 2), 115–25.
+Key words: U–Pb, detrital zircons, maximum depositional ages, Colorado, Mesozoic, Planetary, Science Letters
+Substance: detrital zircons, maximum depositional ages
+Time: Mesozoic
+Location: 
+Paleocene–Eocene record of ophiolite obduction and initial India-Asia collision, south central TibetTectonics 24, 1–18.
+Key words: Paleocene–Eocene, ophiolite obduction, India-Asia, TibetTectonics
+Substance: 
+Time: Paleocene–Eocene
+Location: 
+Age and depositional setting of the Paleoproterozoic Gantaohe Group in Zanhuang Complex: constraints from zircon U–Pb ages and Hf isotopes of sandstones and dacitePrecambrian Research 286, 59– 100.
+Key words: Age, depositional setting, Paleoproterozoic Gantaohe, Zanhuang Complex, U–Pb, Hf, dacitePrecambrian Research
+Substance: depositional setting
+Time: Paleoproterozoic Gantaohe, dacitePrecambrian Research
+Location: Zanhuang
+Precambrian Research 286, 59– 100.Fedo, C
+Key words: Precambrian
+Substance: 
+Time: Precambrian
+Location: 
+Tectonic environment of the Devonian Gramscatho basin, south Cornwall: framework mode and geochemical evidence from turbiditic sandstonesJournal of the Geological Society 144(4), 531–42.
+Key words: Tectonic, Devonian Gramscatho, Cornwall, framework mode, geochemical evidence, turbiditic sandstonesJournal, Geological
+Substance: geochemical evidence, turbiditic sandstonesJournal
+Time: Devonian Gramscatho
+Location: 
+Geologic and U–Pb geochronologic evidence for early Paleozoic tectonism in the Dadeldhura thrust sheet, far-west Nepal HimalayaJournal of Asian Earth Sciences 28(4–6), 385–408.
+Key words: Geologic, U–Pb, geochronologic evidence, Paleozoic, Dadeldhura, thrust sheet, Nepal HimalayaJournal, Earth, Sciences
+Substance: 
+Time: Paleozoic
+Location: 
+Archean crustal evolution in the northern Yilgarn craton: U–Pb and Hf-isotope evidence from detrital zirconsPrecambrian Research 131, 231–82.
+Key words: Archean, crustal evolution, Yilgarn, U–Pb, Hf-isotope, detrital zirconsPrecambrian Research
+Substance: crustal evolution, Hf-isotope, detrital zirconsPrecambrian Research
+Time: Archean, detrital zirconsPrecambrian Research
+Location: 
+Precambrian Research 131, 231–82.Griffin, W
+Key words: Precambrian
+Substance: 
+Time: Precambrian
+Location: 
+Provenance and tectonic setting of the Proterozoic turbidites in Hunan, South China: geochemical evidenceJournal of Sedimentary Research 72(3), 393– 407.
+Key words: Provenance, tectonic setting, Proterozoic, Hunan, China, geochemical evidenceJournal, Sedimentary
+Substance: geochemical evidenceJournal, Sedimentary
+Time: Proterozoic
+Location: South
+Petrogenesis of Early to Middle Jurassic granitoid rocks from the Gangdese belt, Southern Tibet: Implications for early history of the NeoTethysLithos 179, 320–33.
+Key words: Petrogenesis, Early, Jurassic, granitoid rocks, Gangdese, Tibet, Implications, early history, NeoTethysLithos
+Substance: granitoid rocks
+Time: Jurassic
+Location: Southern
+Provenance analysis of Permian sandstones in the central and southern Da Xing’an Mountains, China: constraints on the evolution of the eastern segment of the Central Asian Orogenic BeltTectonophysics 580, 100–13.
+Key words: Provenance, Permian, Da Xing, Mountains, China, eastern segment, Orogenic BeltTectonophysics
+Substance: 
+Time: Permian
+Location: 
+Origin of adakitic intrusives generated during mid-Miocene east–west extension in southern TibetEarth and Planetary Science Letters 220(1), 139–55.
+Key words: Origin, adakitic intrusives, mid-Miocene east–west, TibetEarth, Planetary, Science Letters
+Substance: 
+Time: mid-Miocene east–west
+Location: 
+Early Jurassic volcanic rocks from the Yeba Formation and Sangri Group: products of continental marginal arc and intra-oceanic arc during the subduction of Neo-tethys ocean? Acta Petrologica Sinica 31(7), 2089–00 (in Chinese with English abstract).Iizuka, T
+Key words: Early Jurassic, volcanic rocks, Yeba Formation, Sangri, marginal arc, intra-oceanic arc, Neo-tethys, Acta Petrologica Sinica, English, T
+Substance: volcanic rocks, Yeba Formation
+Time: Early Jurassic
+Location: 
+Geological records of the Cretaceous Lhasa–Qiangtang and Indo–Asian collisions in the Nima basin area, central TibetGeological Society of America Bulletin 119, 917–32.
+Key words: Geological, Cretaceous Lhasa–Qiangtang, Indo–Asian, Nima, basin area, TibetGeological, America Bulletin
+Substance: 
+Time: Cretaceous Lhasa–Qiangtang
+Location: Lhasa, Qiangtang, Nima, basin
+Cretaceous–Tertiary shortening, basin development, and volcanism in central TibetGeological Society America Bulletin 117, 865–78.
+Key words: Cretaceous–Tertiary, basin development, TibetGeological, America Bulletin
+Substance: 
+Time: Cretaceous–Tertiary
+Location: 
+U–Pb and Re–Os geochronological evidence for the Jurassic porphyry metallogenic event of the Xiongcun district in the Gangdese porphyry copper belt, southern Tibet, PRCJournal of Asian Earth Sciences 79, 608–22.
+Key words: U–Pb, Re–Os, geochronological evidence, Jurassic, porphyry metallogenic event, Xiongcun, Gangdese, porphyry copper belt, Tibet, PRCJournal, Earth, Sciences
+Substance: 
+Time: Jurassic
+Location: Xiongcun
+Composition and age of Jurassic diabase dikes in the Xiongcun porphyry copper–gold district, southern margin of the Lhasa terrane, Tibet, China: petrogenesis and tectonic settingGeological Journal, published online 20 October 2017
+Key words: Composition, Jurassic, diabase dikes, Xiongcun, porphyry copper–gold district, Lhasa, Tibet, China, tectonic settingGeological Journal, 20 October
+Substance: Composition
+Time: Jurassic, 20 October
+Location: Xiongcun, Lhasa
+Eocene Neotethyan slab breakoff in southern Tibet inferred from the Linzizong volcanic recordTectonophysics 477(1), 20–35.
+Key words: Eocene Neotethyan, slab breakoff, Tibet, Linzizong, volcanic recordTectonophysics
+Substance: 
+Time: Eocene Neotethyan
+Location: 
+Detrital zircon geochronology of Carboniferous– Cretaceous strata in the Lhasa terrane, Southern TibetBasin Research 19(3), 361–78.
+Key words: Detrital, zircon geochronology, Carboniferous– Cretaceous, Lhasa, TibetBasin
+Substance: zircon geochronology, Carboniferous– Cretaceous
+Time: Carboniferous– Cretaceous
+Location: Lhasa
+The discovery of Late Triassic mylonitic granite and geologic significance in the middle Gangdese batholiths, southern TibetJournal of Geodynamics 104, 49–64.
+Key words: Late Triassic, mylonitic granite, geologic significance, Gangdese, TibetJournal, Geodynamics
+Substance: mylonitic granite, Geodynamics
+Time: Late Triassic
+Location: 
+Early Jurassic intra-oceanic arc system of the Neotethys Ocean: Constraints from andesites in the Gangdese magmatic belt, south TibetIsland Arc, published online 30 June 2017
+Key words: Early Jurassic, intra-oceanic arc system, Neotethys, Constraints, Gangdese, magmatic belt, TibetIsland Arc, 30 June
+Substance: 
+Time: Early Jurassic, 30 June
+Location: Neotethys, Ocean
+Late Triassic intraoceanic arc aystem within Neotethys: evidence from cumulate hornblende gabbro in Gangdese Belt, South TibetActa Geologica Sinica (English Edition) 91(S1), 21.
+Key words: Late Triassic, intraoceanic arc aystem, Neotethys, cumulate hornblende gabbro, Gangdese, TibetActa Geologica Sinica, English Edition, S1
+Substance: cumulate hornblende gabbro
+Time: Late Triassic, S1
+Location: Gangdese, Belt
+The Zedong terrane: a Late Jurassic intra-oceanic magmatic arc within the Yarlung-Tsangpo suture zone, southeastern TibetChemical Geology 187, 267–77.
+Key words: Zedong, Late Jurassic, intra-oceanic magmatic arc, Yarlung-Tsangpo, suture zone, TibetChemical Geology
+Substance: TibetChemical Geology
+Time: Late Jurassic
+Location: 
+Late Triassic crustal growth in southern Tibet: evidence from the Gangdese magmatic beltGondwana Research 37, 449–64.
+Key words: Late Triassic, crustal growth, Tibet, Gangdese, magmatic beltGondwana Research
+Substance: crustal growth
+Time: Late Triassic
+Location: 
+Palaeozoic and Mesozoic tectonic evolution and palaeogeography of East Asian crustal fragments: the Korean Peninsula in contextGondwana Research 9(1–2), 24–46.
+Key words: Palaeozoic, Mesozoic, tectonic evolution, East Asian crustal fragments, Korean Peninsula, contextGondwana Research
+Substance: East Asian crustal fragments
+Time: Mesozoic
+Location: Peninsula
+Contribution of syncollisional felsic magmatism to continental crust growth: a case study of the Paleogene Linzizong volcanic succession in southern TibetChemical Geology 250(1), 49– 67.
+Key words: syncollisional felsic magmatism, continental crust growth, case study, Paleogene Linzizong, volcanic succession, TibetChemical Geology
+Substance: continental crust growth, TibetChemical Geology
+Time: Paleogene Linzizong
+Location: 
+Extraordinary transport and mixing of sediment across Himalayan central Gondwana during the Cambrian-OrdovicianGeological Society of America Bulletin 122(9), 1660– 70.
+Key words: Extraordinary, Himalayan, Gondwana, Cambrian-OrdovicianGeological, America Bulletin
+Substance: 
+Time: Cambrian-OrdovicianGeological
+Location: Gondwana
+Stratigraphic correlation of Cambrian-Ordovician deposits along the Himalaya: implications for the age and nature of rocks in the Mount Everest regionGeological Society of America Bulletin 121(3–4), 323–32.
+Key words: Stratigraphic, Cambrian-Ordovician, Himalaya, Everest, regionGeological Society, America Bulletin
+Substance: Stratigraphic
+Time: Cambrian-Ordovician
+Location: Himalaya, Mount, Everest
+Early Proterozoic climates and plate motions inferred from major element chemistry of lutitesNature 299(5885), 715–7.
+Key words: Early Proterozoic, plate motions, major element chemistry
+Substance: 
+Time: Early Proterozoic
+Location: 
+Provenance and tectonic setting of Late Proterozoic Buem sandstones of southeastern Ghana: Evidence from geochemistry and detrital modesJournal of African Earth Sciences 44, 85–96.
+Key words: Provenance, tectonic setting, Late Proterozoic Buem, Ghana, Evidence, detrital modesJournal, Earth, Sciences
+Substance: 
+Time: Late Proterozoic Buem
+Location: 
+Triassic continental subduction in central Tibet and Mediterranean-style closure of the PaleoTethys OceanGeology 36(5), 351–4.
+Key words: Triassic, continental subduction, Tibet, Mediterranean-style, PaleoTethys OceanGeology
+Substance: 
+Time: Triassic
+Location: 
+Petrogenesis of the Early Jurassic gabbro-granite complex in the middle segment of gangdese belt and its implication for tectonic evolution of Neo-tethys: a case study of the Dongga pluton in XigazeActa Petrologica Sinica 31(12), 3569–80 (in Chinese with English abstract).
+Key words: Petrogenesis, Early Jurassic, middle segment, gangdese belt, tectonic evolution, Neo-tethys, case study, Dongga, XigazeActa Petrologica Sinica, English
+Substance: 
+Time: Early Jurassic
+Location: 
+Cretaceous back-arc formation and arc evolution along the Asian margin: the Shyok Suture Zone in northern Ladakh (NW Himalaya)Tectonophysics 325(1–2), 145–73.
+Key words: Cretaceous, back-arc formation, arc evolution, Shyok Suture, Ladakh, Himalaya, Tectonophysics
+Substance: back-arc formation
+Time: Cretaceous
+Location: Ladakh, NW, Himalaya
+Provenance and tectonic setting of middle-upper Devonian sandstones in the Qinling Orogen (Shanyang area): new insights from geochemistry, heavy minerals and tourmaline chemistryTectonophysics 688, 11–25.
+Key words: Provenance, tectonic setting, Devonian, Qinling Orogen, Shanyang, new insights, heavy minerals, tourmaline chemistryTectonophysics
+Substance: heavy minerals, tourmaline chemistryTectonophysics
+Time: Devonian
+Location: Qinling, Orogen, Shanyang
+The 176Lu decay constant determined by Lu–Hf and U–Pb isotope systematics of Precambrian mafic intrusionsEarth and Planetary Science Letters 219, 311–24.
+Key words: Lu–Hf, U–Pb, isotope systematics, Precambrian, mafic intrusionsEarth, Planetary, Science Letters
+Substance: isotope systematics
+Time: Precambrian
+Location: 
+Geochemistry of sandstones from the Neoproterozoic Shijia Formation, northern Anhui Province, China: implications for provenance, weathering and tectonic settingChemie der Erde-Geochemistry 72(3), 253–60.
+Key words: Geochemistry, Neoproterozoic Shijia Formation, Anhui Province, China, tectonic settingChemie der, Erde-Geochemistry
+Substance: Geochemistry, Neoproterozoic Shijia Formation, Erde-Geochemistry
+Time: Neoproterozoic Shijia Formation
+Location: Province
+Does the Great Valley Group contain Jurassic strata? Re-evaluation of the age and early evolution of a classic foreland basinGeology 34, 21–4.
+Key words: Does, Great Valley Group, contain Jurassic, Re-evaluation, early evolution, classic foreland basinGeology
+Substance: Great Valley Group
+Time: contain Jurassic
+Location: 
+Jurassic U–Pb and Re–Os ages for the newly discovered Xietongmen Cu–Au porphyry district, Tibet, PRC: implications for metallogenic epochs in the southern Gangdese beltEconomic Geology 104(1), 127–36.
+Key words: Jurassic U–Pb, Re–Os, Xietongmen Cu–Au, porphyry district, Tibet, PRC, metallogenic epochs, Gangdese, Geology
+Substance: 
+Time: Jurassic U–Pb, metallogenic epochs
+Location: 
+Geological characteristics and genesis of the Jurassic NoI porphyry Cu–Au deposit in the Xiongcun district, Gangdese porphyry copper belt, Tibet
+Key words: Geological, Jurassic NoI, Cu–Au, Xiongcun, Gangdese, porphyry copper belt, Tibet
+Substance: 
+Time: Jurassic NoI
+Location: Xiongcun
+Petrography and geochemistry of Jurassic sandstones, Western Desert, Iraq: implications on provenance and tectonic settingArabian Journal of Geosciences 8(5), 2771–84.
+Key words: Petrography, Jurassic, Western Desert, Iraq, tectonic settingArabian Journal, Geosciences
+Substance: Petrography
+Time: Jurassic
+Location: Western, Desert
+Cretaceous–Tertiary structural evolution of the north central Lhasa terrane, TibetTectonics 26(6), TC6007.
+Key words: Cretaceous–Tertiary, structural evolution, Lhasa, TibetTectonics, TC6007
+Substance: 
+Time: Cretaceous–Tertiary, TC6007
+Location: Lhasa
+Extent of underthrusting of the Indian plate beneath Tibet controlled the distribution of Miocene porphyry Cu–Mo±Au depositsMineralium Deposita 49(2), 165–73.
+Key words: Extent, Indian plate, Tibet, Miocene, Cu–Mo±Au, Deposita
+Substance: 
+Time: Miocene
+Location: 
+Increased magmatic water content–the key to Oligo-Miocene porphyry Cu-Mo±Au formation in the eastern Gangdese Belt, TibetEconomic Geology 109(5), 1315–39.
+Key words: Increased, magmatic water content–the key, Oligo-Miocene, Cu-Mo±Au, Gangdese, TibetEconomic Geology
+Substance: magmatic water content–the key
+Time: Oligo-Miocene
+Location: 
+Tectonic setting discrimination in clastic sequences: an example from late Proterozoic Erris Group, NW IrelandPrecambrian Research 45, 191–201.
+Key words: Tectonic, setting discrimination, clastic sequences, Proterozoic Erris, IrelandPrecambrian
+Substance: clastic sequences
+Time: Proterozoic Erris, IrelandPrecambrian
+Location: 
+Precambrian Research 45, 191–201.Yang, Z
+Key words: Precambrian, Z
+Substance: 
+Time: Precambrian
+Location: 
+SHRIMP zircon age and geochemical constraints on the origin of Lower Jurassic volcanic rocks from the Yeba Formation, southern Gangdese, south TibetInternational Geology Review 50, 442–71.
+Key words: SHRIMP, zircon age, geochemical constraints, Lower Jurassic, volcanic rocks, Yeba Formation, Gangdese, TibetInternational Geology Review
+Substance: zircon age, geochemical constraints, volcanic rocks, Yeba Formation
+Time: Lower Jurassic
+Location: 
+Key words: 
+Substance: 
+Time: 
+Location: 

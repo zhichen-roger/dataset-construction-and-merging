@@ -1,0 +1,174 @@
+ABSTRACT: Upper Jurassic Fulmar Formation shelf sandstones of the high-temperature, high-pressure Franklin and Elgin Fields (South Central Graben, North Sea) contain abundant disseminated and concretionary ankeriteIn contrast, most Jurassic North Sea reservoirs contain only minor amounts of dispersed ankerite
+Key words: ABSTRACT, Upper Jurassic Fulmar Formation, shelf sandstones, Franklin, Elgin, Graben, North Sea, concretionary ankeriteIn contrast, Jurassic, North Sea reservoirs, minor amounts
+Substance: Upper Jurassic Fulmar Formation, shelf sandstones, concretionary ankeriteIn contrast
+Time: Upper Jurassic Fulmar Formation, Jurassic
+Location: South, Central, Graben, North, Sea, Jurassic
+In contrast, most Jurassic North Sea reservoirs contain only minor amounts of dispersed ankeriteDisseminated ankerite cement in the Franklin and Elgin Fields has a fairly uniform isotopic composition (d18O ø210 to 212.5‰ PDB, d13C ø23 to 25‰ PDB)
+Key words: Jurassic, North Sea reservoirs, minor amounts, ankerite cement, Franklin, Elgin, uniform isotopic composition, d18O ø210, 212.5‰ PDB, d13C ø23, 25‰ PDB
+Substance: ankerite cement, uniform isotopic composition
+Time: Jurassic, d18O ø210, 212.5‰ PDB, d13C ø23, 25‰ PDB
+Location: Jurassic, North, Sea
+of Permian carbonates and evaporites that are a source of Mg21 during burial (e.g., Purvis 1992; Sullivan et al1990)
+Key words: Permian, Mg21, Purvis, Sullivan
+Substance: 
+Time: Permian, Mg21
+Location: 
+In the more northerly Brent Province, thick Permian evaporites are absent, and ankerite is only a minor phase except in close proximity to mudrocks (e.g., Macaulay et al1993; Kantorowicz 1985; Haszeldine et al
+Key words: Brent Province, Permian, minor phase, Macaulay, Kantorowicz, Haszeldine
+Substance: 
+Time: Permian
+Location: 
+The South Central Graben (SCG) lies between these two regions, and Upper Jurassic reservoir sandstones in the Franklin and Elgin Fields (Fig1) contain significant quantities of authigenic ankerite, both as pervasive disseminated cements and as concretions of several decimeters to a few meters thickness
+Key words: Graben, SCG, Upper Jurassic, reservoir sandstones, Franklin, Elgin, Fig1, significant quantities, authigenic ankerite, meters thickness
+Substance: reservoir sandstones, authigenic ankerite
+Time: Upper Jurassic
+Location: South, Central, Graben, Upper, Jurassic
+The reservoir unit is the Oxfordian-age Franklin Sandstone Formation, which is broadly equivalent to the Fulmar Formation in shallower terrace regions of the SCG (Price et al1993; Howell et al
+Key words: reservoir unit, Oxfordian-age Franklin Sandstone Formation, Fulmar Formation, shallower terrace regions, SCG, Price, Howell
+Substance: Oxfordian-age Franklin Sandstone Formation, Fulmar Formation
+Time: Oxfordian-age Franklin Sandstone Formation
+Location: 
+The Franklin–Elgin Fields underwent progressive subsidence from the end of the Early Cretaceous, increasing during Oligo-Miocene time, and with maximum rates in the Quaternary (Fig4)
+Key words: Franklin–Elgin, Fields underwent progressive subsidence, Early Cretaceous, Oligo-Miocene, maximum rates, Quaternary, Fig4
+Substance: 
+Time: Early Cretaceous, Oligo-Miocene, Quaternary
+Location: 
+The Franklin Field was filled during the Miocene, but the Elgin Field was filled only within the last 5 MaMinor albite with hydrocarbon-filled fluid inclusions precipitated at an early stage of hydrocarbon emplacement
+Key words: Franklin, Miocene, Elgin, 5 MaMinor, fluid inclusions, early stage, hydrocarbon emplacement
+Substance: hydrocarbon emplacement
+Time: Miocene, 5 MaMinor
+Location: Field
+For example, calcitized sponge spicules contribute to high IGVs and underpacked detrital grain fabrics in Cretaceous sandstones described by Hendry et al(1996)
+Key words: sponge spicules contribute, IGVs, detrital grain fabrics, Cretaceous, Hendry
+Substance: sponge spicules contribute, detrital grain fabrics
+Time: Cretaceous
+Location: 
+the ankerite contains no hydrocarbon-filled fluid inclusions, it most probably precipitated prior to hydrocarbon emplacement in the Franklin Field in the MioceneFor reasons discussed above, IGVs and standardized compaction curves are inapplicable to establishing an absolute depth of ankerite precipitation in the concretions
+Key words: ankerite contains, fluid inclusions, hydrocarbon emplacement, Franklin, MioceneFor, IGVs, compaction curves, absolute depth, ankerite precipitation
+Substance: ankerite contains, hydrocarbon emplacement, compaction curves, ankerite precipitation
+Time: MioceneFor
+Location: Field
+On this basis, Figures 5 and 13 suggest that ankerite was precipitated immediately preceding hydrocarbon emplacement, at about 140–1708C, from a fluid intermediate between Oxfordian seawater and the present-day formation waterAlthough carbonate fluid inclusions are prone to resetting (Barker and Goldstein 1990), the maximum Th values are less than the bottom hole temperatures in the wells (180–1908C)
+Key words: Figures, 5 and, hydrocarbon emplacement, fluid intermediate, Oxfordian, present-day formation waterAlthough carbonate fluid inclusions, Barker, Goldstein, Th, bottom hole temperatures
+Substance: hydrocarbon emplacement, present-day formation waterAlthough carbonate fluid inclusions, bottom hole temperatures
+Time: 5 and, Oxfordian, present-day formation waterAlthough carbonate fluid inclusions
+Location: 
+In a regional review of carbonate cement d13C values in North Sea Jurassic reservoir sandstones, Macaulay et al(1998) documented a remarkably tight clustering of values from Upper Jurassic submarine fan reservoirs, with a mode at 29 to 212‰ PDB
+Key words: regional review, carbonate cement d13C values, North Sea, Jurassic, reservoir sandstones, Macaulay, Upper Jurassic, submarine fan reservoirs, 212‰ PDB
+Substance: carbonate cement d13C values, reservoir sandstones, submarine fan reservoirs
+Time: carbonate cement d13C values, Jurassic, Upper Jurassic, 212‰ PDB
+Location: North, Sea, Jurassic, Upper
+(1998) documented a remarkably tight clustering of values from Upper Jurassic submarine fan reservoirs, with a mode at 29 to 212‰ PDBThe sandstones were bioclast-poor, encased in organic-rich mudrocks, and never exposed to meteoric water or pedogenic processes
+Key words: Upper Jurassic, submarine fan reservoirs, 212‰ PDBThe, organic-rich mudrocks, meteoric water, pedogenic processes
+Substance: submarine fan reservoirs, organic-rich mudrocks, meteoric water, pedogenic processes
+Time: Upper Jurassic, 212‰ PDBThe
+Location: Upper, Jurassic
+The Franklin Formation sandstones pass vertically and laterally into marine mudrocks (Heather and Kimmeridge Clay Formations) and show no evidence for synsedimentary emergence and no record of meteoric diagenesis related to the baseCretaceous unconformityThey can therefore be considered analogous to Upper Jurassic reservoirs discussed by Macaulay et al
+Key words: Franklin Formation, marine mudrocks, Heather, Kimmeridge Clay Formations, synsedimentary emergence, meteoric diagenesis, baseCretaceous unconformityThey, Upper Jurassic, Macaulay
+Substance: Franklin Formation, marine mudrocks, Kimmeridge Clay Formations, synsedimentary emergence, meteoric diagenesis
+Time: baseCretaceous unconformityThey, Upper Jurassic
+Location: 
+They can therefore be considered analogous to Upper Jurassic reservoirs discussed by Macaulay et al(1998), with one important difference—the Franklin sandstones contained abundant shell fragments
+Key words: Upper Jurassic, Macaulay, one important difference—the, Franklin, abundant shell fragments
+Substance: 
+Time: Upper Jurassic
+Location: 
+Although ankerite is a common minor component of many Mesozoic North Sea sandstone reservoirs, the Franklin sandstones contain unusual amounts of it, particularly as concretionsWe have interpreted the carbon in this ankerite as being derived equally from bioclasts and from organic acids (expelled from surrounding source rocks), once reservoir temperatures exceeded the threshold for decarboxylation and/or oxidation
+Key words: common minor component, Mesozoic, North Sea sandstone reservoirs, Franklin, unusual amounts, organic acids, source rocks, reservoir temperatures, decarboxylation and/or oxidation
+Substance: common minor component, North Sea sandstone reservoirs, organic acids, source rocks, decarboxylation and/or oxidation
+Time: Mesozoic
+Location: 
+1992) or significant mass transfer, either from adjacent mudrocks or from Permian evaporite–carbonate successions along episodically active basin faults (e.g., Burley 1993)Recent work suggests that deep-burial diagenesis is influenced by regional flow systems related to the generation and leakage of overpressure compartments (Haszeldine et al., in press)
+Key words: significant mass, adjacent mudrocks, Permian, evaporite–carbonate successions, active basin faults, Burley, Recent, work suggests, deep-burial diagenesis, regional flow systems, overpressure compartments, Haszeldine
+Substance: adjacent mudrocks, evaporite–carbonate successions, deep-burial diagenesis
+Time: Permian
+Location: 
+In contrast, Middle and Upper Jurassic reservoirs in shallower parts of the Central and Northern North Sea contain minor disseminated ankerite and/or thin zones of ankerite cementation adjacent to mudrocksThe relative abundance of ankerite in the Franklin sandstones coincides with the extreme reservoir conditions (57 MPa, 1908C), suggesting a causal link.
+Key words: Upper Jurassic, shallower parts, Northern North Sea, ankerite and/or, thin zones, ankerite cementation adjacent, relative abundance, Franklin, sandstones coincides, extreme reservoir conditions, 57 MPa, causal link
+Substance: ankerite and/or, ankerite cementation adjacent, sandstones coincides
+Time: Upper Jurassic, 57 MPa
+Location: Northern, North, Sea
+BANERJEE, I., AND KIDWELL, S.M., 1991, Significance of molluscan shell beds in sequence stratigraphy: an example from the Lower Cretaceous Mannville Group of Canada: Sedimentology, v38, p
+Key words: BANERJEE, I., AND KIDWELL, S.M., Significance, molluscan shell beds, sequence stratigraphy, Lower Cretaceous Mannville, Canada, Sedimentology
+Substance: molluscan shell beds, Sedimentology
+Time: Lower Cretaceous Mannville
+Location: BANERJEE, KIDWELL
+BOLES, J.R., 1978, Active ankerite cementation in the subsurface Eocene of Southwest Texas: Contributions to Mineralogy and Petrology, v68, p
+Key words: BOLES, J.R., Active, ankerite cementation, Eocene, Texas, Mineralogy, Petrology
+Substance: ankerite cementation, Mineralogy
+Time: Eocene
+Location: BOLES, J.R., Southwest
+BURLEY, S.D., 1993, Models of burial diagenesis for deep exploration plays in Jurassic fault traps of the Central and Northern North Sea, in Parker, J.R., ed., Petroleum Geology of Northwest Europe: Proceedings of the 4th Conference, London, The Geological Society of London, p1353–1375.
+Key words: BURLEY, S.D., burial diagenesis, deep exploration plays, Jurassic, fault traps, Northern North Sea, Parker, J.R., Petroleum Geology, Europe, Proceedings, London, Geological, London
+Substance: burial diagenesis
+Time: Jurassic
+Location: Northern, North, Sea
+Quantitative analysis of pore structure and its effect on reservoir behaviour: Upper Jurassic Ribble Member sandstones, Fulmar Filed, UK North Sea, in Ashton, M., ed., Advances in Reservoir Geology: Geological Society of London, Special Publication 69, p57–79.
+Key words: Quantitative, pore structure, reservoir behaviour, Upper Jurassic Ribble Member, Fulmar Filed, UK, North Sea, Ashton, M., Advances, Reservoir Geology, Geological, London, Publication
+Substance: pore structure, Upper Jurassic Ribble Member, Ashton
+Time: Upper Jurassic Ribble Member
+Location: North, Sea, Ashton
+DUTTON, S.P., AND LAND, L.S., 1985, Meteoric burial diagenesis of Pennsylvanian arkosic sandstones, Southwestern Anadarko Basin, Texas: American Association of Petroleum Geologists, Bulletin, v69, p
+Key words: DUTTON, S.P., AND LAND, L.S., Meteoric, burial diagenesis, Pennsylvanian, arkosic sandstones, Anadarko, American Association, Petroleum Geologists, Bulletin
+Substance: Meteoric, burial diagenesis, arkosic sandstones
+Time: Pennsylvanian
+Location: DUTTON, L.S., Southwestern, Anadarko, Basin
+GOWLAND, S., 1996, Facies characteristics and depositional models of highly bioturbated shallow marine siliciclastic strata: an example from the Fulmar Formation (Late Jurassic), UK Central Graben, in Hurst, A., ed., Geology of the Humber Group, Central Graben and Moray Firth, UKCS: Geological Society of London, Special Publication 114, p185–214.
+Key words: GOWLAND, S., Facies, depositional models, shallow marine siliciclastic strata, Fulmar Formation, Late Jurassic, UK, Graben, Hurst, A., Geology, Humber, Graben, Moray Firth, UKCS, Geological, London, Publication
+Substance: depositional models, shallow marine siliciclastic strata, Fulmar Formation
+Time: Late Jurassic
+Location: GOWLAND, Central, Graben
+HENDRY, J.P., TREWIN, N.H., AND FALLICK, A.E., 1996, Low-Mg calcite marine cement in Cretaceous turbidites: origin, spatial distribution, and relationship to seawater chemistry: Sedimentology, v43, p
+Key words: HENDRY, J.P., TREWIN, N.H., AND FALLICK, A.E., Low-Mg, calcite marine cement, Cretaceous, spatial distribution, seawater chemistry, Sedimentology
+Substance: calcite marine cement, seawater chemistry, Sedimentology
+Time: Cretaceous
+Location: HENDRY, TREWIN, FALLICK
+HENDRY, J.P., WILKINSON, M., FALLICK, A.E., AND TREWIN, N.H., in press, Disseminated ‘‘jigsaw piece’’ dolomite in Upper Jurassic shelf sandstones, Central North Sea: an example of cement growth during bioturbation?: Sedimentology.HOWELL, J.A., FLINT, S.S., AND HUNT, C., 1996, Sedimentological aspects of the Humber Group (Upper Jurassic) of the South Central Graben, UK North Sea: Sedimentology, v
+Key words: HENDRY, J.P., WILKINSON, M., FALLICK, A.E., AND TREWIN, N.H., Disseminated, ‘ ‘ jigsaw piece ’ ’ dolomite, Upper Jurassic, shelf sandstones, Central North Sea, cement growth, Sedimentology.HOWELL, J.A., FLINT, S.S., AND HUNT, C., Sedimentological, Humber, Upper Jurassic, Graben, UK, North Sea, Sedimentology
+Substance: ‘ ‘ jigsaw piece ’ ’ dolomite, shelf sandstones, cement growth, Sedimentology.HOWELL, FLINT, Sedimentological, Sedimentology
+Time: Upper Jurassic
+Location: HENDRY, WILKINSON, FALLICK, A.E., Central, North, Sea, S.S., Upper, Jurassic, South, Graben
+HOWELL, J.A., FLINT, S.S., AND HUNT, C., 1996, Sedimentological aspects of the Humber Group (Upper Jurassic) of the South Central Graben, UK North Sea: Sedimentology, v43, p
+Key words: HOWELL, J.A., FLINT, S.S., AND HUNT, C., Sedimentological, Humber, Upper Jurassic, Graben, UK, North Sea, Sedimentology
+Substance: FLINT, Sedimentological, Sedimentology
+Time: Upper Jurassic
+Location: HOWELL, S.S., Upper, Jurassic, South, Central, Graben, North, Sea
+KIDWELL, S.M., 1989, Stratigraphic condensation of marine transgressive records: origin of major shell deposits in the Miocene of Maryland: Journal of Geology, v97, p
+Key words: KIDWELL, S.M., Stratigraphic, marine transgressive records, major shell deposits, Miocene, Maryland, Geology
+Substance: Stratigraphic, marine transgressive records
+Time: Miocene
+Location: KIDWELL
+LUNDEGARD, P.D., AND LAND, L.S., 1986, Carbon dioxide and organic acids: their role in porosity enhancement and cementation, Paleogene of the Texas Gulf Coast, in Gautier, D.L., ed., Roles of Organic Matter in Sediment Diagenesis: SEPM, Special Publication 38, p129– 146.
+Key words: LUNDEGARD, P.D., AND LAND, L.S., Carbon, organic acids, porosity enhancement, Paleogene, Texas, Gulf Coast, Gautier, D.L., Roles, Organic Matter, Sediment Diagenesis, SEPM, Publication
+Substance: Carbon, organic acids, porosity enhancement, Organic Matter, Sediment Diagenesis
+Time: Paleogene
+Location: LUNDEGARD, L.S., Gulf, Coast
+MACAULAY, C.I., FALLICK, A.E., MCLAUGHLIN, O.M., HASZELDINE, R.S., AND PEARSON, M.J., 1998, The significance of d13C of carbonate cements in reservoir sandstones: a regional perspective from the Jurassic of the northern North Sea, in Morad, S., ed., Carbonate Cementation of Sandstones, International Association of Sedimentologists, Special Publication 26, p395– 408.
+Key words: MACAULAY, C.I., FALLICK, A.E., MCLAUGHLIN, O.M., HASZELDINE, R.S., AND PEARSON, M.J., carbonate cements, reservoir sandstones, regional perspective, Jurassic, northern North Sea, Morad, S., Carbonate Cementation, Sandstones, International Association, Sedimentologists, Publication
+Substance: carbonate cements, reservoir sandstones, Carbonate Cementation, Sandstones, Sedimentologists
+Time: Jurassic
+Location: MACAULAY, FALLICK, MCLAUGHLIN, HASZELDINE, R.S., PEARSON, North, Sea, Morad
+MARTIN, M.A., AND POLLARD, J.E., 1996, The role of trace fossils (ichnofabric) analysis in the development of depositional models for the Upper Jurassic Fulmar Formation of the Kittiwake Field (Quadrant 21 UKCS), in Hurst, A., ed., Geology of the Humber Group, Central Graben and Moray Firth, UKCS: Geological Society of London, Special Publication 114, p163–183.
+Key words: MARTIN, M.A., AND POLLARD, J.E., trace fossils, depositional models, Upper Jurassic Fulmar Formation, Kittiwake, Quadrant 21 UKCS, Hurst, A., Geology, Humber, Graben, Moray Firth, UKCS, Geological, London, Publication
+Substance: trace fossils, depositional models, Upper Jurassic Fulmar Formation
+Time: Upper Jurassic Fulmar Formation, Quadrant 21 UKCS
+Location: MARTIN, POLLARD, Central, Graben
+PEARSON, M.J., AND SMALL, J.S., 1988, Illite–smectite diagenesis and palaeotemperatures in Northern North Sea Quaternary to Mesozoic shale sequences: Clay Minerals, v23, p
+Key words: PEARSON, M.J., AND SMALL, J.S., Illite–smectite, Northern North Sea, Quaternary, Mesozoic, shale sequences, Clay Minerals
+Substance: shale sequences, Clay Minerals
+Time: Quaternary, Mesozoic
+Location: PEARSON, J.S., Northern, North, Sea, Quaternary
+PRICE, J., DYER, R., GOODALL, I., MCKIE, T., WATSON, P., AND WILLIAMS, G., 1993, Effective stratigraphic subdivision of the Humber Group and the Late Jurassic evolution of the UK Central Graben, in Parker, J.R., ed., Petroleum Geology of Northwest Europe: Proceedings of the 4th Conference, London, The Geological Society of London, p443–458.
+Key words: PRICE, J., DYER, R., GOODALL, I., MCKIE, T., WATSON, P., AND WILLIAMS, G., Effective, stratigraphic subdivision, Humber, Late Jurassic, UK, Graben, Parker, J.R., Petroleum Geology, Europe, Proceedings, London, Geological, London
+Substance: stratigraphic subdivision
+Time: Late Jurassic
+Location: GOODALL, MCKIE, WATSON, Central, Graben, J.R.
+PURVIS, K., 1992, Lower Permian Rotliegend sandstones, southern North Sea: a case study of sandstone diagenesis in evaporite-associated sequences: Sedimentary Geology, v77, p
+Key words: PURVIS, K., Lower Permian Rotliegend, North Sea, case study, sandstone diagenesis, Sedimentary Geology
+Substance: sandstone diagenesis, Sedimentary Geology
+Time: Lower Permian Rotliegend
+Location: PURVIS, North, Sea
+Key words: 
+Substance: 
+Time: 
+Location: 

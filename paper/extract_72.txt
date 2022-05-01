@@ -1,0 +1,824 @@
+Accelerating exhumation in the Eocene North American Cordilleran hinterland: Implications from detrital zircon (U-Th)/(He-Pb) double datingAndrew S
+Key words: Accelerating, Eocene, Cordilleran, Implications, detrital zircon, U-Th, He-Pb, double datingAndrew S
+Substance: detrital zircon
+Time: Eocene
+Location: 
+Following prolonged late Meso zoic–early Cenozoic crustal thickening and plateau construction, the hinterland of the Sevier orogen of western North America underwent late Cenozoic extension and formation of metamorphic core complexesWhile the North American Cordillera is one of Earth’s best-studied orogens, estimates for the spatial and temporal patterns of initial extensional faulting differ greatly and thus limit understanding of potential drivers for deformation
+Key words: Following, Meso, Cenozoic, plateau construction, Sevier, America, Cenozoic, metamorphic core complexesWhile, Cordillera, Earth, ’ s, temporal patterns, initial extensional, limit understanding, potential drivers
+Substance: metamorphic core complexesWhile
+Time: Cenozoic
+Location: North, Cordillera
+We employed (U-Th)/(He-Pb) double dating of detrital zircon and (U-Th)/He thermo chronology of detrital apatite from precisely dated Paleogene terrestrial strata to quantify the timing and magnitude of exhumation and explore the linkages between tectonic unroofing and basin evolution in northeastern NevadaWe determined sediment provenance and lag time evolution (i.e., the time between cooling and deposition, which is a measure of upper-crustal exhumation) during an 8 m.y
+Key words: U-Th, He-Pb, detrital zircon, U-Th, /He thermo chronology, detrital apatite, Paleogene, terrestrial strata, basin evolution, NevadaWe, sediment provenance, time evolution, upper-crustal exhumation
+Substance: detrital zircon, detrital apatite, sediment provenance, upper-crustal exhumation
+Time: Paleogene
+Location: 
+time span of deposition within the Eocene Elko BasinFluvial strata deposited between 49 and 45 Ma yielded Precambrian (U-Th)/He zircon cooling ages (ZHe) with 105–740 m.y
+Key words: time span, Eocene Elko BasinFluvial, 49 and, 45 Ma, Precambrian, U-Th, /He zircon, ZHe
+Substance: /He zircon
+Time: Eocene Elko BasinFluvial, 49 and, 45 Ma, Precambrian
+Location: 
+Fluvial strata deposited between 49 and 45 Ma yielded Precambrian (U-Th)/He zircon cooling ages (ZHe) with 105–740 m.ylag times dominated by unreset detrital ages, suggesting limited exhumation and Proterozoic through early Eocene sediment burial (<4–6 km) across the region
+Key words: Fluvial, 49 and, 45 Ma, Precambrian, U-Th, /He zircon, ZHe, m.ylag times, unreset detrital ages, Proterozoic, Eocene, sediment burial
+Substance: /He zircon, sediment burial
+Time: 49 and, 45 Ma, Precambrian, Proterozoic, Eocene
+Location: 
+lag times dominated by unreset detrital ages, suggesting limited exhumation and Proterozoic through early Eocene sediment burial (<4–6 km) across the regionMinimum nonvolcanic detrital ZHe lag times decreased to <100 m.y
+Key words: unreset detrital ages, Proterozoic, Eocene, sediment burial, regionMinimum nonvolcanic detrital, ZHe
+Substance: sediment burial
+Time: Proterozoic, Eocene
+Location: 
+in 43–41 Ma strata, illustrating progressive and rapid hinterland unroofing in Eocene timeDetrital apatite (U-Th)/He
+Key words: 43–41 Ma, rapid hinterland, Eocene, timeDetrital apatite, U-Th
+Substance: timeDetrital apatite
+Time: 43–41 Ma, Eocene
+Location: 
+44 and 39 Ma strata record Eocene cooling ages with 1–20 m.ylag times
+Key words: 44 and, 39 Ma, strata record, Eocene, m.ylag times
+Substance: 
+Time: 44 and, 39 Ma, Eocene
+Location: 
+We attribute the observed acceleration in exhumation, expansion of sedimentary basins, and migrating volcanism across the middle Eocene to record the thermal and isostatic effects of Farallon slab rollback and subsequent removal of the lowermost mantle lithosphere.In large orogenic belts, major shortening- related crustal thickening can result in kilometer- scale surface uplift in the hinterland and form an orogenic plateau in the region between the active magmatic arc and frontal fold-and-thrust belt (e.g., DeCelles, 2004; Snell et al., 2014)
+Key words: sedimentary basins, Eocene, Farallon, slab rollback, subsequent removal, lowermost mantle lithosphere.In, large orogenic belts, major shortening-, kilometer- scale surface uplift, orogenic plateau, active magmatic arc, frontal fold-and-thrust belt, DeCelles, Snell
+Substance: sedimentary basins
+Time: Eocene
+Location: 
+These modern plateaus are all characterized by varying degrees of synconvergent crustal extension that initiated in the Miocene or earlier and continues to the present (Bussell and Pitcher, 1985; Allmendinger et al., 1997; Dilek and Moores, 1999; Bonev and Beccaletto, 2007; Horton,GSA Bulletin; January/February 2020; v
+Key words: modern plateaus, synconvergent crustal, Miocene, Bussell, Allmendinger, Dilek, Moores, Bonev, Beccaletto, Horton, GSA Bulletin, January/February
+Substance: synconvergent crustal
+Time: Miocene
+Location: Beccaletto
+(B) Generalized stratigraphy of Precambrian–Eocene strata in eastern Nevada modified from Camilleri and Chamberlain (1997)Detrital zircon (DZ) geochronology for Precambrian–Paleozoic strata is from Gehrels and Pecha (2014), Yonkee et al., (2014), and Linde et al
+Key words: Generalized, Precambrian–Eocene, Nevada, Camilleri, Chamberlain, Detrital, DZ, Precambrian–Paleozoic, Gehrels, Pecha, Yonkee, Linde
+Substance: 
+Time: Precambrian–Eocene, Precambrian–Paleozoic
+Location: 
+Detrital zircon (DZ) geochronology for Precambrian–Paleozoic strata is from Gehrels and Pecha (2014), Yonkee et al., (2014), and Linde et al(2016), and geochronology for the Newark Canyon Formation is from Druschke et al
+Key words: Detrital, DZ, Precambrian–Paleozoic, Gehrels, Pecha, Yonkee, Linde, Newark Canyon Formation, Druschke
+Substance: Newark Canyon Formation
+Time: Precambrian–Paleozoic
+Location: 
+Time scale abbr eviations: pꞒ—Precambrian, Ꞓl—lower Cambrian, Ꞓm—middle Cambrian, Ꞓu—upper Cambrian, O—Ordovician, S—Silurian, D—Devonian, M—Mississippian, P—Pennsylvanian, Pr—Permian, Tr—Triassic, Jr—Jurassic, K—Cretaceous, E—Eocene.2018)
+Key words: Time scale abbr eviations, Cambrian, Cambrian, Cambrian, O—Ordovician, S—Silurian, D—Devonian, M—Mississippian, P—Pennsylvanian, Pr—Permian, Tr—Triassic, Jr—Jurassic, K—Cretaceous, E—Eocene.2018
+Substance: 
+Time: Cambrian, O—Ordovician, S—Silurian, D—Devonian, M—Mississippian, P—Pennsylvanian, Pr—Permian, Tr—Triassic, Jr—Jurassic, K—Cretaceous, E—Eocene.2018
+Location: Permian
+Metamorphic core complexes run north to south along the metamorphic axis of the Cordilleran hinterland and represent the location of a Paleogene welt of 50–60-km-thick crust (Fig2C; Coney and Harms, 1984; Dilek and Moores, 1999)
+Key words: Metamorphic, core complexes, metamorphic axis, Cordilleran, Paleogene, Fig2C, Coney, Harms, Dilek, Moores
+Substance: Metamorphic, metamorphic axis
+Time: Paleogene
+Location: Coney
+Within the greater Ruby Mountains–East Humboldt Range–Wood Hills–Pequop Mountains metamorphic core complex, initial core complex exhumation has been variably assigned to the Late Cretaceous (Hodges et al., 1992; Camilleri and Chamberlain, 1997; McGrew et al., 2000), Eocene (Wright and Snoke, 1993; McGrew and Snee, 1994; MacCready et al., 1997; Litherland and Klemperer, 2017), or Oligocene–Miocene (Fig2B; Dokka et al., 1986; Hurlow et al., 1991; Colgan et al., 2010; Haines and van der Pluijm, 2010)
+Key words: Ruby Mountains–East Humboldt Range–Wood Hills–Pequop, Mountains, metamorphic core, initial core, complex exhumation, Late Cretaceous, Hodges, Camilleri, Chamberlain, McGrew, Eocene, Wright, Snoke, McGrew, Snee, MacCready, Litherland, Klemperer, Oligocene–Miocene, Fig2B, Dokka, Hurlow, Colgan, Haines, van der, Pluijm
+Substance: metamorphic core
+Time: Late Cretaceous, Eocene, Oligocene–Miocene
+Location: Pequop, Mountains, Snoke
+In this metamorphic core complex, basement thermobarometry and U-Pb crystallization ages have been interpreted to record exhumation from Cretaceous midcrustal depths (20–30 km; e.g., Dallmeyer et al., 1986; Mueller and Snoke, 1993; Camilleri and Chamberlain, 1997; McGrew et al., 2000; Druschke et al., 2009a; Hallett and Spear, 2014), mica 40Ar/39Ar thermochronology suggests rocks in the southern Ruby Mountains passed through the ~400 °C isotherm between 33 and 21 Ma (Dallmeyer et al., 1986; McGrew and Snee, 1994), and apatite (U-Th)/He thermochronometry recorded cooling to <70 °C between 17 and 10 Ma (Colgan et al., 2010)However, all of these thermochronometric data do not constrain the crustal thermal evolution prior to cooling through the ~400 °C isotherm and are hence insensitive to the pre–33 Ma exhumation history, despite general agreement on evidence for some degree of Late Cretaceous through Oligocene exhumation (e.g., Snoke and Miller, 1988; McGrew et al., 2000; Satarugsa and Johnson, 2000; Hallett and Spear, 2015; Litherland and Klemperer, 2017)
+Key words: metamorphic core, basement thermobarometry, U-Pb, crystallization ages, record exhumation, Cretaceous, midcrustal depths, Dallmeyer, Mueller, Snoke, Camilleri, Chamberlain, McGrew, Druschke, Hallett, Spear, thermochronology suggests rocks, Ruby, Mountains, °C isotherm, 33 and, 21 Ma, Dallmeyer, McGrew, Snee, U-Th, /He thermochronometry, 17 and, 10 Ma, Colgan, thermochronometric data, crustal thermal evolution, °C isotherm, Ma, exhumation history, general agreement, Late Cretaceous, Oligocene, Snoke, Miller, McGrew, Satarugsa, Johnson, Hallett, Spear, Litherland, Klemperer
+Substance: metamorphic core, crystallization ages, midcrustal depths, thermochronology suggests rocks, crustal thermal evolution
+Time: Cretaceous, 33 and, 21 Ma, 17 and, 10 Ma, Late Cretaceous, Oligocene
+Location: Snoke, Ruby, Mountains
+However, all of these thermochronometric data do not constrain the crustal thermal evolution prior to cooling through the ~400 °C isotherm and are hence insensitive to the pre–33 Ma exhumation history, despite general agreement on evidence for some degree of Late Cretaceous through Oligocene exhumation (e.g., Snoke and Miller, 1988; McGrew et al., 2000; Satarugsa and Johnson, 2000; Hallett and Spear, 2015; Litherland and Klemperer, 2017)Widespread deposition of Paleogene clastic sedimentary rocks, preserved across the hinterland, spanned this time interval and so Paleogene basins would have received both volcanic influx and possible synextensional lower-plate detritus at the time
+Key words: thermochronometric data, crustal thermal evolution, °C isotherm, Ma, exhumation history, general agreement, Late Cretaceous, Oligocene, Snoke, Miller, McGrew, Satarugsa, Johnson, Hallett, Spear, Litherland, Klemperer, Widespread, Paleogene, clastic sedimentary rocks, time interval, Paleogene, possible synextensional lower-plate detritus
+Substance: crustal thermal evolution, clastic sedimentary rocks
+Time: Late Cretaceous, Oligocene, Paleogene
+Location: 
+Widespread deposition of Paleogene clastic sedimentary rocks, preserved across the hinterland, spanned this time interval and so Paleogene basins would have received both volcanic influx and possible synextensional lower-plate detritus at the timeDetrital zircon U-Pb and (U-Th)/He double dating permits identification of volcanic detritus so that it can be excluded from lag-time analysis (Saylor et al., 2012) and exhumation patterns can be assessed
+Key words: Widespread, Paleogene, clastic sedimentary rocks, time interval, Paleogene, possible synextensional lower-plate detritus, timeDetrital zircon, U-Pb, U-Th, /He double, volcanic detritus, lag-time analysis, Saylor, exhumation patterns
+Substance: clastic sedimentary rocks, timeDetrital zircon
+Time: Paleogene
+Location: 
+Resulting lag times of Eocene strata provide critical new insights into the kinematic and exhumation history of the hinterland.Eocene fluvial and lacustrine strata in northeastern Nevada range in age from ca
+Key words: Resulting, Eocene, critical new insights, exhumation history, hinterland.Eocene fluvial, lacustrine strata, Nevada
+Substance: 
+Time: Eocene, hinterland.Eocene fluvial
+Location: 
+Eocene fluvial and lacustrine strata in northeastern Nevada range in age from ca50 to 38 Ma (Rahl et al., 2002; Smith et al., 2017)
+Key words: Eocene, lacustrine strata, Nevada, 38 Ma, Rahl, Smith
+Substance: 
+Time: Eocene, 38 Ma
+Location: 
+While this early Cenozoic sedimentary record was disrupted by widespread high-angle Neogene extensional faulting and unconformity (Haynes, 2003; Lund Snee et al., 2016;  Camilleri et al., 2017), surviving strata are well dated via singlecrystal sanidine 40Ar/39Ar geochronology (Smith et al., 2017), providing a basis for correlation and reconstruction of basin formation and evolution (Fig1A).
+Key words: Cenozoic, sedimentary record, widespread high-angle, Neogene, Haynes, Lund Snee, Camilleri, singlecrystal sanidine, Smith, basin formation, Fig1A
+Substance: sedimentary record, singlecrystal sanidine, basin formation
+Time: Cenozoic, Neogene
+Location: 
+This technique has great utility in the Cordilleran hinterland, where Eocene sedimentary deposits are widely dispersed (Fig2), and they contain zircon grains with complex thermal histories that span the Phanerozoic
+Key words: great utility, Cordilleran, Eocene, sedimentary deposits, Fig2, zircon grains, complex thermal histories, Phanerozoic
+Substance: sedimentary deposits, zircon grains
+Time: Eocene, Phanerozoic
+Location: Cordilleran
+2), and they contain zircon grains with complex thermal histories that span the PhanerozoicWhen combined with depositional age control from 40Ar/39Ar geochronology and volcanic zircons constraining maximum depositional ages, detrital zircon double dating provides time-temperature paths of many individual zircon crystals with varying geologic histories and permits documentation of exhumation rates across a large area
+Key words: zircon grains, complex thermal histories, PhanerozoicWhen, depositional age control, volcanic zircons, maximum depositional ages, detrital zircon double, time-temperature paths, individual zircon crystals, geologic histories, exhumation rates, large area
+Substance: zircon grains, depositional age control, volcanic zircons, maximum depositional ages, detrital zircon double, individual zircon crystals
+Time: PhanerozoicWhen
+Location: 
+This also allows for estimation of lag times, which can be used to reconstruct the early Cenozoic exhumation history of the Cordilleran hinterland in northeastern NevadaThe zircon (U-Th)/(He-Pb) double dating approach is critical for this type of study because first-cycle volcanic zircons (U-Pb age = ZHe age) must be excluded for robust and reliable lag-time analysis (Saylor et al., 2012)
+Key words: Cenozoic, exhumation history, Cordilleran, NevadaThe, U-Th, He-Pb, first-cycle volcanic zircons, U-Pb, age =, ZHe, reliable lag-time analysis, Saylor
+Substance: first-cycle volcanic zircons
+Time: Cenozoic
+Location: 
+The orogenic thickening of the North American Cordillera reflects the combination of multiple contractional tectonic events from the late Paleozoic to the Paleogene (e.g., Dickinson,Figure 2
+Key words: Cordillera, multiple contractional tectonic events, Paleozoic, Paleogene, Dickinson, Figure
+Substance: multiple contractional tectonic events
+Time: Paleozoic, Paleogene
+Location: 
+(2017); Eocene volcanic centers are from Henry et al(2011); Eocene intrusions and dike orientations are from Henry et al
+Key words: Eocene, volcanic centers, Henry, Eocene, dike orientations, Henry
+Substance: 
+Time: Eocene
+Location: 
+(2011); Eocene intrusions and dike orientations are from Henry et al(2001), Ressel and Henry (2006), and du Bray (2007)
+Key words: Eocene, dike orientations, Henry, Ressel, Henry, Bray
+Substance: 
+Time: Eocene
+Location: 
+(B) Time constraints for previously proposed Cretaceous–Paleogene rapid exhumation and extension in northeastern Nevada (numbers correspond to field localities in Table 1)RM-EH MCC—Ruby Mountains–East Humboldt Range metamorphic core complex
+Key words: Time constraints, Cretaceous–Paleogene, rapid exhumation, Nevada, numbers correspond, Table, RM-EH MCC—Ruby Mountains–East Humboldt, Range metamorphic core
+Substance: Range metamorphic core
+Time: Cretaceous–Paleogene
+Location: 
+(C) Palinspastic and paleo-isopach reconstruction of Eocene crustal thickness from Coney and Harms (1984)(D) Simplified map of modern crustal thickness from Gilbert (2012)
+Key words: Palinspastic, paleo-isopach reconstruction, Eocene, crustal thickness, Coney, Harms, D, Simplified, modern crustal thickness, Gilbert
+Substance: crustal thickness, modern crustal thickness
+Time: Eocene
+Location: Coney
+2006), as well as protracted rifted- and passivemargin sediment accumulation that resulted in an ~11-km-thick succession of Proterozoic– Paleo zoic strata in eastern Nevada (Miller et al., 1992; Camilleri and Chamberlain, 1997; Crafford, 2008; Pape et al., 2016)During the Late Devonian to early Mississippian Antler orogeny, Cambrian through Devonian deep-marine rocks of the Roberts Mountains allochthon were emplaced above the Roberts Mountains thrust over coeval shelf facies of the Cordilleran passivemargin sequence (Fig
+Key words: passivemargin sediment accumulation, Proterozoic– Paleo, zoic strata, Nevada, Miller, Camilleri, Chamberlain, Crafford, Pape, Late Devonian, Mississippian Antler, Cambrian, Devonian, deep-marine rocks, Roberts, Mountains, Roberts, Mountains, coeval shelf facies, Cordilleran, passivemargin sequence, Fig
+Substance: passivemargin sediment accumulation, deep-marine rocks
+Time: Proterozoic– Paleo, Late Devonian, Mississippian Antler, Cambrian, Devonian
+Location: Crafford, Roberts, Mountains
+During the Late Devonian to early Mississippian Antler orogeny, Cambrian through Devonian deep-marine rocks of the Roberts Mountains allochthon were emplaced above the Roberts Mountains thrust over coeval shelf facies of the Cordilleran passivemargin sequence (Fig1; Trexler et al., 2004; Gehrels and Pecha, 2014; Linde et al., 2016)
+Key words: Late Devonian, Mississippian Antler, Cambrian, Devonian, deep-marine rocks, Roberts, Mountains, Roberts, Mountains, coeval shelf facies, Cordilleran, passivemargin sequence, Fig1, Trexler, Gehrels, Pecha, Linde
+Substance: deep-marine rocks
+Time: Late Devonian, Mississippian Antler, Cambrian, Devonian
+Location: Roberts, Mountains
+The last stages of Antler orogenesis shed up to 2.5 km of clastic detritus (Mississippian Diamond Peak Formation) into the Antler foreland basin of eastern Nevada (Fig1B; Poole, 1974; Silitonga, 1974; Poole and Sandberg, 1977).
+Key words: Antler, clastic detritus, Mississippian Diamond Peak Formation, Antler, foreland basin, Nevada, Fig1B, Poole, Silitonga, Poole, Sandberg
+Substance: clastic detritus, Mississippian Diamond Peak Formation, Sandberg
+Time: Mississippian Diamond Peak Formation
+Location: 
+Modest burial of Antler and subsequent overlap strata is indicated by low (≤2.5) conodont color alteration indices (CAI) for Pennsylvanian– Triassic rocks (Harris and Crafford, 2007)In contrast, Roberts Mountains allochthon strata, particularly Ordovician strata of the Vinini Formation and Devonian strata of the Slaven Chert, commonly exhibit CAI >3 (Fig
+Key words: Modest, Antler, subsequent overlap strata, conodont color alteration indices, CAI, Pennsylvanian– Triassic, Harris, Crafford, Roberts, Mountains, allochthon strata, Ordovician, Vinini Formation, Devonian, Slaven Chert, CAI, Fig
+Substance: Vinini Formation, Slaven Chert
+Time: Pennsylvanian– Triassic, Ordovician, Devonian
+Location: Crafford, Roberts, Mountains
+In contrast, Roberts Mountains allochthon strata, particularly Ordovician strata of the Vinini Formation and Devonian strata of the Slaven Chert, commonly exhibit CAI >3 (Fig1A; Harris and Crafford, 2007), implying temperatures of at least 200 °C (Long and Soignard, 2016) and likely complete postdepositional thermal resetting of ZHe ages.
+Key words: Roberts, Mountains, allochthon strata, Ordovician, Vinini Formation, Devonian, Slaven Chert, CAI, Fig1A, Harris, Crafford, Soignard, likely complete postdepositional thermal, ZHe
+Substance: Vinini Formation, Slaven Chert, likely complete postdepositional thermal
+Time: Ordovician, Devonian
+Location: Roberts, Mountains, Crafford, Soignard
+During late Mesozoic times, Farallon plate subduction led to voluminous arc and backarc magmatism (Miller and Hoisch, 1995; Dickinson, 2006) and contractional deformation within the Sierran magmatic arc (Mookerjee et al., 2016), across hinterland fold-and-thrust belts (Long, 2012), and within the Sevier fold-andthrust belt (DeCelles, 2004)In eastern Nevada, Mesozoic deformation was characterized by low-angle faults, long-hinged folds, development of ~2 km of structural relief, and ~10 km of shortening within the Central Nevada fold-andthrust belt (DeCelles, 2004; Long, 2012, 2015)
+Key words: Mesozoic, Farallon, plate subduction, voluminous arc, backarc magmatism, Miller, Hoisch, Dickinson, contractional deformation, Sierran, magmatic arc, Mookerjee, hinterland fold-and-thrust belts, Sevier, fold-andthrust belt, DeCelles, Nevada, Mesozoic, low-angle faults, structural relief, Nevada, fold-andthrust belt, DeCelles
+Substance: contractional deformation
+Time: Mesozoic
+Location: Central
+In eastern Nevada, Mesozoic deformation was characterized by low-angle faults, long-hinged folds, development of ~2 km of structural relief, and ~10 km of shortening within the Central Nevada fold-andthrust belt (DeCelles, 2004; Long, 2012, 2015)In the Late Cretaceous, contraction shifted to a SW-NE orientation and arc magmatism ceased as the angle of the subducting plate shallowed (Humphreys, 2009; Heller et al., 2013)
+Key words: Nevada, Mesozoic, low-angle faults, structural relief, Nevada, fold-andthrust belt, DeCelles, Late Cretaceous, SW-NE, arc magmatism, Humphreys, Heller
+Substance: 
+Time: Mesozoic, Late Cretaceous
+Location: Central
+In the Late Cretaceous, contraction shifted to a SW-NE orientation and arc magmatism ceased as the angle of the subducting plate shallowed (Humphreys, 2009; Heller et al., 2013)This appears to have been associated with minor post-Sevier upper-crustal extension in eastern Nevada (e.g., Druschke et al., 2011)
+Key words: Late Cretaceous, SW-NE, arc magmatism, Humphreys, Heller, minor post-Sevier upper-crustal, Nevada, Druschke
+Substance: minor post-Sevier upper-crustal
+Time: Late Cretaceous
+Location: 
+By this time, the Cordilleran hinterland region had attained elevations of ≥2 km (Snell et al., 2014) and reached up to 3.5 km by the late Oligocene (Cassel et al., 2014)Farallon slab rollback in-
+Key words: Cordilleran, hinterland region, ≥2 km, Snell, Oligocene, Cassel, Farallon, slab rollback in-
+Substance: 
+Time: ≥2 km, Oligocene
+Location: 
+duced southwest-propagating volcanism, basin formation, <1 km of surface uplift, and drainage migration in the Eocene and Oligocene (Janecke and Snee, 1993; Smith et al., 2014, 2017; Cassel et al., 2014, 2018)The potential drivers of hinter land exhumation during this time are uncertain and include thermal weakening induced by slab rollback volcanism (e.g., Gans et al., 1989; Axen et al., 1993; Humphreys, 1995; Dinter, 1998; Rahl et al., 2002; Bendick and Baldwin, 2009; Brun et al., 2016), gravitational collapse of isostatically compensated crust (e.g., Burchfiel and Royden, 1985; Dewey, 1988; Platt, 2007), and lithospheric removal (e.g.,
+Key words: basin formation, surface uplift, drainage migration, Eocene, Oligocene, Janecke, Snee, Smith, Cassel, potential drivers, hinter land exhumation, slab rollback volcanism, Gans, Axen, Humphreys, Dinter, Rahl, Bendick, Baldwin, Brun, gravitational collapse, Burchfiel, Royden, Dewey, Platt, lithospheric removal
+Substance: basin formation, gravitational collapse
+Time: Eocene, Oligocene
+Location: 
+Detrital zircon from Eocene sandstone samples was double dated using (U-Th)/(He-Pb), and detrital apatite was analyzed using (U-Th)/He thermochronometry (Fig3)
+Key words: Detrital, Eocene, sandstone samples, U-Th, He-Pb, detrital apatite, U-Th, /He thermochronometry, Fig3
+Substance: sandstone samples, detrital apatite
+Time: Eocene
+Location: 
+While these effects become more amplified in samples with pre-Cenozoic cooling histories, we choseto minimize these effects: No metamict grains were selected; all selected double-dated zircon grains had eU concentrations of <800 ppm; and >97 percent of analyzed grains had eU concentrations of <400 ppm, based on the LA-ICP-MS U-Pb analyses of the same grains (Fig
+Key words: choseto minimize, metamict grains, zircon grains, eU concentrations, eU concentrations, LA-ICP-MS U-Pb, Fig
+Substance: metamict grains, zircon grains
+Time: 
+Location: 
+Nearly all detrital zircon and apatite grains that met the selection criteria discussed above and were not volcanic in origin (U-Pb age older than Eocene) were selected from each U-Pb dated sample for thermochronology.Lag time (L) is the difference between the cooling age and the depositional age for an individual detrital grain, and it provides a measure of hinterland exhumation rate, ignoring the fluvial transport duration (Brandon and Vance, 1992; Garver et al., 1999; Carrapa et al., 2003; Ruiz et al., 2004; Carrapa and DeCelles, 2008; Painter et al., 2014; Thomson et al., 2017)
+Key words: detrital zircon, apatite grains, selection criteria, U-Pb, Eocene, U-Pb, thermochronology.Lag time, depositional age, individual detrital grain, hinterland exhumation rate, fluvial transport duration, Brandon, Vance, Garver, Carrapa, Ruiz, Carrapa, DeCelles, Painter, Thomson
+Substance: detrital zircon, apatite grains, selection criteria, depositional age, individual detrital grain
+Time: Eocene
+Location: 
+Detrital zircon U-Pb and (U-Th)/He results for the Elko Basin and Mississippian Diamond Peak Formation(NV15-013PR) showing the relationships among cooling age (Ma), effective uranium content (eU), fractional helium loss ( percent), effective radius (μm), and crystallization age (Ma).
+Key words: Detrital, U-Pb, U-Th, /He results, Elko, Mississippian Diamond Peak Formation, NV15-013PR, Ma, effective uranium content, fractional helium loss, effective radius, crystallization age, Ma
+Substance: Mississippian Diamond Peak Formation, effective uranium content, crystallization age
+Time: Mississippian Diamond Peak Formation, NV15-013PR
+Location: Basin
+We generated 949 detrital zircon U-Pb ages and 137 detrital zircon (U-Th)/He ages from Eocene Elko Formation samples (Table 2)No zircon He ages were younger than the depositional age within 2σ uncertainties
+Key words: detrital zircon, U-Pb, detrital zircon, U-Th, /He ages, Eocene Elko Formation, Table, depositional age
+Substance: detrital zircon, Eocene Elko Formation, depositional age
+Time: Eocene Elko Formation
+Location: 
+Of samples deposited between 50 and 38 Ma, 9 percent of all double- dated detrital grains yielded Eocene cooling ages, whereas 31 percent yielded identical cooling and crystallization ages between 52 and 38 MaOf the remaining 69 percent of detrital zircon grains, 22 percent yielded crystallization and cooling ages
+Key words: 50 and, 38 Ma, detrital grains, Eocene, crystallization ages, 52 and, 38 MaOf, detrital zircon grains
+Substance: detrital grains, crystallization ages, detrital zircon grains
+Time: 50 and, 38 Ma, Eocene, 52 and, 38 MaOf
+Location: 
+(A) (U-Th)/(He-Pb) double-dated detrital zircon (DZ) grains extracted from Eocene sedimentary rocksThe Δt value is the difference between crystallization and cooling age for the same zircon grain
+Key words: U-Th, He-Pb, detrital zircon, DZ, Eocene, sedimentary rocksThe Δt value, zircon grain
+Substance: detrital zircon, sedimentary rocksThe Δt value, zircon grain
+Time: Eocene
+Location: 
+Thermal signature of the Mississippian Diamond Peak Formation is drawn from (U-Th)/(He-Pb) double-dated grains (white circles) extracted from a sample collected in the Pinon Range (Fig1A)
+Key words: Thermal, Mississippian Diamond Peak Formation, U-Th, He-Pb, white circles, Pinon, Fig1A
+Substance: Mississippian Diamond Peak Formation
+Time: Mississippian Diamond Peak Formation
+Location: 
+4), two grains gave Jurassic– Cretaceous U-Pb ages and Eocene He agesTwo Elko Formation samples and the Diamond Peak Formation sample showed a negative ZHe age–eU correlation (NV12-040CM, NV15168RM, and NV15-013PR; Fig
+Key words: Jurassic– Cretaceous U-Pb, Eocene, Elko Formation, Diamond Peak Formation, ZHe, age–eU correlation, NV12-040CM, NV15168RM, NV15-013PR, Fig
+Substance: Elko Formation, Diamond Peak Formation
+Time: Jurassic– Cretaceous U-Pb, Eocene, NV12-040CM, NV15168RM, NV15-013PR
+Location: 
+From 50 to 40 Ma, detrital zircon grains show an up-section shift from predominantly long (>100 m.y.) to short (<10 m.y.) lag times across the EoceneThe 50–45 Ma samples yielded >70 percent of grains with >100 m.y
+Key words: 40 Ma, detrital zircon grains, EoceneThe 50–45 Ma
+Substance: detrital zircon grains
+Time: 40 Ma, EoceneThe 50–45 Ma
+Location: 
+In contrast, middle to late-middle Eocene samples showed a substantial component of very long (>500 m.y.) zircon grain lag times, but they also had zircon and apatite grains with <10 m.ylag-time values
+Key words: Eocene, substantial component, zircon grain, apatite grains, m.ylag-time values
+Substance: substantial component, zircon grain, apatite grains
+Time: Eocene
+Location: 
+This abrupt middle Eocene transition from low to high zircon grain cooling rates was both spatially and temporally synchronous with lake basin expansion and the arrival of volcanism at ca44 Ma (Fig
+Key words: abrupt middle, Eocene, high zircon grain, lake basin expansion, Ma, Fig
+Substance: high zircon grain
+Time: Eocene
+Location: 
+Detrital apatite extracted from three Eocene samples (n = 20) yielded predominantly late Cenozoic (U-Th)/He ages and lesser amounts of Eocene and Cretaceous cooling ages (Fig6)
+Key words: Detrital, three Eocene, n =, Cenozoic, U-Th, /He ages, lesser amounts, Eocene, Cretaceous, Fig6
+Substance: 
+Time: three Eocene, Cenozoic, Eocene, Cretaceous
+Location: 
+Prior determination of CAI values for Paleozoic–Mesozoic strata in northeastern Nevada showed that Mississippian–Triassic strata proximal to the Elko Basin generally have low values (CAI ≤2.5) that imply a lack of postdepositional heating beyond ~140 °C (Harris and Crafford, 2007)Additionally, the Mississippian Diamond Peak Formation sample (Fig
+Key words: CAI, Paleozoic–Mesozoic, Nevada, Mississippian–Triassic, strata proximal, Elko, low values, CAI, Harris, Crafford, Additionally, Mississippian Diamond Peak Formation, Fig
+Substance: Mississippian Diamond Peak Formation
+Time: Paleozoic–Mesozoic, Mississippian–Triassic, Mississippian Diamond Peak Formation
+Location: Basin, Crafford
+Additionally, the Mississippian Diamond Peak Formation sample (Fig1A; NV15-013PR) contained 50 percent Cretaceous, 33 percent Eocene, and 17 percent Oligocene apatite He grain ages, suggestive of incomplete postdepositional resetting
+Key words: Additionally, Mississippian Diamond Peak Formation, Fig1A, NV15-013PR, Cretaceous, Eocene, Oligocene, grain ages, incomplete postdepositional
+Substance: Mississippian Diamond Peak Formation, grain ages, incomplete postdepositional
+Time: Mississippian Diamond Peak Formation, NV15-013PR, Cretaceous, Eocene, Oligocene
+Location: 
+1A; NV15-013PR) contained 50 percent Cretaceous, 33 percent Eocene, and 17 percent Oligocene apatite He grain ages, suggestive of incomplete postdepositional resettingLow CAI values for proximal Paleozoic sedimentary rocks indicate that preservation of only partially reset pre-Neogene apatite He ages in Mississippian–Triassic strata is plausible
+Key words: NV15-013PR, Cretaceous, Eocene, Oligocene, grain ages, incomplete postdepositional resettingLow, CAI, Paleozoic, sedimentary rocks, reset pre-Neogene apatite, Mississippian–Triassic
+Substance: grain ages, incomplete postdepositional resettingLow, sedimentary rocks, reset pre-Neogene apatite
+Time: NV15-013PR, Cretaceous, Eocene, Oligocene, Paleozoic, reset pre-Neogene apatite, Mississippian–Triassic
+Location: 
+Low CAI values for proximal Paleozoic sedimentary rocks indicate that preservation of only partially reset pre-Neogene apatite He ages in Mississippian–Triassic strata is plausibleThe Roberts Mountains allochthon, however, lies to the west of the Elko Basin and commonly exhibits CAI >3 (Harris and Crafford, 2007), indicating substantial postdepositional heating (>200 °C; Fig
+Key words: Low CAI, Paleozoic, sedimentary rocks, reset pre-Neogene apatite, Mississippian–Triassic, Roberts, Mountains, Elko, CAI, Harris, Crafford, substantial postdepositional, Fig
+Substance: sedimentary rocks, reset pre-Neogene apatite, substantial postdepositional
+Time: Paleozoic, reset pre-Neogene apatite, Mississippian–Triassic
+Location: Basin, Crafford
+Elko Formation strata deposited near the Ruby Mountains–East Humboldt Range (e.g., NV12-102EH) contain apatite that was thermally reset during postdepositional burial and later exhumed during Miocene Basin and Range extension, with 89 percent of grains possessing 20–9 Ma He agesThe Eocene apatite He ages that were not reset suggest cooling of proximal source terranes at ca
+Key words: Elko Formation, Ruby Mountains–East Humboldt, NV12-102EH, postdepositional burial, Miocene, 20–9 Ma, Eocene, proximal source terranes
+Substance: Elko Formation, postdepositional burial
+Time: NV12-102EH, Miocene, 20–9 Ma, Eocene
+Location: Formation, Ruby, Mountains, Miocene, Basin
+The Eocene apatite He ages that were not reset suggest cooling of proximal source terranes at ca44 Ma and continued cooling until at least 39 Ma (Fig
+Key words: Eocene, proximal source terranes, Ma, 39 Ma, Fig
+Substance: 
+Time: Eocene, 39 Ma
+Location: 
+Eocene detrital zircon grains have crystallization and cooling ages that reflect a variety of Precambrian to Eocene tectonic pathways.Precambrian U-Pb detrital zircon ages are interpreted to be derived from the Appalachians (Dickinson and Gehrels, 2009), and of those grains, 25 percent yielded Late Devonian–Late Triassic ZHe ages recording either the widespread thermo-tectonic effects of Antler and Sonoma orogenesis or thermo-tectonic events in the original Appalachian sources (Fig
+Key words: Eocene, detrital zircon grains, Precambrian, Eocene, tectonic pathways.Precambrian, U-Pb, detrital zircon ages, Appalachians, Dickinson, Gehrels, Late Devonian–Late Triassic ZHe, widespread thermo-tectonic, Antler, Sonoma, thermo-tectonic events, Appalachian, Fig
+Substance: detrital zircon grains, detrital zircon ages
+Time: Eocene, Precambrian, tectonic pathways.Precambrian, Late Devonian–Late Triassic ZHe
+Location: 
+Precambrian U-Pb detrital zircon ages are interpreted to be derived from the Appalachians (Dickinson and Gehrels, 2009), and of those grains, 25 percent yielded Late Devonian–Late Triassic ZHe ages recording either the widespread thermo-tectonic effects of Antler and Sonoma orogenesis or thermo-tectonic events in the original Appalachian sources (Fig5A)
+Key words: Precambrian U-Pb, detrital zircon ages, Appalachians, Dickinson, Gehrels, Late Devonian–Late Triassic ZHe, widespread thermo-tectonic, Antler, Sonoma, thermo-tectonic events, Appalachian, Fig5A
+Substance: detrital zircon ages
+Time: Precambrian U-Pb, Late Devonian–Late Triassic ZHe
+Location: 
+PostMississippian pooled ZHe ages from the Elko Formation clustered in at least five groups that loosely correlate with apparent cooling events during the Early Permian, Early–Middle Triassic, Late Jurassic, Early Cretaceous, and middle Eocene (Fig6)
+Key words: PostMississippian, ZHe, Elko Formation, Early Permian, Early–Middle Triassic, Late Jurassic, Early Cretaceous, Eocene, Fig6
+Substance: Elko Formation
+Time: PostMississippian, Early Permian, Early–Middle Triassic, Late Jurassic, Early Cretaceous, Eocene
+Location: 
+We interpret the Early Permian ages to result from Antler orogenic deformation (e.g., Trexler et al., 2004).Precambrian zircon U-Pb crystallization age populations (1.8, 2.1, and 2.7 Ga) in several Eocene samples resemble the detrital zircon populations from the proximal Mississippian Diamond Peak Formation (Fig
+Key words: Early Permian, Antler, orogenic deformation, Trexler, .Precambrian zircon, U-Pb, crystallization age populations, 2.7 Ga, Eocene, samples resemble, detrital zircon populations, Mississippian Diamond Peak Formation, Fig
+Substance: orogenic deformation, .Precambrian zircon, crystallization age populations, detrital zircon populations, Mississippian Diamond Peak Formation
+Time: Early Permian, .Precambrian zircon, 2.7 Ga, Eocene, Mississippian Diamond Peak Formation
+Location: 
+Precambrian zircon U-Pb crystallization age populations (1.8, 2.1, and 2.7 Ga) in several Eocene samples resemble the detrital zircon populations from the proximal Mississippian Diamond Peak Formation (Fig5A)
+Key words: Precambrian, U-Pb, crystallization age populations, 2.7 Ga, Eocene, samples resemble, detrital zircon populations, Mississippian Diamond Peak Formation, Fig5A
+Substance: crystallization age populations, detrital zircon populations, Mississippian Diamond Peak Formation
+Time: Precambrian, 2.7 Ga, Eocene, Mississippian Diamond Peak Formation
+Location: 
+Grains interpreted to be derived from the Diamond Peak Formation are characterized by 64 percent Precambrian ZHe ages and 28 percent Paleozoic ZHe ages, and only 2 out of 24 grains have post-Mississippian ZHe ages (Fig5A)
+Key words: Grains, Diamond Peak Formation, Precambrian ZHe, Paleozoic ZHe, ZHe, Fig5A
+Substance: Grains, Diamond Peak Formation
+Time: Precambrian ZHe, Paleozoic ZHe
+Location: 
+Eocene samples that preserve pre-Mississippian cooling ages therefore possibly reflect derivation from the Diamond Peak Formation and likely other strata of the Late Devonian–middle Pennsylvanian Antler foreland basinSimilarly, Cretaceous sediments of the Newark Canyon Formation are also inferred to have been derived from erosion of proximal Antler foreland basin strata (Druschke et al., 2011), based on detrital zircon results, and they may also have sourced zircon grains with Precambrian crystallization ages.
+Key words: Eocene, reflect derivation, Diamond Peak Formation, Late Devonian–middle Pennsylvanian Antler, Cretaceous, Newark Canyon Formation, Antler, foreland basin strata, Druschke, detrital zircon results, zircon grains, Precambrian, crystallization ages
+Substance: Diamond Peak Formation, Newark Canyon Formation, detrital zircon results, zircon grains, crystallization ages
+Time: Eocene, Late Devonian–middle Pennsylvanian Antler, Cretaceous, Precambrian
+Location: 
+Similarly, Cretaceous sediments of the Newark Canyon Formation are also inferred to have been derived from erosion of proximal Antler foreland basin strata (Druschke et al., 2011), based on detrital zircon results, and they may also have sourced zircon grains with Precambrian crystallization ages.We used the above information to highlight four schematic cooling trajectories for Elko Formation detrital zircon grains (Fig
+Key words: Similarly, Cretaceous, Newark Canyon Formation, Antler, foreland basin strata, Druschke, detrital zircon results, zircon grains, Precambrian, crystallization ages.We, above information, Elko Formation, detrital zircon grains, Fig
+Substance: Newark Canyon Formation, detrital zircon results, zircon grains, crystallization ages.We, above information, Elko Formation, detrital zircon grains
+Time: Cretaceous, Precambrian
+Location: 
+6), including (A) erosion of Roberts Mountains allochthon strata followed by Cretaceous and Eocene recycling at shallow crustal depths, (B) recycling of Roberts Mountains allochthon strata into the Antler foreland basin (Diamond Peak Formation) and retention in the shallow crust, (C) burial of Roberts Mountains allochthon strata during the Antler orogeny followed by late Paleozoic cooling above the zircon closure temperature, and (D) burial of Roberts Mountains allochthon strata during the Antler orogeny, retention below the zircon closure temperature, and rapid Eocene exhumationOf these trajectories, only time-temperature path D can account for zircon grains with pre-Jurassic U-Pb ages and Eocene He ages.
+Key words: Roberts, Mountains, allochthon strata, Cretaceous, Eocene, shallow crustal depths, Roberts, Mountains, allochthon strata, Antler, foreland basin, Diamond Peak Formation, shallow crust, Roberts, Mountains, allochthon strata, Antler, Paleozoic, zircon closure temperature, D, Roberts, Mountains, allochthon strata, Antler, zircon closure temperature, Eocene, time-temperature path, D, zircon grains, U-Pb, Eocene
+Substance: shallow crustal depths, Diamond Peak Formation, shallow crust, zircon closure temperature, zircon grains
+Time: Cretaceous, Eocene, Paleozoic
+Location: Roberts, Mountains
+Of these trajectories, only time-temperature path D can account for zircon grains with pre-Jurassic U-Pb ages and Eocene He ages.A comparison of He and depositional ages for detrital zircon grains with Jurassic and Cretaceous U-Pb ages (200–110 Ma) showed that a subset of these grains was rapidly exhumed from ~6 to 9 km depth between ca
+Key words: time-temperature path, D, zircon grains, U-Pb, Eocene, ages.A comparison, depositional ages, detrital zircon grains, Jurassic, Cretaceous U-Pb, 200–110 Ma, km depth
+Substance: zircon grains, depositional ages, detrital zircon grains
+Time: Eocene, Jurassic, Cretaceous U-Pb, 200–110 Ma
+Location: 
+A comparison of He and depositional ages for detrital zircon grains with Jurassic and Cretaceous U-Pb ages (200–110 Ma) showed that a subset of these grains was rapidly exhumed from ~6 to 9 km depth between ca45 and 40 Ma (Fig
+Key words: depositional ages, detrital zircon grains, Jurassic, Cretaceous U-Pb, 200–110 Ma, km depth, 40 Ma, Fig
+Substance: depositional ages, detrital zircon grains
+Time: Jurassic, Cretaceous U-Pb, 200–110 Ma, 40 Ma
+Location: 
+Thermobarometry of Late Jurassic backarc plutons in eastern Nevada and western Utah delineates a zone of relatively shallow (<7 km) plutonic emplacement roughly to the north and west of the Ruby Mountains–East Humboldt Range–Wood Hills–Pequop Mountains metamorphic core complex and a zone of deeper (>7 km) plutonic emplacement to the east and south of the metamorphic core complex (Miller and Hoisch, 1995)Samples collected closest to the Ruby Mountains (168RM, 241RM, and 102EH) have the lowest Δt values: ~25 m.y
+Key words: Thermobarometry, Late Jurassic, backarc plutons, Nevada, plutonic emplacement, Ruby Mountains–East Humboldt Range–Wood Hills–Pequop, Mountains, metamorphic core, plutonic emplacement, metamorphic core, Miller, Hoisch, Samples, Ruby, Mountains, Δt values
+Substance: plutonic emplacement, metamorphic core
+Time: Late Jurassic
+Location: Ruby, Mountains, Pequop
+for Jurassic and Cretaceous detrital zircon grains, where Δt is the time between crystallization and cooling (Fig5B)
+Key words: Jurassic, Cretaceous, detrital zircon grains, Fig5B
+Substance: detrital zircon grains
+Time: Jurassic, Cretaceous
+Location: 
+Late Jurassic–Early Cretaceous volcanic zircon grains (169–142 Ma) were likely derived from air-fall tuffs associated with a Sierra Nevada high-flux event (Fig5B; DeCelles and Graham, 2015) or the Jurassic Frenchie Creek Volcanics in the proximal Cortez Mountains (Muffler, 1964; Hollingsworth et al., 2018)
+Key words: Late Jurassic–Early Cretaceous, volcanic zircon grains, 169–142 Ma, air-fall tuffs, Sierra Nevada, high-flux event, Fig5B, DeCelles, Graham, Jurassic Frenchie Creek Volcanics, Cortez, Mountains, Muffler, Hollingsworth
+Substance: volcanic zircon grains, air-fall tuffs
+Time: Late Jurassic–Early Cretaceous, 169–142 Ma, Jurassic Frenchie Creek Volcanics
+Location: Sierra, Mountains
+5B; DeCelles and Graham, 2015) or the Jurassic Frenchie Creek Volcanics in the proximal Cortez Mountains (Muffler, 1964; Hollingsworth et al., 2018)Several samples deposited between 50 and 39 Ma contained detrital zircon grains with Δt values that equal zero within 2σ analytical uncertainty, suggesting these are first-cycle volcanic grains
+Key words: DeCelles, Graham, Jurassic Frenchie Creek Volcanics, Cortez, Mountains, Muffler, Hollingsworth, 50 and, 39 Ma, detrital zircon grains, Δt values, equal zero, analytical uncertainty, first-cycle volcanic grains
+Substance: detrital zircon grains, first-cycle volcanic grains
+Time: Jurassic Frenchie Creek Volcanics, 50 and, 39 Ma
+Location: Mountains
+All double-dated zircon grains with Eocene U-Pb ages were found to be first-cycle volcanic in nature (L = 0), implying that Eocene plutons were likely not yet unroofed at this timeIf Eocene plutons were synkinematically emplaced during rapid exhumation, however, they may approximate L = 0.
+Key words: zircon grains, Eocene U-Pb, first-cycle volcanic, L =, Eocene, Eocene, rapid exhumation, approximate L =
+Substance: zircon grains
+Time: Eocene U-Pb, Eocene
+Location: 
+If Eocene plutons were synkinematically emplaced during rapid exhumation, however, they may approximate L = 0.Lag-time trends and detrital He age distributions in the early and middle Eocene were evaluated for three intervals: 50–45 Ma (n = 43), 45–43 Ma (n = 12), and 43–41 Ma (n = 53) to determine sediment recycling and exhumation trends and ultimately to reconstruct the tectonic setting during deposition and basin development.
+Key words: Eocene, rapid exhumation, approximate L =, age distributions, Eocene, 50–45 Ma, n =, 45–43 Ma, n =, 43–41 Ma, n =, exhumation trends, tectonic setting, basin development
+Substance: 
+Time: Eocene, 50–45 Ma, 45–43 Ma, 43–41 Ma
+Location: 
+Lag-time trends and detrital He age distributions in the early and middle Eocene were evaluated for three intervals: 50–45 Ma (n = 43), 45–43 Ma (n = 12), and 43–41 Ma (n = 53) to determine sediment recycling and exhumation trends and ultimately to reconstruct the tectonic setting during deposition and basin development.At the onset of Elko Formation deposition, detrital zircon grains with Proterozoic U-Pb ages, Paleozoic–Mesozoic ZHe ages, and predominantly long (>100 m.y.) lag times accumulated in braided streams east of the Cordilleran paleodivide (Fig
+Key words: Lag-time, age distributions, Eocene, 50–45 Ma, n =, 45–43 Ma, n =, 43–41 Ma, n =, exhumation trends, tectonic setting, basin development.At, Elko Formation, detrital zircon grains, Proterozoic U-Pb, Paleozoic–Mesozoic ZHe, Cordilleran, Fig
+Substance: Elko Formation, detrital zircon grains
+Time: Eocene, 50–45 Ma, 45–43 Ma, 43–41 Ma, Proterozoic U-Pb, Paleozoic–Mesozoic ZHe
+Location: 
+At the onset of Elko Formation deposition, detrital zircon grains with Proterozoic U-Pb ages, Paleozoic–Mesozoic ZHe ages, and predominantly long (>100 m.y.) lag times accumulated in braided streams east of the Cordilleran paleodivide (Fig3; Smith et al., 2017; Cassel et al., 2018)
+Key words: Elko Formation, detrital zircon grains, Proterozoic U-Pb, Paleozoic–Mesozoic ZHe, Cordilleran, Fig3, Smith, Cassel
+Substance: Elko Formation, detrital zircon grains
+Time: Proterozoic U-Pb, Paleozoic–Mesozoic ZHe
+Location: 
+All early to early–middle Eocene samples also contained zircon with U-Pb ages consistent with derivation from the proximal Roberts Mountains allochthon and Antler foreland basin strataLong-term storage of this sediment in the shallow crust is reflected by overlapping U-Pb age distributions of Paleozoic passive-margin strata (Fig
+Key words: Eocene, U-Pb, ages consistent, Roberts, Mountains, Antler, foreland basin strataLong-term storage, shallow crust, U-Pb, age distributions, Paleozoic, passive-margin strata, Fig
+Substance: shallow crust
+Time: Eocene, Paleozoic
+Location: Roberts, Mountains
+Long-term storage of this sediment in the shallow crust is reflected by overlapping U-Pb age distributions of Paleozoic passive-margin strata (Fig1B) and the similarity of clast assemblages in Eocene, Cretaceous, and Mississippian–Permian clastic strata (Silitonga, 1974; Haynes, 2003; Druschke et al., 2011)
+Key words: Long-term storage, shallow crust, U-Pb, age distributions, Paleozoic, passive-margin strata, Fig1B, clast assemblages, Eocene, Cretaceous, Mississippian–Permian, clastic strata, Silitonga, Haynes, Druschke
+Substance: shallow crust, clast assemblages, clastic strata
+Time: Paleozoic, Eocene, Cretaceous, Mississippian–Permian
+Location: 
+1B) and the similarity of clast assemblages in Eocene, Cretaceous, and Mississippian–Permian clastic strata (Silitonga, 1974; Haynes, 2003; Druschke et al., 2011)White et al
+Key words: clast assemblages, Eocene, Cretaceous, Mississippian–Permian, clastic strata, Silitonga, Haynes, Druschke
+Substance: clast assemblages, clastic strata
+Time: Eocene, Cretaceous, Mississippian–Permian
+Location: 
+A sample collected from the Tuscarora Mountains contains 51 percent middle Eocene detrital zircon U-Pb grain ages, implying substantial sediment contributions from proximal volcanic rocks by 44 ± 0.4 MaNumerous volcanic and volcaniclastic horizons, commonly <10 cm thick, are interc alated with Elko Formation strata and represent ash-fall deposits from encroaching volcanism (Smith et al., 2017)
+Key words: Tuscarora, Mountains, percent middle, Eocene, detrital zircon, U-Pb, grain ages, substantial sediment contributions, proximal volcanic rocks, 44 ±, 0.4 MaNumerous, volcaniclastic horizons, cm thick, Elko Formation, ash-fall deposits, Smith
+Substance: detrital zircon, grain ages, substantial sediment contributions, proximal volcanic rocks, volcaniclastic horizons, Elko Formation, ash-fall deposits
+Time: Eocene, 44 ±, 0.4 MaNumerous
+Location: Tuscarora, Mountains
+Two detrital apatite grains deposited at 43.9 ± 0.5 Ma near Robinson Mountain, however, have Eocene He ages (55.5 ± 3.3 Ma and 53.2 ± 3.2 Ma) that may reflect incipient upper-crust unroofing not yet recorded by the ZHe agesWe interpret these detrital apatite grains to be sourced from Jurassic plutonic rocks exposed ~20 km to the west in the Cortez Mountains (Hollingsworth et al., 2018)
+Key words: detrital apatite grains, 43.9 ±, 0.5 Ma, Robinson Mountain, Eocene, 55.5 ±, 3.3 Ma, 53.2 ±, 3.2 Ma, reflect incipient upper-crust, ZHe, detrital apatite grains, Jurassic, plutonic rocks, Cortez, Mountains, Hollingsworth
+Substance: detrital apatite grains, reflect incipient upper-crust, plutonic rocks
+Time: 43.9 ±, 0.5 Ma, Eocene, 55.5 ±, 3.3 Ma, 53.2 ±, 3.2 Ma, Jurassic
+Location: Mountain, Mountains
+We interpret these detrital apatite grains to be sourced from Jurassic plutonic rocks exposed ~20 km to the west in the Cortez Mountains (Hollingsworth et al., 2018)Detrital zircon grains from this sample include 39 percent Jurassic U-Pb ages, which match these sources as well
+Key words: detrital apatite grains, Jurassic, plutonic rocks, Cortez, Mountains, Hollingsworth, Detrital, zircon grains, Jurassic U-Pb
+Substance: detrital apatite grains, plutonic rocks, zircon grains
+Time: Jurassic, Jurassic U-Pb
+Location: Mountains
+Detrital zircon grains from this sample include 39 percent Jurassic U-Pb ages, which match these sources as wellSince apatite grains were not double dated, it is also possible that apatite grains with Eocene AHe ages are volcanic in origin
+Key words: Detrital, zircon grains, Jurassic U-Pb, wellSince apatite grains, apatite grains, Eocene AHe
+Substance: zircon grains, wellSince apatite grains, apatite grains
+Time: Jurassic U-Pb, Eocene AHe
+Location: 
+Since apatite grains were not double dated, it is also possible that apatite grains with Eocene AHe ages are volcanic in originFor this reason, all apatite grains were excluded from lag-time analysis
+Key words: apatite grains, apatite grains, Eocene AHe, apatite grains, lag-time analysis
+Substance: apatite grains
+Time: Eocene AHe
+Location: 
+Large climate-induced changes to the erosion rate are also unlikely during the studied time interval as (1) the Cordilleran hinterland is broadly characterized by low-magnitude erosional exhumation (Long, 2012), (2) Elko Formation deposition did not coincide with the middle Eocene climatic optimum (MECO; Smith et al., 2017), and (3) there is no notable increase in Elko Basin sediment accumulation ratesAn elevated geothermal gradient during the middle Eocene, however, is possibly supported by 40Ar/39Ar and U-Pb dating of proximal Carlin trend mineralization to between 42 and 36 Ma (Arehart et al., 2003; Cline et al., 2005)
+Key words: Large, erosion rate, time interval, Cordilleran, low-magnitude erosional exhumation, Elko Formation, Eocene, climatic optimum, MECO, Smith, notable increase, Elko, sediment accumulation ratesAn, geothermal gradient, Eocene, U-Pb, Carlin, trend mineralization, 42 and, 36 Ma, Arehart, Cline
+Substance: erosion rate, low-magnitude erosional exhumation, Elko Formation, sediment accumulation ratesAn, trend mineralization
+Time: Eocene, 42 and, 36 Ma
+Location: Basin
+An elevated geothermal gradient during the middle Eocene, however, is possibly supported by 40Ar/39Ar and U-Pb dating of proximal Carlin trend mineralization to between 42 and 36 Ma (Arehart et al., 2003; Cline et al., 2005)However, even assuming an extremely high geothermal gradient of ~130 °C/km during middle Eocene regional magmatism (Giordano et al., 2016), rapid cooling rates and exhumation of >1 km/m.y
+Key words: geothermal gradient, Eocene, U-Pb, Carlin, trend mineralization, 42 and, 36 Ma, Arehart, Cline, high geothermal gradient, Eocene, regional magmatism, Giordano
+Substance: trend mineralization
+Time: Eocene, 42 and, 36 Ma
+Location: 
+However, even assuming an extremely high geothermal gradient of ~130 °C/km during middle Eocene regional magmatism (Giordano et al., 2016), rapid cooling rates and exhumation of >1 km/m.ywould still be required within the Elko Basin catchment.
+Key words: high geothermal gradient, Eocene, regional magmatism, Giordano, Elko
+Substance: 
+Time: Eocene
+Location: Basin
+This rapid tectonic unroofing, recorded by ZHe cooling ages, contemporaneous regional northwest-striking dike swarms and shallow pluton emplacement (Henry and Boden, 1997, 1998; Henry et al., 1999; R essel and Henry, 2006), evidence for extensional reactivation of pre-Mesozoic faults (Cline et al., 2005; Ressel and Henry, 2006), and associated Au mineralization along the western margin of the Elko Basin (Arehart et al., 2003; Cline et al., 2005) all support extensional deformation within the Elko Basin catchment at this timeSeveral studies have also used mapped angular unconformities within volcanic rocks overlying Elko Formation strata to document surface-breaching extensional deformation during this time (e.g., Brooks et al., 1995; Mueller et al., 1999; Henry et al., 2001; Haynes, 2003; Lund Snee et al., 2016; Pape et al., 2016)
+Key words: rapid tectonic, ZHe, dike swarms, shallow pluton emplacement, Henry, Boden, Henry, R, Henry, extensional reactivation, pre-Mesozoic faults, Cline, Ressel, Henry, Au, Elko, Arehart, Cline, support extensional deformation, Elko, timeSeveral studies, angular unconformities, volcanic rocks, Elko Formation, extensional deformation, Brooks, Mueller, Henry, Haynes, Lund Snee, Pape
+Substance: shallow pluton emplacement, support extensional deformation, angular unconformities, volcanic rocks, Elko Formation, extensional deformation
+Time: pre-Mesozoic faults
+Location: Basin
+The noted absence of distinctive synextensional Elko Formation strata may reflect extensive Miocene sediment burial and cover of Eocene strata (Moore et al., 1983; Camilleri et al., 2017) or only limited fault control on basin accommodation (Fig7; Smith et al., 2017)
+Key words: distinctive synextensional, Elko Formation, Miocene, sediment burial, Eocene, Moore, Camilleri, fault control, basin accommodation, Fig7, Smith
+Substance: Elko Formation, sediment burial
+Time: Miocene, Eocene
+Location: 
+This study is the first to provide quantitative constraints on the magnitude and timing of Paleogene exhumation, which permits evaluation of the drivers of hinterland extension and the resulting implications for the evolution of the Cordilleran hinterland plateau.Zircon grains with <10 m.y
+Key words: quantitative constraints, Paleogene, Cordilleran, hinterland plateau.Zircon grains
+Substance: hinterland plateau.Zircon grains
+Time: Paleogene
+Location: 
+Within the East Humboldt Range and northern Ruby Mountains, crustal flow and extensional exhumation along the mylonitic shear zone are thought to have initiated in the Eocene (Mueller and Snoke, 1993; MacCready et al., 1997), but the thermochronologic record of rocks currently exposed at the surface are dominated by late Oligocene–Miocene cooling ages (Fig8)
+Key words: Humboldt, Ruby, Mountains, crustal flow, extensional exhumation, mylonitic shear zone, Eocene, Mueller, Snoke, MacCready, thermochronologic record, Oligocene–Miocene, Fig8
+Substance: crustal flow, mylonitic shear zone
+Time: Eocene, Oligocene–Miocene
+Location: Ruby, Mountains, Snoke
+To ascertain the nature of Eocene core complex development, additional thermochronology of rocks from a wider range of structural levels is needed, including directly beneath the Ruby detachment faultIt is also possible, however, that this early exhumation record is eroded and only now preserved within the Elko Basin (Fig
+Key words: Eocene, complex development, additional thermochronology, structural levels, Ruby, detachment faultIt, early exhumation record, Elko, Fig
+Substance: 
+Time: Eocene
+Location: Basin
+While mylonitic clasts of the core complex do not appear in adjacent basins until the Miocene (Colgan et al., 2010; McGrew and Snoke, 2015; Lund Snee et al., 2016), unroofing of >6 km of Precambrian–Pennsylvanian sedimentary strata (Colgan et al., 2010) prior to exposure of the mylonitic crystalline core may have initiated during the Eocene (McGrew and Snee, 1994; MacCready et al., 1997; McGrew et al., 2000; Litherland and Klemperer, 2017)Several metamorphic core complexes in the northern Rocky Mountains record cooling ages that possibly correlate with this initial phase of rapid extension at ca
+Key words: mylonitic clasts, adjacent basins, Miocene, Colgan, McGrew, Snoke, Lund Snee, Precambrian–Pennsylvanian, sedimentary strata, Colgan, mylonitic crystalline core, Eocene, McGrew, Snee, MacCready, McGrew, Litherland, Klemperer, metamorphic core complexes, Rocky, Mountains, initial phase
+Substance: mylonitic clasts, sedimentary strata, mylonitic crystalline core, metamorphic core complexes, Rocky
+Time: Miocene, Precambrian–Pennsylvanian, Eocene
+Location: Snoke, Rocky, Mountains
+The high middle Eocene cooling rates from samples collected near the incipient Ruby Mountains–East Humboldt Range–Wood Hills–Pequop Mountains metamorphic core complex may reflect cooling of partially molten crust along a high geothermal gradient (Whitney et al., 2013)If these shortlag-time grains were sourced from the Ruby Mountains–East Humboldt Range–Wood Hills– Pequop Mountains metamorphic core complex, it would imply that the core complex was characterized by episodes of fast cooling initiating in the middle Eocene, rather than monotonous and protracted cooling (i.e., Rey et al., 2009b).
+Key words: high middle, Eocene, Ruby Mountains–East Humboldt Range–Wood Hills–Pequop, Mountains, metamorphic core, molten crust, high geothermal gradient, Whitney, shortlag-time grains, Ruby Mountains–East Humboldt Range–Wood Hills– Pequop, Mountains, metamorphic core, Eocene, Rey
+Substance: metamorphic core, molten crust, shortlag-time grains
+Time: Eocene
+Location: Pequop, Mountains
+If these shortlag-time grains were sourced from the Ruby Mountains–East Humboldt Range–Wood Hills– Pequop Mountains metamorphic core complex, it would imply that the core complex was characterized by episodes of fast cooling initiating in the middle Eocene, rather than monotonous and protracted cooling (i.e., Rey et al., 2009b).Volcanism in northern Nevada began as early as 45–44 Ma (Fig
+Key words: shortlag-time grains, Ruby Mountains–East Humboldt Range–Wood Hills– Pequop, Mountains, metamorphic core, Eocene, Rey, Nevada, 45–44 Ma, Fig
+Substance: shortlag-time grains, metamorphic core
+Time: Eocene, 45–44 Ma
+Location: Pequop, Mountains
+Basin-proximal magmatism began in the Tuscarora volcanic field at 40.2 Ma (Henry, 2008), and Eocene dikes and plutons intruded this area from 41 to 39 Ma (Henry and Boden, 1997, 1998; Henry et al., 1999; Ressel and Henry, 2006)The thermal effects of slab removal may induce localized extension, including initial core complex extension, directly prior to voluminous phases of volcanism associated with the rollback-driven influx of asthenosphere (Lister and Davis, 1989; Smith et al., 2014)
+Key words: Basin-proximal, Tuscarora, volcanic field, 40.2 Ma, Henry, Eocene, 39 Ma, Henry, Boden, Henry, Ressel, Henry, slab removal, initial core, voluminous phases, Lister, Davis, Smith
+Substance: 
+Time: 40.2 Ma, Eocene, 39 Ma
+Location: 
+Middle Eocene Y-rich growth zones on metamorphic zircons in the East Humboldt Range, as well as volcanic and intrusive rocks across northeastern Nevada (e.g., Henry and Boden, 1997; du Bray, 2007), record this peak phase of heating during slab-removal magmatism from ca40 to 32 Ma (Hallett and Spear, 2015)
+Key words: Eocene Y-rich, growth zones, metamorphic zircons, Humboldt, intrusive rocks, Nevada, Henry, Boden, Bray, peak phase, slab-removal magmatism, 32 Ma, Hallett, Spear
+Substance: metamorphic zircons, intrusive rocks
+Time: Eocene Y-rich, 32 Ma
+Location: East, Range
+Identification of rapid middle Eocene cooling rates during a previously unconstrained phase of deformation in the Cordilleran hinterland reveals a pivotal transition from slow to rapid exhumation, accommodated by an initial pulse of extensional deformationRecent paleoaltimetry shows that this region remained at high elevations of 2.7–3.1 km from 41 to 28 Ma (Cassel et al., 2014, 2018) and indicates that this extension did not result in widespread surface lowering
+Key words: Identification, rapid middle, Eocene, Cordilleran, hinterland reveals, pivotal transition, rapid exhumation, initial pulse, extensional deformationRecent paleoaltimetry shows, high elevations, 28 Ma, Cassel, widespread surface
+Substance: extensional deformationRecent paleoaltimetry shows
+Time: Eocene, 28 Ma
+Location: 
+During the late Eocene and early Oligocene, an unconformity across most of northeastern Nevada indicates that slab removal was followed by ~20 m.yof diminished surface deformation, prior to Miocene orogenic collapse (Colgan and Henry, 2009).
+Key words: Eocene, Oligocene, Nevada, slab removal, surface deformation, Miocene, orogenic collapse, Colgan, Henry
+Substance: surface deformation, orogenic collapse
+Time: Eocene, Oligocene, Miocene
+Location: 
+of diminished surface deformation, prior to Miocene orogenic collapse (Colgan and Henry, 2009).A compilation of magmatic and syn- to postcontractional records of extension within the North American Cordillera reveals several similarities to the tectonic evolution of other regions that have a history of synextensional magmatism and/or slab rollback (e.g., Stockli, 2005; Bonev and Beccaletto, 2007; Druschke et al., 2009b; Molnar et al., 2010; Wells et al., 2012; Horton, 2018; Rabillard et al., 2018)
+Key words: surface deformation, Miocene, orogenic collapse, Colgan, Henry, .A compilation, postcontractional records, Cordillera, tectonic evolution, synextensional magmatism and/or slab rollback, Stockli, Bonev, Beccaletto, Druschke, Molnar, Horton, Rabillard
+Substance: surface deformation, orogenic collapse, postcontractional records
+Time: Miocene
+Location: Stockli
+40 Ma, initial exhumation of metamorphic core complexes was accompanied by Paleogene basin formation and synextensional magmatism (Jolivet et al., 2003; Bonev and Beccaletto, 2007)The Basin and Range and Aegean/ Cycladic provinces therefore share a history of postcontractional basin formation and initial core complex exhumation during volcanism, all prior to widespread extension >20 m.y
+Key words: 40 Ma, initial exhumation, metamorphic core complexes, Paleogene, basin formation, synextensional magmatism, Jolivet, Bonev, Beccaletto, Aegean/ Cycladic, postcontractional basin formation, initial core, complex exhumation
+Substance: metamorphic core complexes, basin formation, postcontractional basin formation
+Time: 40 Ma, Paleogene
+Location: Paleogene, Aegean
+(U-Th)/(He-Pb) double dating shows that zircon grains in Eocene fluvial strata were predominantly derived from local Paleozoic strata, Jurassic–Cretaceous backarc plutons, and Eocene felsic volcanic rocksEocene sandstones contain multicycle zircon grains with Precambrian crystallization ages and Precambrian through Eocene cooling ages, as well as an increasing proportion of younger (150–40 Ma) ZHe ages up section, suggesting formation or capture of newly exhumed source terranes.
+Key words: U-Th, He-Pb, zircon grains, Eocene, fluvial strata, Paleozoic, Jurassic–Cretaceous, backarc plutons, Eocene, felsic volcanic rocksEocene sandstones, multicycle zircon grains, Precambrian, crystallization ages, Precambrian, Eocene, 150–40 Ma, ZHe, source terranes
+Substance: zircon grains, felsic volcanic rocksEocene sandstones, multicycle zircon grains, crystallization ages
+Time: Eocene, Paleozoic, Jurassic–Cretaceous, felsic volcanic rocksEocene sandstones, Precambrian, 150–40 Ma
+Location: 
+Eocene sandstones contain multicycle zircon grains with Precambrian crystallization ages and Precambrian through Eocene cooling ages, as well as an increasing proportion of younger (150–40 Ma) ZHe ages up section, suggesting formation or capture of newly exhumed source terranes.Early to middle Eocene samples contain abundant 56–45 Ma volcanic detritus that likely originated from the Challis volcanic province
+Key words: Eocene, multicycle zircon grains, Precambrian, crystallization ages, Precambrian, Eocene, 150–40 Ma, ZHe, Eocene, 56–45 Ma, volcanic detritus, Challis, volcanic province
+Substance: multicycle zircon grains, crystallization ages
+Time: Eocene, Precambrian, 150–40 Ma, 56–45 Ma
+Location: 
+Early to middle Eocene samples contain abundant 56–45 Ma volcanic detritus that likely originated from the Challis volcanic provinceWe interpret an up-section decrease in sediment source diversity based on the sudden middle Eocene disappearance of Challis-age grains and coincident increase in 43–39 Ma volcaniclastic material, reflecting increased exhumation and erosion of proximal sources.
+Key words: Early, Eocene, 56–45 Ma, volcanic detritus, Challis, volcanic provinceWe, sediment source diversity, sudden middle, Eocene, Challis-age, coincident increase, 43–39 Ma, volcaniclastic material, proximal sources
+Substance: sediment source diversity, volcaniclastic material
+Time: Eocene, 56–45 Ma, 43–39 Ma
+Location: 
+We interpret an up-section decrease in sediment source diversity based on the sudden middle Eocene disappearance of Challis-age grains and coincident increase in 43–39 Ma volcaniclastic material, reflecting increased exhumation and erosion of proximal sources.Many detrital zircon grains extracted from Eocene sedimentary rocks preserve Precambrian (32 percent) and Paleozoic (13 percent) cooling ages, and several samples show a negative correlation between He age and eU concentration, indicative of muted exhumation and prolonged sediment recycling in the upper crust across the contractile phase of the North American Cordillera
+Key words: sediment source diversity, sudden middle, Eocene, Challis-age, coincident increase, 43–39 Ma, volcaniclastic material, proximal sources.Many detrital zircon grains, Eocene, sedimentary rocks, preserve Precambrian, Paleozoic, negative correlation, eU concentration, upper crust, contractile phase, Cordillera
+Substance: sediment source diversity, volcaniclastic material, proximal sources.Many detrital zircon grains, sedimentary rocks, upper crust
+Time: Eocene, 43–39 Ma, preserve Precambrian, Paleozoic
+Location: 
+Many detrital zircon grains extracted from Eocene sedimentary rocks preserve Precambrian (32 percent) and Paleozoic (13 percent) cooling ages, and several samples show a negative correlation between He age and eU concentration, indicative of muted exhumation and prolonged sediment recycling in the upper crust across the contractile phase of the North American Cordillera(4) A progressive decrease in lag times of detrital grains up section indicates acceleration of source exhumation from rates of <0.01 km/m.y
+Key words: detrital zircon grains, Eocene, sedimentary rocks, preserve Precambrian, Paleozoic, negative correlation, eU concentration, upper crust, contractile phase, Cordillera, detrital grains, source exhumation
+Substance: detrital zircon grains, sedimentary rocks, upper crust, detrital grains
+Time: Eocene, preserve Precambrian, Paleozoic
+Location: 
+This extension was localized in spatial extent, with consistent recycling of Paleozoic bedrock detritus, and it likely signifies the initiation of rapid core complex exhumationAn ~15 m.y
+Key words: spatial extent, Paleozoic, bedrock detritus, likely signifies, rapid core, complex exhumationAn
+Substance: bedrock detritus
+Time: Paleozoic
+Location: 
+Best, M.G., Christiansen, E.H., de Silva, S., and Lipman, P.W., 2016, Slab-rollback ignimbrite flareups in the southern Great Basin and other Cenozoic American arcs: A distinct style of arc volcanism: Geosphere, v12, no
+Key words: M.G., Christiansen, E.H., Silva, S., Lipman, P.W., Slab-rollback, ignimbrite flareups, Cenozoic, American arcs, distinct style, arc volcanism, Geosphere
+Substance: 
+Time: Cenozoic
+Location: Great, Basin
+Brandon, M.T., and Vance, J.A., 1992, Tectonic evolution of the Cenozoic Olympic subduction complex, Washington State, as deduced from fission track ages for detrital zircons: American Journal of Science, v292, p
+Key words: Brandon, M.T., Vance, J.A., Tectonic, Cenozoic, Olympic subduction, Washington, fission track ages, detrital zircons, American Journal
+Substance: Washington, detrital zircons
+Time: Cenozoic
+Location: State
+Brooks, W.E., Thorman, C.H., and Snee, L.W., 1995, The 40Ar/39Ar ages and tectonic setting of the middle Eocene northeast Nevada volcanic field: Journal of Geophysical Research, v100, no
+Key words: Brooks, W.E., Thorman, C.H., Snee, L.W., tectonic setting, Eocene, Nevada, volcanic field, Geophysical
+Substance: Geophysical
+Time: Eocene
+Location: W.E.
+Camilleri, P.A., 1996, Evidence for Late Cretaceous–Early Tertiary(?) extension in the Pequop Mountains, Nevada: Implications for the nature of the Early Tertiary unconformity, in Taylor, W.J., and Holly, L., eds., Ceno zoic Structure and Stratigraphy of Central Nevada, 1996 Field Conference Volume: Reno, Nevada, Nevada Petroleum Society Inc., p23–31.
+Key words: Camilleri, P.A., Evidence, Late Cretaceous–Early Tertiary, Pequop, Mountains, Nevada, Implications, Early Tertiary, Taylor, W.J., Holly, L., Ceno, Structure, Stratigraphy, Nevada, Field Conference Volume, Reno, Nevada, Nevada Petroleum
+Substance: Structure
+Time: Late Cretaceous–Early Tertiary
+Location: Pequop, Mountains, Central
+Camilleri, P.A., and Chamberlain, K.R., 1997, Mesozoic tectonics and metamorphism in the Pequop Mountains and Wood Hills region, northeast Nevada: Implications for the architecture and evolution of the Sevier orogeny: Geological Society of America Bulletin, v109, p
+Key words: Camilleri, P.A., Chamberlain, K.R., Mesozoic, Pequop, Mountains, Wood, Hills, Nevada, Implications, Sevier, Geological, America Bulletin
+Substance: 
+Time: Mesozoic
+Location: Pequop, Mountains, Wood, Hills
+Camilleri, P., Deibert, J., and Perkins, M., 2017, Middle Miocene to Holocene tectonics, basin evolution, and paleogeography along the southern margin of the Snake River Plain in the Knoll Mountain–Ruby–East Humboldt Range region, northeastern Nevada and south-central Idaho: Geosphere, v13, no
+Key words: Camilleri, P., Deibert, J., Perkins, M., Miocene, Holocene, basin evolution, Snake, Plain, Mountain–Ruby–East Humboldt, Range region, Nevada, Idaho, Geosphere
+Substance: 
+Time: Miocene, Holocene
+Location: 
+Carrapa, B., and DeCelles, P.G., 2008, Eocene exhumation and basin development in the Puna of northwestern Argentina: Tectonics, v27, TC1015,
+Key words: Carrapa, B., DeCelles, P.G., Eocene, basin development, Puna, Argentina, Tectonics, TC1015
+Substance: 
+Time: Eocene, TC1015
+Location: 
+Carrapa, B., Strecker, M.R., and Sobel, E.R., 2006, Cenozoic orogenic growth in the Central Andes: Evidence from sedimentary rock provenance and apatite fission track thermochronology in the Fiambala Basin, southernmost Puna Plateau margin (NW Argentina): Earth and Planetary Science Letters, v247, no
+Key words: Carrapa, B., Strecker, M.R., Sobel, E.R., Cenozoic, orogenic growth, Andes, Evidence, sedimentary rock provenance, apatite fission track thermochronology, Fiambala, Puna Plateau, Argentina, Earth, Planetary, Science Letters
+Substance: sedimentary rock provenance, apatite fission track thermochronology
+Time: Cenozoic
+Location: Central, Fiambala, Basin, Puna, Plateau
+Cochran, W.J., Spotila, J.A., Prince, P.S., and McAleer, R.J., 2017, Rapid exhumation of Cretaceous arc-rocks along the Blue Mountains restraining bend of the EnriquilloPlantain Garden fault, Jamaica, using thermochronometry from multiple closure systems: Tectonophysics, v721, p
+Key words: Cochran, W.J., Spotila, J.A., P.S., McAleer, R.J., Rapid, Cretaceous, Mountains, EnriquilloPlantain, Garden fault, Jamaica, multiple closure systems, Tectonophysics
+Substance: 
+Time: Cretaceous
+Location: W.J., Spotila, Blue, Mountains, EnriquilloPlantain, Garden
+Colgan, J.P., and Henry, C.D., 2009, Rapid middle Miocene collapse of the Sevier orogenic plateau in north-central Nevada: International Geology Review, v51, no
+Key words: Colgan, J.P., Henry, C.D., Rapid, Miocene, Sevier, orogenic plateau, Nevada, Geology Review
+Substance: 
+Time: Miocene
+Location: 
+Colgan, J.P., Howard, K.A., Fleck, R.J., and Wooden, J.L., 2010, Rapid middle Miocene extension and unroofing of the southern Ruby Mountains, Nevada: Tectonics, v29, TC6022,
+Key words: Colgan, J.P., Howard, K.A., Fleck, R.J., Wooden, J.L., Rapid, Miocene, Ruby, Mountains, Nevada, Tectonics, TC6022
+Substance: 
+Time: Miocene, TC6022
+Location: J.P., Wooden, Ruby, Mountains
+Coney, P.J., and Harms, T.A., 1984, Cordilleran metamorphic core complexes: Cenozoic extensional relics of Mesozoic compression: Geology, v12, no
+Key words: Coney, P.J., Harms, T.A., Cordilleran, metamorphic core complexes, Cenozoic, extensional relics, Mesozoic, Geology
+Substance: metamorphic core complexes
+Time: Cenozoic, Mesozoic
+Location: Coney
+Crafford, E.J., 2008, Paleozoic tectonic domains of Nevada: An interpretive discussion to accompany the geologic map of Nevada: Geosphere, v4, no
+Key words: Crafford, E.J., Paleozoic, tectonic domains, Nevada, interpretive discussion, geologic map, Nevada, Geosphere
+Substance: 
+Time: Paleozoic
+Location: 
+Dallmeyer, R.D., Snoke, A., and McKee, E.H., 1986, The Mesozoic–Cenozoic tectonothermal evolution of the Ruby Mountains, East Humboldt Range, Nevada: A Cordilleran metamorphic core complex: Tectonics, v5, no
+Key words: Dallmeyer, R.D., Snoke, A., McKee, E.H., Mesozoic–Cenozoic, tectonothermal evolution, Ruby, Mountains, Humboldt, Nevada, Cordilleran, metamorphic core, Tectonics
+Substance: metamorphic core
+Time: Mesozoic–Cenozoic
+Location: Ruby, Mountains, East, Range
+DeCelles, P.G., 2004, Late Jurassic to Eocene evolution of the Cordilleran thrust belt and foreland basin system, western U.S.A.: American Journal of Science, v304, no
+Key words: DeCelles, P.G., Late Jurassic, Eocene, Cordilleran, thrust belt, foreland basin system, U.S.A., American Journal
+Substance: 
+Time: Late Jurassic, Eocene
+Location: western
+DeCelles, P.G., Carrapa, B., Horton, B.K., McNabb, J.,  Gehrels, G.E., and Boyd, J., 2015, The Miocene Arizaro Basin, central Andean hinterland: Response to partial lithosphere removal?, in DeCelles, P.G., et al., eds., Geodynamics of a Cordilleran Orogenic System: The Central Andes of Argentina and Northern Chile:Dewey, J.F., 1988, Extensional collapse of orogens: Tectonics, v
+Key words: DeCelles, P.G., Carrapa, B., Horton, B.K., McNabb, J., Gehrels, G.E., Boyd, J., Miocene Arizaro, Andean, partial lithosphere removal, DeCelles, P.G., Geodynamics, Cordilleran Orogenic, Andes, Argentina, Chile, Dewey, J.F., Extensional, Tectonics
+Substance: Geodynamics
+Time: Miocene Arizaro
+Location: Horton, Arizaro, Basin, DeCelles, Central, Northern, Dewey
+Dickinson, W.R., and Gehrels, G.E., 2009, Use of U-Pb ages of detrital zircons to infer maximum depositional ages of strata: A test against a Colorado Plateau Mesozoic database: Earth and Planetary Science Letters, v288, no
+Key words: Dickinson, W.R., Gehrels, G.E., U-Pb, detrital zircons, maximum depositional ages, Colorado Plateau Mesozoic, Earth, Planetary, Science Letters
+Substance: detrital zircons, maximum depositional ages
+Time: Colorado Plateau Mesozoic
+Location: W.R.
+Dinter, D.A., 1998, Late Cenozoic extension of the Alpine collisional orogen, northeastern Greece: Origin of the north Aegean basin: Geological Society of America Bulletin, v110, no
+Key words: Dinter, D.A., Late Cenozoic, Alpine, collisional orogen, Greece, Origin, Aegean, Geological, America Bulletin
+Substance: 
+Time: Late Cenozoic
+Location: Aegean
+Druschke, P., Hanson, A.D., Wells, M.L., Rasbury, T., Stockli, D.F., and Gehrels, G., 2009b, Synconvergent surface-breaking normal faults of Late Cretaceous age within the Sevier hinterland, east-central Nevada: Geol ogy, v37, no
+Key words: Druschke, P., Hanson, A.D., M.L., Rasbury, T., Stockli, D.F., Gehrels, G., Synconvergent, normal faults, Late Cretaceous, Sevier, Nevada, Geol
+Substance: normal faults
+Time: Late Cretaceous
+Location: Rasbury, Stockli
+Druschke, P., Hanson, A.D., Wells, M.L., Gehrels, G.E., and Stockli, D., 2011, Paleogeographic isolation of the Cretaceous to Eocene Sevier hinterland, east-central Nevada: Insights from U-Pb and (U-Th)/He detrital zircon ages of hinterland strata: Geological Society of America Bulletin, v123, no
+Key words: Druschke, P., Hanson, A.D., M.L., Gehrels, G.E., Stockli, D., Paleogeographic, Cretaceous, Eocene Sevier, Nevada, Insights, U-Pb, U-Th, /He detrital zircon ages, hinterland strata, Geological, America Bulletin
+Substance: Paleogeographic, /He detrital zircon ages
+Time: Cretaceous, Eocene Sevier
+Location: Stockli
+Dubiel, R.F., Potter, C.J., Good, S.C., and Snee, L.W., 1996, Reconstructing an Eocene extensional basin: The White Sage Formation, eastern Great Basin, in  Beratan, K.K., ed., Reconstructing the History of Basin and Range Extension Using Sedimentology and Stratigraphy: Geological Society of America Special Paper 303, p1–14,  
+Key words: Dubiel, R.F., Potter, C.J., S.C., Snee, L.W., Reconstructing, Eocene, extensional basin, Sage Formation, Beratan, K.K., Reconstructing, History, Range Extension, Sedimentology, Stratigraphy, Geological, America, Paper
+Substance: Sage Formation, Sedimentology
+Time: Eocene
+Location: L.W., Great, Basin, Beratan, K.K.
+Gehrels, G., and Pecha, M., 2014, Detrital zircon U-Pb geochronology and Hf isotope geochemistry of Paleozoic and Triassic passive margin strata of western North America: Geosphere, v10, no
+Key words: Gehrels, G., Pecha, M., Detrital, U-Pb, Hf, isotope geochemistry, Paleozoic, Triassic, America, Geosphere
+Substance: isotope geochemistry
+Time: Paleozoic, Triassic
+Location: North
+Haynes, S.R., 2003, Development of the Eocene Elko Basin, Northeastern Nevada: Implications for Paleogeography and Regional Tectonism [M.Sthesis]: Vancouver, British Columbia, Canada, University of British Columbia, 159 p.
+Key words: Haynes, S.R., Eocene Elko, Northeastern Nevada, Implications, Paleogeography, Tectonism, M.Sthesis, Vancouver, Columbia, Canada, Columbia
+Substance: 
+Time: Eocene Elko
+Location: Basin, Northeastern
+Heller, P.L., Mathers, G., Dueker, K., and Foreman, B., 2013, Far-traveled latest Cretaceous–Paleocene conglomerates of the Southern Rocky Mountains, USA: Record of transient Laramide tectonism: Geological Society of America Bulletin, v125, no
+Key words: Heller, P.L., Mathers, G., Dueker, K., Foreman, B., Far-traveled, Cretaceous–Paleocene, Rocky, Mountains, USA, Record, Laramide, Geological, America Bulletin
+Substance: Rocky
+Time: Cretaceous–Paleocene
+Location: P.L., Southern, Rocky, Mountains
+Henry, C.D., 2008, Ash-flow tuffs and paleovalleys in northeastern Nevada: Implications for Eocene paleogeography and extension in the Sevier hinterland, northern Great Basin: Geosphere, v4, no
+Key words: Henry, C.D., Ash-flow, Nevada, Implications, Eocene, Sevier, Geosphere
+Substance: Ash-flow
+Time: Eocene
+Location: Great, Basin
+Henry, C.D., and Boden, D.R., 1997, Eocene magmatism of the Tuscarora volcanic field, Elko County, Nevada, and implications for Carlin-type mineralization, in Vikre, P., et al., eds., Guidebook for the Society of Economic Geologists Field Conference: Littleton, Colorado, Society of Economic Geologists, v28, p
+Key words: Henry, C.D., Boden, D.R., Eocene, Tuscarora, volcanic field, Elko, Nevada, Carlin-type, Vikre, P., Guidebook, Geologists, Field Conference, Littleton, Colorado, Geologists
+Substance: 
+Time: Eocene
+Location: County, Vikre
+Henry, C.D., Faulds, J.E., Boden, D.R., and Ressel, M.W., 2001, Timing and styles of Cenozoic extension near the Carlin Trend, northeastern Nevada: Implications for the formation of Carlin-type gold deposits, in  Shaddrick, D.R., Zbinden, E., Mathewson, D.C., and Prenn, C., eds., Regional Tectonics & Structural Control of Ore: The Major Gold Trends of Northern Nevada: Geological Society of Nevada Special Publication 33, p115–128.
+Key words: Henry, C.D., Faulds, J.E., Boden, D.R., Ressel, M.W., Timing, Cenozoic, Carlin Trend, Nevada, Implications, Carlin-type, gold deposits, Shaddrick, D.R., Zbinden, E., Mathewson, D.C., Prenn, C., Tectonics, Structural, Ore, Trends, Nevada, Geological, Nevada, Publication
+Substance: 
+Time: Cenozoic
+Location: C.D., Ressel, Carlin, Trend, Shaddrick, D.C., Prenn, Northern
+Henry, C.D., McGrew, A.J., Colgan, J.P., Snoke, A.W., and Brueseke, M.E., 2011, Timing, distribution, amount, and style of Cenozoic extension in the northern Great Basin, in Lee, J., and Evans, J.P., eds., Geologic Field Trips to the Basin and Range, Rocky Mountains, Snake River Plain, and Terranes of the U.SCordillera: Geological Society of America Field Guide 21, p
+Key words: Henry, C.D., McGrew, A.J., Colgan, J.P., Snoke, A.W., Brueseke, M.E., Timing, Cenozoic, Lee, J., Evans, J.P., Geologic, Trips, Rocky, Mountains, Snake, Plain, Terranes, U.SCordillera, Geological, America, Guide
+Substance: Rocky
+Time: Cenozoic
+Location: J.P., Snoke, Brueseke, Great, Basin, Rocky, Mountains
+D.A., and Castor, S.B., 2012, Eocene–early Miocene paleotopography of the Sierra Nevada–Great Basin– Nevadaplano based on widespread ash-flow tuffs and paleovalleys: Geosphere, v8, no
+Key words: D.A., Castor, S.B., Eocene–early Miocene, Sierra Nevada–Great Basin– Nevadaplano, widespread ash-flow tuffs, Geosphere
+Substance: widespread ash-flow tuffs
+Time: Eocene–early Miocene
+Location: Sierra, Great, Basin, Nevadaplano
+Janecke, S.U., and Snee, L.W., 1993, Timing and episodicity of middle Eocene volcanism and onset of conglomerate deposition, Idaho: The Journal of Geology, v101, no
+Key words: Janecke, S.U., Snee, L.W., Timing, Eocene, conglomerate deposition, Idaho, Geology
+Substance: conglomerate deposition
+Time: Eocene
+Location: 
+Liati, A., and Gebauer, D., 1999, Constraining the prograde and retrograde P-T-t path of Eocene HP rocks by SHRIMP dating of different zircon domains: Inferred rates of heating, burial, cooling and exhumation for central Rhodope, northern Greece: Contributions to Mineralogy and Petrology, v135, no
+Key words: Liati, A., Gebauer, D., Constraining, P-T-t, Eocene HP, SHRIMP, different zircon domains, Inferred, Rhodope, Greece, Mineralogy, Petrology
+Substance: different zircon domains, Mineralogy
+Time: Eocene HP
+Location: 
+Linde, G.M., Trexler, J.H., Cashman, P.H., Gehrels, G., and Dickinson, W.R., 2016, Detrital zircon U-Pb geochronology and Hf isotope geochemistry of the Roberts Mountains allochthon: New insights into the early Paleozoic tectonics of western North America: Geosphere, v12, no
+Key words: Linde, G.M., Trexler, J.H., Cashman, P.H., Gehrels, G., Dickinson, W.R., Detrital, U-Pb, Hf, isotope geochemistry, Roberts, Mountains, New insights, Paleozoic, America, Geosphere
+Substance: Cashman, isotope geochemistry
+Time: Paleozoic
+Location: J.H., W.R., Roberts, Mountains, North
+Long, S.P., 2012, Magnitudes and spatial patterns of erosional exhumation in the Sevier hinterland, eastern Nevada and western Utah, USA: Insights from a Paleogene paleogeographic map: Geosphere, v8, no
+Key words: S.P., Magnitudes, spatial patterns, erosional exhumation, Sevier, Nevada, USA, Insights, Paleogene, paleogeographic map, Geosphere
+Substance: erosional exhumation, paleogeographic map
+Time: Paleogene
+Location: Sevier
+Long, S.P., and Soignard, E., 2016, Shallow-crustal metamorphism during Late Cretaceous anatexis in the Sevier hinterland plateau: Peak temperature conditions from the Grant Range, eastern Nevada, U.S.A.: Lithosphere, v8, no
+Key words: S.P., Soignard, E., Shallow-crustal, Late Cretaceous, Sevier, hinterland plateau, Peak, temperature conditions, Grant, Nevada, U.S.A., Lithosphere
+Substance: Shallow-crustal
+Time: Late Cretaceous
+Location: Sevier, Grant, Range
+Long, S.P., Thomson, S.N., Reiners, P.W., and Di Fiori, R.V., 2015, Synorogenic extension localized by uppercrustal thickening: An example from the Late Cretaceous Nevadaplano: Geology, v43, no
+Key words: S.P., Thomson, S.N., Reiners, P.W., Di Fiori, R.V., Synorogenic, Late Cretaceous Nevadaplano, Geology
+Substance: 
+Time: Late Cretaceous Nevadaplano
+Location: 
+Lund Snee, J.E., Miller, E.L., Grove, M., Hourigan, J.K., and Konstantinou, A., 2016, Cenozoic paleogeographic evolution of the Elko Basin and surrounding region, northeast Nevada: Geosphere, v12, no
+Key words: Lund Snee, J.E., Miller, E.L., M., Hourigan, J.K., Konstantinou, A., Cenozoic, paleogeographic evolution, Elko, Nevada, Geosphere
+Substance: paleogeographic evolution
+Time: Cenozoic
+Location: Basin
+Miller, D.M., and Hoisch, T.D., 1995, Jurassic tectonics of northeastern Nevada and northwestern Utah from the perspective of barometric studies, in Miller, D.M., and Busby, C., eds., Jurassic Magmatism and Tectonics of the North American Cordillera: Geological Society of America Special Paper 299, p267–294,
+Key words: Miller, D.M., Hoisch, T.D., Jurassic, Nevada, barometric studies, Miller, D.M., Busby, C., Jurassic Magmatism, Tectonics, Cordillera, Geological, America, Paper
+Substance: 
+Time: Jurassic, Jurassic Magmatism
+Location: Hoisch, Busby
+Miller, E.L., Miller, M.M., Stevens, C.H., Wright, J.E., and Madrid, R., 1992, Late Paleozoic paleogeographic and tectonic evolution of the western U.SCordillera, in Burchfiel, B.C., et al., eds., The Cordilleran Orogen: Conterminous U.S.: Boulder, Colorado, Geological Society of America, The Geology of North America, v
+Key words: Miller, E.L., Miller, M.M., Stevens, C.H., Wright, J.E., Madrid, R., Late Paleozoic, tectonic evolution, U.SCordillera, Burchfiel, B.C., Cordilleran Orogen, Conterminous U.S., Boulder, Colorado, Geological, America, Geology, America
+Substance: Boulder
+Time: Late Paleozoic
+Location: Burchfiel
+Painter, C.S., Carrapa, B., DeCelles, P.G., Gehrels, G.E., and Thomson, S.N., 2014, Exhumation of the North American Cordillera revealed by multi-dating of Upper Jurassic–Upper Cretaceous foreland basin deposits: Geological Society of America Bulletin, v126, no
+Key words: Painter, C.S., Carrapa, B., DeCelles, P.G., Gehrels, G.E., Thomson, S.N., Exhumation, Cordillera, Upper Jurassic–Upper Cretaceous, foreland basin deposits, Geological, America Bulletin
+Substance: 
+Time: Upper Jurassic–Upper Cretaceous
+Location: C.S., P.G.
+Palmer, H.C., MacDonald, W.D., and Hayatsu, A., 1991, Magnetic, structural and geochronologic evidence bearing on volcanic sources and Oligocene deformation of ash flow tuffs, northeast Nevada: Journal of Geophysical Research, v96, no
+Key words: Palmer, H.C., MacDonald, W.D., Hayatsu, A., Magnetic, geochronologic evidence, volcanic sources, Oligocene, ash flow tuffs, Nevada, Geophysical
+Substance: ash flow tuffs, Geophysical
+Time: Oligocene
+Location: 
+Poole, F.G., and Sandberg, C.A., 1977, Mississippian paleogeography and tectonics in the Western United States,in Stewart, J.H., et al., eds., Paleozoic Paleogeography of the Western United States: Bakersfield, California, Society of Economic Paleontologists and Mineralogists (SEPM), Pacific Coast Paleogeography Symposium 1, p
+Key words: Poole, F.G., Sandberg, C.A., Mississippian, States, Stewart, J.H., Paleozoic Paleogeography, States, Bakersfield, California, Paleontologists, Mineralogists, SEPM, Pacific Coast, Paleogeography Symposium
+Substance: Sandberg, Mineralogists
+Time: Mississippian, Paleozoic Paleogeography
+Location: Western, Stewart
+in Stewart, J.H., et al., eds., Paleozoic Paleogeography of the Western United States: Bakersfield, California, Society of Economic Paleontologists and Mineralogists (SEPM), Pacific Coast Paleogeography Symposium 1, p67–85.
+Key words: Stewart, J.H., Paleozoic Paleogeography, States, Bakersfield, California, Paleontologists, Mineralogists, SEPM, Pacific Coast, Paleogeography Symposium
+Substance: Mineralogists
+Time: Paleozoic Paleogeography
+Location: Stewart, J.H., Western
+Potter, C.J., Dubiel, R.F., Snee, L.W., and Good, S.C., 1995, Eocene extension of early Eocene lacustrine strata in a complexly deformed Cordilleran hinterland, northwest Utah and northeast Nevada: Geology, v23, no
+Key words: Potter, C.J., Dubiel, R.F., Snee, L.W., S.C., Eocene, Eocene, lacustrine strata, Cordilleran, Nevada, Geology
+Substance: 
+Time: Eocene
+Location: L.W.
+Ressel, M.W., and Henry, C.D., 2006, Igneous geology of the Carlin Trend, Nevada: Development of the Eocene plutonic complex and significance for Carlin-type gold deposits: Economic Geology and the Bulletin of the Society of Economic Geologists, v101, p
+Key words: Ressel, M.W., Henry, C.D., Igneous, Carlin Trend, Nevada, Eocene, Carlin-type, gold deposits, Geology, Bulletin, Geologists
+Substance: 
+Time: Eocene
+Location: 
+Satarugsa, P., and Johnson, R.A., 2000, Cenozoic tectonic evolution of the Ruby Mountains metamorphic core complex and adjacent valleys, northeastern Nevada: Rocky Mountain Geology, v35, no
+Key words: Satarugsa, P., Johnson, R.A., Cenozoic, tectonic evolution, Ruby, Mountains, metamorphic core, adjacent valleys, Nevada, Rocky Mountain Geology
+Substance: metamorphic core, Rocky Mountain Geology
+Time: Cenozoic
+Location: R.A., Ruby, Mountains
+Smith, J.F., and Ketner, K.B., 1976, Stratigraphy of PostPaleozoic Rocks and Summary of Resources in the Carlin-Piñon Range Area, Nevada: U.SGeological Survey Professional Paper 867-B, p
+Key words: Smith, J.F., Ketner, K.B., Stratigraphy, PostPaleozoic Rocks, Summary, Resources, Carlin-Piñon, Range Area, Nevada, U.SGeological Survey, Paper
+Substance: PostPaleozoic Rocks
+Time: PostPaleozoic Rocks
+Location: Carlin, -, Piñon, Range, Area
+Smith, M.E., Carroll, A.R., Jicha, B.R., Cassel, E.J., and Scott, J.J., 2014, Paleogeographic record of Eocene Farallon slab rollback beneath western North America: Geology, v42, no
+Key words: Smith, M.E., Carroll, A.R., Jicha, B.R., Cassel, E.J., Scott, J.J., Paleogeographic, Eocene Farallon, slab rollback, America, Geology
+Substance: Paleogeographic
+Time: Eocene Farallon
+Location: Jicha, North
+Smith, M.E., Cassel, E.J., Jicha, B.R., Singer, B.S., and Canada, A.S., 2017, Hinterland drainage closure and lake formation in response to middle Eocene Farallon slab removal, Nevada, U.S.A.: Earth and Planetary Science Letters, v479, p
+Key words: Smith, M.E., Cassel, E.J., Jicha, B.R., Singer, B.S., Canada, A.S., Hinterland, drainage closure, lake formation, Eocene Farallon, slab removal, Nevada, U.S.A., Earth, Planetary, Science Letters
+Substance: lake formation
+Time: Eocene Farallon
+Location: Jicha
+Snell, K.E., Koch, P.L., Druschke, P., Foreman, B.Z., and Eiler, J.M., 2014, High elevation of the ‘Nevadaplano’ during the Late Cretaceous: Earth and Planetary Science Letters, v386, p
+Key words: Snell, K.E., Koch, P.L., Druschke, P., Foreman, B.Z., Eiler, J.M., High elevation, Nevadaplano, Late Cretaceous, Earth, Planetary, Science Letters
+Substance: 
+Time: Late Cretaceous
+Location: K.E., P.L.
+Solomon, B.J., McKee, E.H., and Andersen, D.W., 1979, Stratigraphy and depositional environments of Paleogene rocks near Elko, Nevada, in Armentrout, J.M., et al., eds., Cenozoic Paleogeography of the Western United States: Bakersfield, California, Pacific Section, Society of Economic Paleontologist and Mineralogists (SEPM), Pacific Coast Paleogeography Symposium 3, p75–88.
+Key words: Solomon, B.J., McKee, E.H., Andersen, D.W., Stratigraphy, depositional environments, Paleogene, Elko, Nevada, Armentrout, J.M., Cenozoic Paleogeography, States, Bakersfield, California, Pacific Section, Paleontologist, Mineralogists, SEPM, Pacific Coast, Paleogeography Symposium
+Substance: depositional environments, Mineralogists
+Time: Paleogene, Cenozoic Paleogeography
+Location: Andersen, Paleogene, Armentrout, Western
+Trexler, J.H., Cashman, P.H., Snyder, W.S., and Davydov, V.I., 2004, Late Paleozoic tectonism in Nevada: Timing, kinematics, and tectonic significance: Geological Society of America Bulletin, v116, no
+Key words: Trexler, J.H., Cashman, P.H., Snyder, W.S., Davydov, V.I., Late Paleozoic, Nevada, Timing, tectonic significance, Geological, America Bulletin
+Substance: Cashman
+Time: Late Paleozoic
+Location: J.H., W.S.
+Vandenberghe, N., Hilgen, F.J., and Speijer, R.P., 2012, The Paleogene period, in Gradstein, F.M., et al., eds., The Geologic Time Scale 2012: Amsterdam, Netherlands, Elsevier, p855–921,
+Key words: Vandenberghe, N., Hilgen, F.J., Speijer, R.P., Paleogene, Gradstein, F.M., Geologic, Scale, Amsterdam, Netherlands, Elsevier
+Substance: 
+Time: Paleogene
+Location: Hilgen, Speijer, Gradstein
+Wells, M.L., and Hoisch, T.D., 2008, The role of mantle delamination in widespread Late Cretaceous extension and magmatism in the Cordilleran orogen, western United States: Geological Society of America Bulletin, v120, no
+Key words: M.L., Hoisch, T.D., mantle delamination, Late Cretaceous, Cordilleran, States, Geological, America Bulletin
+Substance: 
+Time: Late Cretaceous
+Location: Hoisch
+Wells, M.L., Dallmeyer, R.D., and Allmendinger, R.W., 1990, Late Cretaceous extension in the hinterland of the Sevier thrust belt, northwestern Utah and southern Idaho: Geology, v18, no
+Key words: M.L., Dallmeyer, R.D., Allmendinger, R.W., Late Cretaceous, Sevier, thrust belt, Idaho, Geology
+Substance: 
+Time: Late Cretaceous
+Location: 
+White, E.J., Cassel, E.J., Anfinson, O.A., and Henry, C.D., 2016, Heavy mineral analysis of Eocene sediments deposited on the high-elevation North American Cordi lleran Plateau: Geological Society of America Abstracts with Programs, v48, no
+Key words: E.J., Cassel, E.J., Anfinson, O.A., Henry, C.D., mineral analysis, Eocene, Cordi, Plateau, Geological, America Abstracts, Programs
+Substance: mineral analysis
+Time: Eocene
+Location: 
+Yonkee, W.A., Dehler, C.D., Link, P.K., Balgord, E.A., Keeley, J.A., Hayes, D.S., Wells, M.L., Fanning, C.M., and Johnston, S.M., 2014, Tectono-stratigraphic framework of Neoproterozoic to Cambrian strata, west-central U.S.: Protracted rifting, glaciation, and evolution of the North American Cordilleran margin: Earth-Science Reviews, v136, p
+Key words: Yonkee, W.A., Dehler, C.D., Link, P.K., Balgord, E.A., Keeley, J.A., Hayes, D.S., M.L., Fanning, C.M., Johnston, S.M., Tectono-stratigraphic, Neoproterozoic, Cambrian, U.S., Protracted, Cordilleran, Earth-Science Reviews
+Substance: Tectono-stratigraphic
+Time: Neoproterozoic, Cambrian
+Location: W.A., P.K., Balgord, E.A., Keeley
+Key words: 
+Substance: 
+Time: 
+Location: 

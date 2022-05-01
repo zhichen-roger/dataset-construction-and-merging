@@ -1,0 +1,399 @@
+Cretaceous–Paleogene strata from the frontal Himalaya of northwest IndiaC.L
+Key words: Cretaceous–Paleogene, Himalaya, IndiaC.L
+Substance: 
+Time: Cretaceous–Paleogene
+Location: Himalaya
+Studies of Cretaceous–Paleogene strata within the Himalayan orogen have provided important insights into the pre- and postcollisional stages of India-Asia plate convergence (Garzanti et al., 1987; Rowley, 1996; DeCelles et al., 2004, 2014; Wu et al., 2014; Hu et al., 2015; Orme et al., 2015; Ding et al., 2016; Najman etal., 2017)
+Key words: Studies, Cretaceous–Paleogene, Himalayan, important insights, postcollisional stages, India-Asia, plate convergence, Garzanti, Rowley, DeCelles, Wu, Hu, Orme, Ding, Najman
+Substance: 
+Time: Cretaceous–Paleogene
+Location: India, -, Asia
+In particular, the Himalayan Paleocene–Eocene detrital record has arguably been acknowledged as one of the most robust and reliable means to track the initial timing of continental collision—defined as the time at which the two continental plates physically come into contact—between India and southern Asia (Hu et al., 2016)Constraints on the initial timing of collision are critical to assess total shortening for models of crustal deformation (e.g., Ingalls et al., 2016), to understand faunal evolution and migration (e.g., Bossuyt and Milinkovitch, 2001), and to model
+Key words: Himalayan Paleocene–Eocene, detrital record, initial timing, continental plates, India, Asia, Hu, Constraints, initial timing, assess total, crustal deformation, Ingalls, faunal evolution, Bossuyt, Milinkovitch
+Substance: crustal deformation
+Time: Himalayan Paleocene–Eocene
+Location: 
+Interpretations of a late continental collision require a pre-collisional history involving either collision of an intraoceanic arc to India by ∼50 Ma (Khan et al., 2009; Bouilhol et al., 2013; Jagoutz et al., 2019), or Early Cretaceous formation of the Greater India Basin (GIB) and accretion of a micro-continent to southern Asia around 59 Ma (Van Hinsbergen et al., 2019)Models for late intercontinental collision, however, are not fully in accordance with reported shifts in provenance from an Indian to an Asian source observed in Paleocene–lower Eocene strata of the Tethyan Himalaya (TH) across the orogen (Hu et al., 2016).
+Key words: Interpretations, late continental collision, pre-collisional history, intraoceanic arc, India, Ma, Khan, Bouilhol, Jagoutz, Early Cretaceous, India, GIB, Asia, 59 Ma, Van Hinsbergen, late intercontinental collision, Asian source, Paleocene–lower Eocene, Tethyan Himalaya, TH, Hu
+Substance: 
+Time: Early Cretaceous, 59 Ma, Paleocene–lower Eocene
+Location: Basin
+Models for late intercontinental collision, however, are not fully in accordance with reported shifts in provenance from an Indian to an Asian source observed in Paleocene–lower Eocene strata of the Tethyan Himalaya (TH) across the orogen (Hu et al., 2016).Paleocene strata within the TH have been a focal point in tracking the timing of initial India-Asia contact, as these stratigraphic sections are argued to reflect the northernmost and oldest records for an early India-Asia collision (DeCelles et al., 2014; Hu et al., 2016)
+Key words: late intercontinental collision, Asian source, Paleocene–lower Eocene, Tethyan Himalaya, TH, Hu, .Paleocene strata, TH, focal point, India-Asia, stratigraphic sections, India-Asia, DeCelles, Hu
+Substance: stratigraphic sections
+Time: Paleocene–lower Eocene, .Paleocene strata
+Location: 
+Paleocene strata within the TH have been a focal point in tracking the timing of initial India-Asia contact, as these stratigraphic sections are argued to reflect the northernmost and oldest records for an early India-Asia collision (DeCelles et al., 2014; Hu et al., 2016)Notably, provenance studies from the Sangdanlin section (29◦15’28N”, 85◦14’52”E) of the northern TH in Tibet indicate the arrival of Asian detritus along the northernmost edge of India by ∼59 Ma (DeCelles et al., 2014; Wu et al., 2014; Hu et al., 2015, 2016)
+Key words: Paleocene, TH, focal point, India-Asia, stratigraphic sections, India-Asia, DeCelles, Hu, Notably, provenance studies, Sangdanlin, E, TH, Tibet, Asian detritus, northernmost edge, India, Ma, DeCelles, Wu, Hu
+Substance: stratigraphic sections
+Time: Paleocene
+Location: Sangdanlin
+In northwest India, sparse exposures of Cretaceous–middle Eocene strata from the frontal Himalayan system yield a record of sedimentation reflecting the early stages of Himalayan development (Najman et al., 2004; Colleps et al., 2019)Evidence for the arrival of Asian sediment in both proximal and distal lower– middle Eocene deposits within the Himalayan system would corroborate the commencement of India-Asia collision by this time and challenge the GIB collisional model
+Key words: India, sparse exposures, Cretaceous–middle Eocene, Himalayan, system yield, early stages, Himalayan, Najman, Colleps, Evidence, Asian sediment, distal lower– middle, Eocene, Himalayan, India-Asia, GIB, collisional model
+Substance: Asian sediment
+Time: Cretaceous–middle Eocene, Eocene
+Location: India, -, Asia
+Evidence for the arrival of Asian sediment in both proximal and distal lower– middle Eocene deposits within the Himalayan system would corroborate the commencement of India-Asia collision by this time and challenge the GIB collisional modelThus, we conducted systematic provenance analyses of biostratigraphically constrained Cretaceous–Eocene strata of northwest India using detrital zircon U-Pb geochronology and Hf isotope geochemistry to test the hypothesis that lower–middle Eocene deposits from the frontal Himalayan system yield detritus of Asian affinity.
+Key words: Evidence, Asian sediment, distal lower– middle, Eocene, Himalayan, India-Asia, GIB, collisional modelThus, systematic provenance analyses, Cretaceous–Eocene, India, detrital zircon, U-Pb, Hf, isotope geochemistry, Eocene, Himalayan, system yield detritus, Asian affinity
+Substance: Asian sediment, detrital zircon, isotope geochemistry
+Time: Eocene, Cretaceous–Eocene
+Location: India, -, Asia
+Thus, we conducted systematic provenance analyses of biostratigraphically constrained Cretaceous–Eocene strata of northwest India using detrital zircon U-Pb geochronology and Hf isotope geochemistry to test the hypothesis that lower–middle Eocene deposits from the frontal Himalayan system yield detritus of Asian affinity.The east-west trending Indus-Yarlung suture zone defines the Himalayan contact between India and Eurasia
+Key words: systematic provenance analyses, Cretaceous–Eocene, India, detrital zircon, U-Pb, Hf, isotope geochemistry, Eocene, Himalayan, system yield detritus, Asian affinity.The east-west, Indus-Yarlung, suture zone defines, Himalayan, India, Eurasia
+Substance: detrital zircon, isotope geochemistry
+Time: Cretaceous–Eocene, Eocene
+Location: Eurasia
+North of the suture and east of the Karakoram fault, the Lhasa terrane characterizes the southernmost extent of the Asian margin and includes Mesozoic–Paleogene Gangdese continental arc batholiths with post-collisional igneous bodies (Zhu et al., 2011)West of the Karakoram fault, the Karakoram terrane includes Asian continental arc batholiths thought to be correlated with the Lhasa or Qiangtang terranes to the east (Robinson et al., 2012)
+Key words: Karakoram, Lhasa, terrane characterizes, southernmost extent, Mesozoic–Paleogene Gangdese, continental arc batholiths, post-collisional igneous bodies, Zhu, Karakoram, Karakoram, Asian continental arc batholiths, Lhasa, Qiangtang, Robinson
+Substance: 
+Time: Mesozoic–Paleogene Gangdese
+Location: Lhasa, Qiangtang
+The Shyok suture zone separates the Karakoram terrane to the north from the Mesozoic–Paleogene Kohistan-Ladakh intraoceanic island arc (KLA) to the south (e.g., Borneman et al., 2015)The KLA and the
+Key words: Shyok, suture zone separates, Karakoram, Mesozoic–Paleogene Kohistan-Ladakh, intraoceanic island arc, KLA, Borneman, KLA
+Substance: suture zone separates
+Time: Mesozoic–Paleogene Kohistan-Ladakh
+Location: 
+South of the Indus-Yarlung suture, orogen-scale fault systems have deformed rocks of the north paleo-Indian margin and delineate four major tectonostratigraphic zones including, from north to south: the TH of Proterozoic–Eocene metasedimentary and sedimentary rocks; high-grade metamorphic rocks of the Greater Himalaya (GH); the LH of Paleoproterozoic–Cambrian metasedimentary rocks with sparse exposures of younger Phanerozoic rocks; and the Subhimalaya of Himalayan foreland basin deposits (Fig1).
+Key words: Indus-Yarlung, orogen-scale fault systems, four major tectonostratigraphic zones, TH, Proterozoic–Eocene, sedimentary rocks, high-grade metamorphic rocks, Himalaya, GH, LH, Paleoproterozoic–Cambrian, metasedimentary rocks, sparse exposures, Phanerozoic, Subhimalaya, Himalayan, foreland basin deposits, Fig1
+Substance: four major tectonostratigraphic zones, sedimentary rocks, high-grade metamorphic rocks, metasedimentary rocks
+Time: Proterozoic–Eocene, Paleoproterozoic–Cambrian, Phanerozoic
+Location: Greater, Himalaya
+Neoproterozoic–Cambrian rocks of the LH, GH, and TH were once part of a continuous proximal to distal depositional sequence along the northern Indian margin (Myrow et al., 2019)The Main Boundary Thrust (MBT) separates the LH in the hanging wall from the Subhimalaya in the footwall, whereas the Main Central Thrust (MCT) separates the LH from both Greater and TH rocks of the MCT hanging wall (e.g., Webb et al., 2011).
+Key words: Neoproterozoic–Cambrian, LH, GH, TH, continuous proximal, distal depositional sequence, Myrow, Boundary Thrust, MBT, LH, Subhimalaya, Thrust, MCT, LH, TH, MCT, Webb
+Substance: distal depositional sequence, Boundary Thrust
+Time: Neoproterozoic–Cambrian
+Location: Subhimalaya
+Within the MBT hanging wall of northwest India, shallow marine Cretaceous rocks of the Singtali Formation lie unconformably above Cambrian LH rocks and are sparsely preserved and exposed structurally beneath MCT hanging wall klippen near the current trace of the MBT (Webb et al., 2011; Colleps et al., 2018) (Fig2)
+Key words: MBT, India, shallow marine, Cretaceous, Singtali Formation, Cambrian LH, MCT, wall klippen, current trace, MBT, Webb, Colleps, Fig2
+Substance: shallow marine, Singtali Formation
+Time: Cretaceous, Cambrian LH
+Location: 
+South of the MBT, upper Paleocene–middle Eocene shallow marine deposits of the Subathu Formation are exposed within the deformed Subathu subbasin in northwest IndiaA conspicuous <31 Ma white shoreface sandstone marks a major unconformity between the Subathu Formation below and nonmarine deposits of the upper Oligocene–middle Miocene Dagshai and Kasauli formations (broadly coeval to the Dharamsala Formation in the Kangra subbasin and the Dumre Formation in Nepal) (Najman et al., 2004; Colleps et al., 2019)
+Key words: MBT, Paleocene–middle Eocene, shallow marine deposits, Subathu Formation, Subathu, IndiaA, conspicuous <, 31 Ma, white shoreface sandstone marks, major unconformity, Subathu Formation, nonmarine deposits, Oligocene–middle Miocene Dagshai, Kasauli, Dharamsala Formation, Kangra, Dumre Formation, Nepal, Najman, Colleps
+Substance: shallow marine deposits, Subathu Formation, white shoreface sandstone marks, nonmarine deposits, Dharamsala Formation, Dumre Formation
+Time: Paleocene–middle Eocene, 31 Ma, Oligocene–middle Miocene Dagshai
+Location: Kasauli, Dharamsala, Formation
+A conspicuous <31 Ma white shoreface sandstone marks a major unconformity between the Subathu Formation below and nonmarine deposits of the upper Oligocene–middle Miocene Dagshai and Kasauli formations (broadly coeval to the Dharamsala Formation in the Kangra subbasin and the Dumre Formation in Nepal) (Najman et al., 2004; Colleps et al., 2019)Middle Miocene to recent deposits of the Siwalik Group conformably overlie older foreland basin deposits across the Subhimalaya, including the Kasauli, Dharamsala, and Dumre formations.
+Key words: conspicuous <, 31 Ma, white shoreface sandstone marks, major unconformity, Subathu Formation, nonmarine deposits, Oligocene–middle Miocene Dagshai, Kasauli, Dharamsala Formation, Kangra, Dumre Formation, Nepal, Najman, Colleps, Miocene, recent deposits, Siwalik, foreland basin deposits, Subhimalaya, Kasauli, Dharamsala, Dumre
+Substance: white shoreface sandstone marks, Subathu Formation, nonmarine deposits, Dharamsala Formation, Dumre Formation
+Time: 31 Ma, Oligocene–middle Miocene Dagshai, Miocene
+Location: Kasauli, Dharamsala, Formation, Subhimalaya
+Middle Miocene to recent deposits of the Siwalik Group conformably overlie older foreland basin deposits across the Subhimalaya, including the Kasauli, Dharamsala, and Dumre formations.Three of the most recent and most debated tectonic models for India–Asia collision are outlined below (Fig
+Key words: Miocene, recent deposits, Siwalik, foreland basin deposits, Subhimalaya, Kasauli, Dharamsala, Dumre, tectonic models, India–Asia, Fig
+Substance: 
+Time: Miocene
+Location: Subhimalaya, Kasauli, Dharamsala
+For each model, we explain how provenance findings for Paleocene–middle Eocene strata from the frontal Himalayan system may support or challenge these models.Comparison of paleogeographic reconstructions derived from paleomagnetic data with Himalayan crustal shortening estimates suggest a >1000 km discrepancy, requiring subduction of ∼1000– 3000 km of Indian lithosphere not observed in the accreted rock record (Van Hinsbergen et al., 2012)
+Key words: provenance findings, Paleocene–middle Eocene, Himalayan, paleogeographic reconstructions, paleomagnetic data, Himalayan, km discrepancy, Indian lithosphere, rock record, Van Hinsbergen
+Substance: paleogeographic reconstructions, rock record
+Time: Paleocene–middle Eocene
+Location: 
+To account for this, it has been proposed that Early Cretaceous north-south extension along the north Indian margin separated the GH and TH from the LH, forming the Greater Himalayan microcontinent and the GIB (Van Hinsbergen et al., 2012, 2019; Bhandari et al., 2019)This model requires that the KLA first collided with Asia by ∼92 Ma forming the Shyok suture zone—as supported by an Asian-derived clastic wedge deposited unconformably on the KLA terrane at ∼92–85 Ma (Borneman et al., 2015)
+Key words: Early Cretaceous, GH, TH, LH, Himalayan, GIB, Van Hinsbergen, Bhandari, KLA, Asia, Ma, Shyok, suture zone—as, Asian-derived, clastic wedge, KLA, Ma, Borneman
+Substance: clastic wedge
+Time: Early Cretaceous
+Location: 
+A Paleocene provenance shift observed in the TH is interpreted to reflect collision of the Greater Himalayan microcontinent with Asia by ∼59 Ma, with the GIB separatingthe LH to the south by over 2600 km (Van Hinsbergen et al., 2019)
+Key words: Paleocene, TH, reflect collision, Himalayan, Asia, Ma, GIB, LH, Van Hinsbergen
+Substance: 
+Time: Paleocene
+Location: 
+Because the paleogeographic position of lower–middle Eocene deposits of the frontal Himalayan system would be over 2000–3000 km south of Asia (including the accreted KLA) at the time of their deposition, any provenance evidence for Asian and/or KLA derivation in these deposits would challenge this model, or require the GIB to be a purely continental basin.A second model for India–Asia collision holds that the KohistanLakakh arc first collided with the north India margin, as interpreted from paleomagnetic data and the isotopic evolution of KLA magmatism, forming the Indus suture before a later terminal IndiaAsia collision (Khan et al., 2009; Bouilhol et al., 2013; Jagoutz et al., 2019)
+Key words: paleogeographic position, Eocene, Himalayan, Asia, KLA, provenance evidence, Asian and/or, KLA, GIB, continental basin.A, India–Asia, KohistanLakakh, India, paleomagnetic data, isotopic evolution, KLA, Indus, IndiaAsia, Khan, Bouilhol, Jagoutz
+Substance: paleogeographic position
+Time: Eocene
+Location: 
+This model does not require significant Early Cretaceous extension along the north Indian margin, though minor extension and associated magmatism may have propagated northwest across the north India margin at this time as a response to the breakup of Greater India from Australia and Antarctica (Hu et al., 2010)The timing of KLA collision with India is proposed to have occurred at ∼50 Ma, followed by final collision of India with Asia and formation of the Shyok suture zone by ∼34–40 Ma (Aitchison et al., 2007; Bouilhol et al., 2013) (Fig
+Key words: Early Cretaceous, India, India, Australia, Antarctica, Hu, KLA, India, Ma, final collision, India, Asia, Shyok, suture zone, Ma, Aitchison, Bouilhol, Fig
+Substance: 
+Time: Early Cretaceous
+Location: Greater, Antarctica
+Stratigraphic support for this model would require evidence of KLA derived sediment within Paleocene–middle Eocene frontal Himalayan strata, with no indication of an Asian provenance.In contrast to the GIB model, it has been proposed that Paleocene strata of the Sangdanlin section represent the northernmost and oldest record of India-Asia collision, with the arrival of Asian derived detritus at ∼59 Ma reflecting initiation of the earliest stages of collision (DeCelles et al., 2014; Hu et al., 2015) (Fig
+Key words: Stratigraphic, KLA, Paleocene–middle Eocene, Himalayan, Asian provenance.In contrast, GIB, Paleocene, Sangdanlin, India-Asia, Ma, DeCelles, Hu, Fig
+Substance: Stratigraphic
+Time: Paleocene–middle Eocene, Paleocene
+Location: Sangdanlin, India, -, Asia
+In contrast to the GIB model, it has been proposed that Paleocene strata of the Sangdanlin section represent the northernmost and oldest record of India-Asia collision, with the arrival of Asian derived detritus at ∼59 Ma reflecting initiation of the earliest stages of collision (DeCelles et al., 2014; Hu et al., 2015) (Fig3c)
+Key words: GIB, Paleocene, Sangdanlin, India-Asia, Ma, DeCelles, Hu, Fig3c
+Substance: 
+Time: Paleocene
+Location: Sangdanlin, India, -, Asia
+This early collisional model does not require significant Early Cretaceous extension and formation of the GIBSimilar to the GIB model, early Himalaya collision also requires collision of the KLA with Asia by ∼92 Ma forming the Shyok suture zone (Borneman et al., 2015)
+Key words: early collisional model, Early Cretaceous, GIBSimilar, GIB, Himalaya, KLA, Asia, Ma, Shyok, suture zone, Borneman
+Substance: 
+Time: Early Cretaceous
+Location: Himalaya
+Evidence for the arrival of Asian detritus to Paleocene– middle Eocene strata of the frontal Himalayan system, similar to that observed from the TH, would provide support for early IndiaAsia collision.4
+Key words: Evidence, Asian detritus, Paleocene–, Eocene, Himalayan, TH, IndiaAsia
+Substance: 
+Time: Paleocene–, Eocene
+Location: 
+Within the LH, 4 samples were analyzed from the Cretaceous Singtali Formation from two separate localities along strike directly beneath MCT hanging wall klippen (including the Mussoorie and Lansdowne klippen) (Fig4)
+Key words: LH, Cretaceous Singtali Formation, two separate localities, MCT, wall klippen, Mussoorie, Lansdowne, Fig4
+Substance: Cretaceous Singtali Formation, two separate localities
+Time: Cretaceous Singtali Formation
+Location: Mussoorie
+At each locality, the Singtali Formation rest unconformably above Neoproterozoic–Cambrian LH rocksAll samples yield a similar detrital zircon U-Pb age population, with a distinct unimodal Cretaceous peak and a distinct moderate to high abundance of Paleoproterozoic grains.
+Key words: Singtali Formation, Neoproterozoic–Cambrian LH, rocksAll samples yield, similar detrital zircon, U-Pb, age population, distinct unimodal, Cretaceous, high abundance, Paleoproterozoic
+Substance: Singtali Formation, rocksAll samples yield, similar detrital zircon
+Time: Neoproterozoic–Cambrian LH, Cretaceous, Paleoproterozoic
+Location: 
+All samples yield a similar detrital zircon U-Pb age population, with a distinct unimodal Cretaceous peak and a distinct moderate to high abundance of Paleoproterozoic grains.Fig
+Key words: samples yield, similar detrital zircon, U-Pb, age population, distinct unimodal, Cretaceous, high abundance, Paleoproterozoic
+Substance: similar detrital zircon
+Time: Cretaceous, Paleoproterozoic
+Location: 
+Subathu Formation detrital zircon results reveal a diverse age component younger than 400 Ma, with an older age component denoting a high abundance of early Paleozoic–Neoproterozoic grains and a notable low abundance of Paleoproterozoic grainsAt each contact locality, a significant decrease in the abundance of grains younger than 400 Ma is observed within the distinct white sandstone marker horizon, denoting the depositional onset of the nonmarine Dagshai Formation after a >10 Myr hiatus.
+Key words: Subathu Formation, detrital zircon results, diverse age component, 400 Ma, age component, high abundance, Paleozoic–Neoproterozoic, notable low abundance, Paleoproterozoic, contact locality, 400 Ma, white sandstone marker horizon, depositional onset, Dagshai Formation, 10 Myr
+Substance: Subathu Formation, detrital zircon results, diverse age component, age component, white sandstone marker horizon, depositional onset, Dagshai Formation
+Time: 400 Ma, Paleozoic–Neoproterozoic, Paleoproterozoic, 10 Myr
+Location: 
+Cretaceous grains (n=57) ranged from ∼105–170 Ma, with a unimodal peak centered at ∼132 MaThe early Paleozoic and older age component of the Singtali Formation includes a high relative abundance of ∼1600–1900 Ma grains (Fig
+Key words: Cretaceous, Ma, unimodal peak, MaThe, Paleozoic, age component, Singtali Formation, high relative abundance, Ma, Fig
+Substance: age component, Singtali Formation
+Time: Cretaceous, Paleozoic
+Location: 
+The early Paleozoic and older age component of the Singtali Formation includes a high relative abundance of ∼1600–1900 Ma grains (Fig7)
+Key words: Paleozoic, age component, Singtali Formation, high relative abundance, Ma, Fig7
+Substance: age component, Singtali Formation
+Time: Paleozoic
+Location: 
+All selected Cretaceous grains (n=33) yielded εHf values between −0.6 to −8.8 with 176Lu/177Hf values <0.001The average age of the three youngest grains of 110.2 ± 11.1 Ma marks the maximum depositional age of the Singtali Formation, in broad agreement with the reported Cenomanian–Turonian biostratigraphic age based on the occurrence of the bryozoan Chiplonkarina dimorphopora (Taylor and Badve, 1995) (Fig
+Key words: Cretaceous, εHf values, values <, average age, 110.2 ±, 11.1 Ma, maximum depositional age, Singtali Formation, broad agreement, Cenomanian–Turonian, biostratigraphic age, Chiplonkarina, Taylor, Badve, Fig
+Substance: maximum depositional age, Singtali Formation, biostratigraphic age
+Time: Cretaceous, 110.2 ±, 11.1 Ma, Cenomanian–Turonian
+Location: 
+The average age of the three youngest grains of 110.2 ± 11.1 Ma marks the maximum depositional age of the Singtali Formation, in broad agreement with the reported Cenomanian–Turonian biostratigraphic age based on the occurrence of the bryozoan Chiplonkarina dimorphopora (Taylor and Badve, 1995) (Fig8)
+Key words: average age, 110.2 ±, 11.1 Ma, maximum depositional age, Singtali Formation, broad agreement, Cenomanian–Turonian, biostratigraphic age, Chiplonkarina, Taylor, Badve, Fig8
+Substance: maximum depositional age, Singtali Formation, biostratigraphic age
+Time: 110.2 ±, 11.1 Ma, Cenomanian–Turonian
+Location: 
+These U-Pb and Hf isotopic results characterize a Cretaceous magmatic source unique to India (Fig9a); thus,
+Key words: U-Pb, Hf, isotopic results characterize, Cretaceous, magmatic source, India, Fig9a
+Substance: 
+Time: Cretaceous
+Location: 
+No zircons yielded ages between ∼155–245 Ma, and a third Carboniferous–Permian age component was present in moderate relative abundance with grains rangingfrom ∼245–315 Ma (n=7)
+Key words: Ma, Carboniferous–Permian, age component, moderate relative abundance, grains rangingfrom ∼245–315, Ma
+Substance: Carboniferous–Permian, age component, grains rangingfrom ∼245–315
+Time: Carboniferous–Permian, grains rangingfrom ∼245–315
+Location: 
+The age component >400 Ma revealed a high relative abundance of Neoproterozoic–Cambrian grains with a low relative abundance of grains between ∼1600–1900 Ma (Fig7)
+Key words: age component >, 400 Ma, high relative abundance, Neoproterozoic–Cambrian, low relative abundance, Ma, Fig7
+Substance: age component >
+Time: 400 Ma, Neoproterozoic–Cambrian
+Location: 
+All Permian grains yielded positive εHf values (+7.8 to +8.8), grains between 120–155 Ma resulted in a mix of positive and negative εHf values (−6.3 to +16.8), grains between 69–100 Ma yielded all positive εHf values (+2.8 to +12.3), and a single grain of ∼50 Ma yielded an εHf value of −7.4 ± 0.9 (Fig9)
+Key words: Permian, positive εHf values, 120–155 Ma, negative εHf values, 69–100 Ma, positive εHf values, Ma, εHf value, ± 0.9, Fig9
+Substance: 
+Time: Permian, 120–155 Ma, 69–100 Ma, ± 0.9
+Location: 
+From the central Subathu subbasin section, sample 15HP61 was collected from the white sandstone Subathu–Dagshai contact horizon ∼15 m above Subathu samples 15HP60 and 15UK38, and yielded zircon U-Pb ages (n=119) with a high relative abundance of Neoproterozoic–Cambrian grains and limited proportions of ∼1600–1900 Ma grains (Fig5)
+Key words: Subathu, subbasin section, white sandstone, Subathu–Dagshai, contact horizon ∼15 m, Subathu, U-Pb, high relative abundance, Neoproterozoic–Cambrian, Ma, Fig5
+Substance: white sandstone
+Time: contact horizon ∼15 m, Neoproterozoic–Cambrian
+Location: Subathu
+176Lu/177Hf space indicative of Cretaceous Indian source (a and h)Subathu Formation results reveal a greater diversity of U-Pb ages and Hf isotopic values, with unique overlap with a Panjal Trap source (a), KLA source (c), and a probable Asian source (b; e–g)
+Key words: space indicative, Cretaceous, Indian source, Subathu Formation, U-Pb, Hf, isotopic values, unique overlap, Panjal, Trap source, KLA, probable Asian source
+Substance: Subathu Formation
+Time: Cretaceous
+Location: 
+All data points that overlap in U-Pb-εHf space with a Cretaceous Indian source are plotted in 76Hf/177Hf vs176Lu/177Hf space in the bottom right panel (h) and denote that a small percentage of grains from the Subathu Formation are not reflective of an India source, but rather a probable Asian source
+Key words: data points, U-Pb-εHf, Cretaceous, Indian source, vs176Lu/177Hf space, small percentage, Subathu Formation, India, probable Asian source
+Substance: Subathu Formation
+Time: Cretaceous, vs176Lu/177Hf space
+Location: 
+ulation (n=114), with only a single Cretaceous grain presentAge data from the Dagshai Formation are similar to data from the western Subathu–Dagshai contact section, and thus sediment within these deposits reflect erosional products of the Himalayan foldthrust belt following a >10 Myr hiatus between the ∼44–50 Ma Subathu Formation and the <31 Ma base of the Dagshai Formation (Najman et al., 2004).
+Key words: Cretaceous, grain presentAge data, Dagshai Formation, Subathu–Dagshai, contact section, deposits reflect erosional products, Himalayan, foldthrust belt, 10 Myr, Ma Subathu Formation, 31 Ma, Dagshai Formation, Najman
+Substance: grain presentAge data, Dagshai Formation, deposits reflect erosional products, Ma Subathu Formation
+Time: Cretaceous, grain presentAge data, 10 Myr, 31 Ma
+Location: 
+New and published detrital zircon ages from northwest India were compiled from the Paleo–Mesoproterozoic lower LH (inner LH), Neoproterozoic–Cambrian upper LH (outer LH), TH, Singtali Formation, Subathu Formation, and Dagshai Formation for statistical comparisons (McKenzie et al., 2011; Webb et al., 2011; Colleps et al., 2018; Myrow et al., 2019; Colleps et al., 2019) (Fig6; Fig
+Key words: detrital zircon ages, India, Paleo–Mesoproterozoic, LH, LH, Neoproterozoic–Cambrian, LH, LH, TH, Singtali Formation, Subathu Formation, Dagshai Formation, statistical comparisons, McKenzie, Webb, Colleps, Myrow, Colleps, Fig6, Fig
+Substance: detrital zircon ages, Singtali Formation, Subathu Formation, Dagshai Formation
+Time: Paleo–Mesoproterozoic, Neoproterozoic–Cambrian
+Location: Paleo
+In addition, detrital zircon U-Pb compilations from the Proterozoic Vindhyan basin of central India were included in statistical analyses as a probable southern Indian source to deposits along the north Indian margin (McKenzie et al., 2011; Turner et al., 2014)As a means to compare potential sources for early Paleozoic and older age components, compiled ages were filtered to include only grains >400 Ma
+Key words: detrital zircon, U-Pb, Proterozoic Vindhyan, India, statistical analyses, probable southern, Indian source, McKenzie, Turner, potential sources, Paleozoic, age components, grains >, 400 Ma
+Substance: detrital zircon, age components, grains >
+Time: Proterozoic Vindhyan, Paleozoic, 400 Ma
+Location: 
+As a means to compare potential sources for early Paleozoic and older age components, compiled ages were filtered to include only grains >400 MaThis filter also reduces any bias in the statistical analyses induced by sensitivities to the inclusion of younger grains
+Key words: potential sources, Paleozoic, age components, grains >, 400 MaThis, statistical analyses
+Substance: age components, grains >
+Time: Paleozoic, 400 MaThis
+Location: 
+Importantly, results from each statistical analysis indicate: (1) the Singtali Formation shares a similar >400 Ma age component with the Neoproterozoic–Cambrian strata it unconformably overlaps, (2) relative to the Singtali Formation, the Subathu Formation contains a >400 Ma age component that is statistically more similar to that of Himalayan derived Dagshai Formation, and (3) the >400 Ma age component of Subathu and Dagshai formations share a significant similarity to that of the TH—a likely northern Himalayan source for these deposits (Fig7)
+Key words: Importantly, statistical analysis, Singtali Formation, similar >, 400 Ma, age component, Neoproterozoic–Cambrian, Singtali Formation, Subathu Formation, 400 Ma, age component, Himalayan, Dagshai Formation, 400 Ma, age component, Subathu, Dagshai, significant similarity, TH—a, Himalayan, Fig7
+Substance: Singtali Formation, age component, Subathu Formation, Dagshai Formation
+Time: 400 Ma, Neoproterozoic–Cambrian
+Location: Subathu
+Paleoproterozoic–Cambrian low-grade metasedimentary rocks of the LH zone represent the southernmost deposits along the north paleo-Indian margin—resting south of GH and TH protoliths— and exhibit a southern provenance from the Indian continentNotably, detrital zircon U-Pb ages from all LH strata denotes a discrete component of ∼1.6–1.9 Ga grains, which are common across India (McKenzie et al., 2011; Webb et al., 2011; Colleps et al., 2018, 2019) (Fig
+Key words: Paleoproterozoic–Cambrian, low-grade metasedimentary rocks, LH, southernmost deposits, GH, TH, southern provenance, detrital zircon, U-Pb, LH, strata denotes, discrete component, Ga, India, McKenzie, Webb, Colleps, Fig
+Substance: low-grade metasedimentary rocks, detrital zircon, discrete component
+Time: Paleoproterozoic–Cambrian
+Location: 
+The detrital zircon age component >400 Ma from the Singtali Formation reveal a strikingly similar age spectra to that of Neoproterozoic–Cambrian LH rocks unconformably below with a discrete influx of ∼1.6–1.9 Ga grains (Fig7)
+Key words: detrital zircon age component >, 400 Ma, Singtali Formation, similar age spectra, Neoproterozoic–Cambrian LH, Ga, Fig7
+Substance: detrital zircon age component >, Singtali Formation
+Time: 400 Ma, Neoproterozoic–Cambrian LH
+Location: 
+In contrast, the detrital zircon age population of the Subathu Formation lacks this prominent ∼1.6–1.9 Ga age component, and instead reveal a relative increase in abundance of Neoproterozoic (∼0.8 Ga) and early Paleozoic grains when compared to the age population of Singtali Formation.This observed shift in the >400 Ma detrital zircon age component between the Singtali Formation and the Subathu Formation indicates that the Subathu Formation did not share the same southern Indian source as the Singtali Formation
+Key words: detrital zircon age population, Subathu Formation, prominent ∼1.6–1.9, Ga, age component, relative increase, Neoproterozoic, Ga, Paleozoic, age population, Singtali Formation.This, 400 Ma, detrital zircon age component, Singtali Formation, Subathu Formation, Subathu Formation, Indian source, Singtali Formation
+Substance: detrital zircon age population, Subathu Formation, age component, Singtali Formation.This, detrital zircon age component, Singtali Formation
+Time: prominent ∼1.6–1.9, Neoproterozoic, Paleozoic, 400 Ma
+Location: 
+Instead, the early Paleozoic and older age component of the Subathu Formation shows great similarity to that of middle Miocene foreland basin deposits (Fig7), most likely indicating the Subathu Formation was sourced from the north from a common Himalayan source
+Key words: Paleozoic, age component, Subathu Formation, great similarity, Miocene, foreland basin deposits, Fig7, Subathu Formation, Himalayan
+Substance: age component, Subathu Formation
+Time: Paleozoic, Miocene
+Location: 
+7) may be indicative of basin input sourced from the Eocene– Oligocene Tethyan fold-thrust belt to the north (e.g., Webb et al., 2011)A similar south to north provenance shift is also observed in the frontal Himalayan system of Nepal, where Paleozoic grains within the coeval Bhainskati Formation are suggested to be derived from the Himalayan thrust system (Fig
+Key words: basin input, Eocene– Oligocene Tethyan, fold-thrust belt, Webb, Himalayan, Nepal, Paleozoic, Bhainskati Formation, Himalayan, thrust system, Fig
+Substance: Bhainskati Formation
+Time: Eocene– Oligocene Tethyan, Paleozoic
+Location: 
+A similar south to north provenance shift is also observed in the frontal Himalayan system of Nepal, where Paleozoic grains within the coeval Bhainskati Formation are suggested to be derived from the Himalayan thrust system (Fig10) (DeCelles et al., 2004, 2014)
+Key words: Himalayan, Nepal, Paleozoic, Bhainskati Formation, Himalayan, thrust system, Fig10, DeCelles
+Substance: Bhainskati Formation
+Time: Paleozoic
+Location: 
+However, because lower Paleozoic rocks of the Himalaya generally yield non-unique U-Pb age signatures, this method alone cannot pinpoint a definitive source for these older grains within the Subathu FormationFor this reason—and because no detrital zircon U-Pb ages younger than ∼130 Ma have been recorded from the Bhainskati Formation (DeCelles et al., 2004)—it has been proposed in support of the GIB model that Paleocene–middle Eocene rocks of the frontal Himalayan system were sourced from the west due to a Paleocene-Eocene orogeny along the west-Indian margin unrelated to India–Asia collision (Van Hinsbergen et al., 2019).
+Key words: Paleozoic, Himalaya, yield non-unique, U-Pb, age signatures, definitive source, Subathu FormationFor, detrital zircon, U-Pb, Ma, Bhainskati Formation, DeCelles, GIB, Paleocene–middle Eocene, Himalayan, Paleocene-Eocene, India–Asia, Van Hinsbergen
+Substance: Subathu FormationFor, detrital zircon, Bhainskati Formation
+Time: Paleozoic, Paleocene–middle Eocene, Paleocene-Eocene
+Location: Himalaya
+For this reason—and because no detrital zircon U-Pb ages younger than ∼130 Ma have been recorded from the Bhainskati Formation (DeCelles et al., 2004)—it has been proposed in support of the GIB model that Paleocene–middle Eocene rocks of the frontal Himalayan system were sourced from the west due to a Paleocene-Eocene orogeny along the west-Indian margin unrelated to India–Asia collision (Van Hinsbergen et al., 2019).6.2
+Key words: detrital zircon, U-Pb, Ma, Bhainskati Formation, DeCelles, GIB, Paleocene–middle Eocene, Himalayan, Paleocene-Eocene, India–Asia, Van Hinsbergen
+Substance: detrital zircon, Bhainskati Formation
+Time: Paleocene–middle Eocene, Paleocene-Eocene
+Location: 
+Data derived from Cretaceous zircons of the Singtali Formation form a unique cluster in U-Pb-εHf space when compared to Asia and KLA sources (Fig9d)
+Key words: Data, Cretaceous, Singtali Formation, unique cluster, U-Pb-εHf, Asia, KLA, Fig9d
+Substance: Singtali Formation
+Time: Cretaceous
+Location: 
+Whereas the Singtali Formation was deposited along the north Indian margin well before any major collisional event, these data allow for robust characterization of a unique Cretaceous Indian sourceThis Indian source is characterized by ∼105–165 Ma zircons with εHf values ranging
+Key words: Whereas, Singtali Formation, major collisional event, robust characterization, Cretaceous, Indian sourceThis, Indian source, Ma, εHf values
+Substance: Singtali Formation
+Time: Cretaceous
+Location: 
+from 0 to −13, which is in broad agreement with the Indiansourced Cretaceous grains of the Wölong volcaniclastic rocks from the TH of southern Tibet (Hu et al., 2010)The enriched nature of these grains likely reflects an Early Cretaceous magmatic event along the northern paleo-Indian margin involving the formation of deep-seated, cross cutting crustal fractures as India separated from Australia and Antarctica, resulting in mantle upwelling and decompression melts that eventually mixed with partial melts of continental crust (Hu et al., 2010)
+Key words: broad agreement, Indiansourced Cretaceous, Wölong, volcaniclastic rocks, TH, Tibet, Hu, likely reflects, Early Cretaceous, magmatic event, northern paleo-Indian, crustal fractures, India, Australia, Antarctica, decompression melts, partial melts, continental crust, Hu
+Substance: volcaniclastic rocks, crustal fractures, continental crust
+Time: Indiansourced Cretaceous, Early Cretaceous
+Location: Antarctica
+The enriched nature of these grains likely reflects an Early Cretaceous magmatic event along the northern paleo-Indian margin involving the formation of deep-seated, cross cutting crustal fractures as India separated from Australia and Antarctica, resulting in mantle upwelling and decompression melts that eventually mixed with partial melts of continental crust (Hu et al., 2010)Early Cretaceous trachytic lava flows within the LH of Nepal yield zircon with ages between ∼110–125 Ma (Bhandari et al., 2019), and these rocks preserve remnants of the likely source material which provided Cretaceous zircon to the Singtali Formation.
+Key words: likely reflects, Early Cretaceous, magmatic event, northern paleo-Indian, crustal fractures, India, Australia, Antarctica, decompression melts, partial melts, continental crust, Hu, Early Cretaceous, trachytic lava, LH, Nepal, yield zircon, Ma, Bhandari, likely source material, Cretaceous, Singtali Formation
+Substance: crustal fractures, continental crust, yield zircon, Singtali Formation
+Time: Early Cretaceous, Cretaceous
+Location: Antarctica
+Early Cretaceous trachytic lava flows within the LH of Nepal yield zircon with ages between ∼110–125 Ma (Bhandari et al., 2019), and these rocks preserve remnants of the likely source material which provided Cretaceous zircon to the Singtali Formation.The northwestern TH preserves relicts of Permian magmatism associated with the Panjal Traps, and siliceous melts that accompanied mafic volcanism yield zircon with ages ranging from ∼250–300 Ma (Noble et al., 2001)
+Key words: Early Cretaceous, trachytic lava, LH, Nepal, yield zircon, Ma, Bhandari, likely source material, Cretaceous, Singtali Formation.The, TH, preserves relicts, Permian, Panjal Traps, siliceous melts, mafic volcanism yield zircon, Ma, Noble
+Substance: yield zircon, Singtali Formation.The, siliceous melts, mafic volcanism yield zircon
+Time: Early Cretaceous, Cretaceous, Permian
+Location: 
+The northwestern TH preserves relicts of Permian magmatism associated with the Panjal Traps, and siliceous melts that accompanied mafic volcanism yield zircon with ages ranging from ∼250–300 Ma (Noble et al., 2001)Geochemical analyses on eclogites sandwiched between the KLA and the GH in Pakistan indicate that these rocks are of Panjal Traps protolith, and zircon U-Pb-εHf data from these rocks reveal εHf values ranging from ∼+4 to +15 between ∼130–280 Ma (Rehman et al., 2016)
+Key words: TH, preserves relicts, Permian, Panjal Traps, siliceous melts, mafic volcanism yield zircon, Ma, Noble, Geochemical, KLA, GH, Pakistan, Panjal Traps, U-Pb-εHf, εHf values, Ma, Rehman
+Substance: siliceous melts, mafic volcanism yield zircon, Geochemical
+Time: Permian
+Location: 
+Zircon U-Pb-εHf data from the Lhasa terrane reveal a complex Late Triassic to early Cenozoic tectonomagmatic evolution reflective of both the northern Qiangtang-Lhasa collision and the southern India-Lhasa amalgamation (Zhu et al., 2011)In general, the southern Lhasa Gangdese continental arc rocks yield zircon with positive εHf values from ∼210 Ma until ∼52 Ma, and εHf begin to become slightly negative from ∼52 Ma until ∼40 Ma (Chu et al., 2006; Ji et al., 2009; Zhu et al., 2009b, 2011) (Fig
+Key words: Zircon U-Pb-εHf, Lhasa, Late Triassic, Cenozoic, tectonomagmatic evolution reflective, Qiangtang-Lhasa, India-Lhasa, Zhu, Lhasa Gangdese, continental arc rocks yield zircon, positive εHf values, Ma, Ma, Ma, Ma, Chu, Ji, Zhu, Fig
+Substance: Zircon U-Pb-εHf, continental arc rocks yield zircon
+Time: Late Triassic, Cenozoic
+Location: Lhasa
+Permian granites are additionally present in Lhasa and yield zircon between ∼257–268 Ma with εHf values ranging from −5 to +1 (Zhu et al., 2009a)Jurassic sandstones from the Lhasa terrane also include an abundance of Permian and Carboniferous grains ranging from ∼250–330 Ma that were likely sourced from Permo-Triassic arc-type magmatism along the Lhasa and Qiangtang arcs (Gehrels et al., 2011)
+Key words: Permian, Lhasa, yield zircon, Ma, εHf values, Zhu, Jurassic, Lhasa, Permian, Carboniferous, Ma, Permo-Triassic, arc-type magmatism, Lhasa, Qiangtang, Gehrels
+Substance: yield zircon, Carboniferous
+Time: Permian, Jurassic, Carboniferous, Permo-Triassic
+Location: Lhasa, Permian, Qiangtang
+Jurassic sandstones from the Lhasa terrane also include an abundance of Permian and Carboniferous grains ranging from ∼250–330 Ma that were likely sourced from Permo-Triassic arc-type magmatism along the Lhasa and Qiangtang arcs (Gehrels et al., 2011)The Karakoram terrane lacks a robust record of zircon U-Pb and Hf isotopic signatures, though available data reveal the following three distinct clusters in U-Pb-εHf space: zircons with an εHf range between ∼−8 to +5 from ∼90–125 Ma, an entirely positive εHf cluster from ∼56–70 Ma, and a negative εHf cluster from ∼16–60 Ma (Heuberger et al., 2007; Ravikant et al., 2009) (Fig
+Key words: Jurassic, Lhasa, Permian, Carboniferous, Ma, Permo-Triassic, arc-type magmatism, Lhasa, Qiangtang, Gehrels, Karakoram, terrane lacks, robust record, U-Pb, Hf, isotopic signatures, available data, distinct clusters, U-Pb-εHf, εHf range, Ma, positive εHf cluster, Ma, negative εHf cluster, Ma, Heuberger, Ravikant, Fig
+Substance: Carboniferous
+Time: Jurassic, Permian, Carboniferous, Permo-Triassic
+Location: Lhasa, Permian, Qiangtang
+Whereas Hf isotopic data from the ∼117–150 Ma grains of the Cretaceous Singtali Formation yielded grains with entirely negative εHf values, Subathu Formation grains within the same age range reveal both positive and negative εHf values, indicating the introduction of a new source with a coeval magmatismThe youngest grain from the Subathu Formation of ∼50 Ma yields an εHf value of −7.4, sharing a similar signature to zircon from leucogranites of the Pangong transpressional zone of Karakoram (Ravikant et al., 2009)
+Key words: Whereas Hf, isotopic data, Ma, Cretaceous Singtali Formation, negative εHf values, Subathu Formation, age range, negative εHf values, new source, coeval magmatismThe, Subathu Formation, Ma, εHf value, similar signature, Pangong, transpressional zone, Karakoram, Ravikant
+Substance: Cretaceous Singtali Formation, Subathu Formation
+Time: Cretaceous Singtali Formation
+Location: 
+Based on these data, we interpret that the majority of the grains within ∼117–150 Ma with negative εHf values were recycled from TH Cretaceous rocks to the north, including the Wölong volcaniclastic rocks (Hu et al., 2010), with a minority of these grains originating from an Asian source.Three Permian grains from the Subathu Formation all yield positive εHf values and overlap the Panjal Traps source field in U-Pb-εHf space (Fig
+Key words: Based, Ma, negative εHf values, TH Cretaceous, Wölong, volcaniclastic rocks, Hu, Asian source.Three, Permian, Subathu Formation, positive εHf values, Panjal Traps, source field, U-Pb-εHf, Fig
+Substance: volcaniclastic rocks, Subathu Formation
+Time: TH Cretaceous, Permian
+Location: 
+Three Permian grains from the Subathu Formation all yield positive εHf values and overlap the Panjal Traps source field in U-Pb-εHf space (Fig9a)
+Key words: Permian, Subathu Formation, positive εHf values, Panjal Traps, source field, U-Pb-εHf, Fig9a
+Substance: Subathu Formation
+Time: Permian
+Location: 
+Compelling evidence for a Transhimalayan source to the Subathu Formation strongly refutes the notion that lower–middle Eocene deposits of the frontal Himalayan system were sourced from an Eocene obduction-related orogen near Pakistan in the west, as proposed in the GIB model (Van Hinsbergen et al., 2019)This proposal for an independent, western orogenic source is additionally contested by statistical support for a TH source of >400 Ma detrital zircon to the Subathu Formation, and a TH source is further corroborated by evidence of Subathu zircon of Panjal Trap affinity sourced from the northwestern Himalaya
+Key words: Compelling, Transhimalayan, Subathu Formation, Eocene, Himalayan, Eocene, Pakistan, GIB, Van Hinsbergen, western orogenic source, statistical support, TH, 400 Ma, detrital zircon, Subathu Formation, TH, Subathu, Panjal, Trap affinity, Himalaya
+Substance: Subathu Formation, detrital zircon
+Time: Eocene, 400 Ma
+Location: Himalaya
+In addition, a similar U-Pb and Hf isotopic provenance study on Paleogene deposits within the TH of the western Himalaya record the purported arrival of Asian detritus on India at 54 Ma (Najman et al., 2017)Comparison of compiled detrital zircon ages from pre-collisional and post-collision strata from across the TH to our results from the frontal Himalayan system in northwest India denote a similar shift is provenance, with a general southward decrease in the abundance of northern TransHimalayan detritus (Fig
+Key words: U-Pb, Hf, isotopic provenance study, Paleogene, TH, Himalaya, Asian detritus, India, 54 Ma, Najman, Comparison, detrital zircon ages, post-collision strata, TH, Himalayan, India, TransHimalayan, Fig
+Substance: detrital zircon ages
+Time: Paleogene, 54 Ma
+Location: Himalaya
+Evidence for initial formation of Himalayan leucogranites during the Oligocene—derived solely from metamorphosed crustal sediments with no mantle component or additional heat source—is in support for early collisional models (Hopkinson et al., 2017)Younger India–Asian collision at ∼34–40 Ma would require a widespread mantle melt component to accelerate the rate of Miocene magmatism, though Himalayan leucogranites lack evidence for this (Hopkinson et al., 2017).
+Key words: Evidence, initial formation, Himalayan, Oligocene—derived, crustal sediments, mantle component, additional heat source—is, early collisional models, Hopkinson, India–Asian, Ma, widespread mantle, Miocene, Himalayan, leucogranites lack evidence, Hopkinson
+Substance: initial formation, crustal sediments, mantle component
+Time: Oligocene—derived, Miocene
+Location: 
+Younger India–Asian collision at ∼34–40 Ma would require a widespread mantle melt component to accelerate the rate of Miocene magmatism, though Himalayan leucogranites lack evidence for this (Hopkinson et al., 2017).Lastly, rigorous statistical comparison of paleomagnetic data used to derive models for India-Asia collision reveal significant dispersal of independent paleomagnetic study means contributing to global apparent polar wonder paths, challenging the validity of the GIB model (Rowley, 2019)
+Key words: India–Asian, Ma, widespread mantle, Miocene, Himalayan, leucogranites lack evidence, Hopkinson, statistical comparison, paleomagnetic data, India-Asia, significant dispersal, independent paleomagnetic study, global apparent polar wonder paths, GIB, Rowley
+Substance: 
+Time: Miocene
+Location: India, -, Asia
+Cretaceous–Paleocene pre-collisional deposits from the frontal Himalayan system and the TH allow for reconstructions of the relative geographic position of various Himalayan tectonostratigraphic zones along the north Indian margin before initial collisionThese deposits all yield a unimodal Cretaceous detrital zircon age peak, with variable age components >400 Ma along different zones (Fig
+Key words: Cretaceous–Paleocene, pre-collisional deposits, Himalayan, TH, relative geographic position, Himalayan, tectonostratigraphic zones, initial collisionThese deposits, Cretaceous, detrital zircon age peak, variable age components >, 400 Ma, different zones, Fig
+Substance: relative geographic position, tectonostratigraphic zones, detrital zircon age peak, variable age components >
+Time: Cretaceous–Paleocene, Cretaceous, 400 Ma
+Location: 
+These deposits all yield a unimodal Cretaceous detrital zircon age peak, with variable age components >400 Ma along different zones (Fig10)
+Key words: Cretaceous, detrital zircon age peak, variable age components >, 400 Ma, different zones, Fig10
+Substance: detrital zircon age peak, variable age components >
+Time: Cretaceous, 400 Ma
+Location: 
+The Cretaceous–Paleocene(?) Charchare and Amile formations of Nepal generally lack a prominent Paleozoic– Mesoproterozoic age component, with a predominant Paleoproterozoic age peak (DeCelles et al., 2004; Gehrels et al., 2011; DeCelles et al., 2014)Detrital zircon from the Singtali Formation reveal a similar predominant Paleoproterozoic age peak, but a notably higher abundance of Paleozoic–Mesoproterozoic grains
+Key words: Cretaceous–Paleocene, Charchare, Amile, Nepal, Paleozoic– Mesoproterozoic, age component, Paleoproterozoic, age peak, DeCelles, Gehrels, DeCelles, Detrital, Singtali Formation, similar predominant, Paleoproterozoic, age peak, Paleozoic–Mesoproterozoic
+Substance: age component, Singtali Formation
+Time: Cretaceous–Paleocene, Paleozoic– Mesoproterozoic, Paleoproterozoic, Paleozoic–Mesoproterozoic
+Location: 
+Detrital zircon from the Singtali Formation reveal a similar predominant Paleoproterozoic age peak, but a notably higher abundance of Paleozoic–Mesoproterozoic grainsTo the north in the TH, broadly coeval strata have distinct early Paleozoic–Mesoproterozoic detrital zircon age peaks, and lack a major Paleoproterozoic peak (Hu et al., 2010; Cai et al., 2011; Gehrels et al., 2011; Wang et al., 2011; Hu et al., 2012; Clift et al., 2014; Garzanti and Hu, 2015; Hu et al., 2015; Najman et al., 2017)
+Key words: Detrital, Singtali Formation, similar predominant, Paleoproterozoic, age peak, Paleozoic–Mesoproterozoic, TH, coeval strata, Paleozoic–Mesoproterozoic, detrital zircon age peaks, Paleoproterozoic, Hu, Cai, Gehrels, Wang, Hu, Clift, Garzanti, Hu, Hu, Najman
+Substance: Singtali Formation, detrital zircon age peaks
+Time: Paleoproterozoic, Paleozoic–Mesoproterozoic
+Location: 
+To the north in the TH, broadly coeval strata have distinct early Paleozoic–Mesoproterozoic detrital zircon age peaks, and lack a major Paleoproterozoic peak (Hu et al., 2010; Cai et al., 2011; Gehrels et al., 2011; Wang et al., 2011; Hu et al., 2012; Clift et al., 2014; Garzanti and Hu, 2015; Hu et al., 2015; Najman et al., 2017)We interpret these differences as a northward decrease in the abundance of Paleoproterozoic grains sourced from the Indian continent, whereas the northward increase in the abundance of early Paleozoic–Mesoproterozoic grains reflect the recycling of lower Paleozoic strata that blanketed the north Indian margin
+Key words: TH, coeval strata, Paleozoic–Mesoproterozoic, detrital zircon age peaks, Paleoproterozoic, Hu, Cai, Gehrels, Wang, Hu, Clift, Garzanti, Hu, Hu, Najman, Paleoproterozoic, Indian continent, northward increase, Paleozoic–Mesoproterozoic, grains reflect, Paleozoic
+Substance: detrital zircon age peaks, grains reflect
+Time: Paleozoic–Mesoproterozoic, Paleoproterozoic, Paleozoic
+Location: 
+We interpret these differences as a northward decrease in the abundance of Paleoproterozoic grains sourced from the Indian continent, whereas the northward increase in the abundance of early Paleozoic–Mesoproterozoic grains reflect the recycling of lower Paleozoic strata that blanketed the north Indian marginWith this association, we bracket the relative position of the upper LH of which the Singtali Formation was deposited on to rest in a more proximal position along the north Indian margin compared to the TH and more distal to that of roughly coeval deposits in Nepal (Fig
+Key words: Paleoproterozoic, Indian continent, northward increase, Paleozoic–Mesoproterozoic, grains reflect, Paleozoic, Indian marginWith, relative position, LH, Singtali Formation, proximal position, TH, coeval deposits, Nepal, Fig
+Substance: grains reflect, Singtali Formation
+Time: Paleoproterozoic, Paleozoic–Mesoproterozoic, Paleozoic
+Location: Singtali, Formation
+10)—consistent with current Miocene–present day kinematic models (Webb et al., 2011; Colleps et al., 2019).Detrital zircon U-Pb and Hf isotopic results from the frontal Himalayan system of northwest India indicate a northern Himalayan provenance for the Subathu Formation, which contains grains that originated from the TH (including the Panjal Traps), KLA, and/or Asia
+Key words: Miocene–present, day kinematic models, Webb, Colleps, .Detrital zircon, U-Pb, Hf, isotopic results, Himalayan, India, Himalayan, Subathu Formation, contains grains, TH, Panjal Traps, KLA, Asia
+Substance: .Detrital zircon, Subathu Formation, contains grains
+Time: Miocene–present
+Location: 
+This contests the notion that Paleocene–middle Eocene deposits found within the frontal Himalayan system were sourced from an orogenic event along the west-Indian at this time, and thus directly challenges the updated GIB model (Van Hinsbergen et al., 2019)Provenance results denote that the Subathu Formation yield sediment most likely of Asian affinity, indicating that India– Asia collision was underway by the time of Subathu deposition
+Key words: Paleocene–middle Eocene, Himalayan, orogenic event, GIB, Van Hinsbergen, Provenance, Subathu Formation, yield sediment, Asian affinity, India– Asia, Subathu
+Substance: Subathu Formation, yield sediment
+Time: Paleocene–middle Eocene
+Location: 
+Coupled with provenance studies from northernmost Paleocene– lower Eocene deposits from the TH, a Himalayan provenance for the Subathu Formation corroborate the arrival of Asian detritus to the northernmost edge of India by ∼59 Ma (DeCelles et al., 2014; Wu et al., 2014; Hu et al., 2015, 2016), with terminal closure of both the Shyok and Indus-Yarlung suture zone by ∼54 Ma (Ding et al., 2016; Najman et al., 2017).This study was funded by Hong Kong Research Grants Council General Research Funds (RGC-GRF-17303918) to NRM and a Postgraduate Scholarship to CLC through the University of Hong Kong
+Key words: Coupled, provenance studies, Paleocene–, Eocene, TH, Himalayan, Subathu Formation, Asian detritus, northernmost edge, India, Ma, DeCelles, Wu, Hu, terminal closure, Shyok, Indus-Yarlung, suture zone, Ma, Ding, Najman, .This study, Hong Kong, Grants, General Research, RGC-GRF-17303918, NRM, Postgraduate Scholarship, CLC, Hong Kong
+Substance: Subathu Formation
+Time: Paleocene–, Eocene, RGC-GRF-17303918
+Location: 
+Key words: 
+Substance: 
+Time: 
+Location: 

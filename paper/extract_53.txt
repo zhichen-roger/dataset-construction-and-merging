@@ -1,0 +1,124 @@
+Abstract: U–Pb dating of detrital zircons shows that the provenance of Cretaceous–Palaeogene sandstones on Hatton and Edoras banks (SW Rockall Plateau) comprises magmatic rocks dated at c1800 Ma and c
+Key words: Abstract, U–Pb, detrital zircons shows, Cretaceous–Palaeogene, Hatton, Edoras, Rockall Plateau, comprises magmatic rocks, Ma
+Substance: detrital zircons shows, Rockall Plateau, comprises magmatic rocks
+Time: Cretaceous–Palaeogene
+Location: 
+The zircon population from Edoras Bank also contains sparse Mesoproterozoic grains, providing evidence for the presence of volumetrically minor Grenville-age intrusions in the southern part of the Rockall Plateau.The Rockall Plateau (Fig
+Key words: zircon population, Edoras, contains sparse, Mesoproterozoic, Grenville-age, southern part, Rockall Plateau.The Rockall Plateau, Fig
+Substance: zircon population, Rockall Plateau.The Rockall Plateau
+Time: Mesoproterozoic
+Location: 
+evidence for Proterozoic contamination of Blackstones Bank basaltic rocks led Dickin & Durant (2002) to place the boundary to the north of this Tertiary igneous complexLikewise, the boundary between the Archaean and Palaeoproterozoic terranes lies to the north of Stanton Bank, a submerged bathymetric high, on the basis of the occurrence of basement rocks with relatively young Sm–Nd TDM model ages (Scanlon et al
+Key words: Proterozoic, Blackstones, Bank basaltic rocks, Dickin, Durant, Tertiary, igneous complexLikewise, Archaean, Palaeoproterozoic, Stanton, bathymetric high, basement rocks, Sm–Nd TDM, model ages, Scanlon
+Substance: Bank basaltic rocks, basement rocks
+Time: Proterozoic, Palaeoproterozoic
+Location: 
+Lu–Hf isotopic study of detrital zircons from Cretaceous– Palaeogene sandstones recovered by coring at two sites, one on Hatton Bank (British Geological Survey (BGS) borehole 99/2A) and one close to Edoras Bank (Deep Sea Drilling Project (DSDP) Site 555), and discuss their implications for the age of the basement underlying these two poorly understood areas.Zircon concentrates were obtained using standard density and magnetic separation techniques
+Key words: Lu–Hf, isotopic study, detrital zircons, Cretaceous– Palaeogene, Hatton, Geological Survey, BGS, Edoras, Deep, Drilling Project, DSDP, Site, areas.Zircon concentrates, standard density, magnetic separation techniques
+Substance: detrital zircons, areas.Zircon concentrates, standard density, magnetic separation techniques
+Time: Cretaceous– Palaeogene
+Location: 
+BGS borehole 99/2A was drilled into the Mesozoic succession on Hatton Bank (Hitchen 2004), and recovered 28.5 m of sandstone and siltstone dated as Albian on the basis of terrestrial palynomorphsThe sample selected for zircon isotopic analysis was taken from the range 45.65–45.72 m within the Albian clastic succession
+Key words: BGS, Mesozoic, Hatton, Hitchen, Albian, terrestrial palynomorphsThe sample, zircon isotopic analysis, Albian, clastic succession
+Substance: zircon isotopic analysis, clastic succession
+Time: Mesozoic, Albian
+Location: 
+The sample selected for zircon isotopic analysis was taken from the range 45.65–45.72 m within the Albian clastic successionThe absence of marine microplankton and low overall species diversity indicates a paralic depositional environment
+Key words: zircon isotopic analysis, Albian, clastic successionThe absence, marine microplankton, low overall species diversity, paralic depositional environment
+Substance: zircon isotopic analysis, clastic successionThe absence, marine microplankton, paralic depositional environment
+Time: Albian
+Location: 
+This was interpreted as the result of the Late Palaeocene–Early Eocene magmatic event associated with the opening of this sector of the NE AtlanticIn view of this, a linear regression with a lower intercept at 55 Ma was forced through the data (Fig
+Key words: Late Palaeocene–Early Eocene, magmatic event, AtlanticIn, linear regression, 55 Ma, Fig
+Substance: 
+Time: Late Palaeocene–Early Eocene, 55 Ma
+Location: 
+Beneath a Miocene deep-water biogenic pelagic succession, the borehole encountered a Palaeocene–Eocene succession dominated by basalt flows and volcaniclastic sediment, with occasional units containing terrigenous clastic sediments (Shipboard Scientific Party 1984)This volcanic-dominated succession was generated during the early stages of sea-floor spreading between Rockall Plateau and Greenland, and is coeval with the seawarddipping reflector sequence found to the SW of Edoras Bank (Roberts et al
+Key words: Beneath, Miocene, deep-water biogenic pelagic succession, Palaeocene–Eocene, volcaniclastic sediment, occasional units, terrigenous clastic sediments, Shipboard Scientific, early stages, Rockall Plateau, Greenland, reflector sequence, Edoras, Roberts
+Substance: deep-water biogenic pelagic succession, volcaniclastic sediment, terrigenous clastic sediments, Rockall Plateau
+Time: Miocene, Palaeocene–Eocene
+Location: Rockall, Plateau
+There is a single very early Palaeoproterozoic grain with a large error bar (2477  68 Ma), a discordant grain dated at 1971  89 Ma, a small number of grains slightly younger than the main peak (ranging to 1605 Ma), and two late Mesoproterozoic grains (1003 Ma, 1112 Ma)As with the sample from borehole 99/2A, all the zircons in the sample have relatively high Th/U, implying an igneous parentage of felsic–intermediate composition.
+Key words: Palaeoproterozoic, large error, 2477 68 Ma, discordant grain, 1971 89 Ma, small number, main peak, 1605 Ma, two late, Mesoproterozoic, 1003 Ma, 1112 Ma, Th/U, igneous parentage, felsic–intermediate composition
+Substance: discordant grain, felsic–intermediate composition
+Time: Palaeoproterozoic, 2477 68 Ma, 1971 89 Ma, 1605 Ma, Mesoproterozoic, 1003 Ma, 1112 Ma
+Location: 
+out as the intervening Hatton Basin was a depocentre during the Mesozoic and Cenozoic (Hitchen 2004)The ages found in borehole 99/2A and Site 555 (c
+Key words: Hatton, Mesozoic, Cenozoic, Hitchen, Site
+Substance: 
+Time: Mesozoic, Cenozoic
+Location: Basin
+The zircon age data from Hatton and Edoras banks suggest that, following the creation of the Palaeoproterozoic crustal block, the area remained comparatively undisturbed by tectonothermal events until rifting took place during the Mesozoic and Palaeocene, leading to continental break-up and subsequent sea-floor spreading in the Early EoceneHowever, the data may have some significance regarding the location of the Grenville Front
+Key words: zircon age data, Hatton, Edoras, Palaeoproterozoic, crustal block, tectonothermal events, Mesozoic, Palaeocene, continental break-up, subsequent sea-floor, Early EoceneHowever, Grenville Front
+Substance: zircon age data, crustal block
+Time: Palaeoproterozoic, Mesozoic, Palaeocene, Early EoceneHowever
+Location: Palaeocene
+The presence of two Mesoproterozoic zircon grains (c1005 Ma and c
+Key words: two Mesoproterozoic, zircon grains, Ma
+Substance: zircon grains
+Time: two Mesoproterozoic
+Location: 
+Evidence for pre-Cretaceous rifting in the Rockall Trough: analysis using quantitative plate tectonic modellingIn: Fleet, A.J
+Key words: Evidence, Rockall Trough, quantitative plate tectonic modellingIn, Fleet, A.J
+Substance: Rockall Trough
+Time: 
+Location: 
+Evidence for an Early Proterozoic crustal province in the North Atlantic regionJournal of the Geological Society, London, 149, 483–486.
+Key words: Evidence, Early Proterozoic, crustal province, Atlantic, Geological, London
+Substance: crustal province
+Time: Early Proterozoic
+Location: North, Atlantic
+Origin of Mesoproterozoic A-type granites in Laurentia: Hf isotope evidenceEarth and Planetary Science Letters, 243, 711–731.
+Key words: Origin, Mesoproterozoic A-type, Laurentia, Hf, isotope evidenceEarth, Planetary, Science Letters
+Substance: isotope evidenceEarth
+Time: Mesoproterozoic A-type
+Location: Laurentia
+Geological implications from geochemical and isotopic studies of Late Cretaceous and early Tertiary igneous rocks around the northern Rockall TroughJournal of the Geological Society, London, 154, 517–521.
+Key words: Geological, isotopic studies, Late Cretaceous, Tertiary, igneous rocks, Rockall TroughJournal, Geological, London
+Substance: igneous rocks, Rockall TroughJournal
+Time: Late Cretaceous
+Location: 
+Aspects of the Cenozoic deformational history of the northeast Faroe– Shetland Basin, Wyville-Thomson Ridge and Hatton Bank areasIn: Dore´, A.G
+Key words: Aspects, Cenozoic, deformational history, Faroe– Shetland, Wyville-Thomson, Hatton, Bank areasIn, Dore´, A.G
+Substance: deformational history
+Time: Cenozoic
+Location: Shetland, Basin, Wyville, -, Thomson
+Isotopic and chemical variation in granites across a Proterozoic continental margin—the Ketilidian mobile belt of South GreenlandEarth and Planetary Science Letters, 73, 65–80.
+Key words: Isotopic, chemical variation, Proterozoic, continental margin—the, Ketilidian, mobile belt, GreenlandEarth, Planetary, Science Letters
+Substance: chemical variation
+Time: Proterozoic
+Location: South, GreenlandEarth
+A 1800million-year-old Proterozoic gneiss terrane in Islay with implications for the crustal structure and evolution of BritainNature, 335, 620–624.
+Key words: 1800million-year-old Proterozoic, gneiss terrane, Islay, crustal structure, BritainNature
+Substance: crustal structure
+Time: 1800million-year-old Proterozoic
+Location: Islay
+Heavy minerals from Paleogene sediments, Deep Sea Drilling Project Leg 81: their bearing on stratigraphy, sediment provenance and the evolution of the North AtlanticIn: Roberts, D.G., Schnitker, D., et al
+Key words: Paleogene, Deep, Drilling Project Leg, sediment provenance, AtlanticIn, Roberts, D.G., Schnitker, D.
+Substance: sediment provenance
+Time: Paleogene
+Location: Paleogene
+Precambrian rocks of the southern Inner Hebrides–Malin Sea region: Colonsay, west Islay,Inishtrahull and Iona
+Key words: Precambrian, Inner Hebrides–Malin, Sea region, Colonsay, Islay, Inishtrahull, Iona
+Substance: 
+Time: Precambrian
+Location: Inner, Hebrides, Malin, Sea, Inishtrahull
+(eds) A Revised Correlation of Precambrian Rocks of the British IslesGeological Society, London, Special Reports, 22, 54–58.
+Key words: Revised Correlation, Precambrian Rocks, IslesGeological, London, Special Reports
+Substance: Precambrian Rocks
+Time: Precambrian Rocks
+Location: 
+Precambrian rocks drilled on Rockall BankNature, Physical Science, 244, 21–23.
+Key words: Precambrian, Rockall BankNature, Physical
+Substance: Rockall BankNature, Physical
+Time: Precambrian
+Location: 
+The 176Lu decay constant determined by Lu–Hf and U–Pb systematics of Precambrian mafic intrusionsEarth and Planetary Science Letters, 219, 311–324.
+Key words: Lu–Hf, U–Pb, Precambrian, mafic intrusionsEarth, Planetary, Science Letters
+Substance: 
+Time: Precambrian
+Location: 
+Key words: 
+Substance: 
+Time: 
+Location: 

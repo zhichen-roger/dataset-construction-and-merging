@@ -1,0 +1,379 @@
+Various plate reconstructions predict that the Alexander terrane, a Neoproterozoic–Jurassic crustal fragment now located in the NorthAmerican Cordillera, evolved in proximity to the northern Appalachian-Caledonian convergent margin during assembly of supercontinent Laurussia
+Key words: Various plate reconstructions, Alexander, Neoproterozoic–Jurassic, crustal fragment, NorthAmerican Cordillera, Appalachian-Caledonian, Laurussia
+Substance: crustal fragment
+Time: Neoproterozoic–Jurassic
+Location: Cordillera
+An older, Upper Silurian–Lower Devonian terrestrial to shallow-marine molasse sequence yields 405–490 Ma detrital zircons with negative εHf(t) values and Mesoproterozoic to Paleoproterozoic Hf model agesIn combination with paleomagnetic and biogeographic constraints, these Hf data argue for the molasse strata to be now-displaced equivalents of the Old Red Sandstone and primarily sourced from crustally contaminated granitoids in the Greenland, Svalbard, or British Caledonides
+Key words: Upper Silurian–Lower Devonian, shallow-marine molasse sequence yields, 405–490 Ma, detrital zircons, negative εHf, Mesoproterozoic, Paleoproterozoic Hf, model agesIn combination, biogeographic constraints, Hf, molasse strata, Sandstone, Greenland, Svalbard, Caledonides
+Substance: shallow-marine molasse sequence yields, detrital zircons, biogeographic constraints, Sandstone
+Time: Upper Silurian–Lower Devonian, 405–490 Ma, Mesoproterozoic, Paleoproterozoic Hf
+Location: Svalbard, Caledonides
+Late Silurian–Early Devonian orogenesis in the Alexander terrane is therefore likely related to the Scandian-Salinic phase of Appalachian-Caledonian mountain buildingYounger, Middle Devonian sequences of the Alexander terrane are endowed in 390–490 Ma detrital zircons with positive εHf(t) values and Neoproterozoic Hf model ages
+Key words: Late Silurian–Early Devonian, Alexander, Scandian-Salinic, Appalachian-Caledonian, mountain buildingYounger, Devonian, Alexander, 390–490 Ma, detrital zircons, positive εHf, Neoproterozoic Hf, model ages
+Substance: detrital zircons
+Time: Late Silurian–Early Devonian, Devonian, 390–490 Ma, Neoproterozoic Hf
+Location: 
+Younger, Middle Devonian sequences of the Alexander terrane are endowed in 390–490 Ma detrital zircons with positive εHf(t) values and Neoproterozoic Hf model agesThese isotopic signatures are consistent with the erosion of local basement rocks during the opening of the Slide Mountain–Angayucham backarc rift and tectonic separation of the Alexander terrane from northern Laurussia.
+Key words: Devonian, Alexander, 390–490 Ma, detrital zircons, positive εHf, Neoproterozoic Hf, model agesThese isotopic signatures, local basement rocks, Slide Mountain–Angayucham, backarc rift, tectonic separation, Alexander, Laurussia
+Substance: detrital zircons, local basement rocks, tectonic separation
+Time: Devonian, 390–490 Ma, Neoproterozoic Hf
+Location: Laurussia
+Earth’s geography and plate-tectonic history during the early Paleozoic were dominated by the complex closure of the Iapetus Ocean, which involved multiple subduction zones and culminated with the ScandianSalinic collision between greater Baltica (Baltica + Ganderia/Avalonia) and Laurentia (van Staal et al., 2009)Subduction of greater Baltica beneath Laurentia represents a major mountain-building event in the Appalachian-Caledonian orogen and led to the formation of supercontinent Laurussia (McKerrow et al., 2000)
+Key words: Earth, ’ s geography, plate-tectonic history, Paleozoic, complex closure, Iapetus, multiple subduction zones, ScandianSalinic, Baltica, Baltica, Ganderia/Avalonia, Laurentia, Staal, Subduction, Baltica, Laurentia, Appalachian-Caledonian, Laurussia, McKerrow
+Substance: 
+Time: Paleozoic
+Location: Iapetus, Ocean, Baltica, Ganderia, Laurentia
+Upper Silurian to Upper Devonian molasse strata that underlie much of the North Atlantic region partially consist of red-bed clastic successions referred to as the Old Red Sandstone (Friend and Williams, 2000).An unresolved problem relevant to the assembly of Laurussia is where the northern continuation of the Appalachian-Caledonian orogenic system extends into the present-day Arctic Ocean region (Pease, 2011)
+Key words: Upper Silurian, Upper Devonian, molasse strata, Atlantic, clastic successions, Sandstone, Friend, Williams, problem relevant, Laurussia, northern continuation, Appalachian-Caledonian, orogenic system, Arctic, Ocean region, Pease
+Substance: clastic successions, Sandstone
+Time: Upper Silurian, Upper Devonian
+Location: North, Atlantic, Laurussia, Arctic, Ocean
+1A and 1B) is a Neoproterozoic–Jurassic crustal fragment in the North American Cordillera that provides an opportunity to investigate these proposed northern Caledonian connectionsA growing body of multidisciplinary evidence suggests that the Alexander terrane formed part of a Late Cambrian–Early Silurian arc system in proximity to the Scandinavian and Russian High Arctic regions of Baltica prior to being the site of Late Silurian–Early Devonian orogenesis and Old Red Sandstone–like red-bed sedimentation (e.g., Soja, 1994; Bazard et al., 1995; Gehrels et al., 1996; Butler et al., 1997; Soja and Krutikov, 2008; Beranek et al., 2012, 2013).
+Key words: Neoproterozoic–Jurassic, crustal fragment, Cordillera, Caledonian, multidisciplinary evidence suggests, Alexander, Late Cambrian–Early Silurian, arc system, Scandinavian, Arctic, Baltica, Late Silurian–Early Devonian, Sandstone–like, Soja, Bazard, Gehrels, Butler, Soja, Krutikov, Beranek
+Substance: crustal fragment, Sandstone–like
+Time: Neoproterozoic–Jurassic, Late Cambrian–Early Silurian, Late Silurian–Early Devonian
+Location: Baltica
+A growing body of multidisciplinary evidence suggests that the Alexander terrane formed part of a Late Cambrian–Early Silurian arc system in proximity to the Scandinavian and Russian High Arctic regions of Baltica prior to being the site of Late Silurian–Early Devonian orogenesis and Old Red Sandstone–like red-bed sedimentation (e.g., Soja, 1994; Bazard et al., 1995; Gehrels et al., 1996; Butler et al., 1997; Soja and Krutikov, 2008; Beranek et al., 2012, 2013).Despite the fact that published geochronological studies have shown red-bed molasse strata of the Alexander terrane to contain 420–450 Ma detrital zircons (Gehrels et al., 1996; Grove et al., 2008), these U-Pb age data by themselves are not capable of discriminating provenance from crustally contaminated granitoids of the northern Caledonides or juvenile arc rocks of the Alexander terrane
+Key words: multidisciplinary evidence suggests, Alexander, Late Cambrian–Early Silurian, arc system, Scandinavian, Arctic, Baltica, Late Silurian–Early Devonian, Sandstone–like, Soja, Bazard, Gehrels, Butler, Soja, Krutikov, Beranek, geochronological studies, molasse strata, Alexander, contain 420–450 Ma, detrital zircons, Gehrels, U-Pb, age data, discriminating provenance, Caledonides, juvenile arc rocks, Alexander
+Substance: Sandstone–like, detrital zircons, juvenile arc rocks
+Time: Late Cambrian–Early Silurian, Late Silurian–Early Devonian, contain 420–450 Ma
+Location: Baltica
+In an attempt to solve this problem and test the connections with northern Laurentia that are implied by some global plate reconstructions (e.g., Colpron and Nelson, 2009, 2011), we measured the Hf isotopic compositions of dated zircons from Silurian– Devonian sedimentary sequences of the Alexander terraneHf isotopes are robust geochemical tracers that identify the chemical maturity of the lithosphere from which zircons are derived and allow sediment provenance studies to distinguish juvenile (radiogenic) or evolved (unradiogenic) source components of similar age (Kinny and Maas, 2003).
+Key words: Laurentia, global plate reconstructions, Colpron, Nelson, Hf, isotopic compositions, Silurian– Devonian, sedimentary sequences, Alexander, terraneHf isotopes, robust geochemical tracers, chemical maturity, sediment provenance studies, source components, similar age, Kinny, Maas
+Substance: isotopic compositions, sedimentary sequences, terraneHf isotopes, robust geochemical tracers, chemical maturity, sediment provenance studies, source components
+Time: Silurian– Devonian
+Location: Laurentia
+The Alexander terrane is presently bounded by faults that record its mid-Mesozoic accretion to, and subsequent displacement along, the western margin of North America (e.g., McClelland et al., 1992).The Karheen Formation in the Prince of Wales Island region of southeastern Alaska consists of Upper Silurian to Lower Devonian red-bed clastic, carbonate, and volcanic rocks that were deposited during the Klakas orogeny (Fig
+Key words: Alexander, mid-Mesozoic accretion, subsequent displacement, America, McClelland, Karheen Formation, Wales, Island region, Alaska, Upper Silurian, Lower Devonian, volcanic rocks, Klakas, Fig
+Substance: subsequent displacement, Karheen Formation, volcanic rocks
+Time: mid-Mesozoic accretion, Upper Silurian, Lower Devonian
+Location: North, of, Wales, Island
+The Karheen Formation in the Prince of Wales Island region of southeastern Alaska consists of Upper Silurian to Lower Devonian red-bed clastic, carbonate, and volcanic rocks that were deposited during the Klakas orogeny (Fig1C)
+Key words: Karheen Formation, Wales, Island region, Alaska, Upper Silurian, Lower Devonian, volcanic rocks, Klakas, Fig1C
+Substance: Karheen Formation, volcanic rocks
+Time: Upper Silurian, Lower Devonian
+Location: of, Wales, Island
+This Late Silurian–Early Devonian tectonic event is broadly characterized by contractional deformation and greenschistfacies to locally amphibolite-facies metamorphism (Gehrels and Saleeby, 1987; Gehrels et al., 1987)The timing of the Klakas orogeny separates an earlier, Late Cambrian–Early Silurian convergent margin setting for the Alexander terrane from a later, Mississippian–Pennsylvanian phase of tectonic stability (Gehrels and Saleeby, 1987)
+Key words: Late Silurian–Early Devonian, tectonic event, contractional deformation, amphibolite-facies metamorphism, Gehrels, Saleeby, Gehrels, Klakas, orogeny separates, Late Cambrian–Early Silurian, Alexander, Mississippian–Pennsylvanian, tectonic stability, Gehrels, Saleeby
+Substance: contractional deformation, amphibolite-facies metamorphism, orogeny separates
+Time: Late Silurian–Early Devonian, Late Cambrian–Early Silurian, Mississippian–Pennsylvanian
+Location: 
+The timing of the Klakas orogeny separates an earlier, Late Cambrian–Early Silurian convergent margin setting for the Alexander terrane from a later, Mississippian–Pennsylvanian phase of tectonic stability (Gehrels and Saleeby, 1987)Early Paleozoic (430–500 Ma) arc-type and syn- to post-Klakas (390–415 Ma) magmatic rocks in the Alexander terrane yield juvenile Nd-Sr (whole-rock) and Hf (zircon) isotopic compositions, suggesting little to no input from evolved crustal sources (Samson et al., 1989; Saleeby, 2000; Cecil et al., 2011; Beranek et al., 2012, 2013).
+Key words: Klakas, orogeny separates, Late Cambrian–Early Silurian, Alexander, Mississippian–Pennsylvanian, tectonic stability, Gehrels, Saleeby, Early Paleozoic, 430–500 Ma, 390–415 Ma, magmatic rocks, Alexander, terrane yield, Nd-Sr, Hf, isotopic compositions, crustal sources, Samson, Saleeby, Cecil, Beranek
+Substance: orogeny separates, magmatic rocks, isotopic compositions, crustal sources
+Time: Late Cambrian–Early Silurian, Mississippian–Pennsylvanian, Early Paleozoic, 430–500 Ma, 390–415 Ma
+Location: 
+Early Paleozoic (430–500 Ma) arc-type and syn- to post-Klakas (390–415 Ma) magmatic rocks in the Alexander terrane yield juvenile Nd-Sr (whole-rock) and Hf (zircon) isotopic compositions, suggesting little to no input from evolved crustal sources (Samson et al., 1989; Saleeby, 2000; Cecil et al., 2011; Beranek et al., 2012, 2013).Paleomagnetic data require an Early Devonian magnetization for red beds of the Karheen Formation at 14° ± 4° paleolatitude in the Northern or Southern Hemisphere (Bazard et al., 1995; Butler et al., 1997)
+Key words: Early Paleozoic, 430–500 Ma, 390–415 Ma, magmatic rocks, Alexander, terrane yield, Nd-Sr, Hf, isotopic compositions, crustal sources, Samson, Saleeby, Cecil, Beranek, .Paleomagnetic data, Early Devonian, red beds, Karheen Formation, Hemisphere, Bazard, Butler
+Substance: magmatic rocks, isotopic compositions, crustal sources, red beds, Karheen Formation
+Time: Early Paleozoic, 430–500 Ma, 390–415 Ma, Early Devonian
+Location: Southern, Hemisphere
+Paleomagnetic data require an Early Devonian magnetization for red beds of the Karheen Formation at 14° ± 4° paleolatitude in the Northern or Southern Hemisphere (Bazard et al., 1995; Butler et al., 1997)Additional paleogeographic constraints on red-bed deposition are derived from fossil assemblages in surrounding units
+Key words: Paleomagnetic, Early Devonian, red beds, Karheen Formation, Hemisphere, Bazard, Butler, Additional, paleogeographic constraints, fossil assemblages
+Substance: red beds, Karheen Formation, paleogeographic constraints, fossil assemblages
+Time: Early Devonian
+Location: Southern, Hemisphere
+Upper Silurian stromatolite reefs and mud mounds of the Heceta Formation (Fig1C) that crop out beneath the Karheen red beds were colonized by distinctive sphinctozoan sponges and hydroids (Soja, 1994)
+Key words: Upper Silurian, stromatolite reefs, mud mounds, Heceta Formation, Fig1C, Karheen, red beds, distinctive sphinctozoan sponges, Soja
+Substance: stromatolite reefs, Heceta Formation, red beds, distinctive sphinctozoan sponges
+Time: Upper Silurian
+Location: Karheen
+Early to Middle Devonian brachiopod, gastropod, and coral fauna in the Prince of Wales Island region also display statistical similarities with fossils of the Uralian margin, Siberian platform of southern Taimyr, and Kolyma-Omolon superterrane (Blodgett et al., 2002; Pedder, 2006)Larval exchange with the Baltican and Siberian realms during the Late Silurian–Middle Devonian strongly suggests a Northern Hemisphere position for the Alexander terrane within the Uralian Seaway, the marine corridor that separated Laurussia from Siberia (Soja and Antoshkina, 1997).
+Key words: Early, Devonian, coral fauna, Wales, Island region, statistical similarities, Uralian, Siberian, Taimyr, Kolyma-Omolon, Blodgett, Pedder, Larval, Baltican, Siberian, Late Silurian–Middle Devonian, Hemisphere, Alexander, Uralian Seaway, marine corridor, Laurussia, Siberia, Soja, Antoshkina
+Substance: marine corridor
+Time: Devonian, Late Silurian–Middle Devonian
+Location: of, Wales, Island, Northern, Hemisphere, Siberia, Antoshkina
+Larval exchange with the Baltican and Siberian realms during the Late Silurian–Middle Devonian strongly suggests a Northern Hemisphere position for the Alexander terrane within the Uralian Seaway, the marine corridor that separated Laurussia from Siberia (Soja and Antoshkina, 1997).Terrestrial and shallow-marine strata of the lower Icefi eld assemblage in the Saint Elias Mountains are age equivalent to the Karheen Formation (Fig
+Key words: Larval, Baltican, Siberian, Late Silurian–Middle Devonian, Hemisphere, Alexander, Uralian Seaway, marine corridor, Laurussia, Siberia, Soja, Antoshkina, shallow-marine strata, Icefi, eld assemblage, Saint Elias, Mountains, Karheen Formation, Fig
+Substance: marine corridor, shallow-marine strata, Karheen Formation
+Time: Late Silurian–Middle Devonian
+Location: Northern, Hemisphere, Siberia, Antoshkina, Mountains
+Upper Silurian and Devonian rocks of the Icefi eld assemblage consist of red-brown to orange to gray weathering sandstone, conglomerate, shale, sandy limestone, and minor basalt to andesite fl ows and tuff (Mihalynuk et al., 1993)Evidence for Late Silurian–Early Devonian metamorphism correlative with the Klakas orogeny has not yet been recognized in northwestern Canada.
+Key words: Upper Silurian, Devonian, Icefi, eld assemblage consist, sandy limestone, minor basalt, andesite fl ows, Mihalynuk, Evidence, Late Silurian–Early Devonian, metamorphism correlative, Klakas, Canada
+Substance: sandy limestone, minor basalt, andesite fl ows
+Time: Upper Silurian, Devonian, Late Silurian–Early Devonian
+Location: 
+Evidence for Late Silurian–Early Devonian metamorphism correlative with the Klakas orogeny has not yet been recognized in northwestern Canada.Geological data from the Saint Elias Mountains are consistent with a model for the Alexander terrane to have evolved in proximity to the northern Caledonian-Appalachian convergent margin
+Key words: Evidence, Late Silurian–Early Devonian, metamorphism correlative, Klakas, Canada.Geological, Saint Elias, Mountains, Alexander, Caledonian-Appalachian
+Substance: 
+Time: Late Silurian–Early Devonian
+Location: Mountains
+For example, distinctive Middle Devonian trilobite fossils in southwest Yukon are elsewhere only known in Givetian strata of the Canadian Arctic Islands (Dodds et al., 1993)Underlying the Icefi eld assemblage, Cambrian–Ordovician sandstones in the Saint Elias Mountains yield Neoproterozoic to Neoarchean detrital zircons with Hf isotopic compositions that strongly favor provenance connections with the Timanide orogenic belt and Fennoscandian Shield of northeast Baltica (Beranek et al., 2013)
+Key words: Devonian, trilobite fossils, Yukon, Givetian, Arctic, Islands, Dodds, Icefi, eld assemblage, Cambrian–Ordovician, Saint Elias, Mountains, Neoproterozoic, Neoarchean, detrital zircons, Hf, isotopic compositions, favor provenance connections, Timanide, orogenic belt, Fennoscandian Shield, Baltica, Beranek
+Substance: trilobite fossils, detrital zircons, isotopic compositions
+Time: Devonian, Givetian, Cambrian–Ordovician, Neoproterozoic, Neoarchean
+Location: Arctic, Islands, Mountains
+Underlying the Icefi eld assemblage, Cambrian–Ordovician sandstones in the Saint Elias Mountains yield Neoproterozoic to Neoarchean detrital zircons with Hf isotopic compositions that strongly favor provenance connections with the Timanide orogenic belt and Fennoscandian Shield of northeast Baltica (Beranek et al., 2013)In the model of Beranek et al
+Key words: Icefi, eld assemblage, Cambrian–Ordovician, Saint Elias, Mountains, Neoproterozoic, Neoarchean, detrital zircons, Hf, isotopic compositions, favor provenance connections, Timanide, orogenic belt, Fennoscandian Shield, Baltica, Beranek, Beranek
+Substance: detrital zircons, isotopic compositions
+Time: Cambrian–Ordovician, Neoproterozoic, Neoarchean
+Location: Mountains
+(2013), the Alexander terrane formed part of an arc system that fringed the Uralian margin during the early PaleozoicCambrian–Ordovician rocks of the Eurasian High Arctic have Timanide and Fennoscandian provenance signatures similar to those of the Saint Elias Mountains and are also overlain by Old Red Sandstone–like successions (Gee et al., 2006; Lorenz et al., 2008a).
+Key words: Alexander, arc system, Uralian, PaleozoicCambrian–Ordovician, Eurasian, Arctic, Timanide, Fennoscandian, provenance signatures, Saint Elias, Mountains, Sandstone–like, Gee, Lorenz
+Substance: Sandstone–like
+Time: PaleozoicCambrian–Ordovician
+Location: Mountains
+Cambrian–Ordovician rocks of the Eurasian High Arctic have Timanide and Fennoscandian provenance signatures similar to those of the Saint Elias Mountains and are also overlain by Old Red Sandstone–like successions (Gee et al., 2006; Lorenz et al., 2008a).Five rock samples of the Icefi eld assemblage in the Saint Elias Mountains were collected for detrital zircon studies
+Key words: Cambrian–Ordovician, Eurasian, Arctic, Timanide, Fennoscandian, provenance signatures, Saint Elias, Mountains, Sandstone–like, Gee, Lorenz, .Five rock samples, Icefi, eld assemblage, Saint Elias, Mountains, detrital zircon studies
+Substance: Sandstone–like, .Five rock samples, detrital zircon studies
+Time: Cambrian–Ordovician
+Location: Mountains
+(1993) suggest Upper Silurian to Lower Devonian stratigraphic ages.The two British Columbia samples each contain 390–395 Ma zircon age groupings (Figs
+Key words: suggest Upper Silurian, Lower Devonian, stratigraphic ages.The, two British, Columbia, contain 390–395 Ma, zircon age groupings, Figs
+Substance: stratigraphic ages.The, zircon age groupings
+Time: suggest Upper Silurian, Lower Devonian, contain 390–395 Ma
+Location: 
+2D–2E) and with the available fossil constraints suggest Middle Devonian stratigraphic ages.Figure 3A shows the εHf(t) values for 176 zircons that span 390–3372 Ma
+Key words: available fossil constraints, Devonian, stratigraphic ages.Figure, 390–3372 Ma
+Substance: available fossil constraints, stratigraphic ages.Figure
+Time: Devonian, 390–3372 Ma
+Location: 
+Upper Silurian to Lower Devonian strata contain 405–490 Ma zircons with mainly negative εHf(t) values (84 percent) and Hf model ages that suggest Mesoproterozoic to Paleoproterozoic crust was involved in their genesis (Fig3B)
+Key words: Upper Silurian, Lower Devonian, contain 405–490 Ma, negative εHf, Hf, model ages, suggest Mesoproterozoic, Paleoproterozoic, Fig3B
+Substance: 
+Time: Upper Silurian, Lower Devonian, contain 405–490 Ma, suggest Mesoproterozoic, Paleoproterozoic
+Location: 
+Middle Devonian strata contain 405–490 Ma zircons with mostly positive εHf(t) values (79 percent) and Neoproterozoic and younger Hf model ages (Fig3B).
+Key words: Devonian, contain 405–490 Ma, positive εHf, Neoproterozoic, Hf, model ages, Fig3B
+Substance: 
+Time: Devonian, contain 405–490 Ma, Neoproterozoic
+Location: 
+The detrital zircon Hf isotopic compositions of the Icefi eld assemblage record a major shift in the source of sediment between Late Silurian–Early Devonian and Middle Devonian timeThis shift was likely the result of fi rst-order changes in tectonic setting and paleogeography of the Alexander terrane
+Key words: detrital zircon, Hf, isotopic compositions, Icefi, eld assemblage record, Late Silurian–Early Devonian, Devonian, fi rst-order changes, tectonic setting, Alexander
+Substance: detrital zircon, isotopic compositions
+Time: Late Silurian–Early Devonian, Devonian
+Location: 
+To explain these data, we interpret the Late Silurian–Early Devonian Klakas orogeny to manifest Scandian-Salinic deformation in the region of northeast Baltica, east of the Appalachian-Caledonian convergent margin (Fig4A)
+Key words: Late Silurian–Early Devonian Klakas, Scandian-Salinic, Baltica, Appalachian-Caledonian, Fig4A
+Substance: 
+Time: Late Silurian–Early Devonian Klakas
+Location: 
+An unresolved problem concerning the Klakas orogeny is how the Late Cambrian–Early Silurian upper-plate setting for the Alexander terrane above a subduction zone fi ts in with the overall lower-plate setting for Baltica in the Scandian-Salinic collisionArc magmatism in the Alexander terrane ceased by ca
+Key words: Klakas, Late Cambrian–Early Silurian, upper-plate setting, Alexander, subduction zone fi ts, overall lower-plate setting, Baltica, Scandian-Salinic, collisionArc magmatism, Alexander
+Substance: 
+Time: Late Cambrian–Early Silurian
+Location: 
+Upper Silurian to Lower Devonian molasse strata of the Alexander terrane are herein viewed as now-displaced equivalents of the Old Red Sandstone that covered much of the northern Appalachian-Caledonian orogen (cfSoja and Krutikov, 2008)
+Key words: Upper Silurian, Lower Devonian, molasse strata, Alexander, Sandstone, Appalachian-Caledonian, Krutikov
+Substance: Sandstone
+Time: Upper Silurian, Lower Devonian
+Location: 
+The negative εHf(t) values and Mesoproterozoic to Paleoproterozoic Hf model ages of 405–490 Ma detrital zircons in rock samples 09VL26, 09VL40, and 09VL42 accordingly support provenance connections with crustally contaminated granites in the Greenland, Svalbard, or British CaledonidesFor example, both arc-type and anatectic granite suites in Greenland (GL in Fig
+Key words: negative εHf, Mesoproterozoic, Paleoproterozoic Hf, model ages, 405–490 Ma, detrital zircons, rock samples, support provenance connections, Greenland, Svalbard, CaledonidesFor, anatectic granite suites, Greenland, GL, Fig
+Substance: detrital zircons, rock samples
+Time: Mesoproterozoic, Paleoproterozoic Hf, 405–490 Ma
+Location: Svalbard
+4A) incorporated material from surrounding Precambrian basement rocks and yield high initial Sr isotopic ratios (0.709–0.711), magmatic zircons with εHf(t) values of −11.9 to −5.5, and Paleoproterozoic Hf model ages (Rehnström, 2010; Augland et al., 2012)Caledonian anatectic granites in Svalbard (SV in Fig
+Key words: Precambrian, basement rocks, yield high, Sr, isotopic ratios, magmatic zircons, Paleoproterozoic Hf, model ages, Rehnström, Augland, Caledonian, anatectic granites, Svalbard, SV, Fig
+Substance: basement rocks, magmatic zircons
+Time: Precambrian, Paleoproterozoic Hf
+Location: Svalbard
+4A) have peraluminous geochemical signatures, negative εNd(t) values, and inherited Proterozoic zircons that together provide strong evidence for crustal melting and contamination (Johansson et al., 2005)Although detrital zircon Hf isotopic data for Old Red Sandstone units are lacking, we note that our U-Pb age populations are broadly similar to relevant Silurian–Devonian molasse strata in Svalbard (Pettersson et al., 2010), Scotland (Phillips et al., 2009), and Severnaya Zemlya (Lorenz et al., 2008b).
+Key words: peraluminous geochemical signatures, negative εNd, Proterozoic, strong evidence, Johansson, detrital zircon, Hf, isotopic data, Sandstone, U-Pb, age populations, Silurian–Devonian, molasse strata, Svalbard, Pettersson, Scotland, Phillips, Severnaya Zemlya, Lorenz
+Substance: peraluminous geochemical signatures, detrital zircon, Sandstone
+Time: Proterozoic, Silurian–Devonian
+Location: Svalbard
+Although detrital zircon Hf isotopic data for Old Red Sandstone units are lacking, we note that our U-Pb age populations are broadly similar to relevant Silurian–Devonian molasse strata in Svalbard (Pettersson et al., 2010), Scotland (Phillips et al., 2009), and Severnaya Zemlya (Lorenz et al., 2008b).The Devonian period was a time of rifting in northern Laurussia and transcurrent displacement within the Caledonides (Nikishin et al., 1996; Dewey and Strachan, 2003)
+Key words: detrital zircon, Hf, isotopic data, Sandstone, U-Pb, age populations, Silurian–Devonian, molasse strata, Svalbard, Pettersson, Scotland, Phillips, Severnaya Zemlya, Lorenz, Devonian, Laurussia, transcurrent displacement, Caledonides, Nikishin, Dewey, Strachan
+Substance: detrital zircon, Sandstone, transcurrent displacement
+Time: Silurian–Devonian, Devonian
+Location: Svalbard, Laurussia
+The Devonian period was a time of rifting in northern Laurussia and transcurrent displacement within the Caledonides (Nikishin et al., 1996; Dewey and Strachan, 2003)Devonian rifts notably formed part of the extensive Slide Mountain–Angayucham backarc system, which accompanied an arc chain situated along much of the length of northwest Laurussia (Colpron and Nelson, 2011; Miller et al., 2011)
+Key words: Devonian, Laurussia, transcurrent displacement, Caledonides, Nikishin, Dewey, Strachan, Devonian, Slide Mountain–Angayucham, backarc system, arc chain, Laurussia, Colpron, Nelson, Miller
+Substance: transcurrent displacement
+Time: Devonian
+Location: Laurussia
+Devonian rifts notably formed part of the extensive Slide Mountain–Angayucham backarc system, which accompanied an arc chain situated along much of the length of northwest Laurussia (Colpron and Nelson, 2011; Miller et al., 2011)We propose that this arc chain formed by a Devonian subduction polarity reversal along the northern extension of the Caledonian convergence system, following the terminal Scandian-Salinic collision that created Laurussia (Fig
+Key words: Devonian, Slide Mountain–Angayucham, backarc system, arc chain, Laurussia, Colpron, Nelson, Miller, arc chain, Devonian, subduction polarity reversal, Caledonian, convergence system, Scandian-Salinic, Laurussia, Fig
+Substance: 
+Time: Devonian
+Location: Laurussia
+We propose that this arc chain formed by a Devonian subduction polarity reversal along the northern extension of the Caledonian convergence system, following the terminal Scandian-Salinic collision that created Laurussia (Fig4B)
+Key words: arc chain, Devonian, subduction polarity reversal, Caledonian, convergence system, Scandian-Salinic, Laurussia, Fig4B
+Substance: 
+Time: Devonian
+Location: 
+The presence of Middle to Late Devonian arc-type rocks in southeastern Alaska (Gehrels and Berg, 1992; Saleeby, 2000; Cecil et al., 2011), locally possibly as old as Early Devonian (Nelson et al., 2012), along with existing biogeographic and paleomagnetic constraints, provide evidence for the Alexander terrane to comprise part of this magmatic system (Fig4B).
+Key words: Late Devonian, arc-type rocks, Alaska, Gehrels, Berg, Saleeby, Cecil, Early Devonian, Nelson, paleomagnetic constraints, Alexander, magmatic system, Fig4B
+Substance: arc-type rocks
+Time: Late Devonian, Early Devonian
+Location: 
+U-Pb age diagram for Paleozoic detrital zircons of the Icefi eld assemblageCHUR—chondritic uniform reservoir
+Key words: U-Pb, age diagram, Paleozoic, detrital zircons, Icefi, eld assemblageCHUR—chondritic uniform reservoir
+Substance: detrital zircons
+Time: Paleozoic
+Location: 
+(A) Late Silurian–Early Devonian paleogeographic reconstruction based on the results of this study and Beranek et al(2013)
+Key words: Late Silurian–Early Devonian, paleogeographic reconstruction, Beranek
+Substance: paleogeographic reconstruction
+Time: Late Silurian–Early Devonian
+Location: 
+(B) Middle to Late Devonian paleogeographic reconstruction modifi ed from Colpron and Nelson (2011) and Miller et al(2011)
+Key words: Late Devonian, paleogeographic reconstruction modifi, Colpron, Nelson, Miller
+Substance: paleogeographic reconstruction modifi
+Time: Late Devonian
+Location: Colpron
+In addition to the generation of juvenile arc-type rocks, we predict that the timing of this separation is indicated by the relative absence of Caledonian-derived zircons in Middle Devonian sequences of the Alexander terrane (samples 09VLB27, 09VLB28)These samples instead contain 390–490 Ma detrital zircons with juvenile Hf isotopic compositions that are consistent with the erosion of local basement rocks
+Key words: juvenile arc-type rocks, relative absence, Caledonian-derived, Devonian, Alexander, contain 390–490 Ma, detrital zircons, Hf, isotopic compositions, local basement rocks
+Substance: juvenile arc-type rocks, detrital zircons, isotopic compositions, local basement rocks
+Time: Devonian, contain 390–490 Ma
+Location: 
+This hypothesis agrees with studies that consider the Alexander terrane to have evolved apart from the northern Laurussia cratons during the midPaleozoic to Mesozoic (Gehrels and Saleeby, 1987)Arc-type magmatism in southeastern Alaska ended by the Late Devonian, and the Alexander terrane evolved in a tectonically stable environment until the late Paleozoic.
+Key words: hypothesis agrees, Alexander, Laurussia, Mesozoic, Gehrels, Saleeby, Arc-type, Alaska, Late Devonian, Alexander, stable environment, Paleozoic
+Substance: 
+Time: Mesozoic, Late Devonian, Paleozoic
+Location: 
+Arc-type magmatism in southeastern Alaska ended by the Late Devonian, and the Alexander terrane evolved in a tectonically stable environment until the late Paleozoic.IMPLICATIONS FOR FUTURE DETRITAL ZIRCON Hf ISOTOPE STUDIES
+Key words: Arc-type, Alaska, Late Devonian, Alexander, stable environment, Paleozoic.IMPLICATIONS FOR FUTURE DETRITAL ZIRCON Hf ISOTOPE STUDIES
+Substance: Paleozoic.IMPLICATIONS FOR FUTURE DETRITAL ZIRCON Hf ISOTOPE STUDIES
+Time: Late Devonian, Paleozoic.IMPLICATIONS FOR FUTURE DETRITAL ZIRCON Hf ISOTOPE STUDIES
+Location: 
+Paleozoic detrital zircon age populations that characterize the Icefi eld assemblage are also recognized in Silurian–Devonian strata of the Arctic Alaska-Chukotka terrane of Alaska (Amato et al., 2009), eastern Klamath terrane of California and Oregon (Grove et al., 2008), Chilliwack composite terrane of Washington and southern British Columbia (Brown et al., 2010), and Quesnellia of southern British Columbia (Lemieux et al., 2007)Along with Alexander, these Cordilleran terranes contain Devonian magmatic rocks and biogeographic signatures that suggest proximity to an arc system along the trenchward side of the Slide Mountain–Angayucham backarc rift
+Key words: Paleozoic, detrital zircon age populations, Icefi, eld assemblage, Silurian–Devonian, Arctic Alaska-Chukotka, Alaska, Amato, Klamath, California, Oregon, Chilliwack, composite terrane, Washington, Columbia, Brown, Quesnellia, Columbia, Lemieux, Alexander, Cordilleran, contain Devonian, magmatic rocks, biogeographic signatures, arc system, trenchward side, Slide Mountain–Angayucham, backarc rift
+Substance: detrital zircon age populations, composite terrane, Washington, magmatic rocks, biogeographic signatures
+Time: Paleozoic, Silurian–Devonian, contain Devonian
+Location: 
+Along with Alexander, these Cordilleran terranes contain Devonian magmatic rocks and biogeographic signatures that suggest proximity to an arc system along the trenchward side of the Slide Mountain–Angayucham backarc riftDetrital zircon Hf isotope studies of these terranes may shed new insights into their evolved or juvenile crustal sources and the overall signifi cance of Cordilleran-Caledonian connections to global paleogeography.
+Key words: Alexander, Cordilleran, contain Devonian, magmatic rocks, biogeographic signatures, arc system, trenchward side, Slide Mountain–Angayucham, backarc riftDetrital zircon, Hf, isotope studies, new insights, juvenile crustal sources, overall signifi cance, Cordilleran-Caledonian, global paleogeography
+Substance: magmatic rocks, biogeographic signatures, backarc riftDetrital zircon, isotope studies, juvenile crustal sources
+Time: contain Devonian
+Location: 
+Amato, J.M., Toro, J., Miller, E.L., Gehrels, G.E., Farmer, G.L., Gottlieb, E.S., and Till, A.B., 2009, Late Proterozoic–Paleozoic evolution of the Arctic Alaska-Chukotka terrane based on U-Pb igneous and detrital zircon ages: Implications for Neoproterozoic paleogeographic reconstructions: Geological Society of America Bulletin, v121, p
+Key words: Amato, J.M., Toro, J., Miller, E.L., Gehrels, G.E., Farmer, G.L., Gottlieb, E.S., Till, A.B., Late Proterozoic–Paleozoic, Arctic Alaska-Chukotka, U-Pb, detrital zircon ages, Implications, Neoproterozoic, paleogeographic reconstructions, Geological, America Bulletin
+Substance: detrital zircon ages, paleogeographic reconstructions
+Time: Late Proterozoic–Paleozoic, Neoproterozoic
+Location: E.S., Arctic, Alaska, -, Chukotka
+Antoshkina, A.I., and Soja, C.M., 2006, Late Silurian reconstruction indicated by migration of reef biota between Alaska, Baltica (Urals), and Siberia (Salair): GFF, v128, p
+Key words: Antoshkina, A.I., Soja, C.M., Late Silurian, reef biota, Alaska, Baltica, Urals, Siberia, Salair, GFF
+Substance: 
+Time: Late Silurian
+Location: Siberia
+Augland, L.E., Andresen, A., Corfu, F., and Daviknes, H.K., 2012, Late Ordovician to Silurian ensialic magmatism in Liverpool Land, East Greenland: New evidence extending the northeastern branch of the continental Laurentian magmatic arc: Geological Magazine, v149, p
+Key words: Augland, L.E., Andresen, A., Corfu, F., Daviknes, H.K., Late Ordovician, Silurian, ensialic magmatism, Liverpool Land, Greenland, New evidence, Laurentian, magmatic arc, Geological Magazine
+Substance: 
+Time: Late Ordovician, Silurian
+Location: Augland, Corfu, H.K., East
+Bazard, D.R., Butler, R.F., Gehrels, G.E., and Soja, C.M., 1995, Early Devonian paleomagnetic data from the Lower Devonian Karheen Formation suggest Laurentia-Baltica connection for the Alexander terrane: Geology, v23, p
+Key words: Bazard, D.R., Butler, R.F., Gehrels, G.E., Soja, C.M., Early Devonian, paleomagnetic data, Lower Devonian Karheen Formation suggest Laurentia-Baltica, Alexander, Geology
+Substance: Lower Devonian Karheen Formation suggest Laurentia-Baltica
+Time: Early Devonian, Lower Devonian Karheen Formation suggest Laurentia-Baltica
+Location: Laurentia, -, Baltica
+Beranek, L.P., van Staal, C.R., Gordee, S.M., McClelland, W.C., Israel, S., and Mihalynuk, M.G., 2012, Tectonic signifi cance of Upper Cambrian–Middle Ordovician mafi c volcanic rocks on the Alexander terrane, Saint Elias Mountains, northwestern Canada: The Journal of Geology, v120, p
+Key words: Beranek, L.P., Staal, C.R., Gordee, S.M., McClelland, W.C., Israel, S., Mihalynuk, M.G., Tectonic, signifi cance, Upper Cambrian–Middle Ordovician, mafi c volcanic rocks, Alexander, Saint Elias, Mountains, Canada, Geology
+Substance: mafi c volcanic rocks
+Time: Upper Cambrian–Middle Ordovician
+Location: Gordee, Mihalynuk, M.G., Mountains
+Beranek, L.P., van Staal, C.R., McClelland, W.C., Israel, S., and Mihalynuk, M.G., 2013, Baltican crustal provenance for Cambrian-Ordovician sandstones of the Alexander terrane, North American Cordillera: Evidence from detrital zircon U-Pb geochronology and Hf isotope geochemistry: Journal of the Geological Society of London, v170, p
+Key words: Beranek, L.P., Staal, C.R., McClelland, W.C., Israel, S., Mihalynuk, M.G., Baltican, crustal provenance, Cambrian-Ordovician, Alexander, Cordillera, Evidence, detrital zircon, U-Pb, Hf, isotope geochemistry, Geological, London
+Substance: crustal provenance, detrital zircon, isotope geochemistry
+Time: Cambrian-Ordovician
+Location: Mihalynuk, M.G.
+Blodgett, R.B., Rohr, D.M., and Boucot, A.J., 2002, Paleozoic links among some Alaskan accreted terranes and Siberia based on megafossils, in Miller, E.L., Grantz, A., and Klemperer, S., eds., Tectonic Evolution of the Bering Shelf–Chukchi Sea–Arctic Margin and Adjacent Landmasses: Geological Society of America Special Paper 360, p273–290.
+Key words: Blodgett, R.B., Rohr, D.M., Boucot, A.J., Paleozoic, Alaskan, Siberia, Miller, E.L., Grantz, A., Klemperer, S., Tectonic Evolution, Bering Shelf–Chukchi Sea–Arctic Margin, Adjacent Landmasses, Geological, America, Paper
+Substance: 
+Time: Paleozoic
+Location: Boucot, Siberia
+Brown, E.H., Gehrels, G.E., and Valencia, V.A., 2010, Chilliwack composite terrane in northwest Washington: Neoproterozoic–Silurian passive margin basement, Ordovician–Silurian arc inception: Canadian Journal of Earth Sciences, v47, p
+Key words: Brown, E.H., Gehrels, G.E., Valencia, V.A., Chilliwack, composite terrane, Washington, Neoproterozoic–Silurian, Ordovician–Silurian, arc inception, Canadian Journal, Earth, Sciences
+Substance: composite terrane, Washington
+Time: Neoproterozoic–Silurian, Ordovician–Silurian
+Location: E.H.
+Butler, R.F., Gehrels, G.E., and Bazard, D.R., 1997, Paleomagnetism of Paleozoic strata of the Alexander terrane, southern Alaska: Geological Society of America Bulletin, v109, p
+Key words: Butler, R.F., Gehrels, G.E., Bazard, D.R., Paleomagnetism, Paleozoic, Alexander, Alaska, Geological, America Bulletin
+Substance: 
+Time: Paleozoic
+Location: Bazard
+Dewey, J.F., and Strachan, R.A., 2003, Changing Silurian–Devonian relative plate motion in the Caledonides: Sinistral transpression to sinistral transtension: Journal of the Geological Society of London, v160, p
+Key words: Dewey, J.F., Strachan, R.A., Changing Silurian–Devonian, relative plate motion, Caledonides, Sinistral, sinistral transtension, Geological, London
+Substance: 
+Time: Changing Silurian–Devonian
+Location: 
+Goodge, J., and Vervoort, J.D., 2006, Origin of Mesoproterozoic A-type granites in Laurentia: Hf isotope evidence: Earth and Planetary Science Letters, v243, p
+Key words: Goodge, J., Vervoort, J.D., Origin, Mesoproterozoic A-type, Laurentia, Hf, isotope evidence, Earth, Planetary, Science Letters
+Substance: isotope evidence
+Time: Mesoproterozoic A-type
+Location: Vervoort, Laurentia
+Grove, M., Gehrels, G.E., Cotkin, S.J., Wright, J.E., and Zou, H., 2008, Non-Laurentian cratonal provenance of Late Ordovician blueschists and a link to the Alexander terrane, in Wright, J.E., and Shervais, J.W., eds., Ophiolites, Arcs, and Batholiths: Geological Society of America Special Paper 438, p223–250.
+Key words: M., Gehrels, G.E., Cotkin, S.J., Wright, J.E., Zou, H., Non-Laurentian, cratonal provenance, Late Ordovician, Alexander, Wright, J.E., Shervais, J.W., Ophiolites, Arcs, Batholiths, Geological, America, Paper
+Substance: 
+Time: Late Ordovician
+Location: Cotkin, Shervais
+Lemieux, Y., Thompson, R.I., Erdmer, P., Simonetti, A., and Creaser, R.A., 2007, Detrital zircon geochronology and provenance of Late Proterozoic and mid-Paleozoic successions outboard of the miogeocline, southeastern Canadian Cordillera: Canadian Journal of Earth Sciences, v44, p
+Key words: Lemieux, Y., Thompson, R.I., Erdmer, P., Simonetti, A., Creaser, R.A., Detrital, zircon geochronology, Late Proterozoic, mid-Paleozoic successions outboard, Cordillera, Canadian Journal, Earth, Sciences
+Substance: zircon geochronology
+Time: Late Proterozoic, mid-Paleozoic successions outboard
+Location: 
+Lorenz, H., Gee, D.G., and Simonetti, A., 2008b, Detrital zircon ages and provenance of the Late Neoproterozoic and Palaeozoic succession on Severnaya Zemlya, Kara Shelf: A tie to Baltica: Norwegian Journal of Geology, v88, p
+Key words: Lorenz, H., Gee, D.G., Simonetti, A., Detrital, zircon ages, Late Neoproterozoic, Palaeozoic, Severnaya Zemlya, Kara Shelf, Baltica, Norwegian, Geology
+Substance: zircon ages
+Time: Late Neoproterozoic
+Location: 
+McClelland, W.C., Gehrels, G.E., and Saleeby, J.B., 1992, Upper Jurassic–Lower Cretaceous basinal strata along the Cordilleran margin: Implications for the accretionary history of the Alexander-Wrangellia-Peninsular terrane: Tectonics, v11, p
+Key words: McClelland, W.C., Gehrels, G.E., Saleeby, J.B., Upper Jurassic–Lower Cretaceous, basinal strata, Cordilleran, Implications, accretionary history, Alexander-Wrangellia-Peninsular, Tectonics
+Substance: 
+Time: Upper Jurassic–Lower Cretaceous
+Location: W.C., J.B.
+Nelson, J.L., Diakow, L.J., Mahoney, J.B., van Staal, C.R., Pecha, M., Angen, J.J., Gehrels, G.E., and Lau, T., 2012, North Coast Project: Tectonics and metallogeny of the Alexander terrane, and Cretaceous sinistral shearing of the western Coast belt: British Columbia Ministry of Energy, Mines, and Petroleum Resources, Geological Fieldwork 2011, v2012-1, p
+Key words: Nelson, J.L., Diakow, L.J., Mahoney, J.B., Staal, C.R., Pecha, M., Angen, J.J., Gehrels, G.E., Lau, T., North Coast, Project, Tectonics, Alexander, Cretaceous, western Coast belt, Columbia Ministry, Energy, Mines, Petroleum Resources, Geological Fieldwork
+Substance: 
+Time: Cretaceous
+Location: Diakow, L.J., Angen
+Ershov, A.V., Bolotov, S.N., Korotaev, M.V., Alekseev, A.S., Gorbachev, V.I., Shipilov, E.V., Lankreijer, A., Bembinova, E.Y., and Shalimov, I.V., 1996, Late Precambrian to Triassic history of the East European craton: Dynamics of sedimentary basin evolution: Tectonophysics, v268, p
+Key words: Ershov, A.V., Bolotov, S.N., Korotaev, M.V., Alekseev, A.S., Gorbachev, V.I., Shipilov, E.V., Lankreijer, A., Bembinova, E.Y., Shalimov, I.V., Late Precambrian, Triassic, European craton, Dynamics, sedimentary basin evolution, Tectonophysics
+Substance: Dynamics, sedimentary basin evolution
+Time: Late Precambrian, Triassic
+Location: Korotaev, E.V., Bembinova
+Pedder, A.E.H., 2006, Zoogeographic data from studies of Paleozoic corals of the Alexander terrane, southeastern Alaska and British Columbia, in Haggart, J.W., Enkin, R.J., and Monger, J.W.H., eds., Paleogeography of the North American Cordillera: Evidence For and Against Large-Scale Displacements: Geological Association of Canada Special Paper 46, p29–57.
+Key words: Pedder, A.E.H., Zoogeographic, Paleozoic, Alexander, Alaska, Columbia, Haggart, J.W., Enkin, R.J., Monger, J.W.H., Paleogeography, Cordillera, Evidence, Against Large-Scale Displacements, Geological, Canada, Paper
+Substance: Zoogeographic, Against Large-Scale Displacements
+Time: Paleozoic
+Location: Haggart, Enkin
+Pettersson, C.H., Pease, V., and Frei, D., 2010, Detrital zircon U-Pb ages of Silurian–Devonian sediments from NW Svalbard: A fragment of Avalonia and Laurentia?: Journal of the Geological Society of London, v167, p
+Key words: Pettersson, C.H., Pease, V., Frei, D., Detrital, U-Pb, Silurian–Devonian, Svalbard, Avalonia, Laurentia, Geological, London
+Substance: 
+Time: Silurian–Devonian
+Location: C.H., Avalonia, Laurentia
+Phillips, E.R., Smith, R.A., Stone, P., Pashley, V., and Horstwood, M., 2009, Zircon age constraints on the provenance of Llandovery to Wenlock sandstones from the Midland Valley terrane of the Scottish Caledonides: Scottish Journal of Geology, v45, p
+Key words: Phillips, E.R., Smith, R.A., Stone, P., Pashley, V., Horstwood, M., Zircon, age constraints, Llandovery, Wenlock, Midland, Valley terrane, Caledonides, Scottish Journal, Geology
+Substance: Pashley, Zircon
+Time: Llandovery, Wenlock
+Location: Horstwood, Llandovery
+Rehnström, E.F., 2010, Prolonged Paleozoic magmatism in the East Greenland Caledonides: Some constraints from U-Pb ages and Hf isotopes: The Journal of Geology, v118, p
+Key words: Rehnström, E.F., Prolonged Paleozoic, Greenland Caledonides, U-Pb, Hf, Geology
+Substance: 
+Time: Prolonged Paleozoic
+Location: East
+Samson, S.D., McClelland, W.C., Patchett, P.J., Gehrels, G.E., and Anderson, R.G., 1989, Evidence from neodymium isotopes for mantle contributions to Phanerozoic crustal genesis in the Canadian Cordillera: Nature, v337, p
+Key words: Samson, S.D., McClelland, W.C., Patchett, P.J., Gehrels, G.E., Anderson, R.G., Evidence, neodymium isotopes, mantle contributions, Phanerozoic, crustal genesis, Cordillera, Nature
+Substance: neodymium isotopes, crustal genesis
+Time: Phanerozoic
+Location: W.C.
+Soja, C.M., 1994, Signifi cance of Silurian stromatolite-sphinctozoan reefs: Geology, v22,
+Key words: Soja, C.M., Signifi, Silurian, stromatolite-sphinctozoan reefs, Geology
+Substance: stromatolite-sphinctozoan reefs
+Time: Silurian
+Location: 
+Soja, C.M., and Antoshkina, A.I., 1997, Coeval development of Silurian stromatolite reefs in Alaska and the Ural Mountains: Implications for paleogeography of the Alexander terrane: Geology, v25, p
+Key words: Soja, C.M., Antoshkina, A.I., Coeval, Silurian, stromatolite reefs, Alaska, Ural, Mountains, Implications, Alexander, Geology
+Substance: stromatolite reefs
+Time: Silurian
+Location: Antoshkina, Mountains
+Soja, C.M., and Krutikov, L., 2008, Provenance, depositional setting, and tectonic implications of Silurian polymictic conglomerate in Alaska’s Alexander terrane, in Blodgett, R.B., and Stanley, G.D., Jr., eds., The Terrane Puzzle: New Perspectives on Paleontology and Stratigraphy from the North American Cordillera: Geological Society of America Special Paper 442, p63–75.
+Key words: Soja, C.M., Krutikov, L., Provenance, depositional setting, tectonic implications, Silurian, polymictic conglomerate, Alaska, ’ s, Alexander, Blodgett, R.B., Stanley, G.D., Jr., Terrane Puzzle, Perspectives, Paleontology, Stratigraphy, Cordillera, Geological, America, Paper
+Substance: depositional setting, polymictic conglomerate
+Time: Silurian
+Location: Blodgett
+van Staal, C.R., Whalen, J.B., Valverde-Vaquero, P., Zagorevski, A., and Rogers, N., 2009, PreCarboniferous, episodic accretion-related, orogenesis along the Laurentian margin of the northern Appalachians, in Murphy, J.B., Keppie, J.D., and Hynes, A.J., eds., Ancient Orogens and Modern Analogues: Geological Society of London Special Publication 327, p271–316.
+Key words: Staal, C.R., Whalen, J.B., Valverde-Vaquero, P., Zagorevski, A., Rogers, N., PreCarboniferous, Laurentian, Appalachians, Murphy, J.B., Keppie, J.D., Hynes, A.J., Orogens, Analogues, Geological, London, Publication
+Substance: PreCarboniferous
+Time: PreCarboniferous
+Location: J.B.
+Whalen, J.B., McNicoll, V.J., van Staal, C.R., Lissenberg, C.J., Longstaffe, F.J., Jenner, G.A., and van Breeman, O., 2006, Spatial, temporal and geochemical characteristics of Silurian collision-zone magmatism, Newfoundland Appalachians: An example of a rapidly evolving magmatic system related to slab break-off: Lithos, v89, p
+Key words: Whalen, J.B., McNicoll, V.J., Staal, C.R., Lissenberg, C.J., Longstaffe, F.J., Jenner, G.A., Breeman, O., Spatial, geochemical characteristics, Silurian, collision-zone magmatism, Newfoundland Appalachians, magmatic system, slab break-off, Lithos
+Substance: geochemical characteristics
+Time: Silurian
+Location: Lissenberg, Longstaffe
+Key words: 
+Substance: 
+Time: 
+Location: 

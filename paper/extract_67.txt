@@ -1,0 +1,124 @@
+aBStract: Upper Cretaceous sandstones are the main clastic reservoirs of the Santos Basin, eastern Brazil, showing high porosity at depths greater than 4000 mPorosity preservation in these deep sandstones is ascribed to the inhibition of quartz cementation and pressure dissolution by authigenic porelining chlorite
+Key words: Upper Cretaceous, main clastic reservoirs, Santos, Brazil, high porosity, mPorosity preservation, deep sandstones, quartz cementation, pressure dissolution
+Substance: main clastic reservoirs, high porosity, mPorosity preservation, deep sandstones, quartz cementation, pressure dissolution
+Time: Upper Cretaceous
+Location: Basin
+6), but actually corresponds to a mixture between a feldspathic composition, related to uplifted plutonic basement terrains of the Serra do Mar, VRF derived from the Lower Cretaceous Serra Geral plateau and from intrabasinal and extrabasinal Upper Cretaceous volcanism, and sedimentary–metasedimentary rock fragments from supracrustal, recycled orogenic terrains.The main diagenetic processes which affect Santos sandstones are mechanical and chemical compaction, alteration and dissolution of VRF and feldspars, and precipitation of chlorite, albite, calcite, quartz, titanium oxides, pyrite and siderite.
+Key words: feldspathic composition, plutonic basement terrains, Serra, Mar, VRF, Lower Cretaceous Serra Geral, Upper Cretaceous, sedimentary–metasedimentary rock fragments, orogenic terrains.The, main diagenetic processes, affect Santos, chemical compaction, VRF, titanium oxides
+Substance: feldspathic composition, plutonic basement terrains, sedimentary–metasedimentary rock fragments, main diagenetic processes, chemical compaction, titanium oxides
+Time: Lower Cretaceous Serra Geral, Upper Cretaceous
+Location: Lower, Cretaceous, Geral
+Burial and thermal history representative of the Upper Cretaceous sandstones in the area studied from the Santos Basin, illustrating present and maximum burial depth and temperature, and the substantially greater burial of the rift section.(Fig
+Key words: Burial, thermal history representative, Upper Cretaceous, Santos, maximum burial depth, rift section, Fig
+Substance: Burial, maximum burial depth
+Time: thermal history representative, Upper Cretaceous
+Location: Basin
+As the rift source rocks of the Guaratiba Group were characteristically buried before and at substantially greater depths than the Upper Cretaceous sandstones (Fig4), the potential for porosity preservation owing to early migration and elevated hydrocarbon saturation in the reservoirs must be considered, and
+Key words: rift source rocks, Guaratiba, Upper Cretaceous, Fig4, porosity preservation, early migration, hydrocarbon saturation
+Substance: rift source rocks, porosity preservation, hydrocarbon saturation
+Time: Upper Cretaceous
+Location: 
+Original and present compositions of Upper Cretaceous sandstones from the Santos Basin, plotted on Folk (1968) diagramObserve the compositional shift towards the quartz pole, promoted
+Key words: Original, present compositions, Upper Cretaceous, Santos, Folk, quartz pole
+Substance: present compositions, quartz pole
+Time: present compositions, Upper Cretaceous
+Location: Basin
+Upper Cretaceous sandstones of the Santos Basin are poorly sorted, coarse- to mostly fine-grained arkoses and lithic arkoses, rich in volcanic rock fragmentsThe main observed diagenetic processes are mechanical compaction, alteration and dissolution of VRF and feldspars, and precipitation of pore-lining chlorites, subordinately of quartz, calcite, albite, Ti oxides, pyrite, siderite, and dolomite.
+Key words: Upper Cretaceous, Santos, lithic arkoses, volcanic rock fragmentsThe, diagenetic processes, mechanical compaction, VRF, Ti
+Substance: lithic arkoses, volcanic rock fragmentsThe, diagenetic processes
+Time: Upper Cretaceous
+Location: Basin
+Broader petrologic and geochemical studies are required to constrain the controls and to define the patterns of temporal, stratigraphic and geographical distribution of authigenic chlorites in the Upper Cretaceous sandstones, in order to allow the development of effective models for reservoir quality prediction, which may effectively contribute to the reduction of exploration risks in the Santos Basin.The authors thank Petrobras for the access to samples and for the licence to publish this work, as well as the support of UFRGS, PUC-RS, and LHB-Endeeper
+Key words: Broader, geochemical studies, geographical distribution, authigenic chlorites, Upper Cretaceous, effective models, reservoir quality prediction, exploration risks, Santos Basin.The, thank Petrobras, UFRGS, PUC-RS, LHB-Endeeper
+Substance: geochemical studies, geographical distribution, authigenic chlorites
+Time: Upper Cretaceous
+Location: UFRGS
+Regional diagenetic trends in the Lower Cretaceous Muddy Sandstone, Powder River BasinIn: Scholle, P.A
+Key words: Regional diagenetic trends, Lower Cretaceous Muddy Sandstone, Powder, BasinIn, Scholle, P.A
+Substance: Regional diagenetic trends, Lower Cretaceous Muddy Sandstone
+Time: Lower Cretaceous Muddy Sandstone
+Location: 
+Chlorite authigenesis and porosity preservation in the Upper Cretaceous marine sandstones of the Santos Basin, offshore eastern BrazilIn: Worden, R.H
+Key words: Chlorite, porosity preservation, Upper Cretaceous, marine sandstones, Santos, offshore eastern, BrazilIn, Worden, R.H
+Substance: Chlorite, porosity preservation, marine sandstones
+Time: Upper Cretaceous
+Location: Basin
+Porosity-preserving chlorite cements in shallow-marine volcaniclastic sandstones: Evidence from Cretaceous sandstones of the Sawan gas field, PakistanAmerican Association of Petroleum Geologists Bulletin, 93, 595–615.
+Key words: Porosity-preserving, chlorite cements, shallow-marine volcaniclastic sandstones, Evidence, Cretaceous, Sawan, gas field, PakistanAmerican, Petroleum Geologists Bulletin
+Substance: Porosity-preserving, chlorite cements, shallow-marine volcaniclastic sandstones, gas field
+Time: Cretaceous
+Location: Sawan
+Diagenesis and preservation of porosity in Norphlet formation (Upper Jurassic), southern AlabamaAmerican Association of Petroleum Geologists Bulletin, 73, 707–728.
+Key words: Diagenesis, Norphlet, Upper Jurassic, AlabamaAmerican, Petroleum Geologists Bulletin
+Substance: 
+Time: Upper Jurassic
+Location: 
+Assessing the relative importance of compaction processes and cementation to reduction of porosity in sandstones: Discussion; Compaction and porosity evolution of Pliocene sandstones, Ventura Basin, CaliforniaAmerican Association of Petroleum Geologists Bulletin, 73, 1274–1276.
+Key words: Assessing, relative importance, compaction processes, Discussion, Compaction, porosity evolution, Pliocene, Ventura, CaliforniaAmerican, Petroleum Geologists Bulletin
+Substance: porosity evolution
+Time: Pliocene
+Location: Ventura, Basin
+Diagenesis and fluid evolution of deeply buried Permian (Rotliegende) gas reservoirs, northwest GermanyAmerican Association of Petroleum Geologists Bulletin, 77, 1111–1128.
+Key words: Diagenesis, fluid evolution, Permian, Rotliegende, gas reservoirs, GermanyAmerican, Petroleum Geologists Bulletin
+Substance: gas reservoirs
+Time: Permian
+Location: Permian
+Relationship of diagenetic chlorite rims to depositional facies in Lower Cretaceous reservoir sandstones of the Scotian BasinSedimentology, 57, 587–610.
+Key words: Relationship, diagenetic chlorite rims, depositional facies, Lower Cretaceous, reservoir sandstones, Scotian BasinSedimentology
+Substance: diagenetic chlorite rims, depositional facies, reservoir sandstones, Scotian BasinSedimentology
+Time: Lower Cretaceous
+Location: 
+Diagenesis of Cretaceous sandstones of the Kootenay Formation at Elk Valley (southeastern British Columbia) and MtAllan (southwestern Alberta)
+Key words: Diagenesis, Cretaceous, Kootenay Formation, Elk, Columbia, MtAllan, Alberta
+Substance: Kootenay Formation
+Time: Cretaceous
+Location: 
+Distribution of diagenetic alterations in fluvial, deltaic, and shallow marine sandstones within a sequence stratigraphic framework: Evidence from the Mullaghmore Formation(Carboniferous), NW IrelandJournal of Sedimentary Research, 72, 760–774.
+Key words: Distribution, diagenetic alterations, shallow marine sandstones, sequence stratigraphic framework, Evidence, Mullaghmore Formation, Carboniferous, IrelandJournal, Sedimentary
+Substance: diagenetic alterations, shallow marine sandstones, sequence stratigraphic framework, Mullaghmore Formation, Carboniferous, Sedimentary
+Time: Carboniferous
+Location: 
+Diagenetic history of Norphlet formation (Upper Jurassic), Rankin County, MississippiTransactions of the Gulf Coast Association of Geological Societies, 31, 347–351.
+Key words: Diagenetic, Norphlet, Upper Jurassic, Rankin, MississippiTransactions, Gulf Coast Association, Geological Societies
+Substance: Diagenetic
+Time: Upper Jurassic
+Location: Rankin, County
+Origin of Secondary Porosity and Cement Distribution in a Sandstone/Shale Sequence from the Frio Formation (Oligocene)In: McDonald, D.A
+Key words: Origin, Secondary Porosity, Cement Distribution, Sandstone/Shale Sequence, Frio Formation, Oligocene, McDonald, D.A
+Substance: Secondary Porosity, Cement Distribution, Sandstone/Shale Sequence, Frio Formation
+Time: Oligocene
+Location: 
+Depositional, infiltrated and authigenic clays in fluvial sandstones of the Jurassic Sergi Formation, Recôncavo Basin, northeastern BrazilIn: Houseknecht, D.W
+Key words: Depositional, authigenic clays, fluvial sandstones, Jurassic Sergi Formation, Recôncavo, BrazilIn, Houseknecht, D.W
+Substance: Depositional, authigenic clays, fluvial sandstones, Jurassic Sergi Formation
+Time: Jurassic Sergi Formation
+Location: Recôncavo, Basin
+Early diagenesis of inner-shelf phosphorite and iron-silicate minerals, Lower Cretaceous of the Orpheus graben, southeastern Canada: Implications for the origin of chlorite rimsAmerican Association of Petroleum Geologists Bulletin, 92, 1153–1168.
+Key words: Early, inner-shelf phosphorite, iron-silicate minerals, Lower Cretaceous, Orpheus, Canada, Implications, chlorite rimsAmerican Association, Petroleum Geologists Bulletin
+Substance: iron-silicate minerals, chlorite rimsAmerican Association
+Time: Lower Cretaceous
+Location: 
+Controls on clay mineral distribution and chemistry in the early Permian Rotliegend of GermanyClay Minerals, 28, 393–416.
+Key words: Controls, clay mineral distribution, Permian Rotliegend, GermanyClay Minerals
+Substance: clay mineral distribution, GermanyClay Minerals
+Time: Permian Rotliegend
+Location: 
+Porosity reduction and major controls on diagenesis of Cretaceous–Paleocene volcaniclastic and arkosic sandstone, Middle Park Basin, ColoradoJournal of Sedimentary Research, a64, 797–806.
+Key words: Porosity, major controls, Cretaceous–Paleocene, arkosic sandstone, Middle Park, ColoradoJournal, Sedimentary
+Substance: Porosity, arkosic sandstone, Sedimentary
+Time: Cretaceous–Paleocene
+Location: Middle, Park, Basin
+Diagenesis and reservoir-quality evolution of incised-valley sandstones: Evidence from the Abu-Madi gas reservoirs (Upper Miocene), the Nile Delta, EgyptJournal of Sedimentary Research, 75, 572–584.
+Key words: Diagenesis, reservoir-quality evolution, incised-valley sandstones, Evidence, Abu-Madi, gas reservoirs, Upper Miocene, Nile Delta, EgyptJournal, Sedimentary
+Substance: incised-valley sandstones, gas reservoirs, Sedimentary
+Time: Upper Miocene
+Location: 
+Deposition and diagenesis of the lacustrine-fluvial Cangfanggou Group (uppermost Permian to Lower Triassic), southern Junggar Basin, NW China: A contribution from sequence stratigraphyJournal of Paleolimnology, 11, 67–90.
+Key words: Deposition, Cangfanggou, Permian, Lower Triassic, Junggar, China, sequence stratigraphyJournal, Paleolimnology
+Substance: Deposition
+Time: Permian, Lower Triassic
+Location: Junggar, Basin, NW
+Key words: 
+Substance: 
+Time: 
+Location: 

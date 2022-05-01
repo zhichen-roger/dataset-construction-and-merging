@@ -1,0 +1,419 @@
+Mid-Miocene uplift of the northern Qilian Shan as a result of the northward growth of the northern Tibetan PlateauJingxing Yu1,2, Jianzhang Pang1, Yizhou Wang1, Dewen Zheng1,3, Caicai Liu1, Weitao Wang4,1, Youjuan Li1, Chaopeng Li1, and Lin Xiao1
+Key words: Mid-Miocene, Qilian Shan, northward growth, PlateauJingxing Yu1,2, Jianzhang Pang1, Yizhou Wang1, Dewen Zheng1,3, Caicai Liu1, Weitao Wang4,1, Youjuan Li1, Chaopeng Li1, Lin Xiao1
+Substance: 
+Time: Mid-Miocene, PlateauJingxing Yu1,2, Jianzhang Pang1, Yizhou Wang1, Dewen Zheng1,3, Caicai Liu1, Weitao Wang4,1, Youjuan Li1, Chaopeng Li1, Lin Xiao1
+Location: Qilian, Shan
+Combining these fission-track data and the published geologic, sedimentological, and thermochronologic data from the northern Qilian Shan and Hexi Corridor, we propose a progressively north-northeastward growth model for the northernmost part of Tibet, suggesting that deformation in the inner Qilian Shan occurred synchronously in the middle Miocene, and subsequently, increasingly further north.The collision between India and Eurasia resulted in widespread deformation throughout the continental interior of Eurasia, producing the crust-thickened Tibetan Plateau and its deformed surrounding regions (e.g., Molnar and Tapponnier, 1975; Tapponnier and Molnar, 1979)
+Key words: Combining, fission-track data, thermochronologic data, Qilian Shan, Hexi Corridor, north-northeastward growth model, northernmost part, Tibet, Qilian Shan, Miocene, north.The collision, India, Eurasia, widespread deformation, Eurasia, Plateau, Molnar, Tapponnier, Tapponnier, Molnar
+Substance: widespread deformation
+Time: Miocene
+Location: Qilian, Shan, Hexi, Corridor, Eurasia
+Several prior works concluded that early, collision-age defor ma tion occurred not only in southern Tibet near the India-Eurasia collision zone, but also in northern Tibet (e.g., Clark et al., 2010; Clark, 2012; Dayem et al., 2009), whereas others share the view that crustal thickening resulting from India’s northward advance into Eurasia has propagated northward in time, first accumulating at the plate boundary and starting in the Miocene to Plio-Quaternary in northern Tibet (e.g., Meyer et al., 1998; Tapponnier et al., 2001; Royden et al., 2008; Molnar and Stock, 2009)Although a growing body of evidence for the deformation timing and styles in different parts of Tibet has been achieved, further work is needed to understand the mechanism of crustal thickening of the plateau.
+Key words: collision-age defor ma tion, Tibet, India-Eurasia, collision zone, Tibet, Clark, Clark, Dayem, whereas others, India, ’ s northward, Eurasia, plate boundary, Miocene, Plio-Quaternary, Tibet, Meyer, Tapponnier, Royden, Molnar, deformation timing, different parts, Tibet
+Substance: plate boundary, deformation timing
+Time: Miocene, Plio-Quaternary
+Location: India, -, Eurasia
+Several studies have been conducted to constrain the depositional histories and evolution of these intermountain basins, suggesting both earlier Cenozoic tectonic activity during the Eocene–Oligocene (e.g., Dupont-Nivet et al., 2004; Horton et al., 2004; Dai et al., 2006) and Miocene crustal shortening in the northern Tibetan Plateau (e.g., Fang et al., 2003, 2007; Lease et al., 2012; Wang et al., 2011, 2013, 2016a, 2016b)Thermochronologic exhumation records in the elongated mountain ranges show that uplift occurred both in the early Cenozoic, during the Eocene (e.g., Jolivet et al., 2001; Clark et al., 2010; Duvall et al., 2011), and also in the late Cenozoic (e.g., George et al., 2001; Zheng et al., 2006, 2010; Lease et al., 2011)
+Key words: depositional histories, intermountain basins, Cenozoic, tectonic activity, Eocene–Oligocene, Dupont-Nivet, Horton, Dai, Miocene, Plateau, Fang, Lease, Wang, Thermochronologic, exhumation records, Cenozoic, Eocene, Jolivet, Clark, Duvall, Cenozoic, George, Zheng, Lease
+Substance: depositional histories
+Time: Cenozoic, Eocene–Oligocene, Miocene, Eocene
+Location: 
+Thermochronologic exhumation records in the elongated mountain ranges show that uplift occurred both in the early Cenozoic, during the Eocene (e.g., Jolivet et al., 2001; Clark et al., 2010; Duvall et al., 2011), and also in the late Cenozoic (e.g., George et al., 2001; Zheng et al., 2006, 2010; Lease et al., 2011)Because these constraints on the timing of initial deformation are inconsistent, it remains controversial as to whether the northern Tibetan Plateau tion with emergence of existing high terrain in the Miocene (Clark et al., 2010; Lease et al., 2012), or as a series of northward steps sequentially producing high topographic regions separated by basins (Meyer et al., 1998; Tapponnier et al., 2001).
+Key words: Thermochronologic, exhumation records, Cenozoic, Eocene, Jolivet, Clark, Duvall, Cenozoic, George, Zheng, Lease, initial deformation, Plateau, high terrain, Miocene, Clark, Lease, northward steps, high topographic regions, Meyer, Tapponnier
+Substance: initial deformation, high topographic regions
+Time: Cenozoic, Eocene, Miocene
+Location: 
+Because these constraints on the timing of initial deformation are inconsistent, it remains controversial as to whether the northern Tibetan Plateau tion with emergence of existing high terrain in the Miocene (Clark et al., 2010; Lease et al., 2012), or as a series of northward steps sequentially producing high topographic regions separated by basins (Meyer et al., 1998; Tapponnier et al., 2001).To date, most thermochronologic data relevant to range uplift in northern Tibet were collected in the eastern Qilian Shan and the western Qinling range (e.g., Zheng et al., 2006; Clark et al., 2010; Duvall et al., 2011; Lease et al., 2011)
+Key words: initial deformation, Plateau, high terrain, Miocene, Clark, Lease, northward steps, high topographic regions, Meyer, Tapponnier, .To date, thermochronologic data relevant, range uplift, Tibet, Qilian Shan, Qinling, Zheng, Clark, Duvall, Lease
+Substance: initial deformation, high topographic regions
+Time: Miocene
+Location: Qinling
+In the inner and western Qilian Shan, these data indicate that the exhumation response to Cenozoic thrust and reverse faulting was insufficient to yield completely reset ages (George et al., 2001; Jolivet et al., 2001)The Qilian Shan is large, extending between the Qaidam Basin to the south and the Hexi Corridor to the north, entailing a width of ~300 km and length of >1000 km
+Key words: Qilian Shan, exhumation response, Cenozoic, reset ages, George, Jolivet, Qilian Shan, Qaidam, Hexi Corridor
+Substance: 
+Time: Cenozoic
+Location: Qilian, Shan, Qaidam, Basin
+It is entirely possible that it may have undergone initial deformation diachronously, and could also have experienced deformation styles during the Cenozoic that differ from those observed in the eastern Qilian ShanHence, more work on deformation timing and patterns in different parts of the Qilian Shan is required to understand the uplift and expansion mechanism of the Tibetan Plateau
+Key words: initial deformation, deformation styles, Cenozoic, Qilian ShanHence, deformation timing, different parts, Qilian Shan, expansion mechanism, Plateau
+Substance: initial deformation, deformation styles, deformation timing
+Time: Cenozoic
+Location: Qilian, Shan
+To the north, it is bounded by the Zoulang Nan Shan, which is mainly composed of metamorphic Paleozoic rocks that were thrusted in a northeastern direction over the Cenozoic sedimentary rocks in the Hexi Corridor (Gansu Geological Bureau, 1989)To the south the basin is bounded by the eastern Tuolai Shan, which is composed of folded late Paleozoic to early Mesozoic sediments and Precambrian metamorphic rocks (QBGMR, 1968)
+Key words: Zoulang Nan Shan, Paleozoic, northeastern direction, Cenozoic, sedimentary rocks, Hexi Corridor, Gansu Geological, Tuolai Shan, Paleozoic, Mesozoic, Precambrian, metamorphic rocks, QBGMR
+Substance: sedimentary rocks, metamorphic rocks
+Time: Paleozoic, Cenozoic, Mesozoic, Precambrian
+Location: Zoulang, Shan
+To the south the basin is bounded by the eastern Tuolai Shan, which is composed of folded late Paleozoic to early Mesozoic sediments and Precambrian metamorphic rocks (QBGMR, 1968)Rock units exposed in the Qilian Basin are dominated by Cretaceous conglomerate or sandstone and Quaternary alluvium, with sparse Neogene sandstone exposed (QBGMR, 1968)
+Key words: Tuolai Shan, Paleozoic, Mesozoic, Precambrian, metamorphic rocks, QBGMR, Rock, Qilian, Cretaceous, Quaternary, Neogene, QBGMR
+Substance: metamorphic rocks, Rock
+Time: Paleozoic, Mesozoic, Precambrian, Cretaceous, Quaternary, Neogene
+Location: Qilian, Basin
+Rock units exposed in the Qilian Basin are dominated by Cretaceous conglomerate or sandstone and Quaternary alluvium, with sparse Neogene sandstone exposed (QBGMR, 1968)Using magnetostratigraphic and detrital fission-track data from the Qilian Basin, Liu et al
+Key words: Rock, Qilian, Cretaceous, Quaternary, Neogene, QBGMR, detrital fission-track data, Qilian, Liu
+Substance: Rock
+Time: Cretaceous, Quaternary, Neogene
+Location: Qilian, Basin
+Along the northern range front of the Tuolai Shan near the Qilian Basin, a thrust fault, the southern Qilian Basin fault, juxtaposes Precambrian metamorphic rocks over Cretaceous conglomerate or sandstone (QBGMR, 1968) (Fig2), although no evidence for late Quaternary activity along this fault has been found along the range front.
+Key words: northern range front, Tuolai Shan, Qilian, thrust fault, Qilian, Precambrian, metamorphic rocks, Cretaceous, QBGMR, Fig2, Quaternary, range front
+Substance: metamorphic rocks
+Time: Precambrian, Cretaceous, Quaternary
+Location: Qilian, Basin
+2), although no evidence for late Quaternary activity along this fault has been found along the range front.Because the Cenozoic sediments are distributed sparsely and thinly in the Qilian Basin, it is not easy to constrain the Cenozoic depositional history and evolution of the basin
+Key words: Quaternary, range front.Because, Cenozoic, Qilian, Cenozoic, depositional history
+Substance: depositional history
+Time: Quaternary, Cenozoic
+Location: Qilian, Basin
+Because the Cenozoic sediments are distributed sparsely and thinly in the Qilian Basin, it is not easy to constrain the Cenozoic depositional history and evolution of the basinHence studying the uplift history of the mountain nearby is required in order to understand both the Cenozoic deformation around the Qilian Basin and its role in the deformation pattern of the northern margin of the Tibetan Plateau.
+Key words: Cenozoic, Qilian, Cenozoic, depositional history, uplift history, Cenozoic, Qilian, deformation pattern, Plateau
+Substance: depositional history, deformation pattern
+Time: Cenozoic
+Location: Qilian, Basin, Tibetan, Plateau
+Hence studying the uplift history of the mountain nearby is required in order to understand both the Cenozoic deformation around the Qilian Basin and its role in the deformation pattern of the northern margin of the Tibetan Plateau.Apatite fission-track (AFT) data provide information on the cooling path of thermochronology samples through the partial annealed zone (PAZ) at temperatures ranging from 60 to 110 ± 10 °C, corresponding to a depth of ~2–5 km (Laslett et al., 1987)
+Key words: Hence, uplift history, Cenozoic, Qilian, deformation pattern, Plateau.Apatite, AFT, thermochronology samples, PAZ, 110 ±, Laslett
+Substance: deformation pattern, Plateau.Apatite
+Time: Cenozoic, 110 ±
+Location: Qilian, Basin
+The units sampled are Cretaceous, Permian, Triassic, and Ordovician sandstones, Cambrian and Precambrian metamorphic rocks, and early Paleozoic granite (Fig2B)
+Key words: Cretaceous, Permian, Triassic, Ordovician, Cambrian, Precambrian, metamorphic rocks, Paleozoic, Fig2B
+Substance: metamorphic rocks
+Time: Cretaceous, Permian, Triassic, Ordovician, Cambrian, Precambrian, Paleozoic
+Location: Permian
+Four samples (DCG13-02, DCG13-03, DCG13-04, DCG13-05) were collected from the footwall of the southern Qilian Basin fault; sample DCG13-01 is from Precambrian bedrock between the southern Qilian Basin fault and the Haiyuan fault; and the other five samples (DCG13-06, DCG13-07, DCG13-08, DCG13-09, DCG13-10) were collected from folded Paleozoic bedrock south of the Haiyuan fault (Fig2).
+Key words: DCG13-02, DCG13-03, DCG13-04, DCG13-05, Qilian, DCG13-01, Precambrian, Qilian, Haiyuan, DCG13-06, DCG13-07, DCG13-08, DCG13-09, DCG13-10, Paleozoic, Haiyuan, Fig2
+Substance: 
+Time: DCG13-02, DCG13-03, DCG13-04, DCG13-05, DCG13-01, Precambrian, DCG13-06, DCG13-07, DCG13-08, DCG13-09, DCG13-10, Paleozoic
+Location: Qilian, Basin, Haiyuan
+The four lowest-elevation samples (DCG13-02, DCG13-03, DCG13-04, DCG13-05) have older annealing ages ranging from 42.4 ± 2.4 to 53.8 ± 2.7 Ma, which are significantly younger than the depositional and magmatic ages of the rocks (Cretaceous sandstone and early Paleozoic granite) (Figs2 and 3)
+Key words: lowest-elevation samples, DCG13-02, DCG13-03, DCG13-04, DCG13-05, 42.4 ±, 53.8 ±, 2.7 Ma, magmatic ages, Cretaceous, Paleozoic, Figs2
+Substance: 
+Time: DCG13-02, DCG13-03, DCG13-04, DCG13-05, 42.4 ±, 53.8 ±, 2.7 Ma, Cretaceous, Paleozoic, Figs2
+Location: 
+To the south of the Haiyuan fault, three samples (DCG13-06, DCG13-07, DCG13-09) collected from late Paleozoic bedrock have mean fission-track ages ranging from 15.2 ± 0.8 to 17.6 ± 1.4 Ma (Figs2 and 3)
+Key words: Haiyuan, DCG13-06, DCG13-07, DCG13-09, Paleozoic, fission-track ages, 15.2 ±, 17.6 ±, 1.4 Ma, Figs2
+Substance: 
+Time: DCG13-06, DCG13-07, DCG13-09, Paleozoic, 15.2 ±, 17.6 ±, 1.4 Ma, Figs2
+Location: Haiyuan
+Further to the south, the highest-elevation sample (DCG13-10) has an annealing age of 34.1 ± 2.9 Ma, younger than its depositional age (Permian), whereas its mean fission-track length of 12.1 ± 1.59 μm is shorter than that of the other three samples south of the Haiyuan fault (Fig3).
+Key words: highest-elevation sample, DCG13-10, 34.1 ±, 2.9 Ma, depositional age, Permian, fission-track length, 12.1 ±, Haiyuan, Fig3
+Substance: depositional age
+Time: DCG13-10, 34.1 ±, 2.9 Ma, Permian, 12.1 ±
+Location: Permian, Haiyuan
+To the south of the Haiyuan fault, the three samples (DCG13-06, DCG13-07, DCG13-09) have tightly clustered middle Miocene ages (15.2 ± 0.8 to 17.6 ± 1.4 Ma) and relatively longer confined fission-track lengths (≥13 μm), suggesting that these three samples have been strongly annealed and that their fission-track ages have been resetCompared to these three samples, the southernmost sample DCG13-10 has a relatively older fission-track age (34.1 ± 2.9 Ma) and a shorter confined fission-track length (12.1 ± 1.59 μm)
+Key words: Haiyuan, DCG13-06, DCG13-07, DCG13-09, Miocene, 15.2 ±, 17.6 ±, 1.4 Ma, fission-track lengths, ≥13 μm, fission-track ages, southernmost sample, DCG13-10, fission-track age, 34.1 ±, 2.9 Ma, fission-track length, 12.1 ±
+Substance: 
+Time: DCG13-06, DCG13-07, DCG13-09, Miocene, 15.2 ±, 17.6 ±, 1.4 Ma, ≥13 μm, DCG13-10, 34.1 ±, 2.9 Ma, 12.1 ±
+Location: Haiyuan
+We interpret these samples as having undergone slow cooling within a Mesozoic to early Cenozoic PAZ (PAZ 1)However, four samples (DCG13-06, DCG13-07, DCG13-09, DCG13-10) collected from the hanging-
+Key words: Mesozoic, Cenozoic PAZ, PAZ, DCG13-06, DCG13-07, DCG13-09, DCG13-10
+Substance: 
+Time: Mesozoic, Cenozoic PAZ, DCG13-06, DCG13-07, DCG13-09, DCG13-10
+Location: 
+Light blue strip represents a partial annealing zone (PAZ 1) in the late Mesozoic to early Cenozoic, and the light yellow strip is interpreted as the Miocene partial annealing zone (PAZ 2)Grey strip is the inferred tendency of AFT ages and mean track lengths in the hanging wall of the Haiyuan fault.
+Key words: blue strip, PAZ, Mesozoic, Cenozoic, yellow strip, Miocene, PAZ, Grey, AFT, track lengths, Haiyuan
+Substance: 
+Time: Mesozoic, Cenozoic, Miocene
+Location: Haiyuan
+Combining the different degrees of annealing and the small elevation separation (~160 m) between the samples DCG13-09 and DCG13-10, we infer that this break marks the base of an exhumed Miocene PAZ (PAZ 2) and defines the onset of a rapid cooling that occurred at ca17–15 Ma (Figs
+Key words: Combining, different degrees, small elevation separation, DCG13-09, DCG13-10, Miocene PAZ, PAZ, Ma, Figs
+Substance: small elevation separation
+Time: DCG13-09, DCG13-10, Miocene PAZ
+Location: 
+(2) The Haiyuan fault extends across the Tuolai Shan to the south of Qilian town, cutting the Paleozoic to Mesozoic bedrock, although the total lateral strike slip is estimated to be only ~10 km (QBGMR, 1968; A llen et al., 2017)(3) Given rapid cooling ages observed in the Liupan Shan, a north-trending mountain range at the eastern end of the Haiyuan fault, Zheng et al
+Key words: Haiyuan, Tuolai Shan, Qilian, Paleozoic, Mesozoic, total lateral strike slip, QBGMR, Liupan Shan, mountain range, eastern end, Haiyuan, Zheng
+Substance: 
+Time: Paleozoic, Mesozoic
+Location: Haiyuan, Tuolai, Shan, Qilian, QBGMR, Liupan
+Combined with our data, these points suggest that the inner Qilian Shan experienced rapid exhumation in the mid-Miocene, and there is no evidence for left-lateral strike slip actually along the Haiyuan fault at that time.Therefore, we infer that the rapid cooling of the Tuolai Shan in the m iddle Miocene was driven by an earlier phase of thrust – not left lateral strike-slip – activity on the Haiyuan fault, (termed here the ancestral Haiyuan thrust fault) along the Tuolai Shan range front
+Key words: Combined, Qilian Shan, rapid exhumation, left-lateral strike slip, Haiyuan, Tuolai Shan, m iddle, Miocene, thrust –, lateral strike-slip – activity, Haiyuan, Haiyuan, thrust fault, Tuolai Shan, range front
+Substance: 
+Time: Miocene
+Location: Haiyuan, Tuolai, Shan
+Therefore, we infer that the rapid cooling of the Tuolai Shan in the m iddle Miocene was driven by an earlier phase of thrust – not left lateral strike-slip – activity on the Haiyuan fault, (termed here the ancestral Haiyuan thrust fault) along the Tuolai Shan range frontThen, induced by continued northward growth of the Tibetan Plateau, confined by the rigid Gobi Alashan block to the north (Dayem et al., 2009; Lease et al., 2011; Clark, 2012), the Miocene  Haiyuan thrust connected with other faults in the northeastern plateau and finally formed the ~1000-km-long, active, left-lateral strike-slip Haiyuan fault in a later phase during the middle to late Miocene (Zhang et al., 1991; Zheng et al., 2006; Wang et al., 2013)
+Key words: Tuolai Shan, m iddle, Miocene, thrust –, lateral strike-slip – activity, Haiyuan, Haiyuan, thrust fault, Tuolai Shan, range frontThen, northward growth, Plateau, Gobi Alashan, Dayem, Lease, Clark, Miocene Haiyuan, northeastern plateau, left-lateral strike-slip, Haiyuan, Miocene, Zhang, Zheng, Wang
+Substance: Gobi Alashan
+Time: Miocene, Miocene Haiyuan
+Location: Tuolai, Shan, Haiyuan, Miocene
+Then, induced by continued northward growth of the Tibetan Plateau, confined by the rigid Gobi Alashan block to the north (Dayem et al., 2009; Lease et al., 2011; Clark, 2012), the Miocene  Haiyuan thrust connected with other faults in the northeastern plateau and finally formed the ~1000-km-long, active, left-lateral strike-slip Haiyuan fault in a later phase during the middle to late Miocene (Zhang et al., 1991; Zheng et al., 2006; Wang et al., 2013)This two-stage slip model of the Haiyuan fault zone coincides with the middle Miocene change in the kinematic style of plateau growth, from NNE-SSW contraction that mimicked the plate convergence direction to the inclusion of new structures accommodating east-west motion (Lease et al., 2011).
+Key words: northward growth, Plateau, Gobi Alashan, Dayem, Lease, Clark, Miocene Haiyuan, northeastern plateau, left-lateral strike-slip, Haiyuan, Miocene, Zhang, Zheng, Wang, two-stage slip model, Haiyuan, fault zone coincides, Miocene, kinematic style, plateau growth, NNE-SSW, plate convergence direction, new structures, east-west motion, Lease
+Substance: Gobi Alashan, new structures
+Time: Miocene Haiyuan, Miocene
+Location: Miocene, Haiyuan
+This two-stage slip model of the Haiyuan fault zone coincides with the middle Miocene change in the kinematic style of plateau growth, from NNE-SSW contraction that mimicked the plate convergence direction to the inclusion of new structures accommodating east-west motion (Lease et al., 2011).The 17–15 Ma timing of faulting found in this study agrees well with the increase in cooling rate and deposition throughout middle Miocene found in the Qilian Shan, Qaidam Basin, and Hexi Corridor (Fig
+Key words: two-stage slip model, Haiyuan, fault zone coincides, Miocene, kinematic style, plateau growth, NNE-SSW, plate convergence direction, new structures, east-west motion, Lease, 17–15 Ma, study agrees, Miocene, Qilian Shan, Qaidam, Hexi Corridor, Fig
+Substance: new structures
+Time: Miocene, 17–15 Ma
+Location: Haiyuan, Qilian, Shan, Qaidam, Basin
+The 17–15 Ma timing of faulting found in this study agrees well with the increase in cooling rate and deposition throughout middle Miocene found in the Qilian Shan, Qaidam Basin, and Hexi Corridor (Fig5A)
+Key words: 17–15 Ma, study agrees, Miocene, Qilian Shan, Qaidam, Hexi Corridor, Fig5A
+Substance: 
+Time: 17–15 Ma, Miocene
+Location: Qilian, Shan, Qaidam, Basin
+Post-Oligocene3	western Hexi Corridor	ca4 Ma21, 22, 23
+Key words: Post-Oligocene3, Hexi Corridor, Ma21
+Substance: 
+Time: Post-Oligocene3, Ma21
+Location: 
+Early to middle Miocene deformation timings are in blueInitiation ages were derived from: 1—Yin et al
+Key words: Early, Miocene, deformation timings, blueInitiation ages
+Substance: deformation timings
+Time: Miocene
+Location: 
+10 Ma, indicated by apatite (U-Th)/He cooling ages (Zheng et al., 2010; Zhuang et al., 2018); (6) a greatly reduced slip rate in the early mid-Miocene along the Altyn Tagh fault (Yue and Liou, 1999); (7) initiation of deposition or provenance change in the Hexi Corridor in the middle Miocene (Bovet et al., 2009; Wang et al., 2016a, 2016b); (8) initiation of Tertiary sedimentation in the Qilian Basin at ca14.3 Ma (Liu et al., 2016); (9) rapid exhumation and increasing deposition rates at ca
+Key words: 10 Ma, U-Th, Zheng, Zhuang, slip rate, early mid-Miocene, Altyn Tagh, Yue, Liou, Hexi Corridor, Miocene, Bovet, Wang, Tertiary, Qilian, Ma, Liu, rapid exhumation, deposition rates
+Substance: deposition rates
+Time: 10 Ma, early mid-Miocene, Miocene
+Location: Qilian, Basin
+These temporally proximate processes indicate that the Qilian Shan experienced synchronous deformation in the middle MioceneNorthward Growth of the Northern Margin of the Qilian Shan
+Key words: proximate processes, Qilian Shan, synchronous deformation, MioceneNorthward, Margin, Qilian Shan
+Substance: synchronous deformation
+Time: MioceneNorthward
+Location: Qilian, Shan
+Synthesis of new AFT data from this study with published constraints on the timing of initial deformation within the northern Qilian Shan and Hexi Corridor allows us to explore the late Cenozoic deformation pattern of the region.Wang et al
+Key words: Synthesis, AFT, initial deformation, Qilian Shan, Hexi Corridor, Cenozoic, deformation pattern
+Substance: initial deformation, deformation pattern
+Time: Cenozoic
+Location: 
+K—Cretaceous 0 km 300 200 sediments; N—Neogene sediments; Q—Quaternary alluvial and fluvial deposits.We propose a north-northeastward progressive deformation pattern for the northernmost part of the Qilian Shan and Hexi Corridor from the Miocene to the Quaternary (Fig
+Key words: K—Cretaceous, N—Neogene, Q—Quaternary, fluvial deposits.We, north-northeastward progressive deformation pattern, northernmost part, Qilian Shan, Hexi Corridor, Miocene, Quaternary, Fig
+Substance: north-northeastward progressive deformation pattern
+Time: K—Cretaceous, N—Neogene, Q—Quaternary, Miocene, Quaternary
+Location: Qilian, Shan
+We propose a north-northeastward progressive deformation pattern for the northernmost part of the Qilian Shan and Hexi Corridor from the Miocene to the Quaternary (Fig5B).
+Key words: north-northeastward progressive deformation pattern, northernmost part, Qilian Shan, Hexi Corridor, Miocene, Quaternary, Fig5B
+Substance: north-northeastward progressive deformation pattern
+Time: Miocene, Quaternary
+Location: Qilian, Shan
+Northern Tibet, bounded by the Kunlun, Altyn Tagh, and Haiyuan fault systems, has been regarded as the Plio-Quaternary Tibet (Tapponnier et al., 2001)Northern Tibet consists of several parallel mountain ranges that are separated by subparallel intermontain basins (Fig
+Key words: Tibet, Kunlun, Altyn Tagh, Haiyuan, fault systems, Plio-Quaternary Tibet, Tapponnier, Tibet, parallel mountain, subparallel intermontain basins, Fig
+Substance: parallel mountain, subparallel intermontain basins
+Time: Plio-Quaternary Tibet
+Location: Northern, Kunlun, Haiyuan
+Prior to the Miocene, northern Tibet appears to have undergone contractional deformation and surface uplift ca45–50 Ma, beginning roughly near the onset of India-Eurasia collision (e.g., Jolivet et al., 2001; Yin et al., 2002, 2008; Horton et al., 2004; Dupont-Nivet et al., 2004; Clark et al., 2010; Duvall et al., 2011)
+Key words: Miocene, Tibet, contractional deformation, surface uplift ca45–50, Ma, India-Eurasia, Jolivet, Yin, Horton, Dupont-Nivet, Clark, Duvall
+Substance: contractional deformation
+Time: Miocene, surface uplift ca45–50
+Location: India, -, Eurasia
+Evidence for deformation since the Miocene is distributed across northern Tibet (e.g., George et al., 2001; Fang et al., 2003; Palumbo et al., 2009; Zheng et al., 2006, 2010; Lease et al., 2011, 2012; Yuan et al., 2013; Wang et al., 2011, 2016a, 2016b; Zhuang et al., 2018).Focusing on the timing of initial deformation in the northern margin of the Qilian Shan and Hexi Corridor, we find that a progressive northward growth model since the early to middle Miocene is suitable (Fig
+Key words: Evidence, Miocene, Tibet, George, Fang, Palumbo, Zheng, Lease, Yuan, Wang, Zhuang, initial deformation, Qilian Shan, Hexi Corridor, progressive northward growth model, Miocene, Fig
+Substance: initial deformation
+Time: Miocene
+Location: Qilian, Shan
+Focusing on the timing of initial deformation in the northern margin of the Qilian Shan and Hexi Corridor, we find that a progressive northward growth model since the early to middle Miocene is suitable (Fig5B)
+Key words: Focusing, initial deformation, Qilian Shan, Hexi Corridor, progressive northward growth model, Miocene, Fig5B
+Substance: initial deformation
+Time: Miocene
+Location: Qilian, Shan
+To the north of the Hexi Corridor, a series of low-relief north-dipping thrust ramps lying parallel to the Qilian Shan range front are thought to have been active since the Quaternary (Zheng et al., 2013).Therefore, we suggest that the northernmost Qilian Shan has grown north-northeastward toward the foreland since the Miocene to create a series of parallel WNW-striking ramp anticlines and associated NNE–striking thrust faults
+Key words: Hexi Corridor, thrust ramps, Qilian Shan, range front, Quaternary, Zheng, Qilian Shan, Miocene, WNW-striking, ramp anticlines, NNE–striking, thrust faults
+Substance: 
+Time: Quaternary, Miocene
+Location: Qilian, Shan
+Therefore, we suggest that the northernmost Qilian Shan has grown north-northeastward toward the foreland since the Miocene to create a series of parallel WNW-striking ramp anticlines and associated NNE–striking thrust faultsForeland basins formed along the range fronts as the mountains uplifted, which then evolved into piggyback basins when the ranges to the north of these basins began to uplift, and finally became the subparallel elongated intermountain basins
+Key words: Qilian Shan, Miocene, WNW-striking, ramp anticlines, NNE–striking, thrust faultsForeland basins, range fronts, piggyback basins, intermountain basins
+Substance: 
+Time: Miocene
+Location: 
+Widespread middle Miocene deformation, as indicated by accelerated erosion and deposition not only in the northern Qilian Shan, but also in the southern Qilian Shan (Zhuang et al., 2018), northern Qaidam Basin (Fang et al., 2007; Wang et al., 2017), and western Qaidam Basin (e.g., Chang et al., 2015; Cheng et al., 2015; Li et al., 2017; Liu et al., 2017), may therefore be inconsistent with a simple model of northward growth for northern TibetWidespread middle Miocene deformation across northern Tibet is consistent with the predicted timing of initial rapid outward growth driven by removal of mantle lithosphere from beneath Tibet (England and Houseman, 1989; Molnar and Stock, 2009).
+Key words: Widespread, Miocene, Qilian Shan, Qilian Shan, Zhuang, Qaidam, Fang, Wang, Qaidam, Chang, Cheng, Li, Liu, simple model, northward growth, TibetWidespread, Miocene, Tibet, initial rapid outward growth, mantle lithosphere, Tibet, England, Houseman, Molnar
+Substance: 
+Time: Miocene
+Location: Qilian, Shan, Qaidam, Basin
+Widespread middle Miocene deformation across northern Tibet is consistent with the predicted timing of initial rapid outward growth driven by removal of mantle lithosphere from beneath Tibet (England and Houseman, 1989; Molnar and Stock, 2009).This work provides new constraints on the onset of rapid cooling in northern Tibet by AFT thermochronometry in samples collected from the Tuolai Shan, one of the WNW- to NW-trending elongated mountain ranges in the Qilian Shan
+Key words: Widespread, Miocene, Tibet, initial rapid outward growth, mantle lithosphere, Tibet, England, Houseman, Molnar, .This work, new constraints, Tibet, AFT, Tuolai Shan, WNW-, NW-trending, Qilian Shan
+Substance: 
+Time: Miocene
+Location: Qilian, Shan
+Bovet, P.M., Ritts, B.D., Gehrels, G., Abbink, A.O., Darby, B., and Hourigan, J., 2009, Evidence of Miocene crustal shortening in the north Qilian Shan from Cenozoic stratigraphy of the western Hexi Corridor, Gansu Province, China: American Journal of Science, v309, p
+Key words: Bovet, Ritts, B.D., Gehrels, G., Abbink, A.O., Darby, B., Hourigan, J., Evidence, Miocene, Qilian Shan, Cenozoic, Hexi Corridor, Gansu Province, China, American Journal
+Substance: 
+Time: Miocene, Cenozoic
+Location: Qilian, Shan, Hexi, Corridor, Province
+Chang, H., Li, L., Qiang, X., Garzione, C.N., Pullen, A., and An, Z., 2015, Magnetostratigraphy of Cenozoic deposits in the western Qaidam Basin and its implication for the surface uplift of the northeastern margin of the Tibetan Plateau: Earth and Planetary Science Letters, v430, p
+Key words: Chang, H., Li, L., Qiang, X., Garzione, C.N., Pullen, A., Z., Magnetostratigraphy, Cenozoic, Qaidam, surface uplift, Plateau, Earth, Planetary, Science Letters
+Substance: 
+Time: Cenozoic
+Location: Garzione, Qaidam, Basin
+Chen, J., Wyrwoll, K.-H., Lu, Y., Krapez, B., Wan, J., and Liu, J., 2006, Magnetochronology of the Yumen conglomerates and multi-pulsed folding and thrusting in the northern Qilianshan: Quaternary Sciences, v26, p
+Key words: Chen, J., Wyrwoll, K.-H., Lu, Y., Krapez, B., Wan, J., Liu, J., Magnetochronology, Yumen, Qilianshan, Quaternary, Sciences
+Substance: 
+Time: Quaternary
+Location: Wyrwoll, Krapez
+Cheng, F., Guo, Z., Jenkins, H.S., Fu, S., and Cheng, X., 2015, Initial rupture and displacement on the Altyn Tagh fault, northern Tibetan Plateau: Constraints based on residual Mesozoic to Cenozoic strata in the western Qaidam Basin: Geosphere, v11, p
+Key words: Cheng, F., Guo, Z., Jenkins, H.S., Fu, S., Cheng, X., Initial, Altyn Tagh, Plateau, Constraints, Mesozoic, Cenozoic, Qaidam, Geosphere
+Substance: 
+Time: Mesozoic, Cenozoic
+Location: H.S., Qaidam, Basin
+Clark, M.K., Farley, K.A., Zheng, D., Wang, Z., and Duvall, A.R., 2010, Early Cenozoic faulting of the northern Tibetan Plateau margin from apatite (U-Th)/He ages: Earth and Planetary Science Letters, v296, p
+Key words: Clark, M.K., Farley, K.A., Zheng, D., Wang, Z., Duvall, A.R., Early Cenozoic, Plateau, U-Th, /He ages, Earth, Planetary, Science Letters
+Substance: 
+Time: Early Cenozoic
+Location: 
+Dai, S., Fang, X.M., Dupont-Nivet, G., Song, C., Gao, J., Krijgsman, W., Langereis, C., and Zhang, W., 2006, Magnetostratigraphy of Cenozoic sediments from the Xining Basin: Tectonic implications for the northeastern Tibetan Plateau: Journal of Geophysical Research, v111, B11102,
+Key words: Dai, S., Fang, X.M., Dupont-Nivet, G., C., Gao, J., Krijgsman, W., Langereis, C., Zhang, W., Magnetostratigraphy, Cenozoic, Xining, Tectonic, Plateau, Geophysical, B11102
+Substance: Geophysical
+Time: Cenozoic, B11102
+Location: Langereis, Basin
+Dupont-Nivet, G., Horton, B.K., Butler, R.F., Wang, J., Zhou, J., and Waanders, G.L., 2004, Paleogene clockwise tectonic rotation of the Xining-Lanzhou region, northeastern Tibetan Plateau: Journal of Geophysical Research, v109, B04401,  .
+Key words: Dupont-Nivet, G., Horton, B.K., Butler, R.F., Wang, J., Zhou, J., Waanders, G.L., Paleogene, clockwise tectonic rotation, Xining-Lanzhou, Plateau, Geophysical, B04401
+Substance: Geophysical
+Time: Paleogene, B04401
+Location: Xining, -, Lanzhou
+Duvall, A.R., Clark, M.K., van der Pluijm, B.A., and Li, C., 2011, Direct dating of Eocene reverse faulting in northeastern Tibet using Ar-dating of fault clays and low-temperature thermochronometry: Earth and Planetary Science Letters, v304, p
+Key words: Duvall, A.R., Clark, M.K., van der, Pluijm, B.A., Li, C., Direct, Eocene, Tibet, Ar-dating, fault clays, low-temperature thermochronometry, Earth, Planetary, Science Letters
+Substance: fault clays
+Time: Eocene
+Location: 
+Fang, X., Zhao, Z., Li, J., Yan, M.D., Pan, B.T., Song, C.H., and Dai, S., 2005, Magnetostratigraphy of the late Cenozoic Laojunmiao anticline in the northern Qilian Mountains and its implications for the northern Tibetan Plateau uplift: Science in China, Series D: Earth Sciences, v48, p
+Key words: Fang, X., Zhao, Z., Li, J., Yan, M.D., Pan, B.T., C.H., Dai, S., Magnetostratigraphy, Cenozoic Laojunmiao, Qilian, Mountains, Plateau, China, D, Earth, Sciences
+Substance: 
+Time: Cenozoic Laojunmiao
+Location: Qilian, Mountains
+Fang, X., Zhang, W., Meng, Q., Gao, J., Wang, X., King, J., Song, C., Dai, S., and Miao, Y., 2007, High-resolution magnetostratigraphy of the Neogene Huaitoutala section in the eastern  Qaidam Basin on the NE Tibetan Plateau, Qinghai Province, China and its implication on tectonic uplift of the NE Tibetan Plateau: Earth and Planetary Science Letters, v258, p
+Key words: Fang, X., Zhang, W., Meng, Q., Gao, J., Wang, X., J., C., Dai, S., Miao, Y., High-resolution, Neogene Huaitoutala, Qaidam, Plateau, Qinghai Province, China, tectonic uplift, Plateau, Earth, Planetary, Science Letters
+Substance: 
+Time: Neogene Huaitoutala
+Location: Neogene, Huaitoutala, Qaidam, Basin, Tibetan, Plateau, Province
+Garzione, C.N., Ikari, M.J., and Basu, A.R., 2005, Source of Oligocene to Pliocene sedimentary rocks in the Linxia basin in northeastern Tibet from Nd isotopes: Implications for tectonic forcing of climate: Geological Society of America Bulletin, v117, p
+Key words: Garzione, C.N., Ikari, M.J., Basu, A.R., Source, Oligocene, Pliocene, sedimentary rocks, Linxia, Tibet, Nd, Implications, Geological, America Bulletin
+Substance: sedimentary rocks
+Time: Oligocene, Pliocene
+Location: 
+George, A.D., Marshallsea, S.J., Wyrwoll, K.-H., Chen, J., and Lu, Y., 2001, Miocene cooling in the northern Qilian Shan, northeastern margin of the Tibetan Plateau, revealed by apatite fission-track and vitrinite-reflectance analysis: Geology, v29, p
+Key words: George, A.D., Marshallsea, S.J., Wyrwoll, K.-H., Chen, J., Lu, Y., Miocene, Qilian Shan, Plateau, apatite fission-track, vitrinite-reflectance analysis, Geology
+Substance: apatite fission-track, vitrinite-reflectance analysis
+Time: Miocene
+Location: Marshallsea, Wyrwoll, Qilian, Shan
+Hendrix, M.S., Dumitru, T.A., and Graham, S.A., 1994, Late Oligocene–early Miocene unroofing in the Chinese Tian Shan: An early effect of the India-Asia collision: Geology, v22, p
+Key words: Hendrix, M.S., Dumitru, T.A., Graham, S.A., Late Oligocene–early Miocene, Tian Shan, early effect, India-Asia, Geology
+Substance: 
+Time: Late Oligocene–early Miocene
+Location: M.S., India, -, Asia
+Horton, B.K., Dupont-Nivet, G., Zhou, J., Waanders, G.L., Butler, R.F., and Wang, J., 2004, Mesozoic-Cenozoic evolution of the Xining-Minhe and Dangchang basins, northeastern Tibetan Plateau: Magnetostratigraphic and biostratigraphic results: Journal of Geophysical Research, v109, no
+Key words: Horton, B.K., Dupont-Nivet, G., Zhou, J., Waanders, G.L., Butler, R.F., Wang, J., Mesozoic-Cenozoic, Xining-Minhe, Dangchang, Plateau, Magnetostratigraphic, biostratigraphic results, Geophysical
+Substance: Magnetostratigraphic, biostratigraphic results, Geophysical
+Time: Mesozoic-Cenozoic
+Location: Dangchang
+Jolivet, M., Brunel, M., Seward, D., Xu, Z., Yang, J., Roger, F., Tapponnier, P., Malavieille, J.,  Arnaud, N., and Wu, C., 2001, Mesozoic and Cenozoic tectonics of the northern edge of the Tibetan plateau: Fission-track constraints: Tectonophysics, v343, p
+Key words: Jolivet, M., Brunel, M., Seward, D., Xu, Z., Yang, J., Roger, F., Tapponnier, P., Malavieille, J., Arnaud, N., Wu, C., Mesozoic, Cenozoic, northern edge, Tibetan plateau, Fission-track, Tectonophysics
+Substance: 
+Time: Mesozoic, Cenozoic
+Location: Brunel, Malavieille
+Lasserre, C., Gaudemer, Y., Tapponnier, P., Mériaux, A.-S., Van der Woerd, J., Daoyang, Y., Ryerson, F.J., Finkel, R.C., and Caffee, M.W., 2002, Fast late Pleistocene slip rate on the Leng Long Ling segment of the Haiyuan fault, Qinghai, China: Journal of Geophysical Research, v107, 2276, .
+Key words: Lasserre, C., Gaudemer, Y., Tapponnier, P., Mériaux, A.-S., Van, Woerd, J., Daoyang, Y., Ryerson, F.J., Finkel, R.C., Caffee, M.W., Fast, Pleistocene, slip rate, Leng, Ling, Haiyuan, Qinghai, China, Geophysical
+Substance: Geophysical
+Time: Pleistocene
+Location: Leng, Ling, Haiyuan
+Lease, R.O., Burbank, D.W., Clark, M.K., Farley, K.A., Zheng, D., and Zhang, H., 2011, Middle Miocene reorganization of deformation along the northeastern Tibetan Plateau: Geology, v39, p
+Key words: Lease, R.O., Burbank, D.W., Clark, M.K., Farley, K.A., Zheng, D., Zhang, H., Miocene, Plateau, Geology
+Substance: 
+Time: Miocene
+Location: 
+Lease, R.O., Burbank, D.W., Hough, B., Wang, Z., and Yuan, D., 2012, Pulsed Miocene range growth in northeastern Tibet: Insights from Xunhua Basin magnetostratigraphy and provenance: Geological Society of America Bulletin, v124, p
+Key words: Lease, R.O., Burbank, D.W., Hough, B., Wang, Z., Yuan, D., Pulsed Miocene, range growth, Tibet, Insights, Xunhua, Geological, America Bulletin
+Substance: 
+Time: Pulsed Miocene
+Location: Xunhua, Basin
+Li, B., Yan, M., Zhang, W., Fang, X., Meng, Q., Zan, J., Chen, Y., Zhang, D., Yang, Y., and Guan, C., 2017, New paleomagnetic constraints on middle Miocene strike-slip faulting along the middle Altyn Tagh Fault: Journal of Geophysical Research: Solid Earth, v122, p
+Key words: Li, B., Yan, M., Zhang, W., Fang, X., Meng, Q., Zan, J., Chen, Y., Zhang, D., Yang, Y., Guan, C., New paleomagnetic constraints, Miocene, Altyn Tagh Fault, Geophysical, Earth
+Substance: Geophysical
+Time: Miocene
+Location: 
+Li, C., Zhang, P., Yin, J., and Min, W., 2009, Late Quaternary left‐lateral slip rate of the Haiyuan fault, northeastern margin of the Tibetan Plateau: Tectonics, v28, TC5010,  .
+Key words: Li, C., Zhang, P., Yin, J., Min, W., Late Quaternary, left‐lateral slip rate, Haiyuan, Plateau, Tectonics, TC5010
+Substance: 
+Time: Late Quaternary, TC5010
+Location: Haiyuan
+Lin, X., Zheng, D., Sun, J., Windley, B.F., Tian, Z., Gong, Z., and Jia, Y., 2015, Detrital apatite fission track evidence for provenance change in the Subei Basin and implications for the tectonic uplift of the Danghe Nan Shan (NW China) since the mid-Miocene: Journal of Asian Earth Sciences, v111, p
+Key words: Lin, X., Zheng, D., Sun, J., Windley, B.F., Tian, Z., Gong, Z., Jia, Y., Detrital, apatite fission track evidence, Subei, tectonic uplift, Danghe Nan Shan, China, Earth, Sciences
+Substance: apatite fission track evidence
+Time: 
+Location: Subei, Basin
+Liu, C., Wang, W., Zhang, P., Pang, J., and Yu, J., 2016, Magnetostratigraphy and magnetic anisotropy of the Neogene sediments in the Qilian Basin: Chinese Journal of Geophysics (Chinese edition), v59, p
+Key words: Liu, C., Wang, W., Zhang, P., Pang, J., Yu, J., Magnetostratigraphy, magnetic anisotropy, Neogene, Qilian, Chinese Journal, Geophysics, Chinese edition
+Substance: 
+Time: Neogene
+Location: Qilian, Basin
+Liu, D., Yan, M., Fang, X., Li, H., Song, C., and Dai, S., 2011, Magnetostratigraphy of sediments from the Yumu Shan, Hexi Corridor and its implications regarding the Late Cenozoic uplift of the NE Tibetan Plateau: Quaternary International, v236, p
+Key words: Liu, D., Yan, M., Fang, X., Li, H., C., Dai, S., Magnetostratigraphy, Yumu Shan, Hexi Corridor, Late Cenozoic, Plateau, Quaternary
+Substance: 
+Time: Late Cenozoic, Quaternary
+Location: Yumu, Shan
+Liu, J., Zhang, P., Lease, R.O., Zheng, D., Wan, J., Wang, W., and Zhang, H., 2013, Eocene onset and late Miocene acceleration of Cenozoic intracontinental extension in the North Qinling range–Weihe graben: Insights from apatite fission track thermochronology: Tectonophysics,Liu, R., Allen, M.B., Zhang, Q., Du, W., Cheng, X., Holdsworth, R.E., and Guo, Z., 2017, Basement controls on deformation during oblique convergence: Transpressive structures in the western Qaidam Basin, northern Tibetan Plateau: Lithosphere, v
+Key words: Liu, J., Zhang, P., Lease, R.O., Zheng, D., Wan, J., Wang, W., Zhang, H., Eocene, Miocene, Cenozoic, Qinling, range–Weihe graben, Insights, apatite fission track thermochronology, Tectonophysics, Liu, R., Allen, M.B., Zhang, Q., W., Cheng, X., Holdsworth, R.E., Guo, Z., Basement, oblique convergence, Transpressive, Qaidam, Plateau, Lithosphere
+Substance: apatite fission track thermochronology
+Time: Eocene, Miocene, Cenozoic
+Location: North, Qinling, M.B., R.E., Qaidam, Basin
+Molnar, P., and Tapponnier, P., 1975, Cenozoic tectonics of Asia: Effects of a continental collision: Science, v189, p
+Key words: Molnar, P., Tapponnier, P., Cenozoic, Asia, Effects, continental collision
+Substance: 
+Time: Cenozoic
+Location: 
+S., 2002, Late Miocene exhumation and uplift of the Washington Cascade Range: Geology,Ren, Z., Zhang, Z., Chen, T., Yan, S., Yin, J., Zhang, P., Zheng, W., Zhang, H., and Li, C., 2016, Clustering of offsets on the Haiyuan fault and their relationship to paleoearthquakes: Geological Society of America Bulletin, v
+Key words: S., Late Miocene, Washington Cascade, Geology, Ren, Z., Zhang, Z., Chen, T., Yan, S., Yin, J., Zhang, P., Zheng, W., Zhang, H., Li, C., Clustering, Haiyuan, Geological, America Bulletin
+Substance: Washington Cascade
+Time: Late Miocene
+Location: Cascade, Range, Haiyuan
+Tapponnier, P., and Molnar, P., 1979, Active faulting and Cenozoic tectonics of the Tien Shan, Mongolia, and Baykal regions: Journal of Geophysical Research, v84, p
+Key words: Tapponnier, P., Molnar, P., Active, Cenozoic, Tien Shan, Mongolia, Baykal, Geophysical
+Substance: Geophysical
+Time: Cenozoic
+Location: Tien, Shan
+Wang, W., Kirby, E., Zhang, P., Zheng, D., Zhang, G., Zhang, H., Zheng, W., and Chai, Z., 2013, Tertiary basin evolution along the northeastern margin of the Tibetan Plateau: Evidence for basin formation during Oligocene transtension: Geological Society of America Bulletin, v125, p
+Key words: Wang, W., Kirby, E., Zhang, P., Zheng, D., Zhang, G., Zhang, H., Zheng, W., Chai, Z., Tertiary, basin evolution, Plateau, Evidence, basin formation, Oligocene, Geological, America Bulletin
+Substance: basin formation
+Time: Oligocene
+Location: 
+Wang, W., Zhang, P., Pang, J., Garzione, C., Zhang, H., Liu, C., Zheng, D., Zheng, W., and Yu, J., 2016a, The Cenozoic growth of the Qilian Shan in the northeastern Tibetan Plateau: A sedimentary archive from the Jiuxi Basin: Journal of Geophysical Research: Solid Earth, v121, p
+Key words: Wang, W., Zhang, P., Pang, J., Garzione, C., Zhang, H., Liu, C., Zheng, D., Zheng, W., Yu, J., Cenozoic, Qilian Shan, Plateau, sedimentary archive, Jiuxi, Geophysical, Earth
+Substance: sedimentary archive, Geophysical
+Time: Cenozoic
+Location: Garzione, Qilian, Shan, Jiuxi, Basin
+Wang, W., Zheng, W., Zhang, P., Li, Q., Kirby, E., Yuan, D., Zheng, D., Liu, C., Wang, Z., Zhang, H., and Pang, J., 2017, Expansion of the Tibetan Plateau during the Neogene: Nature Communications, v8, 15887,  .
+Key words: Wang, W., Zheng, W., Zhang, P., Li, Q., Kirby, E., Yuan, D., Zheng, D., Liu, C., Wang, Z., Zhang, H., Pang, J., Expansion, Plateau, Neogene, Nature Communications
+Substance: 
+Time: Neogene
+Location: 
+Yan, M., Van der Voo, R., Fang, X., Parés, J.M., and Rea, D.K., 2006, Paleomagnetic evidence for a mid-Miocene clockwise rotation of about 25° of the Guide Basin area in NE Tibet: Earth and Planetary Science Letters, v241, p
+Key words: Yan, M., Van, Voo, R., Fang, X., Parés, J.M., Rea, D.K., Paleomagnetic, mid-Miocene clockwise rotation, Guide, Tibet, Earth, Planetary, Science Letters
+Substance: 
+Time: mid-Miocene clockwise rotation
+Location: Parés, Basin
+Yin, A., Rumelhart, P.E., Butler, R., Cowgill, E., Harrison, T.M., Foster, D.A., Ingersoll, R.V., Zhang, Q., Zhou, X., Wang, X., Hanson, A., and Raza, A., 2002, Tectonic history of the Altyn Tagh fault system in northern Tibet inferred from Cenozoic sedimentation: Geological Society of America Bulletin, v114, p
+Key words: Yin, A., Rumelhart, P.E., Butler, R., Cowgill, E., Harrison, T.M., Foster, D.A., Ingersoll, R.V., Zhang, Q., Zhou, X., Wang, X., Hanson, A., Raza, A., Tectonic, Altyn Tagh, fault system, Tibet, Cenozoic, Geological, America Bulletin
+Substance: 
+Time: Cenozoic
+Location: R.V.
+Yin, A., Dang, Y., Zhang, M., Chen, X., and McRivette, M.W., 2008, Cenozoic tectonic evolution of the Qaidam basin and its surrounding regions (Part 3): Structural geology, sedimentation, and regional tectonic reconstruction: Geological Society of America Bulletin, v120, p
+Key words: Yin, A., Dang, Y., Zhang, M., Chen, X., McRivette, M.W., Cenozoic, tectonic evolution, Qaidam, Part, Structural, regional tectonic reconstruction, Geological, America Bulletin
+Substance: 
+Time: Cenozoic
+Location: Qaidam
+Yu, J.X., Zheng, W.J., Kirby, E., Zhang, P.Z., Lei, Q.Y., Ge, W.P., Wang, W.T., Li, X.N., and Zhang, N., 2016, Kinematics of late Quaternary slip along the Yabrai fault: Implications for Cenozoic tectonics across the Gobi Alashan block, China: Lithosphere, v8, p
+Key words: Yu, J.X., Zheng, W.J., Kirby, E., Zhang, P.Z., Lei, Q.Y., Ge, W.P., Wang, W.T., Li, X.N., Zhang, N., Kinematics, Quaternary, Yabrai, Implications, Cenozoic, Gobi Alashan, China, Lithosphere
+Substance: Gobi Alashan
+Time: Quaternary, Cenozoic
+Location: W.P., Yabrai
+Zhang, P., Burchfiel, B.C., Molnar, P., Zhang, W., Jiao, D., Deng, Q., Wang, Y., Royden, L., and Song, F., 1991, Amount and style of late Cenozoic deformation in the Liupan Shan area, Ningxia Autonomous Region, China: Tectonics, v10, p
+Key words: Zhang, P., Burchfiel, B.C., Molnar, P., Zhang, W., Jiao, D., Deng, Q., Wang, Y., Royden, L., F., Amount, Cenozoic, Liupan Shan, Ningxia Autonomous Region, China, Tectonics
+Substance: 
+Time: Cenozoic
+Location: Liupan, Shan, area, Autonomous, Region
+Zhao, Z., Fang, X., and Li, J., 2001, Late Cenozoic magnetic polarity stratigraphy in the Jiudong Basin, northern Qilian Mountain: Science in China, Series D: Earth Sciences, v44, p
+Key words: Zhao, Z., Fang, X., Li, J., Late Cenozoic, magnetic polarity stratigraphy, Jiudong, Qilian Mountain, China, D, Earth, Sciences
+Substance: 
+Time: Late Cenozoic
+Location: Jiudong, Basin, Qilian, Mountain
+Zheng, D., Wang, W., Wan, J., Yuan, D., Liu, C., Zheng, W., Zhang, H., Pang, J., and Zhang, P., 2017, Progressive northward growth of the northern Qilian Shan–Hexi Corridor (northeastern  Tibet) during the Cenozoic: Lithosphere, v9, p
+Key words: Zheng, D., Wang, W., Wan, J., Yuan, D., Liu, C., Zheng, W., Zhang, H., Pang, J., Zhang, P., Progressive, northward growth, Qilian Shan–Hexi Corridor, Tibet, Cenozoic, Lithosphere
+Substance: 
+Time: Cenozoic
+Location: 
+Zheng, W., Zhang, P., Ge, W., Molnar, P., Zhang, H., Yuan, D., and Liu, J., 2013, Late Quaternary slip rate of the South Heli Shan Fault (northern Hexi Corridor, NW China) and its implications for northeastward growth of the Tibetan Plateau: Tectonics, v32, p
+Key words: Zheng, W., Zhang, P., Ge, W., Molnar, P., Zhang, H., Yuan, D., Liu, J., Late Quaternary, slip rate, Heli Shan Fault, Hexi Corridor, China, northeastward growth, Plateau, Tectonics
+Substance: 
+Time: Late Quaternary
+Location: NW
+Key words: 
+Substance: 
+Time: 
+Location: 

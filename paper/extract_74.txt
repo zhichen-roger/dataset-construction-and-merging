@@ -1,0 +1,39 @@
+Likely water types from which the quartz overgrowths could have precipitated in the Upper Jurassic sandstones are meteoric water, marine water or basinal water, with estimated d18O values respectively of 7 percent (Hamilton et al., 1987; Hudson & Andrews, 1987), 1.2 percent (Shackleton & Kennett, 1975) and +2 to +5 percent (Egeberg &Aagaard, 1989; Wilkinson et al., 1992)
+Key words: Likely, water types, quartz overgrowths, Upper Jurassic, meteoric water, marine water, basinal water, d18O values, Hamilton, Hudson, Andrews, Shackleton, Kennett, +5 percent, Egeberg, Aagaard, Wilkinson
+Substance: quartz overgrowths, meteoric water, marine water
+Time: Upper Jurassic, d18O values, +5 percent
+Location: 
+This range in pore-fluid d18O values suggests a mixing of porewater of isotopic composition similar to Upper Jurassic marine water (1.2 percent) with pore-water of isotopic composition similar to Upper Jurassic meteoric water (7 percent)The influence of marine water is feasible since the Brae Formation sandstones are marine deposits
+Key words: pore-fluid d18O values suggests, isotopic composition, Upper Jurassic, marine water, isotopic composition, Upper Jurassic, meteoric water, marine water, Brae Formation, marine deposits
+Substance: isotopic composition, marine water, meteoric water, Brae Formation, marine deposits
+Time: pore-fluid d18O values suggests, Upper Jurassic
+Location: 
+The re-calculated d18O porewater compositions point towards a larger component of Upper Jurassic meteoric water (7 percent; Hamilton et al., 1987; Hudson & Andrews, 1987)Given the mid-fan setting of the sandstones, this seems less likely than the pore-water compositions calculated by using average Th values.
+Key words: d18O porewater compositions, Upper Jurassic, meteoric water, Hamilton, Hudson, Andrews, mid-fan setting, pore-water compositions, Th
+Substance: d18O porewater compositions, meteoric water, pore-water compositions
+Time: d18O porewater compositions, Upper Jurassic
+Location: 
+In the oil zone, authigenic quartz precipitated from a mixing of pore-waters with O isotope compositions similar to Upper Jurassic marine and meteoric waterIn the water zone, pore-water O isotope compositions become more enriched in 18O as a result of water-rock reactions
+Key words: oil zone, authigenic quartz, O isotope compositions, Upper Jurassic, meteoric waterIn, water zone, pore-water O isotope compositions, water-rock reactions
+Substance: authigenic quartz, O isotope compositions, meteoric waterIn, pore-water O isotope compositions, water-rock reactions
+Time: Upper Jurassic
+Location: 
+(1987) The diagenesis of the Great Estuarine Group, Middle Jurassic, Inner Hebrides, ScotlandPp 259276 in: Diagenesis of Sedimentary Sequences (J.D
+Key words: Estuarine, Jurassic, Inner Hebrides, ScotlandPp, Diagenesis, Sedimentary Sequences, J.D
+Substance: Sedimentary Sequences
+Time: Jurassic
+Location: Middle, Jurassic
+(1975) Paleotemperature history of the Cenozoic and the initiation of Antarctic glaciation: Oxygen and carbon analyses in DSDP sites 277, 279, 281Pp
+Key words: Paleotemperature, Cenozoic, Antarctic, Oxygen, carbon analyses, DSDP
+Substance: carbon analyses
+Time: Cenozoic
+Location: 
+(1994) Temperatures of quartz cementation in Jurassic sandstones from the Norwegian continental shelf — evidence from fluid inclusionsJ
+Key words: Temperatures, quartz cementation, Jurassic, Norwegian, continental shelf — evidence, fluid inclusionsJ
+Substance: quartz cementation
+Time: Jurassic
+Location: 
+Key words: 
+Substance: 
+Time: 
+Location: 

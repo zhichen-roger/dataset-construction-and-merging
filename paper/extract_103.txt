@@ -1,0 +1,204 @@
+The Orange Basin, offshore South Africa, formed as a result of Gondwana break-up and rifting during the late Jurassic to early Cretaceous periods followed by drifting apart of the African and South American platesA number of wells have been drilled over the last three decades in the Orange Basin, focussed primarily in water depths of less than 500m with gas/condensate and one oil discovery in the syn-rift succession illustrating a working petroleum system
+Key words: Orange, Africa, Gondwana, Jurassic, Cretaceous, African, South American platesA number, Orange, water depths, oil discovery, syn-rift succession, petroleum system
+Substance: 
+Time: Jurassic, Cretaceous
+Location: Basin, Gondwana
+Lower Cretaceous (Albian age) sandstones of the Orange Basin conformably overlie Aptian age sedimentary rocks including potential source rocks for Albian reservoirs, although well testing has yet to demonstrate commercial volumes of hydrocarbonsThis work examines sandstones sampled from well A-W1 and attempts to clarify sediment provenance and post-depositional diagenetic modification of these potential reservoir sands through a combination of analytical techniques including  thin section petrographic characterization, X-ray diffractometry (XRD), X-ray fluorescence (XRF) analyses (major element analysis after Al-Harbi and Khan, 2008), high-resolution transmission electron microscopy (HR-TEM) and scanning electron microscopy (SEM)
+Key words: Lower Cretaceous, Albian, Orange, Aptian, age sedimentary rocks, potential source rocks, Albian, commercial volumes, hydrocarbonsThis work examines sandstones, A-W1, clarify sediment provenance, post-depositional diagenetic modification, potential reservoir sands, analytical techniques, thin section petrographic characterization, X-ray, XRD, X-ray, XRF, major element analysis, Al-Harbi, Khan, high-resolution transmission electron microscopy, HR-TEM, electron microscopy, SEM
+Substance: age sedimentary rocks, potential source rocks, hydrocarbonsThis work examines sandstones, clarify sediment provenance, post-depositional diagenetic modification, potential reservoir sands, thin section petrographic characterization
+Time: Lower Cretaceous, Albian, Aptian, A-W1
+Location: Basin
+The data generated from these analytical techniques have been utilized to interpret the diagenetic and geochemical variation and development of the Albian sands of this well as characteristic of the potential play area.Albian age sandstones have a detrital mineralogy dominated by quartz, K-feldspar and mica and range from greywacke to litharenites
+Key words: analytical techniques, geochemical variation, Albian, potential play area.Albian age sandstones, detrital mineralogy, K-feldspar
+Substance: geochemical variation, potential play area.Albian age sandstones, detrital mineralogy, K-feldspar
+Time: Albian, potential play area.Albian age sandstones
+Location: 
+Albian age sandstones have a detrital mineralogy dominated by quartz, K-feldspar and mica and range from greywacke to litharenitesDiagenetic modifications include feldspar and lithic fragment dissolution, compaction and reduction of the depositional porosity through grain rearrangements, rotation and fragmentation of grains and cementation (primarily quartz and carbonate)
+Key words: Albian, age sandstones, detrital mineralogy, K-feldspar, litharenitesDiagenetic modifications, lithic fragment dissolution, depositional porosity, grain rearrangements
+Substance: age sandstones, detrital mineralogy, K-feldspar, litharenitesDiagenetic modifications, lithic fragment dissolution, depositional porosity, grain rearrangements
+Time: Albian
+Location: 
+The Lower Cretaceous Albian age sandstone of the AW-1 well, which forms the focus of this study, is located on the South African Atlantic margin of South Africa between 31° and 33° latitude (Figure 1) in the offshore Orange BasinThe offshore Orange Basin extends for approximately 50 km between Cape Town and the Namibian border with South Africa
+Key words: Lower Cretaceous Albian, age sandstone, AW-1, African Atlantic, Africa, Figure, Orange BasinThe, Orange, Cape Town, Namibian, Africa
+Substance: age sandstone
+Time: Lower Cretaceous Albian, AW-1
+Location: Atlantic, Basin
+It was formed as a result of break-up of South America and Africa in the Late Jurassic, followed by seafloor spreading and the opening of the South Atlantic Ocean in the Early Cretaceous around 136 Ma (Macdonald et al., 2003; Reeves and Wit, 2000; Brown et al., 1996)It was formed within a divergent plate boundary setting in response to extension related to the break-up of Gondwana.
+Key words: America, Africa, Late Jurassic, Atlantic, Early Cretaceous, 136 Ma, Macdonald, Reeves, Wit, Brown, divergent plate boundary setting, Gondwana
+Substance: divergent plate boundary setting
+Time: Late Jurassic, Early Cretaceous, 136 Ma
+Location: South, Africa, Atlantic, Ocean, Gondwana
+The sedimentary fill is postulated to be perhaps as old as Jurassic, but the oldest dated sediments are Hauterivian (Lower Cretaceous)The sediments within the basin have a continental characteristic, deposited with intermittent volcanic events in basaltic interbeds (Fatti et al., 1994)
+Key words: Jurassic, Hauterivian, Lower Cretaceous, continental characteristic, intermittent volcanic events, basaltic interbeds, Fatti
+Substance: basaltic interbeds
+Time: Jurassic, Hauterivian, Lower Cretaceous
+Location: 
+These basalts are coeval with sediments of the Barremian transgressive succession and illustrate the volcanic nature of the western marginThe western margin comprises a number of crustal segments, with the southern rifted margin component (Visser, 1994) and the Cretaceous sediments of the basin varying from purely continental in the east to deep marine in the west (Petroleum Agency SA, 2006).
+Key words: Barremian, transgressive succession, volcanic nature, western marginThe, crustal segments, Visser, Cretaceous, deep marine, Petroleum, SA
+Substance: crustal segments, deep marine
+Time: Barremian, Cretaceous
+Location: 
+The western margin comprises a number of crustal segments, with the southern rifted margin component (Visser, 1994) and the Cretaceous sediments of the basin varying from purely continental in the east to deep marine in the west (Petroleum Agency SA, 2006).The Albian successions of the Orange Basin typically consist of thick and thin-bedded clay-silt and sand successions with common thin shaley beds
+Key words: crustal segments, Visser, Cretaceous, deep marine, Petroleum, SA, Albian, Orange, sand successions, common thin shaley beds
+Substance: crustal segments, deep marine, sand successions, common thin shaley beds
+Time: Cretaceous, Albian
+Location: Basin
+The Albian successions of the Orange Basin typically consist of thick and thin-bedded clay-silt and sand successions with common thin shaley bedsThe thin nature of the beds presents a difficulty in resolving potential thin-bedded reservoir units using standard wireline techniques (Derder, 2003)
+Key words: Albian, Orange, sand successions, common thin shaley bedsThe, thin nature, reservoir units, standard wireline techniques, Derder
+Substance: sand successions, common thin shaley bedsThe
+Time: Albian
+Location: Basin
+An identified gas reservoir interval within the Albian of the Orange basin consists of an association of coarsening upward, laminated and bioturbated mudstones to massive planar cross-bedded sandstones illustrating evidence of reducing conditions (Muntingh, 1993)This deposition is clearly shallow marine and the reservoir interval defined in well AW-1 is similarly a heterogeneous succession consisting of massive sands with rare shale laminations and thinly bedded sand with abundant shaly/silty interlamination.
+Key words: gas reservoir interval, Albian, Orange, massive planar, Muntingh, shallow marine, reservoir interval, AW-1, heterogeneous succession, massive sands, rare shale laminations, abundant shaly/silty interlamination
+Substance: gas reservoir interval, massive planar, shallow marine, massive sands, rare shale laminations
+Time: Albian, AW-1
+Location: 
+The grain size of the Albian age sandstones in the well AW-1 well range from fine to medium-coarseSorting ranges from poor to well-sorted and roundness is predominantly angular to sub-angular
+Key words: grain size, Albian, age sandstones, AW-1
+Substance: grain size, age sandstones
+Time: Albian, AW-1
+Location: 
+All incipient stage chlorites from Albian sandstone (Figure 5e) occur exclusively within parent grains with a chain-like architectureThis distribution strongly implies that the formation of chlorite was closely related to kaolinite formed from alteration of mica (chloritization of mica) as seen in thin section photomicrographs (Figure 3a and c).
+Key words: incipient stage chlorites, Albian, Figure, parent grains, chain-like architectureThis distribution, thin section photomicrographs, Figure
+Substance: incipient stage chlorites, parent grains
+Time: Albian
+Location: 
+Paragenetic sequence of reservoir sandstone of the Albian formation, well A-W1.Table 3
+Key words: Paragenetic, reservoir sandstone, Albian, A-W1.Table
+Substance: Paragenetic, reservoir sandstone
+Time: Albian, A-W1.Table
+Location: 
+Mean composition of principal sandstone classes and average Albian age sandstone for the studied wellsFigure 10
+Key words: Mean, principal sandstone classes, Albian, age sandstone
+Substance: principal sandstone classes, age sandstone
+Time: Albian
+Location: 
+CIA (Chemical alteration index) of the studied Albian age sandstones.Figure 11
+Key words: CIA, Chemical alteration index, Albian, age sandstones.Figure
+Substance: Chemical alteration index, age sandstones.Figure
+Time: Albian
+Location: 
+Geochemical classification of samples from Albian age sandstone based on Log (SiO2/Al2O3) vsLog (Fe2O3/K2O) diagram (after Herron, 1988).
+Key words: Geochemical, Albian, age sandstone, Log, SiO2/Al2O3, Fe2O3/K2O, Herron
+Substance: Geochemical, age sandstone
+Time: Albian, SiO2/Al2O3, Fe2O3/K2O
+Location: 
+The major element composition of the Albian age sandstones measured in this study are used to classify the sandstones according to the method of Pettijohn et al (1987) and presented in Table 3.A-W1 well sandstones range in type from lithic arenite to greywacke classification
+Key words: major element composition, Albian, age sandstones, Pettijohn, Table, sandstones range, lithic arenite, greywacke classification
+Substance: major element composition, age sandstones, sandstones range, lithic arenite
+Time: Albian
+Location: 
+(1972) and Herron (1988) sandstone classification diagram (Figure 9), the Albian age sandstone of A-W1 plots within the greywacke regionHowever, the greywacke is chemically immature sandstone, suggesting minimum degree of weathering during erosion, deposition and transport
+Key words: Herron, sandstone classification diagram, Figure, Albian, age sandstone, A-W1, greywacke regionHowever, immature sandstone, minimum degree
+Substance: sandstone classification diagram, age sandstone, immature sandstone
+Time: Albian, A-W1
+Location: 
+The compositional maturity of the Albian Sandstone decreases with depthThe relative timing of diagenetic processes in A-W1 well is suggested to be mica and K-feldspar weathering and alteration to kaolinite
+Key words: compositional maturity, Albian Sandstone, relative timing, diagenetic processes, A-W1, K-feldspar
+Substance: compositional maturity, Albian Sandstone, diagenetic processes, K-feldspar
+Time: Albian Sandstone, A-W1
+Location: 
+Provenance, diagenesis, tectonic setting and geochemistry of Tawil Sandstone (Lower Devonian) in Central Saudi ArabiaJournal of Asian Earth Sciences 33, 278–287.
+Key words: Provenance, tectonic setting, Tawil Sandstone, Lower Devonian, Saudi ArabiaJournal, Earth, Sciences
+Substance: Tawil Sandstone
+Time: Lower Devonian
+Location: 
+Geochemistry of sandstones from The Upper Miocene Kudanul Formation, southern India: implication of provenance, weathering and tectonic settingJournal of Sedimentary Research 74, 167–179.
+Key words: Geochemistry, Upper Miocene Kudanul Formation, India, tectonic settingJournal, Sedimentary
+Substance: Geochemistry, Upper Miocene Kudanul Formation, Sedimentary
+Time: Upper Miocene Kudanul Formation
+Location: 
+An atlas on exploration for Cretaceous Lowstand traps by SOEKOR (Pty) Ltd.American Association of Petroleum Geology Studies, 41, 184pp.
+Key words: Cretaceous Lowstand, SOEKOR, Pty, Ltd.American, Petroleum Geology Studies
+Substance: 
+Time: Cretaceous Lowstand
+Location: 
+Limitations to conventional wire-line logging tools in defining and evaluation thin bedded clastic succession in the Upper Cretaceous Orange Basin, South AfricaGaryounis University, Benghazi, Libya, Special Publication, chapter 24, 201–216.
+Key words: Limitations, conventional wire-line, clastic succession, Upper Cretaceous Orange, AfricaGaryounis, Benghazi, Libya, Publication
+Substance: clastic succession
+Time: Upper Cretaceous Orange
+Location: Upper, Cretaceous, Basin, Libya
+Reservoir Quality of Miocene Sandstones in the Vienna Basin, Austria.Gotze, J., 1998
+Key words: Reservoir Quality, Miocene Sandstones, Vienna, Austria.Gotze, J.
+Substance: Miocene Sandstones
+Time: Miocene Sandstones
+Location: Basin
+Origin, diagenesis, and mineralogy of chlorite minerals in Devonian lacustrine mudrocks, Orcadian Basin, ScotlandClays and Clay Minerals 41, 240–259.
+Key words: Origin, chlorite minerals, Devonian, lacustrine mudrocks, Orcadian, ScotlandClays, Clay Minerals
+Substance: chlorite minerals, lacustrine mudrocks, ScotlandClays, Clay Minerals
+Time: Devonian
+Location: Orcadian, Basin
+Provenance, tectonic setting and geochemistry of greywacke and siltstones of the Late Precambrian Hammamat Group, EgyptSedimentary Geology, 116, 227–250.
+Key words: Provenance, tectonic setting, Late Precambrian Hammamat, EgyptSedimentary Geology
+Substance: EgyptSedimentary Geology
+Time: Late Precambrian Hammamat
+Location: 
+Diagenetic history of Upper Triassic-Lower Jurassic alluvial sandstones and mudstones of the Lunde and Statfjord Formations, Snorre Field, Norwegian North Sea [abstract]In: 13th International Sedimentological Congress, Nottingham, UK, 276–277.
+Key words: Diagenetic, Upper Triassic-Lower Jurassic, alluvial sandstones, Lunde, Statfjord Formations, Snorre, Norwegian, North Sea [ abstract ], Sedimentological Congress, Nottingham, UK
+Substance: Diagenetic, alluvial sandstones, Statfjord Formations, Sedimentological Congress
+Time: Upper Triassic-Lower Jurassic
+Location: Snorre, Field, North, Sea
+Mesozoic Break-up of SW Gondwana: Implication for Regional Hydrocarbon Potential of Southern South AtlanticMarine and Petroleum Geology 20, 287–308.
+Key words: Mesozoic Break-up, Gondwana, Implication, Hydrocarbon Potential, AtlanticMarine, Petroleum Geology
+Substance: Hydrocarbon Potential, AtlanticMarine
+Time: Mesozoic Break-up
+Location: 
+Geochemistry of Late Cretaceous-Oligocene shales from the Varicolori Formation, Southern A pennies, Italy: Implications for mineralogical, grain size control and provenanceEuropean Journal of Mineralogy
+Key words: Geochemistry, Late Cretaceous-Oligocene, Varicolori Formation, Italy, Implications, grain size control, provenanceEuropean Journal, Mineralogy
+Substance: Geochemistry, Varicolori Formation, grain size control, Mineralogy
+Time: Late Cretaceous-Oligocene
+Location: Varicolori, Formation
+Early Proterozoic climates and plate motions inferred from major element geochemistry of lutitesNature 299, 715–717.
+Key words: Early Proterozoic, plate motions, major element geochemistry
+Substance: major element geochemistry
+Time: Early Proterozoic
+Location: 
+Mineral Composition, An Aid in classical Log Analysis Used in Jurassic Sandstones of Northern North Sea: Transactions of the Society of Petrophysicists and Well Log Analysts (SPWLA) 19th Annual Logging Symposium., El Paso, USA1–35.
+Key words: Composition, Log Analysis Used, Jurassic Sandstones, Northern North Sea, Transactions, Petrophysicists, Well Log, SPWLA, Annual Logging Symposium., El Paso, USA1–35
+Substance: Composition, Jurassic Sandstones
+Time: Jurassic Sandstones, USA1–35
+Location: Northern, North, Sea
+The role of depositional setting and diagenesis on the reservoir quality of Devonian sandstones from the Solimo~es Basin, Brazilian AmazoniaMarine and Petroleum Geology 19, 1047–1071.
+Key words: depositional setting, reservoir quality, Devonian, Solimo~es, Brazilian AmazoniaMarine, Petroleum Geology
+Substance: depositional setting, Brazilian AmazoniaMarine
+Time: Devonian
+Location: 
+Kurzweil (Editors): Diagenesis and Reservoir Quality of Miocene Sandstones in the Vienna Basin, Austria.Tandon, S.K
+Key words: Kurzweil, Editors, Diagenesis, Reservoir Quality, Miocene Sandstones, Vienna, Austria.Tandon, S.K
+Substance: Miocene Sandstones
+Time: Miocene Sandstones
+Location: Basin, S.K
+Origin of selective carbonate cemented (concretionary) layers within multi-storied sandstone bodies of the Neogene Middle Siwalik Subgroup, NW Himalaya IndiaSedimentary Geology 180, 57–74.
+Key words: Origin, selective carbonate, sandstone bodies, Neogene, Siwalik Subgroup, Himalaya IndiaSedimentary Geology
+Substance: selective carbonate, sandstone bodies, Siwalik Subgroup, Himalaya IndiaSedimentary Geology
+Time: Neogene
+Location: NW, Himalaya
+Geochemistry and petrology of recycled orogen-derived sediments: a case study from Upper Precambrian siliciclastic rocks of central Iberian zone, Iberian Massif, SpainPrecambrian Research 84, 163–180.
+Key words: Geochemistry, case study, Upper Precambrian, siliciclastic rocks, Iberian, Iberian Massif, SpainPrecambrian
+Substance: Geochemistry, siliciclastic rocks
+Time: Upper Precambrian, SpainPrecambrian
+Location: 
+Precambrian Research 84, 163–180.Weibel, R
+Key words: Precambrian, R
+Substance: 
+Time: Precambrian
+Location: 
+Opaque minerals as keys for distinguishing oxidizing and reducing diagenetic conditions in the Lower Triassic Bunter Sandstone, North German BasinSedimentary Geology 169, 129–149.
+Key words: Opaque, diagenetic conditions, Lower Triassic Bunter Sandstone, BasinSedimentary Geology
+Substance: diagenetic conditions, Lower Triassic Bunter Sandstone, BasinSedimentary Geology
+Time: Lower Triassic Bunter Sandstone
+Location: 
+Kurzweil: Diagenesis and Reservoir Quality of Miocene Sandstones in the Vienna Basin, Austria.Yang, S., Jung, H.S
+Key words: Kurzweil, Diagenesis, Reservoir Quality, Miocene Sandstones, Vienna, Austria.Yang, S., Jung, H.S
+Substance: Miocene Sandstones
+Time: Miocene Sandstones
+Location: Basin, H.S
+Petrological characteristics and provenance analysis of Sandstones in Kepintage Formation of Silurian in the Tarim BasinJournal of Mineralogy and Petrology 27, 106–115.
+Key words: Petrological, provenance analysis, Sandstones, Kepintage Formation, Silurian, Tarim BasinJournal, Mineralogy, Petrology
+Substance: Sandstones, Kepintage Formation, Mineralogy
+Time: Silurian
+Location: 
+Key words: 
+Substance: 
+Time: 
+Location: 

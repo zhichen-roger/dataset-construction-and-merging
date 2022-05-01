@@ -1,0 +1,154 @@
+ABSTRACT: Intrusion of a dolerite sill into clay-bearing, arkosic Triassic Sherwood Group sandstones with moderate porosity (22 percent) and high but anisotropic permeability (mode 500 md) led to the progressive transformation of precursor diagenetic mineralsIn the host rock, locally pore-filling Mg-rich smectite (saponite), quartz, and dolomite, existing in the rock following earlier burial diagenesis, reacted to produce grain-coating flakes of talc at the lowest contact temperatures (130– 1808C; based on equilibrium reaction-path and thermal-history calculations)
+Key words: ABSTRACT, Intrusion, dolerite sill, Triassic Sherwood, Group sandstones, moderate porosity, anisotropic permeability, progressive transformation, precursor diagenetic mineralsIn, host rock, Mg-rich, burial diagenesis, contact temperatures, equilibrium reaction-path, thermal-history calculations
+Substance: Group sandstones, moderate porosity, anisotropic permeability, progressive transformation, precursor diagenetic mineralsIn, host rock, burial diagenesis
+Time: Triassic Sherwood
+Location: 
+In many sedimentary basins, igneous intrusions are common (e.g., Manspeizer 1988, Triassic synrift igneous and volcanics; Darros de Matos 1992, Cretaceous fluvial redbeds with intrusives)The effects of intrusions on host sedimentary rocks fall outside the realm of normal burial diagenetic processes, although the maximum temperatures attained in the host rock may not be much greater than the temperatures of advanced burial diagenesis
+Key words: sedimentary basins, igneous intrusions, Manspeizer, Triassic, synrift igneous, Darros, Matos, Cretaceous, fluvial redbeds, host sedimentary rocks fall, normal burial diagenetic processes, maximum temperatures, host rock, burial diagenesis
+Substance: sedimentary basins, fluvial redbeds, host sedimentary rocks fall, normal burial diagenetic processes, host rock, burial diagenesis
+Time: Triassic, Cretaceous
+Location: 
+The Triassic Sherwood Sandstone Group (SSG, 220 Ma) comprises a series of continental red beds in the United Kingdom and Irish Continental ShelfThey were deposited in several discrete, rapidly subsiding, faultbounded basins that have maximum burial depths from , 1 km in basin margins to 
+Key words: Triassic Sherwood Sandstone, SSG, 220 Ma, red beds, Kingdom, ShelfThey, maximum burial depths, basin margins
+Substance: Triassic Sherwood Sandstone, red beds, maximum burial depths
+Time: Triassic Sherwood Sandstone, 220 Ma
+Location: 
+1) the SSG is locally underlain by Lower Permian sediments and capped by the Upper Triassic Mercia Mudstone GroupIt crops out locally but is presently most deeply buried in a basin centered on Lough Neagh (where it is up to 800 m thick) and underlies the Antrim coast (Parnell 1991)
+Key words: SSG, Lower Permian, Upper Triassic Mercia Mudstone GroupIt, Lough Neagh, m thick, Antrim, Parnell
+Substance: Upper Triassic Mercia Mudstone GroupIt
+Time: Lower Permian, Upper Triassic Mercia Mudstone GroupIt
+Location: Lough, Neagh
+A maximum burial depth of about 2000 m was achieved for the SSG in later Mesozoic times (Shelton 1997)Maximum paleotemperatures may have reached 75–858C assuming a geothermal gradient of about 308C/ km (typical of many rift-related sedimentary basins in the late thermal subsidence stage; North 1985) and a surface temperature of about 18–308C (reasonable for subaerial temperatures in the early Tertiary; Frakes et al
+Key words: maximum burial depth, SSG, Mesozoic, Shelton, Maximum, geothermal gradient, sedimentary basins, late thermal subsidence stage, North 1985, surface temperature, subaerial temperatures, Tertiary, Frakes
+Substance: maximum burial depth, sedimentary basins
+Time: Mesozoic, North 1985
+Location: 
+1.—Location map: A) Map of Ireland with approximate location of the study area; B) map of Northern Ireland showing location of Scrabo and outcrop of Permo– Triassic sedimentsModified after Buckman et al
+Key words: Ireland, approximate location, study area, Ireland, Scrabo, Permo– Triassic, Buckman
+Substance: 
+Time: Permo– Triassic
+Location: Northern, Scrabo, Permo
+The host Triassic Sherwood Sandstone Group is predominantly red colored in hand specimen at distances unaffected by the thermal pulseThe reddening is presumably due to Fe-oxide although the mineral surface coating in red beds is often thought to be contain Al minerals as well as Fe minerals (e.g., Nagy et al
+Key words: Triassic Sherwood Sandstone, hand specimen, thermal pulseThe, Fe-oxide, mineral surface, red beds, contain Al, Fe, Nagy
+Substance: Triassic Sherwood Sandstone, mineral surface, red beds
+Time: Triassic Sherwood Sandstone
+Location: 
+Dolomite is present in minor quantities and is thought to typify early diagenesis (pedogenesis) in Triassic sandstones across northwest Europe (Burley 1984; Strong and Milodowski 1987; Worden et al1999), and there is no evidence to suggest otherwise for the SSG at Scrabo
+Key words: Dolomite, minor quantities, Triassic, Europe, Burley, Strong, Milodowski, Worden, SSG, Scrabo
+Substance: Dolomite
+Time: Triassic
+Location: Dolomite, Europe, Scrabo
+The diagenetic pattern observed here (iron oxides, minor quartz and feldspar, abundant clay, and localized carbonate cements with variable amounts of feldspar dissolution) is comparable to other studies of the diagenesis of the Triassic sandstones in the U.K(e.g., Burley 1984; Strong and Milodowski 1987).
+Key words: diagenetic pattern, minor quartz, abundant clay, carbonate cements, variable amounts, feldspar dissolution, Triassic, U.K, Burley, Strong, Milodowski
+Substance: diagenetic pattern, minor quartz, abundant clay, carbonate cements, variable amounts, feldspar dissolution
+Time: Triassic
+Location: 
+The heating event in the country rock can be measured in terms of tens to thousands of days compared to tens to hundreds of million years for the burial diagenesis of this Triassic sandstone.The rock samples at about 3 m distance from the intrusion achieved a maximum temperature of about 2308C at a time of 20 to 30 days after the intrusion occurred
+Key words: country rock, burial diagenesis, Triassic, sandstone.The rock samples, m distance, maximum temperature
+Substance: country rock, burial diagenesis, sandstone.The rock samples
+Time: Triassic
+Location: 
+Present-day Triassic sandstone formation waters in Northern Ireland are highly saline (200 g/l) with cations dominated by Na (Bennett 1983)The Triassic sandstones in this area are associated with bedded halite, and it is reasonable to assume that pre-intrusion pore waters were highly enriched in aqueous sodium
+Key words: Present-day Triassic, sandstone formation waters, Ireland, Na, Bennett, Triassic, pre-intrusion pore waters, aqueous sodium
+Substance: sandstone formation waters
+Time: Present-day Triassic, Triassic
+Location: Northern
+The Triassic sandstones in this area are associated with bedded halite, and it is reasonable to assume that pre-intrusion pore waters were highly enriched in aqueous sodiumNote that the few other reports of high-temperature diagenetic talc involve silicate diagenesis in the presence of halite-rich evaporites (Bailey 1949; Evans 1970; Schreyer and Abraham 1976; Scrivener and Sanderson 1982), reaffirming the importance of saline formation waters at the time of contact diagenesis at Scrabo Quarry
+Key words: Triassic, pre-intrusion pore waters, aqueous sodiumNote, high-temperature diagenetic talc, silicate diagenesis, halite-rich evaporites, Bailey, Evans, Schreyer, Abraham, Scrivener, Sanderson, saline formation waters, contact diagenesis, Scrabo Quarry
+Substance: high-temperature diagenetic talc, silicate diagenesis, halite-rich evaporites, Sanderson, saline formation waters
+Time: Triassic
+Location: Scrabo, Quarry
+1), the early Tertiary igneous intrusives that caused contact diagenesis are about 170 My younger than the host nonmarine Triassic sandstonesIn contrast, many rift successions display intrusive rocks that are fractionally younger than their host sediments, sometimes by as little as tens to hundreds of thousands of years (e.g., Lake Turkana, Lake Natron, East African Rift)
+Key words: Tertiary, igneous intrusives, contact diagenesis, host nonmarine, Triassic, sandstonesIn contrast, rift successions display intrusive rocks, host sediments, Turkana, Natron, African Rift
+Substance: host nonmarine, sandstonesIn contrast, rift successions display intrusive rocks, host sediments, Natron
+Time: Triassic
+Location: Lake, Turkana, Natron
+Direct analogues include the Triassic sandstones of the eastern seaboard of North America, where basic intrusions were formed during early rifting and continental breakup (Veevers 1989)The common association of redbeds with igneous intrusions is also apparent in many Phanerozoic successions of the South Atlantic (Cameron et al
+Key words: Direct, Triassic, eastern seaboard, America, basic intrusions, continental breakup, Veevers, common association, igneous intrusions, Phanerozoic, Atlantic, Cameron
+Substance: 
+Time: Triassic, Phanerozoic
+Location: North, South, Atlantic
+The common association of redbeds with igneous intrusions is also apparent in many Phanerozoic successions of the South Atlantic (Cameron et al1999)
+Key words: common association, igneous intrusions, Phanerozoic, Atlantic, Cameron
+Substance: 
+Time: Phanerozoic
+Location: South, Atlantic
+These include both the Gondwanan rift successions of the Karoo and equivalents in South Africa and the Falkland Islands as well as subsequent Cretaceous rift-basin sediments offshore west Africa and Brazil.The study of contact diagenesis of Triassic Sherwood Sandstone Group sandstones from Scrabo, Northern Ireland, has revealed a series of mineral reactions and textural changes that resulted from the intrusion of a dolerite sill.
+Key words: Gondwanan, rift successions, Karoo, Africa, Falkland, Islands, Cretaceous, rift-basin sediments offshore, Africa, Brazil.The, contact diagenesis, Triassic Sherwood Sandstone, Group sandstones, Scrabo, Ireland, mineral reactions, textural changes, dolerite sill
+Substance: rift-basin sediments offshore, Triassic Sherwood Sandstone, Group sandstones, mineral reactions, textural changes
+Time: Cretaceous, Triassic Sherwood Sandstone
+Location: Karoo, Islands, Africa, Scrabo, Northern
+The study of contact diagenesis of Triassic Sherwood Sandstone Group sandstones from Scrabo, Northern Ireland, has revealed a series of mineral reactions and textural changes that resulted from the intrusion of a dolerite sill.Contact diagenesis apparently had little or no effect on the framework grains (quartz and feldspars) of the sandstone.
+Key words: contact diagenesis, Triassic Sherwood Sandstone, Group sandstones, Scrabo, Ireland, mineral reactions, textural changes, dolerite sill.Contact diagenesis, framework grains
+Substance: Triassic Sherwood Sandstone, Group sandstones, mineral reactions, textural changes, framework grains
+Time: Triassic Sherwood Sandstone
+Location: Scrabo, Northern
+BAZLEY, R.A.B., 1975, The Tertiary igneous and Permo–Triassic Rocks of the Ballyalton Borehole, CoDown: Geological Survey of Great Britain, Bulletin, v
+Key words: BAZLEY, R.A.B., Tertiary, Permo–Triassic Rocks, Ballyalton Borehole, CoDown, Geological Survey, Britain, Bulletin
+Substance: Permo–Triassic Rocks
+Time: Permo–Triassic Rocks
+Location: BAZLEY, Permo
+BUCKMAN, J.O., DOUGHTY, P.S., BENTON, M.J., AND JERAM, A.J., 1998, Palaeoenvironmental interpretation of the Triassic sandstones at Scrabo, County Down, Northern Ireland: ichnological and sedimentological studies indicating a mixed fluviatile–aeolian succession: Irish Journal of Earth Sciences, v16, p
+Key words: BUCKMAN, J.O., DOUGHTY, P.S., BENTON, M.J., AND JERAM, A.J., Palaeoenvironmental, Triassic, Scrabo, Down, Ireland, sedimentological studies, fluviatile–aeolian succession, Irish Journal, Earth, Sciences
+Substance: sedimentological studies
+Time: Triassic
+Location: BUCKMAN, BENTON, Scrabo, County, Down, Northern
+BURLEY, S.D., 1984, Patterns of diagenesis in the Sherwood Sandstone Group (Triassic), United Kingdom: Clay Minerals, v19, p
+Key words: BURLEY, S.D., Patterns, Sherwood Sandstone, Triassic, Kingdom, Clay Minerals
+Substance: Sherwood Sandstone, Clay Minerals
+Time: Triassic
+Location: 
+DEROS, L.F., ANJOS, S.M.C., AND MORAD, S., 1994, Authigenesis of amphibole and its relationship to the diagenetic evolution of Lower Cretaceous sandstones of the Potiguar Rift Basin, Northeastern Brazil: Sedimentary Geology, v88, p
+Key words: DEROS, L.F., ANJOS, S.M.C., AND MORAD, S., Authigenesis, diagenetic evolution, Lower Cretaceous, Potiguar Rift, Northeastern Brazil, Sedimentary Geology
+Substance: diagenetic evolution, Sedimentary Geology
+Time: Lower Cretaceous
+Location: DEROS, L.F., Potiguar, Rift, Basin, Northeastern
+FRAKES, L.A., FRANCIS, J.E., AND SYKTUS, J.I., 1992, Climate modes of the Phanerozoic: Cambridge, U.K., Cambridge University Press, 274 p.GOGGIN, D.J., 1993, Probe permeametry: is it worth the effort?: Marine and Petroleum Geology,
+Key words: FRAKES, L.A., FRANCIS, J.E., AND SYKTUS, J.I., Climate, Phanerozoic, Cambridge, U.K., Cambridge, University Press, D.J., Probe, Petroleum Geology
+Substance: 
+Time: Phanerozoic
+Location: FRAKES, FRANCIS, SYKTUS, J.I., U.K.
+MANSPEIZER, W., 1988, Triassic–Jurassic rifting and opening of the Atlantic: an overview, in Manspeizer, W., ed., Triassic–Jurassic Rifting: Continental Breakup and the Origin of the Atlantic Ocean and Passive Margins: Amsterdam, Elsevier, p41–79.
+Key words: MANSPEIZER, W., Triassic–Jurassic, Atlantic, Manspeizer, W., Triassic–Jurassic Rifting, Breakup, Origin, Atlantic, Passive Margins, Amsterdam, Elsevier
+Substance: 
+Time: Triassic–Jurassic, Triassic–Jurassic Rifting
+Location: MANSPEIZER, Atlantic, Manspeizer, Ocean
+PRESTON, J., 1962, Explosive volcanic activity in the Triassic sandstone of Scrabo Hill, CoDown: The Irish Naturalists Journal, v
+Key words: PRESTON, J., Explosive, volcanic activity, Triassic, Scrabo, CoDown, Naturalists
+Substance: 
+Time: Triassic
+Location: PRESTON, Scrabo, Hill
+SCRIVENER, R.C., AND SANDERSON R.W., 1982, Talc and aragonite from the Triassic halite deposit of the Burton Row Borehole, Brent Knoll, Somerset: United Kingdom, Institute of Geological Sciences Report v82/1, v 1, p58–60.
+Key words: SCRIVENER, R.C., AND SANDERSON R.W., Talc, Triassic, halite deposit, Burton, Borehole, Brent, Somerset, Kingdom, Geological, Sciences
+Substance: AND SANDERSON R.W., halite deposit
+Time: Triassic
+Location: 
+TANNER, L.H., 1994, Distribution and origin of clay minerals in the Lower Jurassic McCoy Brook Formation, Minas Basin, Nova-Scotia: Sedimentary Geology, v92, p
+Key words: TANNER, L.H., Distribution, clay minerals, Lower Jurassic McCoy, Formation, Minas, Nova-Scotia, Sedimentary Geology
+Substance: clay minerals, Formation, Sedimentary Geology
+Time: Lower Jurassic McCoy
+Location: L.H., Basin
+TIAN, Z.-Y., HAN, P., AND XU, K.-D., 1992, The Mesozoic–Cenozoic East China rift system:VAN DER PLAS, L., AND TOBI, A.C., 1965, A chart for judging the reliability of point counting results: American Journal of Science, v
+Key words: TIAN, Z.-Y., HAN, P., AND XU, K.-D., Mesozoic–Cenozoic, China, rift system, VAN DER PLAS, L., AND TOBI, A.C., American Journal
+Substance: 
+Time: Mesozoic–Cenozoic
+Location: 
+VEEVERS, J.J., 1989, Middle/Late Triassic (230 6 5 Ma) singularity in the stratigraphic and magmatic history of the Pangaean heat anomaly: Geology, v17, p
+Key words: VEEVERS, J.J., Middle/Late Triassic, 230 6 5 Ma, magmatic history, Pangaean, Geology
+Substance: 
+Time: Middle/Late Triassic, 230 6 5 Ma
+Location: 
+WILSON, N.P., AND MONTGOMERY, G., 1979, Metasomatized Triassic sandstone from Scrabo, CoDown: Irish Naturalists Journal, v
+Key words: WILSON, N.P., AND MONTGOMERY, G., Metasomatized Triassic, Scrabo, CoDown, Naturalists
+Substance: 
+Time: Metasomatized Triassic
+Location: WILSON, N.P., MONTGOMERY, Scrabo
+WORDEN R.H., COLEMAN M.L., AND MATRAY J.-M., 1999, Basin scale evolution of formation waters: a diagenetic and formation water study of the Triassic Chaunoy Formation, Paris basin: Geochimica et Cosmochimica Acta, v63, p
+Key words: WORDEN R.H., COLEMAN M.L., AND MATRAY J.-M., scale evolution, formation waters, formation water study, Triassic Chaunoy Formation, Paris, Geochimica, Cosmochimica Acta
+Substance: formation waters, formation water study, Triassic Chaunoy Formation
+Time: Triassic Chaunoy Formation
+Location: 
+Key words: 
+Substance: 
+Time: 
+Location: 

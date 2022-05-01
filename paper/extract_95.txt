@@ -1,0 +1,459 @@
+U–Pb laser ablation inductively coupled mass spectrometry dating of detrital zircons from late Palaeozoic DevonoCarboniferous clastic units in the South Portuguese Zone and Pulo do Lobo Zone yield contrasting age populations and attest to the exotic nature of both zonesDetrital zircons from the South Portuguese Zone display populations typical of detritus derived from either Gondwana (Ossa–Morena Zone), or periGondwanan terranes
+Key words: U–Pb, laser ablation, mass spectrometry, detrital zircons, Palaeozoic DevonoCarboniferous, clastic units, South Portuguese Zone, Pulo, Lobo, Zone yield, age populations, exotic nature, zonesDetrital zircons, South Portuguese Zone display populations, Gondwana, Ossa–Morena, periGondwanan terranes
+Substance: laser ablation, mass spectrometry, detrital zircons, Palaeozoic DevonoCarboniferous, clastic units, zonesDetrital zircons
+Time: Palaeozoic DevonoCarboniferous
+Location: South, Zone, Gondwana
+In contrast, rocks from the Pulo do Lobo Zone contain populations consistent with derivation from Baltica, Laurentia or recycled early Silurian deposits along the Laurentian marginAn example of one such deposit is the Southern Uplands terrane of the British Caledonides
+Key words: Pulo, Lobo, populations consistent, Baltica, Laurentia, Silurian, Laurentian, marginAn example, one such deposit, Uplands, Caledonides
+Substance: 
+Time: Silurian
+Location: Zone, Baltica, Laurentia
+Taken together, these data can be reconciled by a model involving tectonic transport of a crustal fragment that was laterally equivalent to the Southern Uplands terrane between the allochthonous South Portuguese Zone and Gondwana as a result of an early Devonian collision between an Iberian indenter with Laurussia.Supplementary material: U–Pb data tables, concordia diagrams, methods and representative back-scattered electron images are available at http://www.geolsoc.org.uk/SUP18441.
+Key words: Taken, tectonic transport, crustal fragment, Uplands, South Portuguese Zone, Gondwana, Devonian, Iberian, Laurussia.Supplementary, U–Pb, data tables, concordia diagrams, electron images
+Substance: crustal fragment
+Time: Devonian
+Location: Gondwana
+The Appalachian–Caledonide–Variscan orogens were produced by (1) the Ordovician–Silurian accretion of peri-Gondwanan terranes (e.gGanderia, Avalonia, Meguma) to Laurentia, which resulted in closure of the Iapetus Ocean, followed by (2) the Carboniferous closure of the Rheic  Palaeotethys oceans and ensuing terminal collision between Gondwana and Laurussia (e.g
+Key words: Appalachian–Caledonide–Variscan, Ordovician–Silurian, peri-Gondwanan terranes, Avalonia, Meguma, Laurentia, Iapetus, Carboniferous, Rheic Palaeotethys, terminal collision, Gondwana, Laurussia
+Substance: Carboniferous
+Time: Ordovician–Silurian, Carboniferous
+Location: Avalonia, Meguma, Laurentia, Iapetus, Ocean, Gondwana, Laurussia
+Ganderia, Avalonia, Meguma) to Laurentia, which resulted in closure of the Iapetus Ocean, followed by (2) the Carboniferous closure of the Rheic  Palaeotethys oceans and ensuing terminal collision between Gondwana and Laurussia (e.gvan Staal et al
+Key words: Ganderia, Avalonia, Meguma, Laurentia, Iapetus, Carboniferous, Rheic Palaeotethys, terminal collision, Gondwana, Laurussia, Staal
+Substance: Carboniferous
+Time: Carboniferous
+Location: Ganderia, Avalonia, Meguma, Laurentia, Iapetus, Ocean, Gondwana, Laurussia
+The former continuity of these belts was sundered in the early Mesozoic by the opening of the Atlantic OceanAs a result, many of the suture zones, particularly those that formed by consumption of the Rheic Ocean during Pangaea amalgamation, were either destroyed or are hidden beneath the Atlantic continental shelves.
+Key words: Mesozoic, Atlantic OceanAs, suture zones, Rheic, Pangaea, Atlantic, continental shelves
+Substance: 
+Time: Mesozoic
+Location: Atlantic, Rheic, Ocean, Pangaea
+The Pulo do Lobo Zone is an early to middle Devonian polydeformed tectonic me´lange of oceanic metasediments and olistostromal phacoid quartzites unconformably overlain by a simply deformed Vise´an flysch sequence(Eden 1991; Giese et al
+Key words: Pulo, Lobo, Devonian, tectonic me´lange, oceanic metasediments, olistostromal phacoid quartzites, Vise´an, flysch sequence, Eden, Giese
+Substance: oceanic metasediments, olistostromal phacoid quartzites
+Time: Devonian
+Location: Zone
+Avalonia and Meguma are among several terranes collectively known as peri-Gondwanan, which originated along the northern Gondwanan margin in the Neoproterozoic but lay along the southern flank of Laurussia by the middle Devonian as a result of the closure of the Iapetus Ocean (van Staal et al1998, 2009; Murphy & Nance 2002; Fig
+Key words: Avalonia, Meguma, Gondwanan, Neoproterozoic, southern flank, Laurussia, Devonian, Iapetus, Staal, Murphy, Nance, Fig
+Substance: 
+Time: Neoproterozoic, Devonian
+Location: Laurussia
+To further investigate the processes associated with the formation and evolution of this putative Pangaean suture zone, we sampled the clastic metasedimentary rocks and phacoid quartzites in the Pulo do Lobo Zone and the late Devonian metasedimentary rocks in the South Portuguese Zone and present laser ablation inductively coupled plasma mass spectrometry (LA-ICPMS) U– Pb analyses of detrital zircons from these samplesOur data provide new insights into the timing of collision between Gondwana and Laurussia and demonstrate that the Pulo do Lobo Zone me´lange and metasedimentary rocks are not simply derived from the flanking Laurussian or Gondwanan margins
+Key words: Pangaean, suture zone, clastic metasedimentary rocks, phacoid quartzites, Pulo, Lobo, Devonian, metasedimentary rocks, South Portuguese Zone, present laser ablation, plasma mass spectrometry, LA-ICPMS, U– Pb, detrital zircons, samplesOur data, new insights, Gondwana, Laurussia, Pulo, Lobo, Zone me´lange, metasedimentary rocks, Laurussian, Gondwanan
+Substance: clastic metasedimentary rocks, phacoid quartzites, metasedimentary rocks, present laser ablation, plasma mass spectrometry, detrital zircons
+Time: Devonian, present laser ablation
+Location: Zone, South, Gondwana, Laurussia
+To account for the detrital zircon populations in the Pulo do Lobo Zone we propose derivation from a crustal fragment, which escaped laterally as the result of an early Devonian collision between an Iberian indenter (Gondwana) (Dias & Ribeiro 1995) and LaurussiaOur model not only provides a method for emplacement of the Pulo do Lobo Zone but also potentially explains genetic linkages between enigmatic voluminous magmatism and widespread mineralization in both the Meguma terrane of the Northern Appalachians and the Iberian Pyrite Belt of the South Portuguese Zone not accounted for in other models.
+Key words: detrital zircon populations, Pulo, Lobo, crustal fragment, Devonian, Iberian, Gondwana, Dias, Ribeiro, LaurussiaOur, Pulo, Lobo, genetic linkages, enigmatic voluminous magmatism, widespread mineralization, Meguma, Appalachians, Iberian Pyrite, South Portuguese Zone
+Substance: detrital zircon populations, crustal fragment, widespread mineralization, Iberian Pyrite
+Time: Devonian
+Location: Zone, Gondwana, South
+The oldest exposed units in the South Portuguese Zone are late Devonian continental shelf strata of the Phyllite Quartzite GroupThe Phyllite Quartzite Group is composed of siliciclastic prevolcanic rocks deposited in a subtidal environment from fan delta and sand bar systems on a shallow marine continental platform (Moreno & Sa´ez 1990; Oliveira 1990; Moreno et al
+Key words: South Portuguese Zone, Devonian, continental shelf strata, Phyllite Quartzite GroupThe Phyllite Quartzite, siliciclastic prevolcanic rocks, subtidal environment, fan delta, shallow marine continental platform, Moreno, Sa´ez, Oliveira, Moreno
+Substance: Phyllite Quartzite GroupThe Phyllite Quartzite, siliciclastic prevolcanic rocks, subtidal environment, shallow marine continental platform
+Time: Devonian
+Location: South, Zone
+The Phyllite Quartzite Group is conformably overlain by the late Famennian–late Vise´an (Oliveira 1990) bimodal volcanic and sedimentary successions of the Volcano-Sedimentary Complex deposited in a transtensional basin (Schermerhorn 1971; Rosa et al2008)
+Key words: Phyllite Quartzite, Famennian–late Vise´an, Oliveira, bimodal volcanic, sedimentary successions, Volcano-Sedimentary Complex, transtensional basin, Schermerhorn, Rosa
+Substance: Phyllite Quartzite, sedimentary successions, Volcano-Sedimentary Complex
+Time: Famennian–late Vise´an
+Location: 
+The VolcanoSedimentary Complex is in turn overlain by a late Vise´an to the Serpukhovian turbiditic flysch group (Schermerhorn 1971; Oliveira 1990; Fig1b).
+Key words: VolcanoSedimentary Complex, turn overlain, Vise´an, Serpukhovian, turbiditic flysch group, Schermerhorn, Oliveira, Fig1b
+Substance: VolcanoSedimentary Complex, turbiditic flysch group
+Time: Serpukhovian
+Location: 
+The protolith ages of the Pulo do Lobo Zone are constrained by Givetian–Frasnian palynomorphs (Ribeira de Limas formation) and late Devonian–early Carboniferous spores and acritarchs in the flysch deposits (Santa Iria Flysch) (Oliveira et al1986; Giese et al
+Key words: protolith ages, Pulo, Lobo, Givetian–Frasnian, Ribeira, Limas, Devonian–early Carboniferous, flysch deposits, Santa Iria Flysch, Oliveira, Giese
+Substance: Devonian–early Carboniferous
+Time: Givetian–Frasnian, Devonian–early Carboniferous
+Location: Zone, Iria, Flysch
+In the late Palaeozoic, regional late Devonian to early Carboniferous south–southeasterly propagating (e.gQuesada 1998) deformation in the South Portuguese Zone occurred as a result of northward-directed oblique (sinistral) subduction of the Rheic Ocean lithosphere beneath the Ossa–Morena Zone (Gondwana) (Crespo-Blanc & Orozco 1988; Quesada 1998)
+Key words: Palaeozoic, Devonian, Carboniferous, South Portuguese Zone, Rheic, Ocean lithosphere, Ossa–Morena, Gondwana, Crespo-Blanc, Orozco, Quesada
+Substance: Carboniferous
+Time: Devonian, Carboniferous
+Location: Rheic, Ocean, Gondwana
+The Pulo do Lobo Zone also preserves evidence of this pervasive late Devonian regional sinistral shear, compartmentalized within the Pulo do Lobo formation, the Ribeira de Limas formation and the Ala´jar Me´lange (Braid et al2010)
+Key words: Pulo, Lobo, preserves evidence, Devonian, regional sinistral shear, Pulo, Lobo, Ribeira, Limas, Ala´jar Me´lange, Braid
+Substance: 
+Time: Devonian
+Location: Zone
+To investigate the development of this putative suture zone, six samples were collected for detrital zircons from Devonian to early Carboniferous units of the Pulo do Lobo Zone and South Portuguese Zone (Fig1b)
+Key words: putative suture zone, detrital zircons, Devonian, Carboniferous, Pulo, Lobo, South Portuguese Zone, Fig1b
+Substance: detrital zircons, Carboniferous
+Time: Devonian, Carboniferous
+Location: Zone
+We analysed one sample from the late Devonian passive margin quartzites (Phyllite Quartzite Group) from the South Portuguese Zone, to test the provenance of the South Portuguese Zone and its relationship to the Pulo do Lobo Zone; and two samples of phacoid quartzites and one sample of matrix from the me´lange deposits (Ala´jar Me´lange) and one sample of quartzwacke (Ribeira de Limas formation) from the Pulo do Lobo Zone (suture zone)The samples from the Pulo do Lobo Zone test the provenance of the Pulo do Lobo Zone and potential changes in sediment provenance in different lithotectonic units within the suture zone
+Key words: Devonian, Phyllite Quartzite, South Portuguese Zone, South Portuguese Zone, Pulo, Lobo, phacoid quartzites, me´lange deposits, Ala´jar Me´lange, Ribeira, Limas, Pulo, Lobo, suture zone, Pulo, Lobo, Zone test, Pulo, Lobo, potential changes, sediment provenance, different lithotectonic units, suture zone
+Substance: Phyllite Quartzite, phacoid quartzites, sediment provenance
+Time: Devonian
+Location: South, Zone, do
+We also analysed a sample of greywacke from the overlying late Devonian early Carboniferous flysch (Santa Iria Flysch) from the Pulo do Lobo Zone to investigate the potential changes in sediment provenance with proposed changes in tectonic environment.Approximately 65 zircon grains from each sample were mounted, polished, imaged by electron back-scatter, and analysed for their U and Pb isotopic composition (one analysis per zircon grain) by LA-ICPMS using an Thermo Element 2 high-resolution system coupled to a New Wave Research 213 nm Nd–YAG laser
+Key words: Devonian, Carboniferous, Santa Iria Flysch, Pulo, Lobo, potential changes, sediment provenance, zircon grains, electron back-scatter, U, Pb, isotopic composition, zircon grain, LA-ICPMS, Thermo Element, high-resolution system, Wave, Nd–YAG
+Substance: Carboniferous, sediment provenance, zircon grains, isotopic composition, zircon grain
+Time: Devonian, Carboniferous
+Location: Iria, Flysch, Zone
+A sample of quartzite (JB-17) was selected from the late Devonian continental shelf deposits (Phyllite Quartzite Group), which are considered the oldest exposed unit in the South Portuguese Zone properOf the 60 concordant analyses, only four grains (c
+Key words: JB-17, Devonian, continental shelf deposits, Phyllite Quartzite, South Portuguese Zone properOf, concordant analyses
+Substance: Phyllite Quartzite
+Time: JB-17, Devonian
+Location: 
+7 percent) are MesoproterozoicThe bulk of the sample (c
+Key words: MesoproterozoicThe
+Substance: 
+Time: MesoproterozoicThe
+Location: 
+52 percent) is dominated by Neoproterozoic (c0.5–0.7 Ga) zircons, with a strong peak at c
+Key words: Neoproterozoic, Ga, strong peak
+Substance: 
+Time: Neoproterozoic
+Location: 
+U–Pb detrital zircon relative probability distribution plots for samples from the Pulo do Lobo Zone (suture) and the South Portuguese Zone (Laurussia?) from this study compared with samples (highlighted in red) from Early Silurian Kirkcolm Formation of the Southern Uplands Terrane of the British Caledonides (after Waldron et al2008), the Cambro-
+Key words: U–Pb, detrital zircon, relative probability distribution plots, Pulo, Lobo, South Portuguese Zone, Laurussia, Early Silurian Kirkcolm Formation, Uplands Terrane, Caledonides, Waldron, Cambro-
+Substance: detrital zircon, Early Silurian Kirkcolm Formation
+Time: Early Silurian Kirkcolm Formation
+Location: 
+Ordovician Meguma Terrane from the Northern Appalachians (afterWaldron et al
+Key words: Ordovician Meguma Terrane, Appalachians
+Substance: 
+Time: Ordovician Meguma Terrane
+Location: 
+2009) and the Devono-Carboniferous Horton Group from the StMary’s Basin of the Northern Appalachians (after Murphy & Hamilton 2000) (in red)
+Key words: Devono-Carboniferous Horton, StMary, ’ s, Appalachians, Murphy, Hamilton
+Substance: Devono-Carboniferous Horton
+Time: Devono-Carboniferous Horton
+Location: 
+population is Mesoproterozoic (c1.0–1.5 Ga) comprising c
+Key words: Mesoproterozoic, Ga
+Substance: 
+Time: Mesoproterozoic
+Location: 
+440 Ma early Silurian zircons (,5 percent) occur (Fig2)
+Key words: 440 Ma, Silurian, ,5 percent, Fig2
+Substance: 
+Time: 440 Ma, Silurian, ,5 percent
+Location: 
+55 percent) is Mesoproterozoic (c1.0–1.5 Ga) in age
+Key words: Mesoproterozoic, Ga
+Substance: 
+Time: Mesoproterozoic
+Location: 
+A sample of greywacke (JAB-08) from the flysch (Santa Iria Flysch), which unconformably overlies the me´lange phacoids and matrix (Ala´jar Me´lange) and quartzwacke (Ribeira de Limas formation) in the Pulo do Lobo Zone, displays the widest range of detrital zircon ages and contains the most Devono-Carboniferous detritus (c32 percent) of all samples, with a strong peak at c
+Key words: JAB-08, Santa Iria Flysch, me´lange phacoids, Ala´jar Me´lange, Ribeira, Limas, Pulo, Lobo, widest range, detrital zircon ages, Devono-Carboniferous, c32 percent, strong peak
+Substance: detrital zircon ages, Devono-Carboniferous
+Time: JAB-08, Devono-Carboniferous, c32 percent
+Location: Iria, Flysch, Zone
+The sample also displays a variety of Proterozoic populations (c30 percent Neoproterozoic, c
+Key words: Proterozoic, c30 percent, Neoproterozoic
+Substance: 
+Time: Proterozoic, c30 percent, Neoproterozoic
+Location: 
+30 percent Neoproterozoic, c12 percent Mesoproterozoic and 21 percent Palaeoproterozoic) with only minor (,5 percent) Archaean detritus (Fig
+Key words: Neoproterozoic, c12 percent, Mesoproterozoic, Palaeoproterozoic, ,5 percent, Archaean, Fig
+Substance: 
+Time: Neoproterozoic, c12 percent, Mesoproterozoic, Palaeoproterozoic, ,5 percent
+Location: 
+12 percent Mesoproterozoic and 21 percent Palaeoproterozoic) with only minor (,5 percent) Archaean detritus (Fig2)
+Key words: Mesoproterozoic, Palaeoproterozoic, ,5 percent, Archaean, Fig2
+Substance: 
+Time: Mesoproterozoic, Palaeoproterozoic, ,5 percent
+Location: 
+The dominant Neoproterozoic (c0.5–0.7 Ga) and Palaeoproterozoic (c
+Key words: Neoproterozoic, Ga, Palaeoproterozoic
+Substance: 
+Time: Neoproterozoic, Palaeoproterozoic
+Location: 
+However, the presence of minor Mesoproterozoic zircons in the Phyllite Quartzite Group sample is not typical of derivation from West Africa but these are present in periGondwanan Avalonia and Meguma (Keppie et al1998)
+Key words: Mesoproterozoic, Phyllite Quartzite, Group sample, Africa, Avalonia, Meguma, Keppie
+Substance: Phyllite Quartzite, Group sample
+Time: Mesoproterozoic
+Location: West, Africa, Meguma
+In contrast, the dominant Mesoproterozoic (c1.0–1.5 Ga) and late Palaeoproterozoic populations (c
+Key words: Mesoproterozoic, Ga, Palaeoproterozoic
+Substance: 
+Time: Mesoproterozoic, Palaeoproterozoic
+Location: 
+The Pulo do Lobo Zone samples also lack Neoproterozoic and early Palaeoproterozoic zircon populations, which are typically abundant in Neoproterozoic to Devonian units derived from Gondwana (e.gFerna´ndez-Sua´rez et al
+Key words: Pulo, Lobo, Zone samples, Neoproterozoic, Palaeoproterozoic, zircon populations, Neoproterozoic, Devonian, Gondwana
+Substance: zircon populations
+Time: Neoproterozoic, Palaeoproterozoic, Devonian
+Location: Gondwana
+Consequently, the age distributions of these samples suggest that the detritus in the Pulo do Lobo Zone was not derived from Gondwana (Ossa– Morena Zone), nor from the sources of the late Devonian clastic rocks (Phyllite Quartzite Group) of the South Portuguese Zone or peri-Gondwanan terranes that flanked the margin of Laurentia and Baltica in the Devono-Carboniferous.Taken together these interpretations suggest that the quartzite phacoids and matrix (Ala´jar me´lange) and metasediments (Ribeira de Limas formation) of the Pulo do Lobo Zone were derived from either Baltica or Laurentia
+Key words: age distributions, Pulo, Lobo, Gondwana, Ossa– Morena, Devonian, clastic rocks, Phyllite Quartzite, South Portuguese Zone, peri-Gondwanan terranes, Laurentia, Baltica, Devono-Carboniferous.Taken, quartzite phacoids, Ala´jar, Ribeira, Limas, Pulo, Lobo, Baltica, Laurentia
+Substance: clastic rocks, Phyllite Quartzite, Devono-Carboniferous.Taken, quartzite phacoids
+Time: Devonian, Devono-Carboniferous.Taken
+Location: Zone, Gondwana, South, Laurentia
+440 Ma zircons in the me´lange phacoids (RSA-01 and JB-43) suggests a local early Silurian volcanic sourceVolcanism of this age is rare in Gondwana but common along eastern Laurentia (e.g
+Key words: 440 Ma, me´lange phacoids, RSA-01, JB-43, Silurian, volcanic sourceVolcanism, Gondwana, Laurentia
+Substance: 
+Time: 440 Ma, RSA-01, JB-43, Silurian
+Location: Gondwana
+Thus the Pulo do Lobo Zone sediments were not only derived from Laurentia and/or Baltica but also probably derived from early Silurian rocks associated with the closure of the Iapetus, along the eastern margin ofAn example of one such potential source is the early Silurian Southern Uplands terrane of the British Caledonides (Fig
+Key words: Pulo, Lobo, Zone sediments, Laurentia, Baltica, Silurian, Iapetus, ofAn example, one such potential source, Silurian, Uplands, Caledonides, Fig
+Substance: Zone sediments
+Time: Silurian
+Location: Laurentia
+An example of one such potential source is the early Silurian Southern Uplands terrane of the British Caledonides (Fig1a), which borders the Midland Valley terrane to the south
+Key words: one such potential source, Silurian, Uplands, Caledonides, Fig1a, Midland, Valley terrane
+Substance: 
+Time: Silurian
+Location: 
+Most notably, similar to the detritus in the Pulo do Lobo Zone, detritus from the Southern Uplands terrane contains abundant Mesoproterozoic and late Palaeoproterozoic zircons as well as c440 Ma Palaeozoic zircons
+Key words: Pulo, Lobo, Uplands, terrane contains abundant, Mesoproterozoic, Palaeoproterozoic, Ma Palaeozoic
+Substance: 
+Time: Mesoproterozoic, Palaeoproterozoic
+Location: Zone
+Furthermore, the Southern Uplands terrane also lacks early Palaeoproterozoic and significant Neoproterozoic zirconsAs the Southern Uplands terrane has potential lateral equivalents in Newfoundland (Waldron et al
+Key words: Furthermore, Uplands, Palaeoproterozoic, Neoproterozoic, Uplands, potential lateral equivalents, Newfoundland, Waldron
+Substance: 
+Time: Palaeoproterozoic, Neoproterozoic
+Location: 
+To a first order, the data suggest that during at least the early to middle Devonian the South Portuguese Zone was outboard of the Gondwanan margin (Ossa–Morena Zone)This interpretation is consistent with late Palaeozoic calc-alkaline andesitic arc magmatism present in the Ossa–Morena Zone (Jesus et al
+Key words: Devonian, South Portuguese Zone, Gondwanan, Ossa–Morena, Palaeozoic, calc-alkaline andesitic arc magmatism, Ossa–Morena, Jesus
+Substance: 
+Time: Devonian
+Location: South, Zone
+Therefore the South Portuguese Zone basement is either a rifted Silurian West African ribbon continent that derived late Devonian passive margin clastic rocks from itself or peri-Gondwanan Meguma basement with Phyllite Quartzite Group clastic rocks sourced from the Meguma Group, which is dominated by c0.6–2.1 Ga detritus (Krogh & Keppie 1990; Waldron et al
+Key words: South Portuguese Zone basement, Silurian, African, ribbon continent, Devonian, clastic rocks, Meguma, Phyllite Quartzite, Group clastic rocks, Meguma, Ga, Krogh, Keppie, Waldron
+Substance: clastic rocks, Phyllite Quartzite, Group clastic rocks
+Time: Silurian, Devonian
+Location: South, Zone, Meguma
+However, the Phyllite Quartzite Group (JB-17) contains a paucity of Mesoproterozoic zircons (Fig3), the lack of which is generally considered a fingerprint of West African provenance (e.g
+Key words: Phyllite Quartzite, JB-17, Mesoproterozoic, Fig3, African
+Substance: Phyllite Quartzite
+Time: JB-17, Mesoproterozoic
+Location: 
+In addition, in view of the fact that (1) palaeogeographical reconstructions propose that the Meguma terrane was immediately outboard of the southern Iberia margin during the early Devonian (e.gMart´ınez-Catala´n et al
+Key words: palaeogeographical reconstructions, Meguma, Iberia, Devonian
+Substance: palaeogeographical reconstructions
+Time: Devonian
+Location: 
+2003) and that (2) West Africa lacks Silurian– early Devonian rift to passive margin deposits that would reflect a separation of the South Portuguese Zone along the periphery of West Africa, we support the former scenario, in which the South Portuguese Zone basement is part of the peri-Gondwanan Meguma terrane.Timing of Ossa–Morena Zone and South Portuguese Zone collision
+Key words: Africa, Silurian–, Devonian, South Portuguese Zone, Africa, South Portuguese Zone basement, Meguma, Ossa–Morena, South Portuguese Zone collision
+Substance: 
+Time: Silurian–, Devonian
+Location: West, Africa, South, Zone, Ossa, –
+The detrital zircon signature of the flysch (Santa Iria Flysch) in the Pulo do Lobo Zone displays a broad range of Neoproterozoic to Palaeoproterozoic zircons consistent with derivation from sources located in Gondwana, peri-Gondwanan terranes and Laurussia (Fig3)
+Key words: detrital zircon signature, Santa Iria Flysch, Pulo, Lobo, Zone displays, broad range, Neoproterozoic, Palaeoproterozoic, zircons consistent, Gondwana, peri-Gondwanan terranes, Laurussia, Fig3
+Substance: detrital zircon signature, zircons consistent
+Time: Neoproterozoic, Palaeoproterozoic
+Location: Iria, Flysch, Zone, Gondwana, Laurussia
+Taken together, the detrital zircon data from the Pulo do Lobo Zone and the South Portuguese Zone indicate that (1) the polydeformed Ala´jar me´lange and metasediments of the Pulo do Lobo Zone can all be assigned to the same tectonic environment (similar source), (2) the Pulo do Lobo Zone polydeformed sediments were not derived from the Ossa–Morena Zone or from the South Portuguese Zone during Devonian subduction of an oceanic basin beneath the Ossa–Morena Zone, (3) a source for the Pulo do Lobo Zone polydeformed deposits similar to the Southern Uplands Terrane of the British Caledonides is required, (4) the South Portuguese Zone is probably exotic with respect to both the Pulo do Lobo Zone and the Ossa–Morena Zone and contains late Devonian continental clastic rocks (Phyllite Quartzite Group) similar to the Devonian detritus from the Meguma terrane of the Northern Appalachians and (5) the South Portuguese Zone accreted to the Pulo do Lobo Zone and the Ossa– Morena Zone by c347 Ma, the age of the youngest concordant detrital zircon in the Pulo do Lobo Zone flysch (Santa Iria Flysch), which contains mixed zircon populations derived from all three crustal fragments .
+Key words: Taken, detrital zircon data, Pulo, Lobo, South Portuguese Zone, Ala´jar, Pulo, Lobo, tectonic environment, similar source, Pulo, Lobo, Ossa–Morena, South Portuguese Zone, Devonian, oceanic basin, Ossa–Morena, Pulo, Lobo, Uplands Terrane, Caledonides, South Portuguese Zone, Pulo, Lobo, Ossa–Morena, Devonian, continental clastic rocks, Phyllite Quartzite, Devonian, Meguma, Appalachians, South Portuguese Zone, Pulo, Lobo, Ossa– Morena, Ma, concordant detrital zircon, Pulo, Lobo, Zone flysch, Santa Iria Flysch, zircon populations, crustal fragments
+Substance: detrital zircon data, continental clastic rocks, Phyllite Quartzite, concordant detrital zircon, zircon populations, crustal fragments
+Time: Devonian
+Location: Zone, South, Iria, Flysch
+Interpretation of a source equivalent to the Southern Uplands terrane for the Pulo do Lobo Zone requires either a substantial across-strike fluvial transport during the Devonian from a source NW of the peri-Gondwanan terranes (Avalonia, Meguma) or a tectonic transport of a crustal fragment along strike of the Southern Uplands to a location between the South Portuguese Zone and the Ossa–Morena ZoneIn our view, the latter scenario is favoured by (1) presence of c
+Key words: Interpretation, Uplands, Pulo, Lobo, substantial across-strike fluvial transport, Devonian, source NW, peri-Gondwanan terranes, Avalonia, Meguma, tectonic transport, crustal fragment, Uplands, South Portuguese Zone, Ossa–Morena ZoneIn
+Substance: substantial across-strike fluvial transport, crustal fragment
+Time: Devonian
+Location: Avalonia, Meguma
+440 Ma grains with a euhedral morphology, consistent with a short-lived sedimentary history, in both the quartzite phacoids and quartzite matrix, (2) the absence of peri-Gondwanan detritus in the Pulo do Lobo Zone samples that would be expected in a fluvial system extending from the Laurentian margin to a Devonian basin outboard of Gondwana and (3) our interpretation that both the polydeformed olistostromal phacoid quartzites (samples RSA-01 and JB-43) of the Ala´jar me´lange as well as the quartzite matrix (sample RSA-02) were derived from the same sourceThese factors favour a proximal source for the Pulo do Lobo Zone deposits over a distal fluvial derivation of zircon grains
+Key words: 440 Ma, euhedral morphology, sedimentary history, quartzite phacoids, quartzite matrix, peri-Gondwanan detritus, Pulo, Lobo, Zone samples, fluvial system, Laurentian, Devonian, basin outboard, Gondwana, olistostromal phacoid quartzites, RSA-01, JB-43, Ala´jar, quartzite matrix, RSA-02, sourceThese factors favour, proximal source, Pulo, Lobo, Zone deposits, distal fluvial derivation, zircon grains
+Substance: euhedral morphology, sedimentary history, quartzite phacoids, quartzite matrix, olistostromal phacoid quartzites, zircon grains
+Time: 440 Ma, Devonian, RSA-01, JB-43, RSA-02
+Location: Zone, Gondwana
+Taken together, these data and interpretations suggest that the deposition of the Pulo do Lobo Zone units requires not only a source along the early Silurian Laurentian margin (Southern Uplands terrane?) but also the subsequent spatial juxtaposition of this source with the Ossa–Morena Zone, prior to c347 Ma (i.e
+Key words: Taken, Pulo, Lobo, Zone units, Silurian Laurentian, Uplands, subsequent spatial juxtaposition, Ossa–Morena, Ma
+Substance: 
+Time: Silurian Laurentian
+Location: Zone
+2004) or Iberia was part of the Armorican Composite Terrane, which separated from Gondwana during the Silurian and collided with Laurussia prior to its terminal collision with Gondwana (e.gVan der Voo 1979, 1982; Stampfli & Borel 2002)
+Key words: Iberia, Armorican, Terrane, Gondwana, Silurian, Laurussia, terminal collision, Gondwana, e.gVan der, Voo, Stampfli, Borel
+Substance: 
+Time: Silurian
+Location: Gondwana, Laurussia
+Furthermore, the Ossa–Morena Zone records an early Ordovician to late Palaeozoic passive margin (Robardet & Gutie´rrez Marco 2004), which lacks Silurian rift to drift deposits predicted by an early Palaeozoic separation of an Armorican Composite Terrane from GondwanaTherefore in terms of understanding the enigmatic and contrasting Devono-Carboniferous evolution of the Pulo do Lobo Zone, South Portuguese Zone and Ossa–Morena Zone we adopt a reconstruction with a unified Iberia and Gondwana
+Key words: Furthermore, Ossa–Morena, Zone records, Ordovician, Palaeozoic, Robardet, Gutie´rrez Marco, Silurian, drift deposits, Palaeozoic, Armorican, Terrane, GondwanaTherefore, Devono-Carboniferous, Pulo, Lobo, South Portuguese Zone, Ossa–Morena, Iberia, Gondwana
+Substance: Devono-Carboniferous
+Time: Ordovician, Silurian, Devono-Carboniferous
+Location: Zone, Gondwana
+Therefore in terms of understanding the enigmatic and contrasting Devono-Carboniferous evolution of the Pulo do Lobo Zone, South Portuguese Zone and Ossa–Morena Zone we adopt a reconstruction with a unified Iberia and GondwanaAlthough this choice may affect the details of our model, it does not affect the basic processes involved.
+Key words: Devono-Carboniferous, Pulo, Lobo, South Portuguese Zone, Ossa–Morena, Iberia, GondwanaAlthough, basic processes
+Substance: Devono-Carboniferous
+Time: Devono-Carboniferous
+Location: Zone
+Using this general reconstruction, we propose that early Devonian oblique collision between an Iberian indenter and Laurussia and the existence of a small remnant ocean basin (reentrant) between southern Iberia, North Africa and the northern Appalachians resulted in tectonic escape of a crustal fragment correlative with the Southern Uplands of the British Caledonides across the remnant oceanThis escape was accommodated by development of a new subduction zone beneath the Ossa– Morena Zone (Fig
+Key words: general reconstruction, Devonian, oblique collision, Iberian, Laurussia, small remnant ocean basin, Iberia, Africa, Appalachians, crustal fragment correlative, Uplands, Caledonides, remnant oceanThis, new subduction zone, Ossa– Morena, Fig
+Substance: crustal fragment correlative
+Time: Devonian
+Location: Laurussia, North, Africa
+4b) is supported by (1) early Devonian Acadian shortening in central Britain, (2) coevaldextral early Devonian deformation along the Bristol Fault zone in SE England, (3) opposing sinistral deformation in the Southern Uplands of Scotland (Phillips et al
+Key words: Devonian Acadian, Britain, Devonian, Bristol Fault, England, sinistral deformation, Uplands, Scotland, Phillips
+Substance: sinistral deformation
+Time: Devonian Acadian, Devonian
+Location: Fault, zone, SE
+dextral early Devonian deformation along the Bristol Fault zone in SE England, (3) opposing sinistral deformation in the Southern Uplands of Scotland (Phillips et al1995) and the South Iberian Shear Zone (Crespo-Blanc & Orozco 1988) and other major lineaments (Quesada 1991) in southern Iberia (Fig
+Key words: Devonian, Bristol Fault, England, sinistral deformation, Uplands, Scotland, Phillips, Iberian Shear, Crespo-Blanc, Orozco, major lineaments, Quesada, Iberia, Fig
+Substance: sinistral deformation
+Time: Devonian
+Location: Fault, zone, SE, South, Iberian, Shear, Zone
+In this model, northwesterly subduction beneath Laurussia in the Late Silurian was disrupted by collision with the Iberian promontory of Gondwana such that oblique subduction with a sinistral component commenced beneath the Ossa–Morena ZoneThis subduction was accompanied by the generation of the sinistral South Iberian Shear Zone (Crespo-Blanc & Orozco 1988) and a tectonic free face (e.g
+Key words: Laurussia, Late Silurian, Iberian, Gondwana, oblique subduction, sinistral component, Ossa–Morena ZoneThis, Iberian Shear, Crespo-Blanc, Orozco, free face
+Substance: sinistral component
+Time: Late Silurian
+Location: Laurussia, Gondwana
+During the stages of tectonic escape, late Devonian passive margin deposits (Phyllite Quartzite Group), probably sourced from the Meguma terrane, were deposited on South Portuguese Zone basement, which was part of the escaping blockAs these are passive margin deposits they are probably only indicative of a local passive margin setting in basins within the escaping block
+Key words: Devonian, Phyllite Quartzite, Meguma, South Portuguese Zone basement, local passive
+Substance: Phyllite Quartzite
+Time: Devonian
+Location: 
+Following deposition of these continental clastic rocks, late Devonian–early Carboniferous extension occurred within the South Portuguese Zone, typical of internal deformation in escaping blocks (e.gMann 1997; see also the model by Castroviejo et al
+Key words: Following, continental clastic rocks, Devonian–early Carboniferous, South Portuguese Zone, internal deformation, Castroviejo
+Substance: continental clastic rocks, Devonian–early Carboniferous, internal deformation
+Time: Devonian–early Carboniferous
+Location: 
+This model is consistent with (1) documented dextral movement in the Meguma terrane relative to Avalonia in the northern Appalachians (Keppie & Dallmeyer 1987), (2) the late Devonian–early Carboniferous transtension required for bimodal volcanism (c355–330 Ma) of the Iberian Pyrite Belt (e.g
+Key words: dextral movement, Meguma, Avalonia, Appalachians, Keppie, Dallmeyer, Devonian–early Carboniferous, bimodal volcanism, Ma, Iberian Pyrite
+Substance: Devonian–early Carboniferous, Iberian Pyrite
+Time: Devonian–early Carboniferous
+Location: Avalonia
+Although these connections are independent of the derivation of the Pulo do Lobo Zone they further support both a detrital zircon genetic linkage between the South Portuguese Zone and the Meguma terrane and a Devono-Carboniferous tectonic escape mechanism as the probable mode of transport for part of the Laurentian– Iapetan suture (Southern Uplands?) toward the Ossa–Morena Zone.The eventual juxtaposition of rocks from the Southern Uplands equivalent terrane with a Rheic subduction zone beneath the Ossa–Morena Zone (Fig
+Key words: Pulo, Lobo, detrital zircon genetic linkage, South Portuguese Zone, Meguma, Devono-Carboniferous, probable mode, Laurentian– Iapetan, Uplands, Ossa–Morena Zone.The, eventual juxtaposition, Uplands, equivalent terrane, Rheic, subduction zone, Ossa–Morena, Fig
+Substance: detrital zircon genetic linkage, Devono-Carboniferous
+Time: Devono-Carboniferous
+Location: Zone, South
+Part 4: A Famennian conodont fauna near Nerva (Rio Tinto)Scripta Geol, 56, 1–14.
+Key words: Part, Famennian, conodont fauna, Nerva, Rio Tinto, Scripta Geol
+Substance: 
+Time: Famennian
+Location: Nerva
+Structural analysis of an accretionary prism in a continental collisional setting, the Late Paleozoic Pulo do Lobo Zone, Southern IberiaGondwana Research, 17, 422–439.
+Key words: Structural, accretionary prism, continental collisional setting, Late Paleozoic Pulo, Lobo, IberiaGondwana
+Substance: 
+Time: Late Paleozoic Pulo
+Location: Zone
+Anatolian escape tectonics driven by Eocene crustal thickening and Neogene–Quaternary extensional collapse in the eastern Mediterranean regionIn: Dilek, Y
+Key words: Anatolian, Eocene, Neogene–Quaternary, extensional collapse, Mediterranean, Dilek, Y
+Substance: extensional collapse
+Time: Eocene, Neogene–Quaternary
+Location: 
+The importance of along-margin terrane transport in northern Gondwana: insights from detrital zircon parentage in Neoproterozoic rocks from Iberia and BrittanyEarth and Planetary Science Letters, 204, 75–88.
+Key words: along-margin terrane transport, Gondwana, detrital zircon parentage, Neoproterozoic, Iberia, BrittanyEarth, Planetary, Science Letters
+Substance: detrital zircon parentage
+Time: Neoproterozoic
+Location: Gondwana
+Detrital zircon ages from Neoproterozoic and Early Paleozoic conglomerate and sandstone units of New Brunswick and coastal Maine: implications for the tectonic evolution of GanderiaAtlantic Geology, 45, 100–144.
+Key words: Detrital, zircon ages, Neoproterozoic, Early Paleozoic, sandstone units, Brunswick, Maine, tectonic evolution, GanderiaAtlantic Geology
+Substance: zircon ages, sandstone units
+Time: Neoproterozoic, Early Paleozoic
+Location: 
+Geochronology and geodynamics of Scottish granitoids from the late Neoproterozoic break-up of Rodinia to Palaeozoic collisionJournal of the Geological Society, London, 165, 661– 674.
+Key words: Geochronology, Scottish granitoids, Neoproterozoic, Rodinia, Palaeozoic, Geological, London
+Substance: 
+Time: Neoproterozoic
+Location: 
+U–Pb geochronological constraints on Precambrian stratified units in the Avalon composite terrane of Nova Scotia, Canada, tectonic implicationsCanadian Journal of Earth Sciences, 35, 222–236.
+Key words: U–Pb, geochronological constraints, Precambrian, Avalon, composite terrane, Nova Scotia, Canada, tectonic implicationsCanadian Journal, Earth, Sciences
+Substance: composite terrane
+Time: Precambrian
+Location: 
+Age of the rift–drift transition of the Rheic Ocean in the Ossa– Morena Zone: K-bentonite in the Early Ordovician succesion at ‘Venta delCiervo’
+Key words: Age, rift–drift transition, Rheic, Ossa– Morena, K-bentonite, Early Ordovician, Venta, delCiervo ’
+Substance: 
+Time: Early Ordovician
+Location: Rheic, Ocean
+Provenance constraints from detrital zircon U–Pb ages in the northwestern Iberian Massif: Implications for Paleozoic plate configuration and Variscan evolutionJournal of the Geological Society, London, 161, 463–476.
+Key words: Provenance, detrital zircon, U–Pb, Iberian Massif, Implications, Paleozoic, plate configuration, Variscan, Geological, London
+Substance: detrital zircon
+Time: Paleozoic
+Location: 
+Laser ablation ICP-MS U–Pb zircon ages for Cretaceous plutonic rocks in the Logtung and ThirtymileRange areas of southern Yukon
+Key words: Laser, ICP-MS U–Pb, zircon ages, Cretaceous, plutonic rocks, Logtung, ThirtymileRange, Yukon
+Substance: zircon ages, plutonic rocks
+Time: Cretaceous
+Location: Logtung
+U–Pb detrital zircon age constraints on evolution of the Late Paleozoic StMarys Basin, central mainland Nova Scotia
+Key words: U–Pb, detrital zircon age constraints, Late Paleozoic StMarys, central mainland, Nova Scotia
+Substance: detrital zircon age constraints
+Time: Late Paleozoic StMarys
+Location: 
+Contiguous rather than discrete Paleozoic histories for the Avalon and Meguma terranes based on detrital zircon dataGeology, 32, 585–588.
+Key words: Contiguous, Paleozoic, Avalon, Meguma, detrital zircon dataGeology
+Substance: detrital zircon dataGeology
+Time: Paleozoic
+Location: 
+Paleozoic paleogeography of Mexico: constraints from detrital zircon age dataIn: Murphy, J.B., Keppie, J.D
+Key words: Paleozoic, Mexico, detrital zircon age dataIn, Murphy, J.B., Keppie, J.D
+Substance: detrital zircon age dataIn
+Time: Paleozoic
+Location: 
+(eds) PreMesozoic Geology of IberiaSpringer, Berlin, 334–347.
+Key words: PreMesozoic Geology, IberiaSpringer, Berlin
+Substance: 
+Time: PreMesozoic Geology
+Location: 
+Paleomagnetism of the Silurian volcanism at Almaden, Southern SpainJournal of Geophysical Research, 96, 1949–1962.
+Key words: Paleomagnetism, Silurian, Almaden, SpainJournal, Geophysical
+Substance: Geophysical
+Time: Silurian
+Location: Almaden
+Geological constraints on the Paleozoic tectonic evolution of tectonostratigraphic terranes in the Iberian MassifTectonophysics, 185, 225– 245.
+Key words: Geological, Paleozoic, tectonic evolution, tectonostratigraphic terranes, Iberian MassifTectonophysics
+Substance: tectonostratigraphic terranes
+Time: Paleozoic
+Location: 
+Ossa–Morena Zone stratigraphy: synorogenic phase (Upper Devonian–Carboniferous–Permian).In: Dallmeyer, R.D
+Key words: Ossa–Morena, Zone stratigraphy, synorogenic phase, Upper Devonian–Carboniferous–Permian, Dallmeyer, R.D
+Substance: Upper Devonian–Carboniferous–Permian
+Time: Upper Devonian–Carboniferous–Permian
+Location: 
+(eds) Pre-Mesozoic Geology of IberiaSpringer, Berlin, 273–279.
+Key words: Pre-Mesozoic Geology, IberiaSpringer, Berlin
+Substance: 
+Time: Pre-Mesozoic Geology
+Location: 
+(eds) PreMesozoic Geology of IberiaSpringer, Berlin, 399–409.
+Key words: PreMesozoic Geology, IberiaSpringer, Berlin
+Substance: 
+Time: PreMesozoic Geology
+Location: 
+(eds) Variscan– Appalachian Dynamics: The Building of the Late Paleozoic BasementGeological Society of America, Special Papers, 364, 1–15.
+Key words: Variscan– Appalachian Dynamics, Late Paleozoic BasementGeological, America, Papers
+Substance: Variscan– Appalachian Dynamics
+Time: Late Paleozoic BasementGeological
+Location: 
+The Ordovician, Silurian and Devonian sedimentary rocks of the Ossa Morena Zone (SW IberianPeninsula), Spain
+Key words: Ordovician, Silurian, Devonian, sedimentary rocks, Ossa Morena, IberianPeninsula, Spain
+Substance: sedimentary rocks
+Time: Ordovician, Silurian, Devonian
+Location: Ossa, Zone
+A plate tectonic model for the Paleozoic and Mesozoic constrained by dynamic plate boundaries and restored synthetic oceanic isochronesEarth and Planetary Science Letters, 196, 17–33.
+Key words: plate tectonic model, Paleozoic, Mesozoic, dynamic plate boundaries, synthetic oceanic isochronesEarth, Planetary, Science Letters
+Substance: dynamic plate boundaries
+Time: Paleozoic, Mesozoic, dynamic plate boundaries
+Location: 
+Pre-Mesozoic paleomagnetism and plate-tectonicsAnnual Review of Earth and Planetary Sciences, 10, 191–220.
+Key words: Pre-Mesozoic, Review, Earth, Planetary, Sciences
+Substance: 
+Time: Pre-Mesozoic
+Location: 
+The Cambrian–Silurian tectonic evolution of the Appalachians and British Caledonides: History of a complex, west and southwest Pacific-type segment of IapetusIn: Blundell, D.J
+Key words: Cambrian–Silurian, tectonic evolution, Appalachians, Caledonides, History, Pacific-type, IapetusIn, Blundell, D.J
+Substance: 
+Time: Cambrian–Silurian
+Location: 
+(eds) Lyell: The Past is the Key to the PresentGeological Society, London, Special Publications, 143, 199–242
+Key words: Lyell, Past, Key, PresentGeological, London, Publications
+Substance: 
+Time: PresentGeological
+Location: 
+Pre-Carboniferous, episodic accretion-related, orogenesis along the Laurentian margin of the northern AppalachiansIn: Murphy,
+Key words: Pre-Carboniferous, Laurentian, AppalachiansIn, Murphy
+Substance: Pre-Carboniferous
+Time: Pre-Carboniferous
+Location: 
+Provenance of the Meguma terrane, Nova Scotia: rifted margin of early Paleozoic GondwanaCanadian Journal of Earth Sciences, 46, 1–8.
+Key words: Provenance, Meguma, Nova Scotia, Paleozoic GondwanaCanadian, Earth, Sciences
+Substance: 
+Time: Paleozoic GondwanaCanadian
+Location: 
+New time constraints on lithospheric-scale oroclinal bending of the Ibero-Armorican Arc: a paleomagnetic study of earliest Permian rocks from IberiaJournal of the Geological Society, London, 167, 127–173.
+Key words: New time constraints, lithospheric-scale oroclinal, Ibero-Armorican Arc, paleomagnetic study, Permian, IberiaJournal, Geological, London
+Substance: 
+Time: Permian
+Location: 
+Key words: 
+Substance: 
+Time: 
+Location: 

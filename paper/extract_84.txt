@@ -1,0 +1,124 @@
+(In this paper, all explicit precisions are cited at the 2σ, or ~95 percent confi dence, level.) Some samples that are more fi negrained or contain components of Plio-Pleistocene age yield single-crystal dates of much poorer precisionOne solution to this problem is to analyze multigrain aliquots, rather than single grains
+Key words: explicit precisions, percent confi dence, Plio-Pleistocene, age yield single-crystal dates, poorer precisionOne solution, analyze multigrain aliquots
+Substance: age yield single-crystal dates, analyze multigrain aliquots
+Time: Plio-Pleistocene
+Location: 
+Analyses from several samples of the Triassic part of the Torlesse Supergroup of New Zealand (Adams and Kelley 1998) reveal a decidedly multimodal SPDFThe two groups of apparent ages comprise ranges from ~150–300 Ma and from ~400–500 Ma, suggesting two different source regions
+Key words: Analyses, Triassic, Torlesse Supergroup, Zealand, Adams, Kelley, SPDFThe, apparent ages, ~150–300 Ma, ~400–500 Ma, two different source regions
+Substance: Torlesse Supergroup
+Time: Triassic, ~150–300 Ma, ~400–500 Ma
+Location: 
+Combined histogram and SPDF plot for 72 40Ar/39Ar muscovite dates from samples of the Triassic Torlesse Supergroup from New Zealand (Adams and Kelley 1998)The bin size for the histogram is 5 million years
+Key words: Combined, SPDF, muscovite dates, Triassic Torlesse Supergroup, Zealand, Adams, Kelley, bin size
+Substance: Triassic Torlesse Supergroup
+Time: Triassic Torlesse Supergroup
+Location: 
+Among the 40Ar/39Ar community, this approach was pioneered by Kelley and Bluck (1989; 1992) in their studies of detrital micas from the Ordovician Southern Uplands sequence of ScotlandSubsequent research demonstrated the applicability of the technique to understanding sedimentary transport in a variety of continental settings (e.g., Renne et al
+Key words: Kelley, Bluck, detrital micas, Ordovician, Uplands, ScotlandSubsequent, understanding sedimentary transport, continental settings, Renne
+Substance: detrital micas, understanding sedimentary transport
+Time: Ordovician
+Location: 
+(2000; 2002) reported impressive results for hornblendes and micas from ice-rafted detritus in Quaternary North Atlantic sediment cores that indicate derivation from the Labrador Sea region.Constraining minimum depositional ages of ancient sediments
+Key words: impressive results, Quaternary, Atlantic, sediment cores, Labrador, minimum depositional ages, ancient sediments
+Substance: sediment cores, minimum depositional ages, ancient sediments
+Time: Quaternary
+Location: Quaternary, North, Atlantic, Sea
+Copeland and Harrison (1990) used 40Ar/39Ar data from Ocean Drilling Program sediment cores in the distal Bengal Fan to demonstrate that rocks metamorphosed during the Himalayan orogeny had been uplifted to the surface and were providing detritus to the fan by Middle Miocene timeMore detailed investigations of the timing of Himalayan rock uplift have involved dating detrital K-feldspar and micas from more proximal foreland deposits (Harrison et al
+Key words: Copeland, Harrison, Drilling Program, sediment cores, Bengal Fan, Himalayan, Miocene, Himalayan, rock uplift, K-feldspar, proximal foreland deposits, Harrison
+Substance: sediment cores, rock uplift, K-feldspar
+Time: Miocene
+Location: Bengal
+The curves are markedly different on either side of the transition: almost all grains from tributaries to the north give Miocene or younger apparent ages, while grains from tributaries to the south give Paleozoic or Proterozoic apparent agesThe detrital thermochronologic data suggest that the physiographic transition marks the position of a recently active, south-vergent thrust fault that accommodates uplift of the high Himalayan ranges relative to their foothills
+Key words: give Miocene, apparent ages, give Paleozoic, Proterozoic, apparent agesThe detrital thermochronologic data, physiographic transition marks, south-vergent thrust fault, accommodates uplift, Himalayan
+Substance: physiographic transition marks
+Time: give Miocene, give Paleozoic, Proterozoic
+Location: 
+Although exposures are poor along the transition in the Burhi Gandaki and Trisuli drainages, mapping to the west along strike demonstrates the existence of a system of Pliocene-Quaternary thrust faults with the necessary kinematics to explain the detrital thermochronologic data (Hodges et al2004).
+Key words: Burhi Gandaki, Trisuli, strike demonstrates, Pliocene-Quaternary, thrust faults, necessary kinematics, detrital thermochronologic data, Hodges
+Substance: 
+Time: Pliocene-Quaternary
+Location: Burhi, Gandaki
+Aalto KR, Sharp WD, Renne PR (1998) 40Ar/39Ar dating of detrital micas from Oligocene-Pleistocene sandstones of the Olympic Peninsula, Klamath Mountains, and northern California Coast Ranges: provenance and paleodrainage patternsCan J Earth Sci 35(7):735-745
+Key words: Aalto KR, Sharp WD, Renne PR, detrital micas, Oligocene-Pleistocene, Peninsula, Klamath, Mountains, California, Ranges, paleodrainage patternsCan, J Earth Sci
+Substance: detrital micas
+Time: Oligocene-Pleistocene
+Location: Olympic, Peninsula, Klamath, Mountains, Coast
+Adams CJ, Kelley S (1998) Provenance of Permian-Triassic and Ordovician metagraywacke terranes in New Zealand; evidence from 40Ar/39Ar dating of detrital micasGeol Soc Am Bull 110:422-432
+Key words: Adams CJ, Kelley, Provenance, Permian-Triassic, Ordovician, metagraywacke terranes, Zealand, detrital micasGeol, Soc Am Bull
+Substance: detrital micasGeol
+Time: Permian-Triassic, Ordovician
+Location: 
+Barbieri C, Carrapa B, Di Giulio A, Wijbrans J, Murrell GR (2003) Provenance of Oligocene synorogenic sediments of the Ligurian Alps (NW Italy): Inferences on belt age and cooling historyInt J Earth Sci 92: 758-778
+Key words: Barbieri, Carrapa, Di Giulio, Wijbrans J, Murrell GR, Provenance, Oligocene, synorogenic sediments, Ligurian Alps, Italy, Inferences, belt age, J Earth Sci
+Substance: synorogenic sediments
+Time: Oligocene
+Location: 
+Brandon MT, Vance JA (1992) Fission-track ages of detrital zircon grains: Implications for the tectonic evolution of the Cenozoic Olympic subduction complexAm J Sci 292:565-636
+Key words: Brandon MT, Vance, Fission-track, detrital zircon grains, Implications, tectonic evolution, Cenozoic, Olympic subduction complexAm, J Sci
+Substance: detrital zircon grains
+Time: Cenozoic
+Location: 
+Carrapa B, Di Giulio A, Wijbrans J (2004a) The early stages of the Alpine collision: an image derived from the upper Eocene–lower Oligocene record in the Alps-Apennines junction areaSed Geol 171:181-203
+Key words: Carrapa, Di Giulio, Wijbrans J, early stages, Alpine, Eocene–lower Oligocene, Alps-Apennines, Geol
+Substance: 
+Time: Eocene–lower Oligocene
+Location: Alps, -, Apennines
+Dallmeyer RD, Keppie JD, Nance RD (1997) 40Ar/39Ar ages of detrital muscovite within Lower Cambrian and Carboniferous clastic sequences in northern Nova Scotia and southern New Brunswick; applications for provenance regionsCan J Earth Sci 34(2):156-168
+Key words: Dallmeyer RD, Keppie JD, Nance RD, detrital muscovite, Lower Cambrian, Carboniferous, clastic sequences, Nova Scotia, Brunswick, provenance regionsCan, J Earth Sci
+Substance: Carboniferous, clastic sequences
+Time: Lower Cambrian, Carboniferous
+Location: 
+Gehrels GE (2000) Introduction to detrital zircon studies of Paleozoic and Triassic strata in western Nevada and northern CaliforniaIn: Paleozoic and Triassic Paleogeography and Tectonics of Western Nevada and Northern California
+Key words: Gehrels GE, Introduction, detrital zircon studies, Paleozoic, Triassic, Nevada, CaliforniaIn, Paleozoic, Triassic Paleogeography, Tectonics, Nevada, California
+Substance: detrital zircon studies
+Time: Paleozoic, Triassic, Triassic Paleogeography
+Location: Western, Northern
+In: Paleozoic and Triassic Paleogeography and Tectonics of Western Nevada and Northern CaliforniaGeological Society of America Special Paper 347
+Key words: Paleozoic, Triassic Paleogeography, Tectonics, Nevada, CaliforniaGeological, America, Paper
+Substance: 
+Time: Paleozoic, Triassic Paleogeography
+Location: Western
+Heller PL, Renne PR, O’Neil JR (1992) River mixing rate, residence time,, and subsidence rates from isotopic indicators: Eocene sandstones of the U.SPacifi c Northwest
+Key words: Heller PL, Renne PR, O ’, Neil JR, residence time, subsidence rates, isotopic indicators, Eocene, U.SPacifi
+Substance: 
+Time: Eocene
+Location: 
+Quaternary Res 54:372-383Hemming SR, Hall CM, Biscaye PE, Higgins SM, Bond GC, McManus JF, Barber DC, Andrews JT, Broecker WS (2002) 40Ar/39Ar ages and 40Ar* concentrations of fi ne-grained sediment fractions from North Atlantic Heinrich layers
+Key words: Quaternary Res 54:372-383Hemming SR, CM, Biscaye PE, Higgins SM, Bond GC, McManus JF, Barber DC, Andrews JT, Broecker WS, * concentrations, sediment fractions, Atlantic Heinrich
+Substance: sediment fractions
+Time: Quaternary Res 54:372-383Hemming SR
+Location: North, Atlantic, Heinrich
+Hodges K, Wobus C, Ruhl K, Schildgen T, Whipple K (2004) Quaternary deformation, river steepening, and heavy precipitation at the front of the Higher Himalayan rangesEarth Planet Sci Lett 220:379-389
+Key words: Hodges K, Wobus, Ruhl K, Schildgen T, Whipple K, Quaternary, heavy precipitation, Himalayan, Planet Sci Lett
+Substance: heavy precipitation
+Time: Quaternary
+Location: 
+Hodges KV, Bowring SA (1995) 40Ar/39Ar thermochronology of isotopically zoned micas; insights from the southwestern USA Proterozoic orogenGeochim Cosmochim Acta 59(15):3205-3220
+Key words: Hodges KV, Bowring SA, USA Proterozoic, Cosmochim Acta
+Substance: 
+Time: USA Proterozoic
+Location: 
+Hutson FE, Mann P, Renne PR (1998) 40Ar/39Ar dating of single muscovite grains in Jurassic siliciclastic rocks(San Cayetano Formation); constraints on the paleoposition of western Cuba
+Key words: Hutson FE, Mann P, Renne PR, muscovite grains, Jurassic, siliciclastic rocks, San Cayetano Formation, Cuba
+Substance: muscovite grains, siliciclastic rocks, San Cayetano Formation
+Time: Jurassic
+Location: Formation
+Najman Y, Garzanti E, Pringle M, Bickle M, Stix J, Khan I (2003) Early-middle Miocene paleodrainage and tectonics in the Pakistan HimalayaGeol Soc Am Bull 115(10):1265-1277
+Key words: Najman Y, Garzanti E, Pringle, Bickle, Stix J, Khan, Early-middle Miocene, Pakistan HimalayaGeol Soc Am Bull
+Substance: 
+Time: Early-middle Miocene
+Location: 
+Stuart FM, Bluck BJ, Pringle MS (2001) Detrital muscovite 40Ar/39Ar ages from Carboniferous sandstones of the British Isles: Provenance and implications for the uplift history of orogenic beltsTectonics 20(2): 255-267
+Key words: Stuart FM, Bluck BJ, Pringle MS, Detrital, Carboniferous, Isles, Provenance, uplift history, orogenic beltsTectonics
+Substance: Carboniferous
+Time: Carboniferous
+Location: Isles
+Vermeesch P (2004) How many grains are needed for a provenance study? Earth Planet Sci Lett 224:441-451 von Eynatten H, Gaup R, Wijbrans JR (1996) 40Ar/39Ar laser-probe dating of detrital white micas from Cretaceous sedimentary rocks of Eastern Alps: evidence for Variscan high-pressure metamorphism and implications for Alpine OrogenyGeology 24:691-694
+Key words: Vermeesch P, provenance study, Earth Planet Sci Lett, Eynatten H, Gaup R, Wijbrans JR, white micas, Cretaceous, sedimentary rocks, Alps, Variscan, high-pressure metamorphism, Alpine OrogenyGeology
+Substance: white micas, sedimentary rocks
+Time: Cretaceous
+Location: Eastern, Alps
+Key words: 
+Substance: 
+Time: 
+Location: 

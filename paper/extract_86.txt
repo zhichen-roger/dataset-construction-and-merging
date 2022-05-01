@@ -1,0 +1,69 @@
+The key focus of this paper is to investigate further the issues of crystallography and quartz cement growth mechanisms, using the shallowly buried Oligo-Miocene Fontainebleau sandstone, France, as a case studyWe address the following points: (1) are authigenic quartz overgrowths really in crystallographic continuity with their substrate grains? (2) What is the crystallographic inter-relationship between zones of quartz cement growth? (3) Are all quartz overgrowths entirely quartz, or do other silica polymorphs exist within overgrowths? The study combines an array of techniques to answer these questions, including transmitted-light optics, cathodoluminescence (CL), and electron backscatter diffraction (EBSD), the latter of the two being performed with the use of a scanning electron microscope (SEM)
+Key words: key focus, quartz cement growth mechanisms, Oligo-Miocene Fontainebleau, France, case studyWe address, authigenic quartz overgrowths, crystallographic continuity, substrate grains, crystallographic inter-relationship, quartz cement growth, quartz overgrowths, silica polymorphs, transmitted-light optics, CL, electron backscatter diffraction, EBSD, electron microscope, SEM
+Substance: quartz cement growth mechanisms, authigenic quartz overgrowths, crystallographic continuity, substrate grains, crystallographic inter-relationship, quartz cement growth, quartz overgrowths, silica polymorphs
+Time: Oligo-Miocene Fontainebleau
+Location: 
+Waugh (1970) studied the Permian Penrith Sandstone and documented the development of optically continuous quartz from detrital grains to overgrowthsIn Waugh’s model to explain these data, initial crystal growth begins with numerous projections of aligned rhombohedral and prismatic quartz forming over the surface of the detrital monocrystalline grain
+Key words: Waugh, Permian Penrith Sandstone, continuous quartz, detrital grains, Waugh, ’ s model, initial crystal growth, numerous projections, prismatic quartz, detrital monocrystalline grain
+Substance: Permian Penrith Sandstone, continuous quartz, detrital grains, initial crystal growth, prismatic quartz, detrital monocrystalline grain
+Time: Permian Penrith Sandstone
+Location: Permian, Penrith, Sandstone
+The Fontainebleau sandstone is an early Oligocene (36–27 Ma) unit, 50–80 m thick, of fine-grained, well-sorted, quartz arenite which rests on top of Eocene–Oligocene marls and is overlain by Oligo-Miocene limestones (Fig1; Cooper 1994; Thiry et al
+Key words: Fontainebleau, Oligocene, 36–27 Ma, m thick, quartz arenite, Eocene–Oligocene, Oligo-Miocene, Fig1, Cooper, Thiry
+Substance: quartz arenite
+Time: Oligocene, 36–27 Ma, Eocene–Oligocene, Oligo-Miocene
+Location: 
+The quartz-cemented horizons are reported to have formed from silicification controlled by water-table variations in a recent (Pliocene–Quaternary) hydrogeological event, related to spring lines (Thiry et al1988)
+Key words: water-table variations, Pliocene–Quaternary, hydrogeological event, spring lines, Thiry
+Substance: 
+Time: Pliocene–Quaternary
+Location: 
+Quartz overgrowths of the Oligo-Miocene Fontainebleau sandstone reveal contrasting overgrowth stylesSample 1 has homogeneous overgrowth character, as defined by bland CL response; sample 2 has heterogeneous overgrowth character as defined by four discernible overgrowth zones.
+Key words: Quartz, Oligo-Miocene Fontainebleau, overgrowth stylesSample, homogeneous overgrowth character, CL, heterogeneous overgrowth character, discernible overgrowth zones
+Substance: Quartz, homogeneous overgrowth character
+Time: Oligo-Miocene Fontainebleau
+Location: 
+HENDRY, J.P., AND TREWIN, N.H., 1995, Authigenic quartz microfabrics in Cretaceous turbidites: evidence for silica transformation processes in sandstones: Journal of Sedimentary Research, v65, p
+Key words: HENDRY, J.P., AND TREWIN, N.H., Authigenic, quartz microfabrics, Cretaceous, silica transformation processes, Sedimentary
+Substance: Authigenic, quartz microfabrics, silica transformation processes, Sedimentary
+Time: Cretaceous
+Location: HENDRY
+KRAISHAN, G.M., REZAEE, M.R., AND WORDEN, R.H., 2000, Significance of trace element composition of quartz cement as a key to reveal the origin in sandstones: an example from the Cretaceous of the Barrow Sub-basin, Western Australia, in Worden, R.H., and Morad, S., eds., Quartz Cement in Sandstones: International Association of Sedimentologists, Special Publication 29, p317–331.
+Key words: KRAISHAN, G.M., REZAEE, M.R., AND WORDEN, R.H., Significance, trace element composition, quartz cement, Cretaceous, Barrow Sub-basin, Australia, Worden, R.H., Morad, S., Quartz Cement, Sandstones, International Association, Sedimentologists, Publication
+Substance: trace element composition, quartz cement, Quartz Cement, Sandstones, Sedimentologists
+Time: Cretaceous
+Location: KRAISHAN, WORDEN, Western, Worden
+LIMA, R.D., AND DE ROS, L.F., 2002, The role of depositional setting and diagenesis on the reservoir quality of Devonian sandstones from the Solimo˜es Basin, Brazilian Amazonia: Marine and Petroleum Geology, v19, p
+Key words: LIMA, R.D., AND DE ROS, L.F., depositional setting, reservoir quality, Devonian, Solimo˜es, Brazilian Amazonia, Petroleum Geology
+Substance: depositional setting
+Time: Devonian
+Location: R.D., L.F.
+THIRY, M., 1999, Diversity of continental silicification features: example from the Cenozoic deposits in the Paris Basin and neighbouring basement; in Thiry, M., and Simon-Coinc¸on, R., eds., International Association of Sedimentologists, Special Publication 27, p87–127.
+Key words: THIRY, M., Diversity, continental silicification, Cenozoic, Paris, Thiry, M., Simon-Coinc¸on, R., International Association, Sedimentologists, Publication
+Substance: continental silicification, Sedimentologists
+Time: Cenozoic
+Location: THIRY, Basin, Thiry
+THIRY, M., BERTRAND-AYRAULT, M., AND GRISONI, J.C., 1988, Ground water silicification and leaching in sands: Example of the Fontainebleau Sand (Oligocene) in the Paris Basin: Geological Society of America, Bulletin, v100, p
+Key words: THIRY, M., BERTRAND-AYRAULT, M., AND GRISONI, J.C., Ground, water silicification, Example, Fontainebleau Sand, Oligocene, Paris, Geological, America, Bulletin
+Substance: water silicification, Fontainebleau Sand
+Time: Oligocene
+Location: THIRY, GRISONI, Basin
+THIRY, M., AND MARE´CHAL, B., 2001, Development of tightly cemented sandstone lenses in uncemented sand: example of the Fontainebleau Sand (Oligocene) in the Paris Basin: Journal of Sedimentary Research, v71, p
+Key words: THIRY, M., AND MARE´CHAL, B., sandstone lenses, Fontainebleau Sand, Oligocene, Paris, Sedimentary
+Substance: sandstone lenses, Fontainebleau Sand, Sedimentary
+Time: Oligocene
+Location: THIRY, Basin
+VAGLE, G.B., HURST, A., AND DYPVIK, H., 1994, Origin of quartz cements in some sandstones from the Jurassic of the Inner Moray Firth: Sedimentology, v41, p
+Key words: VAGLE, G.B., HURST, A., AND DYPVIK, H., Origin, quartz cements, Jurassic, Inner Moray Firth, Sedimentology
+Substance: quartz cements, Sedimentology
+Time: Jurassic
+Location: VAGLE
+WAUGH, B., 1970, Formation of quartz overgrowths in the Penrith sandstone (Lower Permian) of Northwest England as revealed by scanning electron microscopy: Sedimentology, v14, p
+Key words: WAUGH, B., Formation, quartz overgrowths, Penrith, Lower Permian, England, electron microscopy, Sedimentology
+Substance: Formation, quartz overgrowths, Sedimentology
+Time: Lower Permian
+Location: Penrith, Northwest
+Key words: 
+Substance: 
+Time: 
+Location: 

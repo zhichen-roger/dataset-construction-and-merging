@@ -1,0 +1,232 @@
+Latest Neoproterozoic to Cambrian detrital zircon facies of  western Laurentia
+Late Neoproterozoic to Cambrian sandstone units are common in western Laurentia and record initial transgression of the craton after the formation of the western passive margin during the latest Neoproterozoic to earliest Cambrian
+Detrital zircon measurements from 42 latest Neoproterozoic to Cambrian basal Sauk sequences and five older Neoproterozoic sandstone samples from a region extending from the Mexico–United States border to central British Columbia, Canada, are combined with previous results to characterize sediment source areas and dispersal systems
+Detrital zircon populations in Neoproterozoic and Cambrian sedimentary rocks are divided into six facies based on a statistical comparison using multidimensional scaling
+Samples from northern regions are dominated by Archean and Paleoproterozoic zircons derived from Archean tectonic provinces and the orogenic belts that record the assembly of the Laurentian craton
+More southerly sample locations show an increase in detrital zircons derived from younger Paleoproterozoic orogenic belts and early Mesoproterozoic intrusive suites
+The Transcontinental Arch, a feature interpreted to have controlled large-scale sediment dispersal patterns in the mid- to late Cambrian, likely played a major role in isolating the southern and northern signatures
+Our data set can be used to test tectonic models for the Cordilleran orogen that invoke Jurassic or Cretaceous collision of a ribbon continent as the driving mechanism for orogenesis
+Cambrian rocks of the Cassiar-Antler platform juxtaposed with North America during the hypothetical ribbon continent collision show the same geographic distribution of detrital zircon facies as similar-aged rocks from autochthonous and parautochthonous locations on the Laurentian margin
+Laterally persistent latest Neoproterozoic to Cambrian sandstone units mark the base of the western Laurentian passive margin succession (Sloss, 1963; Bond and Kominz, 1984; Lickorish and Simony, 1995; Fedo and Cooper, 2001), and are exposed along the length of the Cordillera from Mexico to the Northwest Territories of northern Canada (Stewart et al., 2001; Hadlari et al., 2012)
+These variations provide useful constraints on the paleogeographic position of displaced crustal fragments in the Cordillera and contribute to a fuller understanding of largescale early Paleozoic sediment dispersal patterns in Laurentia.
+Previous studies of Neoproterozoic to Cambrian deposits in western Laurentia have been sub-regional in extent (e.g., Stewart et al., 2001; Amato and Mack, 2012) or incorporated only a small number of widely spaced samples (Gehrels et al., 1995; Gehrels and Pecha, 2014)
+These studies reveal that latest Neoproterozoic to Cambrian rocks exhibit significant geographic variation in detrital zircon populations, reflecting proximity to the major tectonic provinces of Laurentia
+Here we report new detrital zircon results from Neoproterozoic and Cambrian sandstones in a ~1 × 106 km2 region extending from the southern United States to central British Columbia, Canada (Fig
+These data are integrated with previous studies to investigate large-scale provenance patterns in western Laurentia during the Cambrian
+As a first application of this new data set, we evaluate tectonic models for the Cordillera that involve the Cretaceous collision of composite ribbon continents as the driving force for Cretaceous orogenesis (SAYBIA of Johnston [2008], and Rubia of Hildebrand [2009])
+Supplemental Information: Latest Neoproterozoic to Cambrian detrital zircon facies of Western Laurentia
+Neoproterozoic to Cambrian strata are common along the western margin of Laurentia, and include latest Neoproterozoic to Cambrian sandstones that form the base of the Sauk sequence (Sloss, 1963)
+The western units, which are latest Neoproterozoic to middle Cambrian in age and were deposited on Mesoproterozoic to Neoproterozoic sedimentary successions, were sampled from allochthonous thrust sheets within the Rocky Mountains and Sevier fold-and-thrust belts or from structures associated with Basin and Range extension
+To the east, basal Sauk sandstones, which are middle to late Cambrian in age and rest unconformably above ca
+Western samples deposited on thick Mesoproterozoic and Neoproterozoic sedimentary successions are part of the Cassiar (Canada and northern United States) or Antler platforms (United States)
+Eastern samples deposited on thin Neoproterozoic deposits or directly on crystalline rocks of Laurentia are part of the North American platform
+To facilitate provenance interpretations, five sandstone samples were collected from older Neoproterozoic formations that underlie basal Sauk sequence sandstones in some of the western locations
+Sample locations for older Neoproterozoic samples are given in Table 1 and their relationship to the overlying basal Sauk sequence sandstones are outlined in the Supplemental Information.
+Locations for Cambrian samples from this study (yellow outlines, red text) and previously published work (black outlines), western North America
+Sampled basal Sauk sequence units are highlighted in yellow; older Neoproterozoic units sampled in this study are highlighted in orange
+Average uncertainty (2σ), including all random and systematic components, increased from ~2 percent for measurements yielding Archean dates to ~3 percent for measurements yielding Cambrian dates.
+Here, five synthetic populations with ages drawn from the major populations found in Cambrian rocks of western Laurentia (2700, 1780, 1650, 1430, and 1100 Ma) were plotted with the Cambrian and Neoproterozoic samples on a single non-metric MDS “map” using the IsoplotR software from Vermeesch (2013).
+In this study, we combine our new data with previously published data for Cambrian and Neoproterozoic samples (Table 1)
+Uranium-lead measurements of detrital zircons from basal Sauk and older Neoproterozoic sandstones yielded 4743 dates that passed our concordance filter
+A single probability density function incorporating all of the new samples reveals five major populations of detrital zircon: (1) Archean to early Neoproterozoic (3.5–2.4 Ga; mode 2.7 Ga); (2) Paleoproterozoic (2.0–1.6 Ga; mode 1.8 Ga); (3) early Mesoproterozoic (1.5–1.3 Ga; mode 1.4 Ga); (4) late Mesoproterozoic (1.3–1.0 Ga; modes 1.2 and 1.1 Ga); and (5) Neoproterozoic to Cambrian (0.8–0.5 Ga; various modes between 0.8 and 0.5 Ga) (Fig
+Important geographical variations in the presence, absence, and relative proportions of these five major populations are discussed below and used to understand Cambrian provenance patterns and to test tectonic models for the Cordillera.
+A broad distribution of Archean to Paleoproterozoic (>2.4 Ga) dates are consistent with ultimate sources in cratonic cores that form the oldest rocks of the Laurentian craton (Hoffman, 1988)
+The broad high in the probability density function in the late Paleoproterozoic (mode 1.78 Ga), which includes grains between 2.0 and 1.6 Ga, derive from a collage of Proterozoic orogenic provinces and their associated accreted terranes that record the assembly of the Laurentian craton
+Zircon grains yielding dates between 2.4 Ga and 1.8 Ga derive from Proterozoic orogenic belts and the associated accreted terranes
+Nonmetric multidimensional scaling plot of the detrital zircon age spectra of select Cambrian samples from southwestern Laurentia and of five unimodal synthetic populations
+Dashed black line indicates the boundary between samples that contain >3 percent Archean grains and those that contain <3 percent Archean grains
+Nonmetric multidimensional scaling plot of the detrital zircon age spectra of select Neoproterozoic samples from southwestern Laurentia
+that stitch together the Archean cratonic cores
+A prominent Mesoproterozoic mode at 1.43 Ga indicates derivation from extensive A-type plutons that intrude the Yavapai and Mazatzal provinces throughout southern and southeastern Laurentia (Anderson and Bender, 1989)
+Neoproterozoic and early Cambrian detrital zircons derive from magmatism associated with crustal thinning during deposition of the Windermere Supergroup and the formation of the western Laurentian passive margin in the latest Neoproterozoic to Cambrian.
+All 42 Cambrian and five Neoproterozoic samples reported here were combined with previously published results from 36 Cambrian and seven Neoproterozoic samples to create a single MDS plot (Figs
+Facies A was divided into two subfacies, A1 and A2, based on the presence of Mesoproterozoic, Neoproterozoic, and Cambrian zircon populations in the latter
+Samples containing Archean grains plot on the left of the MDS map nearer the 2700 Ma synthetic population; a dashed line demarcating the boundary between samples that contain greater than and less than 3 percent Archean detritus is provided as a reference (Fig
+Samples that plot in the top right of the map contain variable mixtures of late Paleoproterozoic and Mesoproterozoic grains as evidenced by their proximity to the 1650 Ma and 1430 Ma synthetic populations
+Samples that plot in the top left of the map contain prominent Paleoproterozoic populations and cluster near the 1780 Ma synthetic population
+A1 and A2 detrital zircon facies are characterized by Archean to early Paleoproterozoic (3.0–2.4 Ga) populations and a dominant late Paleoproterozoic population between 1.9 and 1.7 Ga, with a mode of ca
+Normalized probability density functions for select Cambrian samples of southwestern Laurentia
+A line at 1.8 Ga is provided as a visual reference for the age of the Paleoproterozoic population discussed in the text
+Geologic time scale abbreviations: MC—Mesozoic–Cenozoic; Pal.—Paleozoic; Neopr.—Neoproterozoic; Mesopr.—Mesoproterozoic; Paleoprot.—Paleoproterozoic; NA—Neoarchean; MA—Mesoarchean; PA—Paleoarchean.
+Normalized probability density functions for select Neoproterozoic samples of western
+A line at 1.8 Ga provided is provided as a visual reference for the age of the Paleoproterozoic population discussed in the text
+Minor early Mesoproterozoic 1.5–1.3 Ga populations are found in the southernmost A1 samples and the majority of A2 samples
+1.4 Ga and Neoproterozoic to Cambrian zircons
+This facies is characterized by an Archean to early Paleoproterozoic (mainly 3.0–2.4 Ga) population, subequal late Paleoproterozoic 1.9–1.7 Ga (mode ca
+1.8 Ga) and early Mesoproterozoic 1.5–1.3 Ga (mode ca
+1.4 Ga) populations, and a small late Mesoproterozoic 1.3–1.0 Ga (mode ca
+characterized by an Archean (mainly 3.0–2.5 Ga) population, subequal late Paleoproterozoic 1.9–1.6 Ga (mode ca
+1.8 Ga) and early Mesoproterozoic 1.5–1.3 Ga (modes at 1.42 and 1.36 Ga) populations, and a dominant late Mesoproterozoic ca
+These samples are characterized by nearly bimodal detrital zircon populations dominated by late Paleoproterozoic 1.8–1.6 Ga (mode ca
+1.7 Ga) and narrow early Mesoproterozoic (mode ca
+The relative abundances of the Paleoproterozoic and Mesoproterozoic populations vary, but are subequal in most samples
+Archean grains are scarce, representing <1 percent of the zircons analyzed
+Minor late Mesoproterozoic 1.3–1.0 Ga populations are found in the some samples (Fig
+These samples are characterized by late Paleoproterozoic 1.8–1.6 Ga (mode <1.7 Ga), early Mesoproterozoic 1.5–1.3 Ga (mode 1.4 Ga), and prominent late Mesoproterozoic 1.3–1.0 Ga (mode 1.2 Ga) populations (Fig
+The provenance of Cambrian and Neoproterozoic the detrital zircon facies described above can be used to constrain large-scale sediment source areas and dispersal systems active during the Cambrian throughout western Laurentia
+Provenance interpretations for Archean components of the northern facies, A1 and A2, are relatively straightforward
+Archean components in these samples likely derive ultimately from Laurentian Archean provinces, such as the Hearne, Superior, Wyoming, and Medicine Hat blocks that were exposed to the east prior to Cambrian transgression (Fig
+The provenance of Paleoproterozoic zircon populations is more complicated
+Overall, Paleoproterozoic grains from A1 and A2 samples yield a mode of 1.78 Ga (Fig
+Inspection of the individual probability density functions reveals that several A1 samples show two modes in their Paleoproterozoic populations (e.g., Fig
+Paleoproterozoic populations in facies A2 also show two modes at 1.84 and 1.78 Ga (Fig
+Our data suggest that the occurrence of two distinct Paleoproterozoic detrital zircon populations is widespread, and their origin is discussed below.
+Zircons with ages >1.8 Ga could derive from relatively proximal Paleoproterozoic arcs and orogenic belts, such as the Taltson or Rimbey arcs which record the assembly of the Laurentian craton and are interpreted in the subsurface of Alberta (Canada) based on borehole penetrations and geophysical measurements (Fig
+The origin of the younger <1.8 Ga Paleoproterozoic zircons is more difficult to determine
+8), which was exposed until at least the middle Cambrian (May et al., 2013)
+As such, the timing of magmatism in the Yavapai province is a poor fit to the northern Cambrian rocks
+Grains younger than 1.75 Ga are not common in facies A1 and A2 samples, and the mode of the <1.8 Ga zircon population from Cambrian rocks is older (1.78 Ga)
+1.4 Ga A-type granites (Anderson and Bender, 1989) that provide abundant zircons to Cambrian sedimentary rocks in that region (e.g., samples from facies D)
+If the <1.8 Ga population of Paleoproterozoic grains was derived from the Yavapai province, then a commensurate population of Mesoproterozoic zircons would be expected
+Minor Mesoproterozoic populations are found in some samples (e.g., Fig
+Also, paleoflow directions in the Cambrian are dominantly west directed (Mountjoy and Aitken, 1963; Young, 1979; Devlin and Bond, 1988), inconsistent with derivation from the Yavapai province
+1.78 Ga zircons in Cambrian rocks were sourced from the Yavapai province.
+Magmatism in the Little Belt arc is interpreted to record Paleoproterozoic convergence between the Hearne and Wyoming cratons (Mueller et al., 2002)
+If arc magmatism was continuous until collision at 1.78 Ga, then parts of the Little Belt arc may be young enough to provide the <1.8 Ga components observed in Cambrian detrital zircon populations
+As such, the importance of the Little Belt arc as a source area in the Cambrian remains unclear.
+8) and may be related to more widespread Paleoproterozoic magmatism in the Hearne province (Peterson et al., 2015)
+Zircon crystallization ages of 1779 ± 3 Ma and 1820 ± 1 Ma for granites in the otherwise Archean Loverna block of the Hearne craton in southeastern Alberta, and interpretations of aeromagnetic data, suggest that the Swift Current anorogenic province may be widespread in southeastern Alberta (Ross et al., 1991).
+Derivation of basal Sauk sequence Paleoproterozoic zircon populations from this region would require transport of <1.8 Ga zircon populations across the predominantly >1.8 Ga Trans-Hudson orogen
+We interpret that <1.8 Ga Paleoproterozoic zircons in facies A1 and A2 Cambrian samples most likely derive from the Swift Current anorogenic province to the east
+The widespread occurrence of these grains in Cambrian samples suggests that the Swift Current anorogenic province may be more extensive than originally mapped by Collerson et al
+Source areas in the Little Belt arc, Rimbey arc, parts of the Trans-Hudson orogen, or post-orogenic plutons in the Penokean terrane would likely exhibit juvenile signatures, whereas Nd isotopic data requires that the Swift Current anorogenic province formed by melting of older Archean crust (Collerson et al., 1988).
+Neoproterozoic to Cambrian detrital zircon populations in facies A2 samples are related to rifting of western Laurentia to form the Neoproterozoic Windermere basin and ultimately the western Laurentian passive margin in the Cambrian
+Evidence of Neoproterozoic to Cambrian magmatism of various ages has been described along the length of the orogen (Colpron et al., 2002, and references therein)
+Proterozoic populations were likely eroded from older sedimentary and volcanic sequences, whereas Cambrian magmatism may have been syndepositional (e.g., Colpron et al., 2002).
+The predominance of <1.8 Ga grains in Cambrian rocks suggests that the Swift Current anorogenic province may be more widespread than previously mapped, and was likely a significant source of sediment in the Cambrian
+The similarity between Cambrian A1 and A2 signatures and those of the underlying Neoproterozoic samples (Fig
+7, group A1) suggests little change in provenance during much of the late Neoproterozoic and into the early Cambrian
+Furthermore, the similarity between Neoproterozoic and Cambrian rocks makes evaluating the importance of local recycling of Neoproterozoic sedimentary rocks in the Cambrian difficult
+Neoproterozoic to Cambrian zircon populations were likely recycled from older Windermere deposits, with the exception of Cambrian grains, some of which may have been syndepositional.
+Archean zircons are found in all facies B samples (Fig
+Crystalline sources for Archean zircons include the Grouse Creek block of northeastern Nevada and southern Idaho, and the Wyoming province to the east (Fig
+Alternatively, Archean zircons could be recycled from older Neoproterozoic successions, such as the Mutual Formation which underlies many of the Cambrian facies B sample locations and contains Archean grains (Fig
+Facies B detrital zircon populations are characterized by prominent Paleoproterozoic zircon populations with a mode ca
+Unlike our interpretation for facies A1 and A2, younger Paleoproterozoic zircons (<1.8 Ga) in facies B likely derive from the Yavapai province to the east
+This interpretation is supported by an abundance of early Mesoproterozoic grains, consistent with derivation from A-type granites that intrude the Yavapai province (Anderson and Bender, 1989).
+Late Mesoproterozoic populations are found in all facies B samples and are composed of a wide range of ages between 1.25 and 1.0 Ga with a mode ca
+The range of late Mesoproterozoic ages in facies B samples is similar to that found in the Neoproterozoic Uinta Mountain Group of northeastern Utah (Mueller et al., 2007; Dehler et al., 2010; Kingsbury-Stewart et al., 2013) and to late Mesoproterozoic zircon populations in the Mutual Formation (Fig
+The Uinta basin is one of a number of Neoproterozoic basins that received detritus from the eroding Grenville orogen in the Neoproterozoic, an event referred to as the “Grenville flood” (Rainbird et al., 1997; Mueller et al., 2007)
+The similarity between Mesoproterozoic detrital zircon populations of the Mutual Formation
+If Grenville detritus in the Mutual Formation was derived from the southern Grenville orogen, was this also true for Grenville detritus in Cambrian rocks? Yonkee et al
+(2014) interpreted lower Cambrian strata in western Utah to derive from the region of the Transcontinental Arch, a northeast-southwest–aligned basement high that runs roughly down the middle of the Laurentian craton that was onlapped during Sauk transgression (Sloss, 1963, 1988; see Carlson [1999] for an excellent discussion; Fig
+However, late Mesoproterozoic plutons in Colorado, such as the ca
+1.09 Ga Pikes Peak Granite (Schärer and Allègre, 1982), are younger than the mode of the late Mesoproterozoic population in facies B samples (ca
+1.11 Ga), and could not have supplied the broad range of late Mesoproterozoic ages found in them
+Furthermore, the lack of late Mesoproterozoic grains in facies D samples, some of which were deposited directly atop the Pikes Peak Granite (Fig
+The geographic and temporal distribution of Cambrian samples containing Grenville detritus supports this interpretation
+Evidence for crustal thinning in the lower Cambrian in western Utah (Yonkee et al., 2014) could explain rapid changes in detrital zircon facies
+Extensional faulting would have allowed the Cambrian sedimentary system intermittent access to older Neoproterozoic rocks rich in Mesoproterozoic zircons
+Facies B detrital zircon populations likely derive from mixing of detritus from Archean and Paleoproterozoic crystalline source areas to the east, such as the Wyoming and Yavapai provinces, with late Mesoproterozoic grains recycled from older sedimentary successions (Fig
+Facies C detrital zircon populations are similar to those of facies B, except that the proportions of Paleoproterozoic and Mesoproterozoic zircon populations differ and the age of the Paleoproterozoic mode is more variable (Fig
+Facies B detrital zircon populations are dominated by late Paleoproterozoic zircons (1.9–1.6 Ga; 42 percent of dates) with lesser proportions of early (1.6–1.3 Ga; 26 percent) and late (1.3–1.0 Ga; 13 percent) Mesoproterozoic zircons
+In contrast, facies C detrital zircon populations are dominated by late Mesoproterozoic zircons (47 percent) with lesser proportions of late Paleoproterozoic (20 percent) and early Mesoproterozoic grains (22 percent).
+Of the eleven samples that exhibit facies C detrital zircon populations, seven are from the Neoproterozoic Mutual Formation of Utah and southern Idaho (Fig
+As discussed previously, sediment of the Mutual Formation was likely derived from the Grenville orogen, while Cambrian facies C samples in Utah likely derive from local recycling of the Mutual Formation or from the Uinta Mountain Group, which contain similar detrital zircon populations (Fig
+Variability in the age of the Paleoproterozoic mode in facies C samples may reflect variable contributions from the Yavapai province to the east and older 1.8–1.9 Ga arcs in western Utah and Nevada.
+Overall, detrital zircon populations in the Proveedora are similar to facies E samples from the Bliss Sandstone in southern New Mexico except that the mode of the late Mesoproterozoic population in the Proveedora (ca
+Facies D detrital zircon populations are characterized by bimodal Paleoproterozoic and Mesoproterozoic zircon populations and mainly derive from proximal sources within the Yavapai and Mazatzal provinces (Fig
+The Paleoproterozoic zircon population has a peak age of ca
+The near absence of >1.8 Ga and Archean grains indicates that little detritus was derived from the Wyoming craton to the north or Paleoproterozoic arcs and orogens to the northeast and west.
+Mesoproterozoic populations likely derive from A-type plutons that extensively intrude the Yavapai and Mazatzal provinces (Fig
+The peak age (1.43 Ga) is similar to the mode in the distribution of ages for early Mesoproterozoic plutons in Laurentia (Goodge and Vervoort, 2006)
+Small variations in the mode of the Mesoproterozoic population likely reflect subtle differences in the ages of early Mesoproterozoic plutons in the sediment source areas of the samples (Fig
+Minor late Mesoproterozoic populations yield a mode of ca
+The similarity between the mode of the late Mesoproterozoic population (ca
+We interpret that Cambrian detrital zircons of facies D were derived from relatively local sources within the Yavapai and Mazatzal provinces (Fig
+The lack of Archean and >1.8 Ga zircon populations suggests that little detritus was derived from the Wyoming craton to the north in the middle to late Cambrian, consistent with paleoflow measurements that suggest transport dominantly to the west (Stewart et al., 2001, and references therein)
+The origin of late Mesoproterozoic populations is difficult to determine due to their relative scarcity, but they could derive from local sources such as the Pikes Peak Granite within the Yavapai province.
+The majority of facies E samples are found at the south end of the studied area, mainly in samples of the late Cambrian Bliss Sandstone of southwestern New Mexico (Amato and Mack, 2012), our Tapeats Sandstone samples from southern Nevada and central Arizona, and one sample of the Wood Canyon Formation in southern California (Fig
+We have chosen to group it with facies E samples for our provenance interpretation due to the similarity in the age of its Paleoproterozoic mode to other facies E samples and the occurrence of a large population of Phanerozoic grains in sample 59 that are uncommon in facies D samples (Fig
+Facies E is dominated by a younger Paleoproterozoic zircon population (mode <1.7 Ga), reflecting increased input of detritus from the Mazatzal province relative to facies D
+Mesoproterozoic zircons derive from A-type anorogenic granites that are common in New Mexico (Fig
+Late Mesoproterozoic zircon populations are a major component of many facies E samples
+The mode of the late Mesoproterozoic population (ca
+Sources of late Mesoproterozoic grains to the north, such as the Pikes Peak Granite, are younger (ca
+Middle Cambrian zircons are abundant in a number of western facies E samples (Fig
+Amato and Mack (2012) used paleocurrent measurements and the geographic extent of Bliss Sandstone samples containing Cambrian zircons to demonstrate that these zircons derived from the 510 ± 5 Ma Florida Mountains granite
+4, group E, samples 59 and 65) also contain abundant middle Cambrian detrital zircons that overlap in age with the Florida Mountains granite
+These ages are the same, within uncertainty, as the age of Florida Mountains granite and could indicate that Florida Mountains granite–derived detritus reached as far west as southern Nevada in the late Cambrian
+The modes of the Paleoproterozoic zircon populations in our samples (1.67 Ga) are consistent with derivation predominantly from the Mazatzal province, and are similar to that of the Bliss Sandstone (1.68 Ga; Amato and Mack, 2012)
+While similar Paleoproterozoic populations are present in Tapeats Sandstone samples of the Grand Canyon, Arizona (Fig
+Likewise, Mesoproterozoic populations in the Grand Canyon samples are younger (ca
+Our results support the interpretation of Amato and Mack (2012) that the Transcontinental Arch formed a significant drainage divide in the middle to late Cambrian
+Significant differences in the provenance of the Tapeats in the Grand Canyon and the Tapeats in central Arizona and southern Nevada are consistent with the presence of the arch during the middle to late Cambrian.
+Facies E detrital zircon populations were derived from a mixture of sources in the Mazatzal and southern Yavapai provinces combined with locally derived detritus from Mesoproterozoic and Paleozoic intrusive rocks in southwestern New Mexico (Fig
+We suggest that a late Cambrian sediment delivery pathway skirted the southern limit of the Transcontinental Arch, delivering sediment as far as southern Nevada and California (Fig
+To the north, Cambrian sandstones exhibit facies A1 and A2 zircon populations, characterized by abundant Archean and Paleoproterozoic (mode ca
+1.8 Ga) and minimal Mesoproterozoic zircons (e.g., Fig
+This contrasts strongly with the southern Wyoming facies E sample, which exhibits younger Paleoproterozoic populations (mode <1.7 Ga), prominent populations of Mesoproterozoic grains, and abundant late Mesoproterozoic ca
+Facies D samples are characterized by a similar Paleoproterozoic zircon population (mode ca
+1.7 Ga) and prominent Mesoproterozoic population, but lack significant Mesoproterozoic grains
+The occurrence of late Mesoproterozoic ages and the relatively young mode of the dominant Mesoproterozoic zircon population in this sample (mode of 1.38 Ga versus ca
+We interpret the northern occurrence of facies E sample to result from local sourcing of younger Mesoproterozoic A-type granites and detritus from the Pikes Peak Granite (Fig
+Facies F samples are distinct amongst Cambrian detrital zircon populations of western Laurentia
+younger than the Wood Canyon, which is thought to have been deposited in the latest Neoproterozoic to earliest Cambrian (starting at 548 Ma) (Corsetti and Hagadom, 2000)
+Furthermore, the Neoproterozoic Stirling Formation, which underlies the Wood Canyon in southern Nevada and parts of California, is characterized by a facies B detrital zircon population (Fig
+8), with diverse Paleoproterozoic and Mesoproterozoic ages
+This suggests that the source area and sediment dispersal systems that supplied detritus to facies E rocks were not active in the latest Neoproterozoic
+For over 40 yr, most tectonic models for the North American Cordillera have invoked accretion of terranes onto North America to explain Paleozoic to Cenozoic orogenesis (Dewey and Bird, 1970; Dercourt, 1972; Monger et al., 1972; Monger, 1997; DeCelles, 2004; Yonkee and Weil, 2015)
+Deformation of the Cambrian to Triassic platform succession of western Laurentia occurred above an east-dipping subduction zone during the Cretaceous to Cenozoic Sevier and Laramide orogenies
+The presence of two west-facing Paleozoic platform successions along much of the length of the Cordillera, the Rocky Mountain and Cassiar platforms in Canada and the Antler and North American platforms in the United States, that have different geological histories and faunal assemblages (Johnston and Borel, 2007; Johnston, 2008; Hildebrand, 2009) indicates that they were separated by a broad ocean basin during the Paleozoic (Johnston and Borel, 2007; Johnston, 2008).
+Paleomagnetic constraints on the latitude of many of the terranes that compose the orogen suggest that they were thousands of kilometers to the south of their current positions during the Late Cretaceous (e.g., Irving et al., 1996).
+In these models, westward subduction of the North American plate leads to Jurassic (Johnston, 2008) or Cretaceous (Hildebrand, 2009) collision of North America with a composite intra-oceanic arc terrane or “ribbon continent”
+Models involving westward subduction reconcile the presence of two Paleozoic platforms in the western Cordillera
+The western platform succession, with its distinct geological history, including the presence of thick Mesoproterozoic and Neoproterozoic sedimentary successions, and exotic fauna, is part of the ribbon continent, far traveled, and was juxtaposed with the North American margin during the Mesozoic
+The general accretionary and ribbon continent models for the Cordillera make different predictions for the provenance of Cambrian sandstones deposited on the North American and Cassiar-Antler platforms
+In the general accretionary model, western Neoproterozoic to Cambrian units (McNaughton, Hamill, Three Sisters, Quartzite Range, Geertsen Canyon, Prospect Mountain, and Wood Canyon formations), which compose the base of the Paleozoic succession of the Cassiar-Antler platform, represent distal equivalents of easterly units (Gog, Flathead, Tintic, Sawatch, Ignacio, Bliss, and Tapeats formations) deposited as part of the North American platform
+Although the western units are somewhat older (latest Neoproterozoic to early Cambrian) than eastern units (middle to upper Cambrian), the general accretionary model predicts that rocks of the Cassiar-Antler platform were proximal to Laurentia in the Cambrian and, as such, may have had access to similar provenance areas in Laurentia and therefore may contain similar detrital zircon facies.
+In contrast, the ribbon continent model predicts that deposition of the western units occurred on an isolated landmass (Johnston, 2008; Hildebrand, 2009) and would not necessarily share similar source areas in the Cambrian
+Furthermore, the ribbon continent model stipulates that significant late Cretaceous to Cenozoic dextral translation of western Cassiar-Antler platform relative to North America occurred prior to final docking in the early Cenozoic (e.g., Hildebrand, 2015; Sigloch and Mihalynuk, 2013)
+As such, Cambrian detrital zircon facies in western units would likely be different from those of the North American platform to their east.
+As discussed previously, basal Sauk sandstones with facies C detrital zircon populations likely derive from recycling of the older Neoproterozoic successions on which they were deposited
+As such, the lack of facies C detrital zircon populations in samples from the North American platform is readily explained by a lack of proximal Neoproterozoic rocks with facies C detrital zircon populations to recycle.
+If the crust of the ribbon continent were a sliver rifted away from Laurentia in the Cambrian (Johnston, 2001), rocks of the Cassiar-Antler platform and the North American platform could have had access to similar-aged source areas and could, therefore, exhibit a similar geographic distribution of detrital zircon facies
+However, this scenario would require that the ribbon continent had drifted far enough relative to the Laurentian craton to satisfy the paleomagnetic and faunal data sets before being juxtaposed and translated in the Mesozoic to approximately the same latitude from where it was derived in the Cambrian
+Detrital zircons populations from Cambrian sandstones of the basal Sauk sequence are divided into six major facies groups based on statistical comparison
+Northern rock units are characterized by bimodal detrital zircon populations dominated by Archean and Paleoproterozoic ages
+To the south, Archean zircons become scarce and populations are dominated by younger Paleoproterozoic zircons derived from the Yavapai and Mazatzal provinces and early Mesoproterozoic zircons derived from the A-type granites that intrude those provinces
+Farther south, Grenville-aged detritus becomes more prominent, with local Cambrian plutonism providing
+Prominent modes are given in Ma; a line at 1.8 Ga is provided as a visual reference for the age of the Paleoproterozoic population.
+Amato, J.M., and Mack, G.H., 2012, Detrital zircon geochronology from the Cambrian-Ordovician Bliss Sandstone, New Mexico: Evidence for contrasting Grenville-age and Cambrian sources on opposite sides of the Transcontinental Arch: Geological Society of America Bulletin, v
+Anderson, J.L., and Bender, E.E., 1989, Nature and origin of Proterozoic A-type granitic magmatism in the southwestern United States of America: Lithos, v
+Benyon, C., Leier, A., Leckie, D.A., Webb, A., Hubbard, S.M., and Gehrels, G.E., 2014, Provenance of the Cretaceous Athabasca Oil Sands, Canada: Implications for continental-scale sediment transport: Journal of Sedimentary Research, v
+Bickford, M.E., Mueller, P.A., Kamenov, G.D., and Hill, B.M., 2008, Crustal evolution of southern Laurentia during the Paleoproterozoic: Insights from zircon Hf isotopic studies of ca
+Bond, G.C., and Kominz, M.A., 1984, Construction of tectonic subsidence curves for the early Paleozoic miogeocline, southern Canadian Rocky Mountains: Implications for subsidence mechanisms, age of breakup, and crustal thinning: Geological Society of America Bulletin, v
+Bond, G.C., Christie-Blick, N., Kominz, M.A., and Devlin, W.J., 1985, An early Cambrian rift to postrift transition in the Cordillera of western North America: Nature, v
+Collerson, K.D., Van Schmus, R.W., Lewry, J.F., and Bickford, M.E., 1988, Buried Precambrian basement in south-central Saskatchewan: Provisional results from Sm-Nd model ages and U-Pb zircon geochronology, in Macdonald, R., ed., Summary of Investigations 1988, Saskatchewan Geological Survey: Saskatchewan Department of Energy and Mines Miscellaneous Report 88 -4, p
+Colpron, M., Logan, J.M., and Mortensen, J.K., 2002, U-Pb zircon age constraint for late Neoproterozoic rifting and initiation of the lower Paleozoic passive margin of western Laurentia: Canadian Journal of Earth Sciences, v
+Corsetti, F.A., and Hagadom, J.W., 2000, Precambrian-Cambrian transition: Death Valley, United States: Geology, v
+DeCelles, P.G., 2004, Late Jurassic to Eocene evolution of the Cordilleran thrust belt and foreland basin system, western U.S.A.: American Journal of Science, v
+Devlin, W.J., and Bond, G.C., 1988, The initiation of the early Paleozoic Cordilleran miogeocline: Evidence from the uppermost Proterozoic–Lower Cambrian Hamill Group of southeastern British Columbia: Canadian Journal of Earth Sciences, v
+Dickinson, W.R., Lawton, T.F., and Gehrels, G.E., 2009, Recycling detrital zircons: A case study from the Cretaceous Bisbee Group of southern Arizona: Geology, v
+Fedo, C.M., and Cooper, J.D., 2001, Sedimentology and sequence stratigraphy of Neoproterozoic and Cambrian units across a craton-margin hinge zone, southeastern California, and implications for the early evolution of the Cordilleran margin: Sedimentary Geology, v
+Gaschnig, R.M., Vervoort, J.D., Lewis, R.S., and Tikoff, B., 2013, Probing the Proterozoic and Archean crust in the northern U.S
+Gehrels, G.E., and Pecha, M., 2014, Detrital zircon U-Pb geochronology and Hf isotope geochemistry of Paleozoic and Triassic passive margin strata of western North America: Geosphere, v
+Gehrels, G.E., Dickinson, W.R., Ross, G.M., Stewart, J.H., and Howell, D.G., 1995, Detrital zircon reference for Cambrian to Triassic miogeoclinal strata of western North America: Geology, v
+Gehrels, G.E., Blakey, R., Karlstrom, K.E., Timmons, J.M., Dickinson, B., and Pecha, M., 2011, Detrital zircon U-Pb geochronology of Paleozoic strata in the Grand Canyon, Arizona: Lithosphere, v
+Goodge, J.W., and Vervoort, J.D., 2006, Origin of Mesoproterozoic A-type granites in Laurentia: Hf isotopic evidence: Earth and Planetary Science Letters, v
+Hadlari, T., Davis, W.J., Dewing, K., Heaman, L.M., Levieux, Y., Ootes, L., Pratt, B.R., and Pyle, L.J., 2012, Two detrital zircon signatures for the Cambrian passive margin of northern Laurentia highlighted by new U-Pb results from northern Canada: Geological Society of America Bulletin, v
+Harms, T.A., Brady, J.B., Burger, H.R., and Cheney, J.T., 2004, Advances in the geology of the Tobacco Root Mountains, Montana, and their implications for the history of the northern Wyoming Province, in Brady, J.B., Burger, H.R., Cheney, J.T., and Harms, T.A., eds., Precambrian Geology of the Tobacco Root Mountains, Montana: Geological Society of America Special Paper 377, p
+Hildebrand, R.S., 2009, Did Westward Subduction Cause Cretaceous-Tertiary Orogeny in the North American Cordillera?: Geological Society of America Special Paper 457, 71 p., https://doi .org/10.1130/2009.2457.
+Hoffman, P.F., 1988, United Plates of America, the birth of a craton: Early Proterozoic assembly and growth of Laurentia: Annual Review of Earth and Planetary Sciences, v
+Holm, D.K., Van Schmus, W.R., MacNeill, L.C., Boerboom, T.J., Schweitzer, D., and Schneider, D., 2005, U-Pb zircon geochronology of Paleoproterozoic plutons from the northern midcontinent, USA: Evidence for subduction flip and continued convergence after geon 18 Penokean orogenesis: Geological Society of America Bulletin, v
+Iriondo, A., Premo, W.R., Martínez-Torres, L.M., Budahn, J.R., Atkinson, W.W., Jr., Siems, D.F., and Guarás-González, B., 2004, Isotopic, geochemical, and temporal characterization of Proterozoic basement rocks in the Quitovac region, northwestern Sonora, Mexico: Implications for the reconstruction of the southwestern margin of Laurentia: Geological Society of America Bulletin, v
+Kingsbury-Stewart, E.M., Osterhout, S.L., Link, P.K., and Dehler, C.M., 2013, Sequence stratigraphy and formalization of the middle Uinta Mountain Group (Neoproterozoic), central Uinta Mountains, Utah: A closer look at the western Laurentian Seaway at ca
+750 Ma: Precambrian Research, v
+Levy, M., and Christie-Blick, N., 1991, Tectonic subsidence of the early Paleozoic passive continental margin in eastern California and southern Nevada: Geological Society of America Bulletin, v
+Lewis, R.S., Vervoort, J.D., Burmester, R.F., and Oswald, P.J., 2010, Detrital zircon analysis of Mesoproterozoic and Neoproterozoic metasedimentary rocks of north-central Idaho: Implications for development of the Belt-Purcell basin: Canadian Journal of Earth Sciences, v
+Lickorish, W.H., and Simony, P.S., 1995, Evidence for late rifting of the Cordilleran margin outlined by stratigraphic division of the Lower Cambrian Gog Group, Rocky Mountain main ranges, British Columbia and Alberta: Canadian Journal of Earth Sciences, v
+Linde, G.M., Cashman, P.H., Trexler, J.H., and Dickinson, W.R., 2014, Stratigraphic trends in detrital zircon geochronology of upper Neoproterozoic and Cambrian strata, Osgood Mountains, Nevada, and elsewhere in the Cordilleran miogeocline: Evidence for early Cambrian uplift of the Transcontinental Arch: Geosphere, v
+Marshall, C.R., 2006, Explaining the Cambrian “explosion” of animals: Annual Review of Earth and Planetary Sciences, v
+Monger, J.W.H., 1997, Upper Paleozoic rocks of the western Canadian Cordillera and their bearing on Cordilleran evolution: Canadian Journal of Earth Sciences, v
+Mountjoy, E.W., and Aitken, J.D., 1963, Early Cambrian and late Precambrian paleocurrents, Banff and Jasper National Parks: Bulletin of Canadian Petroleum Geology, v
+Mueller, P.A., Heatherington, A.L., Kelly, D.M., Wooden, J.L., and Mogk, D.W., 2002, Paleoproterozoic crust within the Great Falls tectonic zone: Implications for the assembly of southern Laurentia: Geology, v
+Peterson, T.D., Scott, J.M.J., LeCheminant, A.N., Jefferson, C.W., and Pehrsson, S.J., 2015, The Kivalliq Igneous Suite: Anorogenic bimodal magmatism at 1.75 Ga in the western Churchill Province, Canada: Precambrian Research, v
+Rainbird, R.H., McNicoll, V.J., Thériault, R.J., Heaman, L.M., Abbott, J.G., Long, D.G.F., and Thorkelson, D.J., 1997, Pan-continental river system draining Grenville Orogen recorded by U-Pb and Sm-Nd geochronology of Neoproterozoic quartzarenites and mudrocks, northwestern Canada: The Journal of Geology, v
+Schoenborn, W.A., Fedo, C.M., and Farmer, G.L., 2012, Provenance of the Neoproterozoic Johnnie Formation, southeastern California, determined by detrital zircon geochronology and Nd isotope geochemistry: Precambrian Research, v
+Sloss, L.L., 1988, Tectonic evolution of the craton in Phanerozoic time, in Sloss, L.L., ed., Sedimentary Cover—North American Craton: U.S.: Boulder, Colorado, Geological Society of America, The Geology of North America, v
+Stewart, J.H., Gehrels, G.E., Barth, A.P., Link, P.K., Christie-Blick, N., and Wrucke, C.T., 2001, Detrital zircon provenance of Mesoproterozoic to Cambrian arenites in the western United States and northwestern Mexico: Geological Society of America Bulletin, v
+Whitmeyer, S., and Karlstrom, K., 2007, Tectonic model for the Proterozoic growth of North America: Geosphere, v
+Yonkee, W.A., Dehler, C.D., Link, P.K., Balgord, E.A., Keeley, J.A., Hayes, D.S., Wells, M.L., Fanning, C.M., and Johnston, S.M., 2014, Tectono-stratigraphic framework of Neoproterozoic to Cambrian strata, west-central U.S.: Protracted rifting, glaciation, and evolution of the North American Cordilleran margin: Earth-Science Reviews, v
+Young, F.G., 1979, The lowermost Paleozoic McNaughton Formation and equivalent Cariboo Group of eastern British Columbia: Piedmont and tidal complex: Geological Survey of Canada Bulletin 288, 60 p., https://doi.org/10.4095/105319.
